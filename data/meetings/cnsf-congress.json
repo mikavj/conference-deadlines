@@ -1,0 +1,44 @@
+[
+ {
+  "id": "cnsf-congress-2027",
+  "name": "CNSF Congress 2027",
+  "short_name": "CNSF 2027",
+  "organizer": "Canadian Neurological Sciences Federation",
+  "organizer_url": "https://www.cnsf.org",
+  "edition_url": null,
+  "areas": [
+   "neurology",
+   "surgery"
+  ],
+  "tags": [
+   "international"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "region_name": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "The Canadian Neurological Sciences Federation has not published dates or a host city for its 2027 congress on its official future dates page as of the access date. The federation congress is multidisciplinary, bringing together Canadian societies of neurology, neurosurgery, and clinical neurophysiology. The 2026 congress was held in Banff, Alberta, from 25 to 29 May 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-25",
+   "end_date": "2026-05-29",
+   "city": "Banff, Alberta, Canada",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.cnsf.org/congress/about-congress/future-dates/",
+    "accessed": "2026-09-10",
+    "note": "Official future dates page lists only the 2026 Banff congress (25 to 29 May 2026); no 2027 edition is listed."
+   }
+  ],
+  "confidence": "low",
+  "notes": "Automated web search summaries repeatedly claimed the 2027 CNSF Congress would be 2 to 5 June 2027 in Halifax, Nova Scotia, but this could not be verified in any underlying search result snippet or on the official cnsf.org future dates page, and it exactly matches the separately confirmed CMSC 2027 date pattern (2 to 4 June 2027, San Diego), suggesting a search summarization error rather than a real fact; it was not used. This record is a placeholder because task instructions allowed either the 2026 or 2027 edition, and the 2026 Banff congress had already concluded by the 2026-09-10 reference date."
+ }
+]

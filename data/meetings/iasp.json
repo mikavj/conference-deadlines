@@ -1,0 +1,87 @@
+[
+ {
+  "id": "iasp-2027",
+  "name": "IASP 34th World Congress 2027",
+  "short_name": "IASP 2027",
+  "organizer": "International Association for Suicide Prevention",
+  "organizer_url": "https://www.iasp.info/",
+  "edition_url": "https://www.iasp.info/colombo2027/",
+  "tags": [
+   "suicide",
+   "international",
+   "global"
+  ],
+  "start_date": "2027-06-07",
+  "end_date": "2027-06-11",
+  "city": "Colombo",
+  "country": "LK",
+  "venue": "Bandaranaike Memorial International Conference Hall (BMICH)",
+  "lat": 6.904,
+  "lon": 79.872,
+  "format": "in-person",
+  "description": "The 34th IASP World Congress takes place in Colombo, Sri Lanka from 7 to 11 June 2027. Abstract submission and bursary applications are open; there will be no on site registration.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-05-27",
+    "url": "https://www.iasp.info/colombo2027/abstractsubmission/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Symposium and workshop abstract submission",
+    "date": "2026-10-01",
+    "url": "https://www.iasp.info/colombo2027/abstractsubmission/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Oral and poster abstract submission",
+    "date": "2026-10-15",
+    "url": "https://www.iasp.info/colombo2027/abstractsubmission/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration opens",
+    "date": "2026-10-15",
+    "url": "https://www.iasp.info/colombo2027/abstractsubmission/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-02-18",
+    "url": "https://www.iasp.info/colombo2027/abstractsubmission/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "General registration closes",
+    "date": "2027-06-04",
+    "url": "https://www.iasp.info/colombo2027/abstractsubmission/",
+    "estimated": false,
+    "note": "No on site registration"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.iasp.info/colombo2027/",
+    "accessed": "2026-09-09",
+    "note": "Dates, venue, abstract submission and bursaries open"
+   },
+   {
+    "url": "https://www.iasp.info/colombo2027/abstractsubmission/",
+    "accessed": "2026-09-09",
+    "note": "Submission and registration timeline"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The 33rd World Congress was held in Vienna in 2025; its dates were not verified for this record.",
+  "region_name": "Western Province",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

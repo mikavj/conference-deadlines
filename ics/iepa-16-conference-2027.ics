@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IEPA 16: 16th International Conference on Early Intervention
+  in Mental Health 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:iepa-16-conference-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270924
+SUMMARY:IEPA 16: 16th International Conference on Early Intervention in M
+ ental Health 2027
+DESCRIPTION:IEPA 16 is the biennial international conference of the IEPA 
+ on early intervention and prevention in mental health\, held at the New 
+ Zealand International Convention Centre in Auckland under the theme Ko t
+ e Tirohanga Whānui\, Early Intervention and Prevention Through Many Eye
+ s. The programme integrates clinical science\, lived experience and Māo
+ ri and Pacific perspectives.\n\nhttps://iepa16.eventsairsite.com/
+LOCATION:Auckland\, Auckland\, NZ\, New Zealand International Convention 
+ Centre (NZICC)
+URL:https://iepa16.eventsairsite.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IEPA 16: 16th International Conference on Early Intervention 
+ in Mental Health 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AcademyHealth Annual Research Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:academyhealth-arm-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270616
+SUMMARY:AcademyHealth Annual Research Meeting 2027
+DESCRIPTION:AcademyHealth holds its 2027 Annual Research Meeting in Bosto
+ n\, Massachusetts at the Hynes Convention Center. The meeting convenes h
+ ealth services researchers and health policy analysts.\n\nhttps://academ
+ yhealth.org/ARM2026
+LOCATION:Boston\, Massachusetts\, Hynes Convention Center
+URL:https://academyhealth.org/ARM2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AcademyHealth Annual Research Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

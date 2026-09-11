@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:National Update on Behavioral Emergencies (NUBE) Conference 
+ 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:nube-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261210
+SUMMARY:National Update on Behavioral Emergencies (NUBE) Conference 2026
+DESCRIPTION:The AAEP National Update on Behavioral Emergencies conference
+  is held December 7 to 9\, 2026 in Scottsdale\, Arizona. It addresses be
+ havioral emergencies in emergency departments\, psychiatric emergency se
+ rvices and crisis settings.\n\nDeadlines\nSpeaker proposal submission: 2
+ 026-07-31\n\nhttp://www.behavioralemergencies.civicaconferences.com/
+LOCATION:Scottsdale\, Arizona
+URL:http://www.behavioralemergencies.civicaconferences.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:National Update on Behavioral Emergencies (NUBE) Conference 2
+ 026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nube-2026-20260731-speaker-proposal-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Deadline: NUBE 2026 speaker proposal submission
+DESCRIPTION:Closed\nMeeting: National Update on Behavioral Emergencies (N
+ UBE) Conference 2026\, Dec 07 to 09\, 2026\, Scottsdale\, Arizona\nhttp:
+ //www.behavioralemergencies.civicaconferences.com/2026-call-for-presente
+ rs/
+LOCATION:Scottsdale\, Arizona
+URL:http://www.behavioralemergencies.civicaconferences.com/2026-call-for-
+ presenters/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NUBE 2026 speaker proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NUBE 2026 speaker proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NUBE 2026 speaker proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,79 @@
+[
+ {
+  "id": "aafp-fmx-2026",
+  "name": "AAFP Family Medicine Experience 2026",
+  "short_name": "FMX 2026",
+  "organizer": "American Academy of Family Physicians",
+  "organizer_url": "https://www.aafp.org",
+  "edition_url": "https://www.aafp.org/events/fmx.html",
+  "areas": [
+   "family-medicine"
+  ],
+  "tags": [
+   "primary-care",
+   "community"
+  ],
+  "start_date": "2026-10-20",
+  "end_date": "2026-10-24",
+  "city": "Nashville",
+  "region_name": "Tennessee",
+  "country": "US",
+  "venue": "Music City Center",
+  "lat": 36.156,
+  "lon": -86.7756,
+  "format": "in-person",
+  "description": "The AAFP Family Medicine Experience 2026 is the annual conference of the American Academy of Family Physicians, held at the Music City Center in Nashville, Tennessee. The program is a continuing medical education event with lectures, hands on workshops, and an exhibit hall, and does not use an open call for scientific abstracts.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aafp.org/events/fmx.html",
+    "accessed": "2026-09-10",
+    "note": "confirms dates October 20-24 2026 and Music City Center Nashville venue"
+   },
+   {
+    "url": "https://www.aafp.org/cme-and-events/in-person/fmx/what-is-fmx/faq",
+    "accessed": "2026-09-10",
+    "note": "official FAQ page confirms FMX 2026 and FMX 2027 dates and cities"
+   }
+  ],
+  "confidence": "high",
+  "notes": "FMX programming is selected by AAFP rather than through an open call for abstracts, so no submission deadlines apply."
+ },
+ {
+  "id": "aafp-fmx-2027",
+  "name": "AAFP Family Medicine Experience 2027",
+  "short_name": "FMX 2027",
+  "organizer": "American Academy of Family Physicians",
+  "organizer_url": "https://www.aafp.org",
+  "edition_url": "https://www.aafp.org/cme-and-events/in-person/fmx/what-is-fmx/faq",
+  "areas": [
+   "family-medicine"
+  ],
+  "tags": [
+   "primary-care",
+   "community"
+  ],
+  "start_date": "2027-09-20",
+  "end_date": "2027-09-24",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": null,
+  "lat": 32.7157,
+  "lon": -117.1611,
+  "format": "in-person",
+  "description": "The AAFP Family Medicine Experience 2027 is the annual conference of the American Academy of Family Physicians, scheduled to be held in San Diego, California. As with prior years, the program is expected to be a continuing medical education event without an open call for scientific abstracts.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aafp.org/cme-and-events/in-person/fmx/what-is-fmx/faq",
+    "accessed": "2026-09-10",
+    "note": "official AAFP FAQ page confirms FMX 2027 dates September 20-24 2027 and San Diego location"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Specific venue for FMX 2027 not yet announced as of access date."
+ }
+]

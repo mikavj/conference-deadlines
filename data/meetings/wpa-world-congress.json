@@ -1,0 +1,192 @@
+[
+ {
+  "id": "wpa-world-congress-2026",
+  "name": "26th World Congress of Psychiatry (WCP 2026)",
+  "short_name": "WPA WCP 2026",
+  "organizer": "World Psychiatric Association",
+  "organizer_url": "https://www.wpanet.org/",
+  "edition_url": "https://wcp-congress.com/",
+  "tags": [
+   "general-psychiatry",
+   "international",
+   "global"
+  ],
+  "start_date": "2026-09-23",
+  "end_date": "2026-09-26",
+  "city": "Stockholm",
+  "country": "SE",
+  "venue": "Stockholmsmässan",
+  "lat": 59.2787,
+  "lon": 18.0154,
+  "format": "in-person",
+  "description": "The 26th World Congress of Psychiatry is organized by the World Psychiatric Association together with the Swedish Psychiatric Association under the theme Guided by Compassion, Grounded in Science: Psychiatry for Our Time. The programme covers clinical, research and policy topics across psychiatry.",
+  "deadlines": [
+   {
+    "label": "Session proposal submission",
+    "date": "2026-02-09",
+    "url": "https://wcp-congress.com/general-information/",
+    "estimated": false,
+    "note": "Official general information page lists 9 February 2026; one aggregator lists 2 February 2026."
+   },
+   {
+    "label": "Fellowship applications",
+    "date": "2026-03-19",
+    "url": "https://wcp-congress.com/general-information/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-03-23",
+    "url": "https://wcp-congress.com/general-information/",
+    "estimated": false,
+    "note": "Submission now closed."
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-06-02",
+    "url": "https://wcp-congress.com/general-information/",
+    "estimated": false,
+    "note": "Official page lists 2 June 2026; one aggregator lists 1 June 2026."
+   },
+   {
+    "label": "Regular registration",
+    "date": "2026-08-18",
+    "url": "https://wcp-congress.com/",
+    "estimated": false,
+    "note": "Late registration rates apply from 19 August 2026."
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-10-05",
+   "end_date": "2025-10-08",
+   "city": "Prague",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2025-04-02"
+    },
+    {
+     "label": "Late-breaking abstract submission",
+     "date": "2025-07-22"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://wcp-congress.com/",
+    "accessed": "2026-09-09",
+    "note": "Congress dates 23 to 26 September 2026, Stockholm; regular registration deadline 18 August 2026."
+   },
+   {
+    "url": "https://wcp-congress.com/general-information/",
+    "accessed": "2026-09-09",
+    "note": "Venue Stockholmsmässan, in person format, session proposal, fellowship, abstract and early registration deadlines."
+   },
+   {
+    "url": "https://www.wpanet.org/upcoming-congresses-events/",
+    "accessed": "2026-09-09",
+    "note": "WPA list of upcoming World Congresses including 2026 Stockholm."
+   },
+   {
+    "url": "https://2025.wcp-congress.com/abstract-submission/",
+    "accessed": "2026-09-09",
+    "note": "WCP 2025 Prague abstract and late-breaking deadlines (prior edition)."
+   }
+  ],
+  "confidence": "high",
+  "notes": "All submission deadlines have passed; registration remains open at the late rate. The congress rotates between regions each year.",
+  "region_name": "Stockholm County",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "wpa-world-congress-2027",
+  "name": "27th World Congress of Psychiatry (WCP 2027)",
+  "short_name": "WPA WCP 2027",
+  "organizer": "World Psychiatric Association",
+  "organizer_url": "https://www.wpanet.org/",
+  "edition_url": "https://www.wpanet.org/upcoming-congresses-events/",
+  "tags": [
+   "general-psychiatry",
+   "international",
+   "global"
+  ],
+  "start_date": "2027-11-04",
+  "end_date": "2027-11-07",
+  "city": "Cartagena",
+  "country": "CO",
+  "venue": null,
+  "lat": 10.4266,
+  "lon": -75.5442,
+  "format": null,
+  "description": "The 27th World Congress of Psychiatry is scheduled by the World Psychiatric Association for Cartagena, Colombia. Only the dates and city have been published; a dedicated congress website has not yet been launched.",
+  "deadlines": [
+   {
+    "label": "Session proposal submission",
+    "date": "2027-03-15",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (proposals closed 9 February 2026 for a late September congress, about seven months ahead). Not published."
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2027-05-01",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from prior editions (abstracts closed 2 April 2025 for an October congress and 23 March 2026 for a September congress, about six months ahead). Not published."
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-07-15",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (early registration closed 2 June 2026 for a late September congress). Not published."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-09-23",
+   "end_date": "2026-09-26",
+   "city": "Stockholm",
+   "deadlines": [
+    {
+     "label": "Session proposal submission",
+     "date": "2026-02-09"
+    },
+    {
+     "label": "Abstract submission",
+     "date": "2026-03-23"
+    },
+    {
+     "label": "Early registration",
+     "date": "2026-06-02"
+    },
+    {
+     "label": "Regular registration",
+     "date": "2026-08-18"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.wpanet.org/upcoming-congresses-events/",
+    "accessed": "2026-09-09",
+    "note": "Lists the 27th World Congress of Psychiatry, 4 to 7 November 2027, Cartagena, Colombia (and the 28th in Taipei, 2028)."
+   },
+   {
+    "url": "https://wcp-congress.com/general-information/",
+    "accessed": "2026-09-09",
+    "note": "2026 deadlines used for the estimates."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Dates and city are published on the WPA site; venue, format and all deadlines are unpublished. The wcp-congress.com domain currently serves the 2026 edition and will probably be reused for 2027.",
+  "region_name": "Bolívar",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

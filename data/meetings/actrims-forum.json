@@ -1,0 +1,124 @@
+[
+ {
+  "id": "actrims-forum-2027",
+  "name": "ACTRIMS Forum 2027",
+  "short_name": "ACTRIMS Forum 2027",
+  "organizer": "Americas Committee for Treatment and Research in Multiple Sclerosis",
+  "organizer_url": "https://www.actrims.org",
+  "edition_url": "https://www.forum.actrims.org/",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "multiple-sclerosis",
+   "clinical-trials",
+   "student-resident-research"
+  ],
+  "start_date": "2027-03-11",
+  "end_date": "2027-03-13",
+  "city": "Phoenix",
+  "region_name": "Arizona",
+  "country": "US",
+  "venue": "Phoenix Convention Center",
+  "lat": 33.4491,
+  "lon": -112.0716,
+  "format": "hybrid",
+  "description": "ACTRIMS Forum is the annual scientific and clinical meeting of the Americas Committee for Treatment and Research in Multiple Sclerosis. The 2027 Forum, themed Charting the Path Forward, is held in Phoenix, Arizona with an online option for virtual attendees.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-08-03",
+    "url": "https://www.forum.actrims.org/submit",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Regular abstract submission deadline",
+    "date": "2026-11-06",
+    "url": "https://www.forum.actrims.org/submit",
+    "estimated": false,
+    "note": "Stated as no extension."
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-11-09",
+    "url": "https://www.forum.actrims.org/submit",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission deadline",
+    "date": "2026-12-04",
+    "url": "https://www.forum.actrims.org/submit",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract notification",
+    "date": "2027-01-08",
+    "url": "https://www.forum.actrims.org/submit",
+    "estimated": false,
+    "note": "Presenting authors notified by end of day."
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2027-02-10",
+    "url": "https://www.forum.actrims.org/register",
+    "estimated": false,
+    "note": "Early bird pricing ends; regular pricing applies February 11 through March 1."
+   },
+   {
+    "label": "Group registration deadline",
+    "date": "2027-02-15",
+    "url": "https://www.forum.actrims.org/register",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "In-person registration deadline",
+    "date": "2027-03-01",
+    "url": "https://www.forum.actrims.org/register",
+    "estimated": false,
+    "note": "Also the cancellation/refund deadline."
+   },
+   {
+    "label": "Virtual registration deadline",
+    "date": "2027-03-10",
+    "url": "https://www.forum.actrims.org/register",
+    "estimated": false,
+    "note": "12:00 p.m. Mountain Time, virtual pass only."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-02-05",
+   "end_date": "2026-02-07",
+   "city": "San Diego",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.forum.actrims.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirmed 2027 dates (March 11-13), Phoenix Convention Center venue, and single-track CE-accredited format."
+   },
+   {
+    "url": "https://www.forum.actrims.org/submit",
+    "accessed": "2026-09-10",
+    "note": "Confirmed abstract submission opening date, regular and late-breaking abstract deadlines, and notification date."
+   },
+   {
+    "url": "https://www.forum.actrims.org/register",
+    "accessed": "2026-09-10",
+    "note": "Confirmed early, group, in-person, and virtual registration deadlines, and that virtual/hybrid attendance is offered."
+   },
+   {
+    "url": "https://www.forum.actrims.org/presenter-guidelines",
+    "accessed": "2026-09-10",
+    "note": "Page is headed ACTRIMS Forum 2027 but its body content still showed 2024 dates (presenter registration deadline, abstract title release), so it was not used as a source for 2027 dates."
+   }
+  ],
+  "confidence": "high",
+  "notes": "The official presenter-guidelines page appears to still carry stale 2024 content under a 2027 header, so a presenter registration deadline and abstract title release date could not be reliably confirmed for 2027 and were omitted rather than guessed. No travel award or scholarship deadline was found on the official site for this edition."
+ }
+]

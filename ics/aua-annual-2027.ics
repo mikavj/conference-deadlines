@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AUA 2027 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aua-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270525
+SUMMARY:AUA 2027 Annual Meeting
+DESCRIPTION:The AUA Annual Meeting is the annual scientific meeting of th
+ e American Urological Association\, covering clinical practice and resea
+ rch in urology. The 2027 edition takes place at the San Diego Convention
+  Center in San Diego\, California.\n\nDeadlines\nAbstract submission ope
+ ns: 2026-08-03\nAbstract submission: 2026-11-02\nAbstract decision notif
+ ication: 2027-01-07\nPresenter response and registration deadline: 2027-
+ 02-16\nRegistration opens: 2026-12-01 (estimated)\n\nhttps://www.auanet.
+ org/aua2027
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://www.auanet.org/aua2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AUA 2027 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aua-annual-2027-20261102-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Deadline: AUA 2027 abstract submission
+DESCRIPTION:Noon Eastern Time.\nMeeting: AUA 2027 Annual Meeting\, May 21
+  to 24\, 2027\, San Diego\, California\, San Diego Convention Center\nht
+ tps://www.auanet.org/AUA2027/abstracts/abstract-guidelines
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://www.auanet.org/AUA2027/abstracts/abstract-guidelines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AUA 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AUA 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AUA 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aua-annual-2027-20270216-presenter-response-and-registration-deadline
+ @conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Deadline: AUA 2027 presenter response and registration deadline
+DESCRIPTION:Deadline for accepted presenters to confirm and register.\nMe
+ eting: AUA 2027 Annual Meeting\, May 21 to 24\, 2027\, San Diego\, Calif
+ ornia\, San Diego Convention Center\nhttps://www.auanet.org/AUA2027/abst
+ racts/abstract-guidelines
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://www.auanet.org/AUA2027/abstracts/abstract-guidelines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AUA 2027 presenter response and registration deadli
+ ne
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AUA 2027 presenter response and registration deadli
+ ne
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AUA 2027 presenter response and registration deadli
+ ne
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

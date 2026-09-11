@@ -1,0 +1,74 @@
+[
+ {
+  "id": "pns-annual-2027",
+  "name": "2027 Peripheral Nerve Society Annual Meeting",
+  "short_name": "PNS 2027",
+  "organizer": "Peripheral Nerve Society",
+  "organizer_url": "https://www.pnsociety.com",
+  "edition_url": "https://pnsociety.com/2027-pns-annual-meeting/",
+  "areas": [
+   "neurology",
+   "neuroscience"
+  ],
+  "tags": [
+   "neuromuscular"
+  ],
+  "start_date": "2027-05-08",
+  "end_date": "2027-05-11",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "Hilton Chicago",
+  "lat": 41.8725,
+  "lon": -87.6244,
+  "format": null,
+  "description": "The Peripheral Nerve Society Annual Meeting covers research on peripheral neuropathy, with parallel sessions from consortia covering Charcot-Marie-Tooth disease, inflammatory neuropathies, inherited neuropathies and related conditions. The meeting is open only to healthcare professionals and researchers, not patients or the general public.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-09-11",
+    "url": "https://pnsociety.com/2027-pns-annual-meeting/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Mini symposia submission deadline",
+    "date": "2026-09-18",
+    "url": "https://pnsociety.com/2027-pns-annual-meeting/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-12-11",
+    "url": "https://pnsociety.com/2027-pns-annual-meeting/",
+    "estimated": false,
+    "note": "End of the abstract submission window"
+   },
+   {
+    "label": "Registration opens",
+    "date": "2027-01-14",
+    "url": "https://pnsociety.com/2027-pns-annual-meeting/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early bird registration deadline",
+    "date": "2027-03-05",
+    "url": "https://pnsociety.com/2027-pns-annual-meeting/",
+    "estimated": false,
+    "note": "Also the housing and group-rate deadline"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://pnsociety.com/2027-pns-annual-meeting/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, venue and full deadline schedule"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Note the certificate mismatch on www.pnsociety.com; the non-www https://pnsociety.com domain was used successfully instead."
+ }
+]

@@ -1,0 +1,88 @@
+[
+ {
+  "id": "illinois-psychiatric-society-annual-2026",
+  "name": "Illinois Psychiatric Society Annual Meeting 2026",
+  "short_name": "IPS Annual Meeting 2026",
+  "organizer": "Illinois Psychiatric Society",
+  "organizer_url": "https://www.illinoispsychiatricsociety.org/",
+  "edition_url": "https://www.illinoispsychiatricsociety.org/events-awardsupcoming-events-1/annual-meeting-2026",
+  "tags": [
+   "general-psychiatry",
+   "illinois"
+  ],
+  "start_date": "2026-10-03",
+  "end_date": "2026-10-03",
+  "city": "Countryside",
+  "country": "US",
+  "venue": "William Tell Hotel (formerly Holiday Inn Countryside)",
+  "lat": 41.7965,
+  "lon": -87.8783,
+  "format": "in-person",
+  "description": "One day scientific meeting of the APA district branch for Illinois, held in the Chicago suburbs with a themed program, a trainee poster competition and an awards dinner. The 2026 theme is The Elephant in the Waiting Room: Confronting Today's Psychiatric Challenges.",
+  "deadlines": [
+   {
+    "label": "Poster abstract submission deadline (residents, fellows, medical students)",
+    "date": null,
+    "url": "https://www.illinoispsychiatricsociety.org/events-awardsupcoming-events-1/poster-session-at-the-ips-annual-meeting-gnhs2-e94ks-gp6r9",
+    "estimated": false,
+    "note": "Closed; the page states the submission deadline has passed and no longer shows the date. The 2025 deadline was July 31, 2025. Case and research categories judged separately; $250 first and $100 second prize per category."
+   },
+   {
+    "label": "Early bird registration",
+    "date": "2026-08-28",
+    "url": "https://www.illinoispsychiatricsociety.org/events-awardsupcoming-events-1/annual-meeting-2026",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Registration cancellation deadline",
+    "date": "2026-09-15",
+    "url": "https://www.illinoispsychiatricsociety.org/events-awardsupcoming-events-1/annual-meeting-2026",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Standard registration deadline",
+    "date": "2026-09-18",
+    "url": "https://www.illinoispsychiatricsociety.org/events-awardsupcoming-events-1/annual-meeting-2026",
+    "estimated": false,
+    "note": "Poster presenters must be registered by the final deadline or their poster is disqualified."
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-09-06",
+   "end_date": "2025-09-06",
+   "city": "Countryside",
+   "deadlines": [
+    {
+     "label": "Poster abstract submission deadline",
+     "date": "2025-07-31"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.illinoispsychiatricsociety.org/events-awardsupcoming-events-1/annual-meeting-2026",
+    "accessed": "2026-09-09",
+    "note": "Confirms Saturday October 3, 2026, 1:00 to 9:00 PM, William Tell Hotel, 6201 Joliet Road, Countryside, IL 60525, registration deadlines and agenda."
+   },
+   {
+    "url": "https://www.illinoispsychiatricsociety.org/events-awardsupcoming-events-1/poster-session-at-the-ips-annual-meeting-gnhs2-e94ks-gp6r9",
+    "accessed": "2026-09-09",
+    "note": "Confirms poster competition eligibility, categories, prizes, and that the 2026 submission deadline has passed."
+   },
+   {
+    "url": "https://www.illinoispsychiatricsociety.org/events-awardsupcoming-events-1",
+    "accessed": "2026-09-09",
+    "note": "Event list; 2025 meeting September 6, 2025 with poster deadline July 31, 2025; IPS Meet and Greet at the APA Annual Meeting May 17, 2026."
+   }
+  ],
+  "confidence": "high",
+  "notes": "No separate APA Area 4 or Illinois resident research poster event was found; the IPS poster competition at the annual meeting is the Illinois trainee poster venue, and IPS hosts a networking Meet and Greet at the APA Annual Meeting. For 2027, expect a similar late summer poster deadline and a September or October meeting date; nothing published yet. Coordinates are approximate for the hotel at Joliet Road, Countryside.",
+  "region_name": "Illinois",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

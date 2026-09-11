@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:44th Annual Symposium of the National Neurotrauma Society
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:nns-symposium-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270617
+SUMMARY:44th Annual Symposium of the National Neurotrauma Society
+DESCRIPTION:Annual symposium of the National Neurotrauma Society\, themed
+  Ringing in Team Science\, covering research on traumatic brain and spin
+ al cord injury.\n\nhttps://www.neurotrauma.org/symposium/
+LOCATION:Portland\, Oregon\, Oregon Convention Center
+URL:https://www.neurotrauma.org/symposium/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:44th Annual Symposium of the National Neurotrauma Society
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

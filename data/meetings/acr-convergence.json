@@ -1,0 +1,46 @@
+[
+ {
+  "id": "acr-convergence-2026",
+  "name": "ACR Convergence 2026",
+  "short_name": "ACR Convergence 2026",
+  "organizer": "American College of Rheumatology",
+  "organizer_url": "https://www.rheumatology.org",
+  "edition_url": "https://www.rheumatology.org/annual-meeting",
+  "areas": [
+   "rheumatology"
+  ],
+  "tags": [
+   "rheumatology",
+   "clinical-trials"
+  ],
+  "start_date": "2026-11-06",
+  "end_date": "2026-11-11",
+  "city": "Orlando",
+  "region_name": "Florida",
+  "country": "US",
+  "venue": null,
+  "lat": 28.5383,
+  "lon": -81.3792,
+  "format": null,
+  "description": "ACR Convergence is the American College of Rheumatology's annual scientific meeting covering rheumatology research and clinical care. The 2026 meeting is held in Orlando, Florida.",
+  "deadlines": [
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-09-22",
+    "url": "https://www.rheumatology.org/annual-meeting",
+    "estimated": false,
+    "note": "12:00 p.m. (noon) Eastern time"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.rheumatology.org/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "confirms meeting dates Nov 6 to 11 2026, Orlando location, and late-breaking abstract deadline Sept 22 2026"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The regular, non-late-breaking abstract submission deadline and the specific venue name were not confirmed on this page; the regular deadline has likely already passed given the meeting is in November. No ACR Convergence 2027 information was searched for."
+ }
+]

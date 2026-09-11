@@ -1,0 +1,142 @@
+[
+ {
+  "id": "isbd-annual-2026",
+  "name": "ISBD 28th Annual Conference 2026",
+  "short_name": "ISBD 2026",
+  "organizer": "International Society for Bipolar Disorders",
+  "organizer_url": "https://www.isbd.org/",
+  "edition_url": "https://www.isbd.org/annual-conference/",
+  "tags": [
+   "mood-disorders",
+   "international"
+  ],
+  "start_date": "2026-09-28",
+  "end_date": "2026-09-30",
+  "city": "Vancouver",
+  "country": "CA",
+  "venue": "The Westin Bayshore Vancouver",
+  "lat": 49.2926,
+  "lon": -123.1264,
+  "format": "in-person",
+  "description": "The 28th ISBD Annual Conference runs September 28 to 30, 2026, at the Westin Bayshore in Vancouver with about 700 attendees expected. All abstract and travel award submissions are closed and notifications have been sent; registration remains open.",
+  "deadlines": [
+   {
+    "label": "Abstract, symposium and workshop submission",
+    "date": null,
+    "url": "https://www.isbd.org/annual-conference/",
+    "estimated": false,
+    "note": "closed; the deadline date is no longer displayed; late abstracts not considered"
+   },
+   {
+    "label": "Early mid career travel award application",
+    "date": null,
+    "url": "https://www.isbd.org/annual-conference/",
+    "estimated": false,
+    "note": "closed; supported by the Baszucki Group"
+   },
+   {
+    "label": "Registration cancellation for partial refund",
+    "date": "2026-08-14",
+    "url": "https://www.isbd.org/annual-conference/",
+    "estimated": false,
+    "note": "$100 cancellation fee before this date"
+   },
+   {
+    "label": "Hotel block reservation",
+    "date": "2026-08-27",
+    "url": "https://www.isbd.org/annual-conference/",
+    "estimated": false,
+    "note": "CAD 379 group rate, or until sold out"
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-09-17",
+   "end_date": "2025-09-19",
+   "city": "Chiba",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.isbd.org/annual-conference/",
+    "accessed": "2026-09-09",
+    "note": "Dates, venue, submissions closed, cancellation and hotel deadlines, CME credits"
+   },
+   {
+    "url": "https://www.isbd.org/registration-open-for-isbd-2026-conference/",
+    "accessed": "2026-09-09",
+    "note": "Registration open announcement"
+   },
+   {
+    "url": "https://onlinelibrary.wiley.com/toc/13995618/2025/27/S1",
+    "accessed": "2026-09-09",
+    "note": "2025 conference in Chiba, Japan, September 17 to 19, 2025 (journal supplement)"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The ISBD submissions page (isbd.org/submissions) returns 404, so the 2026 abstract deadline could not be recovered. One ISBD news post gives the dates as September 29 to 30; the conference page and program (opening ceremony Monday September 28) support September 28 to 30.",
+  "region_name": "British Columbia",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "isbd-annual-2027",
+  "name": "ISBD 29th Annual Conference 2027",
+  "short_name": "ISBD 2027",
+  "organizer": "International Society for Bipolar Disorders",
+  "organizer_url": "https://www.isbd.org/",
+  "edition_url": "https://www.isbd.org/past-future-conferences/",
+  "tags": [
+   "mood-disorders",
+   "international"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Porto",
+  "country": "PT",
+  "venue": null,
+  "lat": 41.1579,
+  "lon": -8.6291,
+  "format": null,
+  "description": "ISBD has announced that its 2027 annual conference will be held in Porto, Portugal. Dates, venue and submission deadlines have not been published.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": null,
+    "url": null,
+    "estimated": true,
+    "note": "not announced; the 2026 cycle had closed with notifications sent before September 2026, and recent conferences have been held in September"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-09-28",
+   "end_date": "2026-09-30",
+   "city": "Vancouver",
+   "deadlines": [
+    {
+     "label": "Registration cancellation for partial refund",
+     "date": "2026-08-14"
+    },
+    {
+     "label": "Hotel block reservation",
+     "date": "2026-08-27"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.isbd.org/past-future-conferences/",
+    "accessed": "2026-09-09",
+    "note": "Announces 2027 meeting in Porto, Portugal; further details to come"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Only the city is confirmed. Recent ISBD conferences ran in September (Chiba 2025, Vancouver 2026), so a September 2027 date is plausible but unconfirmed.",
+  "region_name": "Porto District",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

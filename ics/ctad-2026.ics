@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:19th Clinical Trials on Alzheimer's Disease (CTAD) Conferenc
+ e 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ctad-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261120
+SUMMARY:19th Clinical Trials on Alzheimer's Disease (CTAD) Conference 202
+ 6
+DESCRIPTION:CTAD is an annual conference focused exclusively on clinical 
+ trials and drug development for Alzheimer's disease. All sessions are he
+ ld in a single track\, bringing together investigators\, clinicians\, in
+ dustry scientists and regulators.\n\nDeadlines\nAbstract submission open
+ s: 2026-04-15\nAbstract submission deadline: 2026-06-02\nLate call for a
+ bstracts opens: 2026-07-15\nLate call abstract submission deadline: 2026
+ -09-03\nRegistration opens: 2026-04-01\nEarly registration deadline: 202
+ 6-10-01\n\nhttps://www.ctad-alzheimer.com/
+LOCATION:Boston\, Massachusetts\, Boston Park Plaza Hotel
+URL:https://www.ctad-alzheimer.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:19th Clinical Trials on Alzheimer's Disease (CTAD) Conference
+  2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ctad-2026-20260602-abstract-submission-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Deadline: CTAD 2026 abstract submission deadline
+DESCRIPTION:Meeting: 19th Clinical Trials on Alzheimer's Disease (CTAD) C
+ onference 2026\, Nov 16 to 19\, 2026\, Boston\, Massachusetts\, Boston P
+ ark Plaza Hotel\nhttps://www.ctad-alzheimer.com/
+LOCATION:Boston\, Massachusetts\, Boston Park Plaza Hotel
+URL:https://www.ctad-alzheimer.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ctad-2026-20260903-late-call-abstract-submission-deadline@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Deadline: CTAD 2026 late call abstract submission deadline
+DESCRIPTION:Meeting: 19th Clinical Trials on Alzheimer's Disease (CTAD) C
+ onference 2026\, Nov 16 to 19\, 2026\, Boston\, Massachusetts\, Boston P
+ ark Plaza Hotel\nhttps://www.ctad-alzheimer.com/
+LOCATION:Boston\, Massachusetts\, Boston Park Plaza Hotel
+URL:https://www.ctad-alzheimer.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 late call abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 late call abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 late call abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ctad-2026-20261001-early-registration-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Deadline: CTAD 2026 early registration deadline
+DESCRIPTION:Meeting: 19th Clinical Trials on Alzheimer's Disease (CTAD) C
+ onference 2026\, Nov 16 to 19\, 2026\, Boston\, Massachusetts\, Boston P
+ ark Plaza Hotel\nhttps://www.ctad-alzheimer.com/
+LOCATION:Boston\, Massachusetts\, Boston Park Plaza Hotel
+URL:https://www.ctad-alzheimer.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

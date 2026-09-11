@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ISBD 28th Annual Conference 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:isbd-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261001
+SUMMARY:ISBD 28th Annual Conference 2026
+DESCRIPTION:The 28th ISBD Annual Conference runs September 28 to 30\, 202
+ 6\, at the Westin Bayshore in Vancouver with about 700 attendees expecte
+ d. All abstract and travel award submissions are closed and notification
+ s have been sent\; registration remains open.\n\nDeadlines\nRegistration
+  cancellation for partial refund: 2026-08-14\nHotel block reservation: 2
+ 026-08-27\n\nhttps://www.isbd.org/annual-conference/
+LOCATION:Vancouver\, British Columbia\, CA\, The Westin Bayshore Vancouve
+ r
+URL:https://www.isbd.org/annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISBD 28th Annual Conference 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isbd-annual-2026-20260814-registration-cancellation-for-partial-refun
+ d@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Deadline: ISBD 2026 registration cancellation for partial refund
+DESCRIPTION:$100 cancellation fee before this date\nMeeting: ISBD 28th An
+ nual Conference 2026\, Sep 28 to 30\, 2026\, Vancouver\, British Columbi
+ a\, CA\, The Westin Bayshore Vancouver\nhttps://www.isbd.org/annual-conf
+ erence/
+LOCATION:Vancouver\, British Columbia\, CA\, The Westin Bayshore Vancouve
+ r
+URL:https://www.isbd.org/annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISBD 2026 registration cancellation for partial ref
+ und
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISBD 2026 registration cancellation for partial ref
+ und
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISBD 2026 registration cancellation for partial ref
+ und
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isbd-annual-2026-20260827-hotel-block-reservation@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Deadline: ISBD 2026 hotel block reservation
+DESCRIPTION:CAD 379 group rate\, or until sold out\nMeeting: ISBD 28th An
+ nual Conference 2026\, Sep 28 to 30\, 2026\, Vancouver\, British Columbi
+ a\, CA\, The Westin Bayshore Vancouver\nhttps://www.isbd.org/annual-conf
+ erence/
+LOCATION:Vancouver\, British Columbia\, CA\, The Westin Bayshore Vancouve
+ r
+URL:https://www.isbd.org/annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISBD 2026 hotel block reservation
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISBD 2026 hotel block reservation
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISBD 2026 hotel block reservation
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

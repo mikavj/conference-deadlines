@@ -1,0 +1,128 @@
+[
+ {
+  "id": "aadprt-annual-2027",
+  "name": "AADPRT Annual Meeting 2027",
+  "short_name": "AADPRT 2027",
+  "organizer": "American Association of Directors of Psychiatric Residency Training",
+  "organizer_url": "https://www.aadprt.org/",
+  "edition_url": "https://www.aadprt.org/annual-meeting/2027-annual-meeting",
+  "tags": [
+   "education",
+   "general-psychiatry"
+  ],
+  "start_date": "2027-02-28",
+  "end_date": "2027-03-04",
+  "city": "Nashville",
+  "country": "US",
+  "venue": "Gaylord Opryland Resort and Convention Center",
+  "lat": 36.2128,
+  "lon": -86.6936,
+  "format": "in-person",
+  "description": "The annual meeting of psychiatry residency and fellowship training directors and program administrators. Presentation formats are workshops, posters, Innovations Showcase presentations and a new Arts in Action session on March 3, 2027.",
+  "deadlines": [
+   {
+    "label": "Early registration closes",
+    "date": "2026-08-31",
+    "url": "https://www.aadprt.org/annual-meeting/2027-annual-meeting",
+    "estimated": false,
+    "note": "Early (discounted) registration window June 8 to August 31, 2026."
+   },
+   {
+    "label": "Abstract submission deadline (workshops, posters, Innovations Showcase, Arts in Action)",
+    "date": "2026-09-22",
+    "url": "https://www.aadprt.org/annual-meeting/workshops-posters",
+    "estimated": false,
+    "note": "11:59 p.m. CT. Awards nominations and program administrator symposium proposals close the same day."
+   },
+   {
+    "label": "Hotel room block opens",
+    "date": "2026-10-01",
+    "url": "https://www.aadprt.org/annual-meeting/2027-annual-meeting",
+    "estimated": false,
+    "note": "$289 plus tax plus $30 resort fee."
+   },
+   {
+    "label": "Abstract selection announcement",
+    "date": "2026-11-02",
+    "url": "https://www.aadprt.org/annual-meeting/workshops-posters",
+    "estimated": false,
+    "note": "Review committee meets September 24 to October 22, 2026."
+   },
+   {
+    "label": "Regular registration opens",
+    "date": "2026-12-04",
+    "url": "https://www.aadprt.org/annual-meeting/2027-annual-meeting",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Poster contest submissions open",
+    "date": "2026-12-04",
+    "url": "https://www.aadprt.org/annual-meeting/workshops-posters",
+    "estimated": false,
+    "note": "Contest submission window December 4, 2026 to January 14, 2027."
+   },
+   {
+    "label": "Regular registration closes",
+    "date": "2027-01-07",
+    "url": "https://www.aadprt.org/annual-meeting/2027-annual-meeting",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Poster contest submissions close",
+    "date": "2027-01-14",
+    "url": "https://www.aadprt.org/annual-meeting/workshops-posters",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late registration closes",
+    "date": "2027-02-02",
+    "url": "https://www.aadprt.org/annual-meeting/2027-annual-meeting",
+    "estimated": false,
+    "note": "11:59 p.m. CT."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-03-02",
+   "end_date": "2026-03-06",
+   "city": "Orlando",
+   "deadlines": [
+    {
+     "label": "Abstract submission deadline",
+     "date": "2025-09-22"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.aadprt.org/annual-meeting/2027-annual-meeting",
+    "accessed": "2026-09-09",
+    "note": "Confirms Sunday February 28 to Thursday March 4, 2027 at Gaylord Opryland, registration windows, hotel rate, and September 22 submission deadline."
+   },
+   {
+    "url": "https://www.aadprt.org/annual-meeting/workshops-posters",
+    "accessed": "2026-09-09",
+    "note": "Confirms abstracts due 9/22, selection announcement 11/2, poster contest window 12/4/26 to 1/14/27."
+   },
+   {
+    "url": "https://www.aadprt.org/meet-aadprt/calendar",
+    "accessed": "2026-09-09",
+    "note": "Confirms 11:59 p.m. CT closing times, review period, and room block opening October 1, 2026."
+   },
+   {
+    "url": "https://www.aadprt.org/annual-meeting/2026-annual-meeting",
+    "accessed": "2026-09-09",
+    "note": "2026 meeting Monday March 2 to Friday March 6, Gaylord Palms, Orlando, abstracts by 9/22."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Abstract submission opening date is not stated on the site. Meeting year for the Feb 28 to Mar 4 dates is inferred from the page title (2027 Annual Meeting); February 28, 2027 is a Sunday, consistent with the stated weekday.",
+  "region_name": "Tennessee",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

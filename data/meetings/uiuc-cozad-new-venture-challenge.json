@@ -1,0 +1,90 @@
+[
+ {
+  "id": "uiuc-cozad-new-venture-challenge-2027",
+  "name": "Cozad New Venture Challenge 2027",
+  "short_name": "Cozad NVC 2027",
+  "organizer": "Nichole Kelly Landuyt Center for Entrepreneurship, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://landuyt.illinois.edu/programs/cozad",
+  "edition_url": "https://landuyt.illinois.edu/programs/cozad/schedule",
+  "areas": [
+   "medical-education",
+   "health-services"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "health-services",
+   "education",
+   "student-resident-research"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Champaign",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "Illinois Conference Center",
+  "lat": 40.102,
+  "lon": -88.2272,
+  "format": "in-person",
+  "description": "The Cozad New Venture Challenge is the University of Illinois Urbana-Champaign campuswide venture creation competition, run by the Nichole Kelly Landuyt Center for Entrepreneurship, with a dedicated Health Care Track fed by teams from the Carle Illinois Health Make-a-Thon. The 2027 cycle had not been scheduled as of September 2026; registration was expected to open in fall 2026 following the pattern of prior cycles.",
+  "deadlines": [
+   {
+    "label": "Registration deadline",
+    "date": "2027-02-01",
+    "url": "https://landuyt.illinois.edu/programs/cozad/schedule",
+    "estimated": true,
+    "note": "Estimated by repeating the 2026 cycle date (Feb 1, 2026); the 2027 schedule was not yet published as of September 2026."
+   },
+   {
+    "label": "Finals and Demo Day",
+    "date": "2027-04-17",
+    "url": "https://landuyt.illinois.edu/programs/cozad/schedule",
+    "estimated": true,
+    "note": "Estimated by repeating the 2026 cycle dates (Demo Day April 16, finals April 17, 2026); the 2027 schedule was not yet published."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-16",
+   "end_date": "2026-04-17",
+   "city": "Champaign",
+   "deadlines": [
+    {
+     "label": "Registration deadline",
+     "date": "2026-02-01"
+    },
+    {
+     "label": "Kickoff and virtual orientation",
+     "date": "2026-02-04"
+    },
+    {
+     "label": "Demo Day Showcase",
+     "date": "2026-04-16"
+    },
+    {
+     "label": "Finals and award celebration",
+     "date": "2026-04-17"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://landuyt.illinois.edu/programs/cozad/schedule",
+    "accessed": "2026-09-10",
+    "note": "2026 cycle schedule: registration deadline Feb 1 2026, kickoff Feb 4, workshops through March, Demo Day Showcase April 16, finals April 17"
+   },
+   {
+    "url": "https://landuyt.illinois.edu/programs/cozad",
+    "accessed": "2026-09-10",
+    "note": "Confirms registration for the 2027 cycle was expected to open in fall 2026; program described as in its 26th year"
+   },
+   {
+    "url": "https://medicine.illinois.edu/innovation/health-maker-lab/events",
+    "accessed": "2026-09-10",
+    "note": "Confirms the Cozad Health Care Track follows the Fall Health Make-a-Thon for CI MED student teams"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "2027 Cozad dates are not yet published; the deadlines above are estimated from the confirmed 2026 cycle. Cozad itself is a campuswide, multi-track venture competition, not health specific, but is included because of its Health Care Track."
+ }
+]

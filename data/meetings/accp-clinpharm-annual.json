@@ -1,0 +1,52 @@
+[
+ {
+  "id": "accp-clinpharm-annual-2026",
+  "name": "2026 Annual Meeting of the American College of Clinical Pharmacology",
+  "short_name": "ACCP 2026",
+  "organizer": "American College of Clinical Pharmacology",
+  "organizer_url": "https://accp1.org",
+  "edition_url": "https://accp1.org/Members/ACCP1/3Annual_Meeting/2026-ACCP-Annual-Meeting.aspx",
+  "areas": [
+   "pharmacy"
+  ],
+  "tags": [
+   "pharmacy",
+   "translational",
+   "education"
+  ],
+  "start_date": "2026-09-27",
+  "end_date": "2026-09-29",
+  "city": "North Bethesda",
+  "region_name": "Maryland",
+  "country": "US",
+  "venue": "Bethesda North Marriott Hotel & Conference Center",
+  "lat": 39.0447,
+  "lon": -77.1153,
+  "format": null,
+  "description": "The American College of Clinical Pharmacology holds its 2026 annual meeting in North Bethesda, Maryland. The program includes symposia, a pre-meeting workshop on cardiac safety in drug development, and a clinical pharmacology review course jointly sponsored with the American Board of Clinical Pharmacology.",
+  "deadlines": [
+   {
+    "label": "Early registration",
+    "date": "2026-06-30",
+    "url": "https://accp1.org/Members/ACCP1/3Annual_Meeting/2026-ACCP-Annual-Meeting.aspx",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.prnewswire.com/news-releases/2026-annual-meeting-of-the-american-college-of-clinical-pharmacology-302747501.html",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, venue, theme and early registration deadline; distributed by ACCP"
+   },
+   {
+    "url": "https://accp1.org/Members/ACCP1/3Annual_Meeting/2026-ACCP-Annual-Meeting.aspx",
+    "accessed": "2026-09-10",
+    "note": "Official meeting page; returned HTTP 403 on direct fetch, confirmed instead via press release and search snippet of this URL"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Official accp1.org meeting page blocked direct fetching (HTTP 403); details confirmed via a PR Newswire release distributed by ACCP and search engine snippets of the official page. Note this organization (American College of Clinical Pharmacology) is distinct from the similarly abbreviated American College of Clinical Pharmacy."
+ }
+]

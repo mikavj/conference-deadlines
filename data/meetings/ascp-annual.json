@@ -1,0 +1,116 @@
+[
+ {
+  "id": "ascp-annual-2027",
+  "name": "ASCP Annual Meeting 2027",
+  "short_name": "ASCP 2027",
+  "organizer": "American Society of Clinical Psychopharmacology",
+  "organizer_url": "https://ascpp.org/",
+  "edition_url": "https://ascpp.org/meeting-hub/",
+  "tags": [
+   "psychopharmacology",
+   "clinical-trials"
+  ],
+  "start_date": "2027-06-01",
+  "end_date": "2027-06-04",
+  "city": "Chicago",
+  "country": "US",
+  "venue": "Chicago Marriott Downtown Magnificent Mile",
+  "lat": 41.8922,
+  "lon": -87.6244,
+  "format": "in-person",
+  "description": "The 2027 ASCP Annual Meeting (formerly NCDEU) is scheduled for June 1 to 4, 2027, in Chicago. Submissions for panels, posters, new investigator awards and pipeline presentations opened in September 2026 with deadlines running from November 2026 to March 2027.",
+  "deadlines": [
+   {
+    "label": "Panel and workshop proposals",
+    "date": "2026-11-17",
+    "url": "https://ascpp.org/meeting-hub/",
+    "estimated": false,
+    "note": "chair and individual presenter proposals; open"
+   },
+   {
+    "label": "Award nominations open",
+    "date": "2026-11-01",
+    "url": "https://ascpp.org/meeting-hub/",
+    "estimated": false,
+    "note": "Klein, Wender, Nasrallah and Schooler awards"
+   },
+   {
+    "label": "Poster and individual research report submission",
+    "date": "2027-01-27",
+    "url": "https://ascpp.org/meeting-hub/",
+    "estimated": false,
+    "note": "open; 5:00 pm Central per ASCP convention"
+   },
+   {
+    "label": "New Investigator Award application",
+    "date": "2027-01-27",
+    "url": "https://ascpp.org/ascp-meetings/ascp-annual-meeting/new-investigator-program/",
+    "estimated": false,
+    "note": "NIA workshop May 31, 2027"
+   },
+   {
+    "label": "Award nominations close",
+    "date": "2027-01-27",
+    "url": "https://ascpp.org/meeting-hub/",
+    "estimated": false,
+    "note": "winners notified early spring 2027"
+   },
+   {
+    "label": "Pharmaceutical pipeline presentation submission",
+    "date": "2027-02-18",
+    "url": "https://ascpp.org/meeting-hub/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late breaking poster submission opens",
+    "date": "2027-02-24",
+    "url": "https://ascpp.org/meeting-hub/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late breaking poster submission",
+    "date": "2027-03-12",
+    "url": "https://ascpp.org/meeting-hub/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-26",
+   "end_date": "2026-05-29",
+   "city": "Miami Beach",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://ascpp.org/meeting-hub/",
+    "accessed": "2026-09-09",
+    "note": "Full 2027 submission deadline table and 2026 meeting dates and venue (Loews Miami Beach Hotel)"
+   },
+   {
+    "url": "https://ascpp.org/ascp-meetings/ascp-annual-meeting/new-investigator-program/",
+    "accessed": "2026-09-09",
+    "note": "2027 meeting June 1 to 4, 2027, Chicago; NIA workshop May 31, 2027 at Chicago Marriott Downtown Magnificent Mile"
+   },
+   {
+    "url": "https://ascpp.org/the-henry-nasrallah-award/",
+    "accessed": "2026-09-09",
+    "note": "Confirms June 1 to 4, 2027, Chicago"
+   },
+   {
+    "url": "https://ascpp.org/ascp-meetings/ascp-annual-meeting/past-meetings/",
+    "accessed": "2026-09-09",
+    "note": "Historical dates 2023 to 2026"
+   }
+  ],
+  "confidence": "high",
+  "notes": "An aggregator (eMedEvents) lists May 25 to 28, 2027; the official ascpp.org award and NIA pages state June 1 to 4, 2027, which is used here. The 2026 submission deadlines were not recoverable from the site.",
+  "region_name": "Illinois",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

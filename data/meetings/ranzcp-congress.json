@@ -1,0 +1,107 @@
+[
+ {
+  "id": "ranzcp-congress-2027",
+  "name": "RANZCP 2027 Congress",
+  "short_name": "RANZCP 2027",
+  "organizer": "Royal Australian and New Zealand College of Psychiatrists",
+  "organizer_url": "https://www.ranzcp.org/",
+  "edition_url": "https://www.congress.ranzcp.org/2027-congress",
+  "tags": [
+   "general-psychiatry",
+   "international",
+   "cultural"
+  ],
+  "start_date": "2027-05-16",
+  "end_date": "2027-05-20",
+  "city": "Christchurch",
+  "country": "NZ",
+  "venue": "Te Pae Christchurch Convention Centre",
+  "lat": -43.5295,
+  "lon": 172.6357,
+  "format": "hybrid",
+  "description": "The RANZCP 2027 Congress is held at Te Pae Christchurch Convention Centre under the theme Resilience, Recovery and Growth: Kia Manawanui, Kia Manawaroa. The programme combines clinical practice, research, cultural perspectives and lived experience contributions.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-07-27",
+    "url": "https://www.congress.ranzcp.org/keydates",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Pre-congress workshop abstract submission",
+    "date": "2026-09-04",
+    "url": "https://www.congress.ranzcp.org/keydates",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Registration opens",
+    "date": "2026-10-12",
+    "url": "https://www.congress.ranzcp.org/keydates",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission (congress sessions)",
+    "date": "2026-10-16",
+    "url": "https://www.congress.ranzcp.org/keydates",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Program launch",
+    "date": null,
+    "url": "https://www.congress.ranzcp.org/keydates",
+    "estimated": false,
+    "note": "Site states early February 2027."
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-02-26",
+    "url": "https://www.congress.ranzcp.org/keydates",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-03",
+   "end_date": "2026-05-07",
+   "city": "Melbourne",
+   "deadlines": [
+    {
+     "label": "Abstract notification",
+     "date": "2025-12-15"
+    },
+    {
+     "label": "Presenter registration",
+     "date": "2026-02-27"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.congress.ranzcp.org/keydates",
+    "accessed": "2026-09-09",
+    "note": "All key dates for the 2027 Congress including congress dates 16 to 20 May 2027."
+   },
+   {
+    "url": "https://www.ranzcp.org/events-learning/ranzcp-2027-congress",
+    "accessed": "2026-09-09",
+    "note": "Venue address, theme, hybrid delivery, call for abstracts open."
+   },
+   {
+    "url": "https://www.congress.ranzcp.org/abstract-submissions",
+    "accessed": "2026-09-09",
+    "note": "2026 Congress notification and presenter registration dates (prior edition)."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Hybrid delivery stated on the RANZCP events page; the congress site describes an in person gathering. Two abstract deadlines apply (workshops in September, congress sessions in October).",
+  "region_name": "Canterbury",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

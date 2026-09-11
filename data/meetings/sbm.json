@@ -1,0 +1,98 @@
+[
+ {
+  "id": "sbm-2027",
+  "name": "Society of Behavioral Medicine 48th Annual Meeting and Scientific Sessions 2027",
+  "short_name": "SBM 2027",
+  "organizer": "Society of Behavioral Medicine",
+  "organizer_url": "https://www.sbm.org/",
+  "edition_url": "https://www.sbm.org/events/annual-meeting",
+  "tags": [
+   "behavioral",
+   "psychology",
+   "psychosomatic"
+  ],
+  "start_date": "2027-04-14",
+  "end_date": "2027-04-17",
+  "city": "Atlanta",
+  "country": "US",
+  "venue": "Hilton Atlanta",
+  "lat": 33.7594,
+  "lon": -84.3856,
+  "format": null,
+  "description": "The SBM 2027 Annual Meeting takes place April 14 to 17, 2027 at the Hilton Atlanta under the theme Partnerships that Produce: Real World Applications of Our Science. Accepted abstracts are published in a supplement of Annals of Behavioral Medicine.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-07-16",
+    "url": "https://www.sbm.org/events/annual-meeting",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-09-04",
+    "url": "https://www.sbm.org/events/annual-meeting/program/abstracts",
+    "estimated": false,
+    "note": "Extended deadline, 11:59 p.m. ET; applies to courses, symposia, panels, papers, research spotlights and posters"
+   },
+   {
+    "label": "Rapid communication poster submission opens",
+    "date": null,
+    "url": "https://www.sbm.org/events/annual-meeting",
+    "estimated": false,
+    "note": "October 2026, exact date to be announced"
+   },
+   {
+    "label": "Rapid communication poster submission",
+    "date": null,
+    "url": "https://www.sbm.org/events/annual-meeting",
+    "estimated": false,
+    "note": "November 2026, exact date to be announced"
+   },
+   {
+    "label": "Registration opens",
+    "date": null,
+    "url": "https://www.sbm.org/events/annual-meeting",
+    "estimated": false,
+    "note": "November 2026, exact date to be announced"
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-02-17",
+    "url": "https://www.sbm.org/events/annual-meeting",
+    "estimated": false,
+    "note": "11:59 p.m. ET"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-22",
+   "end_date": "2026-04-25",
+   "city": "Chicago",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.sbm.org/events/annual-meeting",
+    "accessed": "2026-09-09",
+    "note": "Dates, venue, theme, submission and registration timeline"
+   },
+   {
+    "url": "https://www.sbm.org/events/annual-meeting/program/abstracts",
+    "accessed": "2026-09-09",
+    "note": "Abstract deadline and formats"
+   },
+   {
+    "url": "https://www.emedevents.com/c/medical-conferences-2026/society-of-behavioral-medicine-sbm-2026-annual-meeting-scientific-sessions",
+    "accessed": "2026-09-09",
+    "note": "2026 meeting dates and venue for the prior edition"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The main abstract deadline passed on September 4, 2026; rapid communication posters follow in November.",
+  "region_name": "Georgia",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

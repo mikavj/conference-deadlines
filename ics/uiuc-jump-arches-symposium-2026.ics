@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jump ARCHES Health Care Engineering Systems Symposium 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uiuc-jump-arches-symposium-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Jump ARCHES Health Care Engineering Systems Symposium 2026
+DESCRIPTION:The Jump ARCHES symposium celebrates the year's project achie
+ vements from the Jump Applied Research through Community Health Engineer
+ ing and Simulation endowment partnership between OSF HealthCare Jump Sim
+ ulation and the University of Illinois Grainger College of Engineering H
+ ealth Care Engineering Systems Center. The 2026 edition\, themed From In
+ sight to Impact Powered by AI\, is held at the Jump Trading Simulation a
+ nd Education Center in Peoria.\n\nhttps://www.osfinnovation.org/invent/i
+ nnovation-academic-incubator/jump-arches/health-care-engineering-systems
+ -symposium
+LOCATION:Peoria\, Illinois\, Jump Trading Simulation and Education Center
+URL:https://www.osfinnovation.org/invent/innovation-academic-incubator/ju
+ mp-arches/health-care-engineering-systems-symposium
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jump ARCHES Health Care Engineering Systems Symposium 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

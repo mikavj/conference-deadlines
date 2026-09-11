@@ -1,0 +1,76 @@
+[
+ {
+  "id": "academic-surgical-congress-2027",
+  "name": "22nd Annual Academic Surgical Congress 2027",
+  "short_name": "ASC 2027",
+  "organizer": "Association for Academic Surgery and Society of University Surgeons",
+  "organizer_url": "https://www.aasurg.org/",
+  "edition_url": "https://www.academicsurgicalcongress.org/",
+  "areas": [
+   "surgery"
+  ],
+  "tags": [
+   "surgery",
+   "student-resident-research",
+   "translational"
+  ],
+  "start_date": "2027-02-09",
+  "end_date": "2027-02-11",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": "Washington Hilton",
+  "lat": 38.9207,
+  "lon": -77.0431,
+  "format": "in-person",
+  "description": "The Academic Surgical Congress is the joint annual meeting of the Association for Academic Surgery and the Society of University Surgeons for surgeon scientists. The 2027 edition is the 22nd annual meeting and takes place in Washington, D.C.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-06-20",
+    "url": "https://academicsurgicalcongress.us/",
+    "estimated": false,
+    "note": "7:30 AM ET. Sourced from the academicsurgicalcongress.us submission portal; not independently confirmed on academicsurgicalcongress.org."
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-08-07",
+    "url": "https://www.academicsurgicalcongress.org/abstracts/",
+    "estimated": false,
+    "note": "11:59 PM ET, no extensions, per the organizer's official social media reminders. The mirror site academicsurgicalcongress.us instead stated a close date of August 17, 2026; that discrepancy could not be resolved because the primary .org domain returned HTTP 403 to direct fetches."
+   },
+   {
+    "label": "Manuscript submission for award consideration (Journal of Surgical Research)",
+    "date": "2026-12-04",
+    "url": "https://academicsurgicalcongress.us/",
+    "estimated": false,
+    "note": "Deadline for manuscripts submitted to Journal of Surgical Research to be eligible for ASC 2027 award consideration."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://academicsurgicalcongress.us/",
+    "accessed": "2026-09-10",
+    "note": "Confirms meeting dates (Feb 9-11, 2027), venue (Washington Hilton), and abstract submission open/close dates and manuscript award deadlines."
+   },
+   {
+    "url": "https://www.academicsurgicalcongress.org/abstracts/",
+    "accessed": "2026-09-10",
+    "note": "Official call-for-abstracts page; direct fetch returned HTTP 403, so content confirmed via search engine snippets and title only."
+   },
+   {
+    "url": "https://x.com/AcademicSurgery/status/2077805905463181653",
+    "accessed": "2026-09-10",
+    "note": "Organizer's official social account reminder stating abstract deadline of Friday, August 7 at 11:59 PM ET, no extensions."
+   },
+   {
+    "url": "https://www.aasurg.org/future-meeting/academic-surgical-congress/",
+    "accessed": "2026-09-10",
+    "note": "Association for Academic Surgery future meeting listing page; direct fetch returned HTTP 403."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The official academicsurgicalcongress.org and aasurg.org domains returned HTTP 403 Forbidden to direct fetch, so most details rely on search-engine snippets of those pages plus the academicsurgicalcongress.us mirror. There is an unresolved discrepancy between the abstract submission close date reported by the organizer's social media (August 7, 2026) and the academicsurgicalcongress.us portal (August 17, 2026); August 7 was used as the primary value because it was corroborated by multiple independent search snippets of the official site and repeated organizer social posts."
+ }
+]

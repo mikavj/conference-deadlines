@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canadian Psychiatric Association 76th Annual Conference 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:cpa-annual-conference-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261122
+SUMMARY:Canadian Psychiatric Association 76th Annual Conference 2026
+DESCRIPTION:The 76th Annual Conference of the Canadian Psychiatric Associ
+ ation takes place at the Centre Sheraton Montreal. Preconference courses
+  run on Wednesday 18 November and the main scientific programme\, with k
+ eynote plenaries and concurrent sessions\, runs from 19 to 21 November 2
+ 026.\n\nDeadlines\nAbstract submission: 2026-02-02\nEarly registration: 
+ 2026-10-30\n\nhttps://www.cpa-apc.org/annual-conference/
+LOCATION:Montreal\, Quebec\, CA\, Le Centre Sheraton Montreal Hotel
+URL:https://www.cpa-apc.org/annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canadian Psychiatric Association 76th Annual Conference 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-annual-conference-2026-20260202-abstract-submission@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:Deadline: CPA 2026 abstract submission
+DESCRIPTION:Midnight Pacific Time\; courses\, general sessions\, research
+  papers and posters (research and early investigator categories).\nMeeti
+ ng: Canadian Psychiatric Association 76th Annual Conference 2026\, Nov 1
+ 8 to 21\, 2026\, Montreal\, Quebec\, CA\, Le Centre Sheraton Montreal Ho
+ tel\nhttps://www.cpa-apc.org/call-for-abstracts/
+LOCATION:Montreal\, Quebec\, CA\, Le Centre Sheraton Montreal Hotel
+URL:https://www.cpa-apc.org/call-for-abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-annual-conference-2026-20261030-early-registration@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deadline: CPA 2026 early registration
+DESCRIPTION:Early rates 22 August to 30 October\; regular rates 31 Octobe
+ r to 21 November.\nMeeting: Canadian Psychiatric Association 76th Annual
+  Conference 2026\, Nov 18 to 21\, 2026\, Montreal\, Quebec\, CA\, Le Cen
+ tre Sheraton Montreal Hotel\nhttps://www.cpa-apc.org/registration-fees/
+LOCATION:Montreal\, Quebec\, CA\, Le Centre Sheraton Montreal Hotel
+URL:https://www.cpa-apc.org/registration-fees/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

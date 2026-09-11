@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ABCT 60th Annual Convention 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:abct-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:ABCT 60th Annual Convention 2026
+DESCRIPTION:The 60th ABCT Annual Convention takes place in Baltimore unde
+ r the theme Integrating Compassion and Science. The program includes sym
+ posia\, panels\, clinical round tables\, workshops\, poster sessions and
+  invited addresses.\n\nDeadlines\nTicketed session submission opens: 202
+ 6-01-02\nTicketed session submission: 2026-02-06\nGeneral session submis
+ sion opens: 2026-02-09\nGeneral session submission: 2026-03-13\nEarly re
+ gistration: 2026-10-16\n\nhttps://www.abct.org/2026-convention/
+LOCATION:Baltimore\, Maryland\, Hilton Baltimore Inner Harbor and Baltimo
+ re Convention Center
+URL:https://www.abct.org/2026-convention/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ABCT 60th Annual Convention 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abct-2026-20260206-ticketed-session-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:Deadline: ABCT 2026 ticketed session submission
+DESCRIPTION:Stated as February 6\, 2026 at 3:00 AM EST\nMeeting: ABCT 60t
+ h Annual Convention 2026\, Nov 12 to 15\, 2026\, Baltimore\, Maryland\, 
+ Hilton Baltimore Inner Harbor and Baltimore Convention Center\nhttps://w
+ ww.abct.org/convention-ce/call-for-papers-ticketed-sessions/
+LOCATION:Baltimore\, Maryland\, Hilton Baltimore Inner Harbor and Baltimo
+ re Convention Center
+URL:https://www.abct.org/convention-ce/call-for-papers-ticketed-sessions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2026 ticketed session submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2026 ticketed session submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2026 ticketed session submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abct-2026-20260313-general-session-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:Deadline: ABCT 2026 general session submission
+DESCRIPTION:Stated as Friday\, March 13\, 2026\, 11:59 pm PDT\nMeeting: A
+ BCT 60th Annual Convention 2026\, Nov 12 to 15\, 2026\, Baltimore\, Mary
+ land\, Hilton Baltimore Inner Harbor and Baltimore Convention Center\nht
+ tps://www.abct.org/convention-ce/call-for-papers/
+LOCATION:Baltimore\, Maryland\, Hilton Baltimore Inner Harbor and Baltimo
+ re Convention Center
+URL:https://www.abct.org/convention-ce/call-for-papers/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2026 general session submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2026 general session submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2026 general session submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abct-2026-20261016-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Deadline: ABCT 2026 early registration
+DESCRIPTION:Early bird pricing applies to registrations made before Octob
+ er 16\, 2026\nMeeting: ABCT 60th Annual Convention 2026\, Nov 12 to 15\,
+  2026\, Baltimore\, Maryland\, Hilton Baltimore Inner Harbor and Baltimo
+ re Convention Center\nhttps://www.abct.org/2026-convention/registration/
+LOCATION:Baltimore\, Maryland\, Hilton Baltimore Inner Harbor and Baltimo
+ re Convention Center
+URL:https://www.abct.org/2026-convention/registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

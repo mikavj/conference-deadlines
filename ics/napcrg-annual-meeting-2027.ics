@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NAPCRG 55th Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:napcrg-annual-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271118
+SUMMARY:NAPCRG 55th Annual Meeting
+DESCRIPTION:The NAPCRG 55th Annual Meeting is the yearly research confere
+ nce of the North American Primary Care Research Group\, scheduled at the
+  JW Marriott Parq Vancouver in Vancouver\, British Columbia. The program
+  centers on primary care and family medicine research presentations\, wo
+ rkshops\, and networking sessions.\n\nhttps://www.napcrg.org/conferences
+ /future-conferences/
+LOCATION:Vancouver\, British Columbia\, CA\, JW Marriott Parq Vancouver
+URL:https://www.napcrg.org/conferences/future-conferences/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NAPCRG 55th Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

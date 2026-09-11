@@ -1,0 +1,51 @@
+[
+ {
+  "id": "ags-annual-scientific-meeting-2027",
+  "name": "AGS 2027 Annual Scientific Meeting",
+  "short_name": "AGS 2027",
+  "organizer": "American Geriatrics Society",
+  "organizer_url": "https://www.americangeriatrics.org",
+  "edition_url": "https://meeting.americangeriatrics.org/",
+  "areas": [
+   "geriatrics"
+  ],
+  "tags": [
+   "geriatric",
+   "dementia"
+  ],
+  "start_date": "2027-05-20",
+  "end_date": "2027-05-22",
+  "city": "Atlanta",
+  "region_name": "Georgia",
+  "country": "US",
+  "venue": "Georgia World Congress Center",
+  "lat": 33.7627,
+  "lon": -84.4008,
+  "format": "in-person",
+  "description": "The AGS 2027 Annual Scientific Meeting is the yearly conference of the American Geriatrics Society, held at the Georgia World Congress Center in Atlanta, Georgia, with a pre conference day preceding the main program. The meeting covers clinical research, education, and quality improvement topics in geriatric medicine.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-12-02",
+    "url": "https://meeting.americangeriatrics.org/submissions",
+    "estimated": false,
+    "note": "11:15 PM ET; research abstract and awards nomination deadline; call for abstracts opens mid-September 2026 with no exact opening date published"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://meeting.americangeriatrics.org/submissions",
+    "accessed": "2026-09-10",
+    "note": "official submissions page confirms abstract deadline of December 2 2026, 11:15 PM ET"
+   },
+   {
+    "url": "https://meeting.americangeriatrics.org/about/past-future-meetings",
+    "accessed": "2026-09-10",
+    "note": "dates May 20-22 2027, with May 19 pre-conference, and Atlanta Georgia World Congress Center venue, corroborated via search snippet"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

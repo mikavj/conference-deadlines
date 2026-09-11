@@ -1,0 +1,99 @@
+[
+ {
+  "id": "anesthesiology-2026",
+  "name": "ANESTHESIOLOGY 2026 Annual Meeting",
+  "short_name": "ANESTHESIOLOGY 2026",
+  "organizer": "American Society of Anesthesiologists",
+  "organizer_url": "https://www.asahq.org",
+  "edition_url": "https://www.asahq.org/meetings/anesthesiology-annual-meeting",
+  "areas": [
+   "anesthesiology"
+  ],
+  "tags": [
+   "anesthesia"
+  ],
+  "start_date": "2026-10-16",
+  "end_date": "2026-10-20",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "San Diego Convention Center",
+  "lat": 32.7075,
+  "lon": -117.1605,
+  "format": null,
+  "description": "ANESTHESIOLOGY is the American Society of Anesthesiologists' annual meeting covering clinical and scientific developments in anesthesia care. The 2026 meeting takes place at the San Diego Convention Center.",
+  "deadlines": [
+   {
+    "label": "General Session submission",
+    "date": "2025-11-13",
+    "url": "https://www.asahq.org/annualmeeting/education/submissions",
+    "estimated": false,
+    "note": "Sourced from search engine snippet; official submissions page returned HTTP 403 on direct fetch"
+   },
+   {
+    "label": "Problem-Based Learning Discussion submission opens",
+    "date": "2025-12-02",
+    "url": "https://www.asahq.org/annualmeeting/education/submissions",
+    "estimated": false,
+    "note": "Sourced from search engine snippet"
+   },
+   {
+    "label": "Problem-Based Learning Discussion submission",
+    "date": "2026-02-03",
+    "url": "https://www.asahq.org/annualmeeting/education/submissions",
+    "estimated": false,
+    "note": "Sourced from search engine snippet"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.apsf.org/event/asa-2026/",
+    "accessed": "2026-09-10",
+    "note": "Corroborates October 16-20, 2026 dates and San Diego location"
+   },
+   {
+    "url": "https://www.asahq.org/annualmeeting/education/submissions",
+    "accessed": "2026-09-10",
+    "note": "Official submissions page; returned HTTP 403 on direct fetch, dates taken from search snippet only"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "asahq.org blocked direct fetching (HTTP 403) for both the meeting page and submissions page; all dates come from search engine snippets of official and organizer-adjacent (APSF) pages. Some conflicting/unclear scientific-abstract date ranges found in search results could not be verified and were excluded rather than reported."
+ },
+ {
+  "id": "anesthesiology-2027",
+  "name": "ANESTHESIOLOGY 2027 Annual Meeting",
+  "short_name": "ANESTHESIOLOGY 2027",
+  "organizer": "American Society of Anesthesiologists",
+  "organizer_url": "https://www.asahq.org",
+  "edition_url": "https://www.asahq.org/meetings/anesthesiology-annual-meeting",
+  "areas": [
+   "anesthesiology"
+  ],
+  "tags": [
+   "anesthesia"
+  ],
+  "start_date": "2027-10-15",
+  "end_date": "2027-10-19",
+  "city": "Boston",
+  "region_name": "Massachusetts",
+  "country": "US",
+  "venue": null,
+  "lat": 42.3601,
+  "lon": -71.0589,
+  "format": null,
+  "description": "ANESTHESIOLOGY is the American Society of Anesthesiologists' annual meeting covering clinical and scientific developments in anesthesia care. The 2027 meeting is scheduled for Boston, Massachusetts.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.meetboston.com/event/american-society-of-anesthesiologists-annual-meeting-2027/conventions_251041/",
+    "accessed": "2026-09-10",
+    "note": "Destination marketing listing giving October 15-19, 2027 dates and Boston location"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "asahq.org itself could not be fetched directly (HTTP 403 on related pages); 2027 dates were confirmed only via a convention/visitors-bureau listing rather than an official ASA page, and no abstract submission information has been published yet."
+ }
+]

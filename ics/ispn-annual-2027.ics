@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ISPN 2027 Annual Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ispn-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270321
+SUMMARY:ISPN 2027 Annual Conference
+DESCRIPTION:The International Society of Psychiatric Mental Health Nurses
+  holds its 2027 annual conference in Asheville\, North Carolina. The pro
+ gram theme addresses psychiatric nursing leadership through crisis\, inn
+ ovation and transformation.\n\nDeadlines\nAbstract submission: 2026-08-3
+ 1\n\nhttps://www.ispn-psych.org/2027-annual-conference
+LOCATION:Asheville\, North Carolina\, Renaissance Asheville Downtown Hote
+ l
+URL:https://www.ispn-psych.org/2027-annual-conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISPN 2027 Annual Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ispn-annual-2027-20260831-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Deadline: ISPN 2027 abstract submission
+DESCRIPTION:Already closed as of the research date\nMeeting: ISPN 2027 An
+ nual Conference\, Mar 17 to 20\, 2027\, Asheville\, North Carolina\, Ren
+ aissance Asheville Downtown Hotel\nhttps://www.ispn-psych.org/2027-call-
+ for-abstracts
+LOCATION:Asheville\, North Carolina\, Renaissance Asheville Downtown Hote
+ l
+URL:https://www.ispn-psych.org/2027-call-for-abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISPN 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISPN 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISPN 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

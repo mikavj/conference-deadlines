@@ -1,0 +1,123 @@
+[
+ {
+  "id": "amersa-2026",
+  "name": "AMERSA 50th Annual Conference 2026",
+  "short_name": "AMERSA 2026",
+  "organizer": "Association for Multidisciplinary Education and Research in Substance use and Addiction",
+  "organizer_url": "https://amersa.org/",
+  "edition_url": "https://conference.amersa.org/",
+  "tags": [
+   "addiction",
+   "education"
+  ],
+  "start_date": "2026-11-12",
+  "end_date": "2026-11-14",
+  "city": "Washington",
+  "country": "US",
+  "venue": "Omni Shoreham Hotel",
+  "lat": 38.9229,
+  "lon": -77.0525,
+  "format": null,
+  "description": "The 50th AMERSA Annual Conference is held November 12 to 14, 2026 in Washington, DC with preconference activities on November 11. The theme is Stronger Together: Transforming Challenge into Opportunity in Substance Use Care.",
+  "deadlines": [
+   {
+    "label": "Submission site opens",
+    "date": "2026-02-01",
+    "url": "https://aapp.org/perspective/2026/03/800428",
+    "estimated": false,
+    "note": "Reported by AMERSA and partner organizations"
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-04-01",
+    "url": "https://conference.amersa.org/call-for-abstracts-and-workshops/",
+    "estimated": false,
+    "note": "Research, curricula and quality improvement, and clinical case categories"
+   },
+   {
+    "label": "Workshop proposal submission",
+    "date": "2026-04-01",
+    "url": "https://conference.amersa.org/call-for-abstracts-and-workshops/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Acceptance notifications",
+    "date": null,
+    "url": "https://conference.amersa.org/call-for-abstracts-and-workshops/",
+    "estimated": false,
+    "note": "Stated as early May 2026"
+   },
+   {
+    "label": "Deadline to accept workshop invitation",
+    "date": "2026-05-15",
+    "url": "https://conference.amersa.org/call-for-abstracts-and-workshops/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Conference scholarship award application",
+    "date": "2026-05-17",
+    "url": "https://conference.amersa.org/call-for-abstracts-and-workshops/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Deadline to accept abstract invitation",
+    "date": "2026-06-15",
+    "url": "https://conference.amersa.org/call-for-abstracts-and-workshops/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-08-31",
+    "url": "https://conference.amersa.org/attendees-information-page/",
+    "estimated": false,
+    "note": "Early bird prices end August 31, 2026 at midnight ET"
+   },
+   {
+    "label": "Hotel room block",
+    "date": "2026-10-01",
+    "url": "https://conference.amersa.org/attendees-information-page/",
+    "estimated": false,
+    "note": "Book by October 1, 2026 for the AMERSA rate at the Omni Shoreham"
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-11-13",
+   "end_date": "2025-11-15",
+   "city": "Portland",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://conference.amersa.org/",
+    "accessed": "2026-09-09",
+    "note": "Dates, city, hotel, headline deadlines"
+   },
+   {
+    "url": "https://conference.amersa.org/call-for-abstracts-and-workshops/",
+    "accessed": "2026-09-09",
+    "note": "Full submission timeline"
+   },
+   {
+    "url": "https://conference.amersa.org/attendees-information-page/",
+    "accessed": "2026-09-09",
+    "note": "Early bird cutoff, hotel address and room block date"
+   },
+   {
+    "url": "https://aapp.org/perspective/2026/03/800428",
+    "accessed": "2026-09-09",
+    "note": "Submission site opening date"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The 2027 AMERSA conference has not been announced on amersa.org or conference.amersa.org.",
+  "region_name": "District of Columbia",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

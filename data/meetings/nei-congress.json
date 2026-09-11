@@ -1,0 +1,62 @@
+[
+ {
+  "id": "nei-congress-2026",
+  "name": "NEI Fall Congress 2026",
+  "short_name": "NEI Congress 2026",
+  "organizer": "Neuroscience Education Institute",
+  "organizer_url": "https://www.neiglobal.com/",
+  "edition_url": "https://www.neiglobal.com/Congress/CNGOverview/tabid/147/Default.aspx",
+  "tags": [
+   "psychopharmacology",
+   "neuroscience",
+   "general-psychiatry"
+  ],
+  "start_date": "2026-11-05",
+  "end_date": "2026-11-08",
+  "city": "Colorado Springs",
+  "country": "US",
+  "venue": "The Broadmoor",
+  "lat": 38.7913,
+  "lon": -104.8486,
+  "format": "hybrid",
+  "description": "The annual psychopharmacology congress of the Neuroscience Education Institute, offered in person at The Broadmoor and online, with up to 32 CME credits. Pre conference programs begin November 4 and the scientific poster session is held November 7, 2026.",
+  "deadlines": [
+   {
+    "label": "Poster abstract submission deadline",
+    "date": "2026-08-03",
+    "url": "https://www.neiglobal.com/Congress/CNGPosterSession/tabid/159/Default.aspx",
+    "estimated": false,
+    "note": "Presenters must attend in person; virtual poster presentations are not accepted. Accepted abstracts are published in the NEI Virtual Poster Library with a DOI in CNS Spectrums."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.neiglobal.com/Congress/CNGOverview/tabid/147/Default.aspx",
+    "accessed": "2026-09-09",
+    "note": "Confirms November 5 to 8, 2026, Colorado Springs, CO and online."
+   },
+   {
+    "url": "https://www.neiglobal.com/Congress/CNGAbout/tabid/627/Default.aspx",
+    "accessed": "2026-09-09",
+    "note": "Confirms venue The Broadmoor and pre conference programs beginning November 4."
+   },
+   {
+    "url": "https://www.neiglobal.com/Congress/CNGPosterSession/tabid/159/Default.aspx",
+    "accessed": "2026-09-09",
+    "note": "Confirms abstract deadline Monday, August 3, 2026 and poster session November 7, 2026."
+   },
+   {
+    "url": "https://www.neiglobal.com/Congress/CNGRegDetails/tabid/154/Default.aspx",
+    "accessed": "2026-09-09",
+    "note": "Registration open; no tier deadlines shown."
+   }
+  ],
+  "confidence": "high",
+  "notes": "The poster deadline has passed. No 2027 Fall Congress dates are published; NEI lists a 2027 Spring Congress on May 21 to 23, 2027 in Florida. Registration fee tiers and deadlines were not visible on the registration page.",
+  "region_name": "Colorado",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

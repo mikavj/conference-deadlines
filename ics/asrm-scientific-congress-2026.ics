@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASRM 2026 Scientific Congress and Expo
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:asrm-scientific-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261029
+SUMMARY:ASRM 2026 Scientific Congress and Expo
+DESCRIPTION:The ASRM Scientific Congress and Expo is the annual meeting o
+ f the American Society for Reproductive Medicine\, covering clinical and
+  basic science research in reproductive medicine. The 2026 edition\, the
+ med Discovery\, Innovation\, and Advancement\, takes place at the Baltim
+ ore Convention Center and introduces the ASRM Master Class Summit in pla
+ ce of traditional postgraduate courses.\n\nDeadlines\nAbstract submissio
+ n opens: 2026-02-25\nAbstract submission: 2026-04-29\nAbstract withdrawa
+ l deadline: 2026-06-24\n\nhttps://asrmcongress.org/
+LOCATION:Baltimore\, Maryland\, Baltimore Convention Center
+URL:https://asrmcongress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASRM 2026 Scientific Congress and Expo
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asrm-scientific-congress-2026-20260429-abstract-submission@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Deadline: ASRM 2026 abstract submission
+DESCRIPTION:4:00 pm ET\nMeeting: ASRM 2026 Scientific Congress and Expo\,
+  Oct 24 to 28\, 2026\, Baltimore\, Maryland\, Baltimore Convention Cente
+ r\nhttps://www.asrm.org/globalassets/_asrm/news-events/asrm-scientific-c
+ ongress/presenters/ASRM_2026_Abstract_Key_Dates.pdf
+LOCATION:Baltimore\, Maryland\, Baltimore Convention Center
+URL:https://www.asrm.org/globalassets/_asrm/news-events/asrm-scientific-c
+ ongress/presenters/ASRM_2026_Abstract_Key_Dates.pdf
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASRM 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASRM 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASRM 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asrm-scientific-congress-2026-20260624-abstract-withdrawal-deadline@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Deadline: ASRM 2026 abstract withdrawal deadline
+DESCRIPTION:Meeting: ASRM 2026 Scientific Congress and Expo\, Oct 24 to 2
+ 8\, 2026\, Baltimore\, Maryland\, Baltimore Convention Center\nhttps://w
+ ww.asrm.org/globalassets/_asrm/news-events/asrm-scientific-congress/pres
+ enters/ASRM_2026_Abstract_Key_Dates.pdf
+LOCATION:Baltimore\, Maryland\, Baltimore Convention Center
+URL:https://www.asrm.org/globalassets/_asrm/news-events/asrm-scientific-c
+ ongress/presenters/ASRM_2026_Abstract_Key_Dates.pdf
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASRM 2026 abstract withdrawal deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASRM 2026 abstract withdrawal deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASRM 2026 abstract withdrawal deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

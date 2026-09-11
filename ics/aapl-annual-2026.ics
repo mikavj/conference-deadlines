@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAPL 57th Annual Meeting 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aapl-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261102
+SUMMARY:AAPL 57th Annual Meeting 2026
+DESCRIPTION:The 57th annual meeting of the American Academy of Psychiatry
+  and the Law\, the main United States forensic psychiatry meeting\, accr
+ edited for a maximum of 31.75 AMA PRA Category 1 credits. The Forensic P
+ sychiatry Review Course is held in the days immediately before the meeti
+ ng.\n\nhttps://aapl.org/57th-annual-meeting/
+LOCATION:Tampa\, Florida\, Tampa Marriott Water Street
+URL:https://aapl.org/57th-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAPL 57th Annual Meeting 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

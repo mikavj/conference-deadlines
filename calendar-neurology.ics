@@ -1,0 +1,4173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Conference Deadlines: Neurology
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uiuc-pn-innovation-day-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261001
+SUMMARY:Personalized Nutrition Initiative Innovation Day 2026
+DESCRIPTION:PN Innovation Day is the Personalized Nutrition Initiative's 
+ annual meeting bringing together university researchers and external par
+ tners around personalized nutrition research\, with a call for abstracts
+ . The 2026 edition runs September 28 to 30\, 2026 at the Illini Union\, 
+ including a clinical research facility tour and welcome dinner\, the mai
+ n programming day\, and an external partners program meeting.\n\nDeadlin
+ es\nAbstract submission deadline: 2026-08-24\n\nhttps://personalizednutr
+ ition.research.illinois.edu/2026-pn-innovation-day/
+LOCATION:Urbana\, Illinois\, Illini Union\, University of Illinois Urbana
+ -Champaign
+URL:https://personalizednutrition.research.illinois.edu/2026-pn-innovatio
+ n-day/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Personalized Nutrition Initiative Innovation Day 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-pn-innovation-day-2026-20260824-abstract-submission-deadline@con
+ ference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Deadline: PN Innovation Day 2026 abstract submission deadline
+DESCRIPTION:Already past as of the September 10\, 2026 research date\; in
+ cluded for completeness and to anchor the annual pattern. The main event
+  on September 28 to 30\, 2026 has not yet occurred.\nMeeting: Personaliz
+ ed Nutrition Initiative Innovation Day 2026\, Sep 28 to 30\, 2026\, Urba
+ na\, Illinois\, Illini Union\, University of Illinois Urbana-Champaign\n
+ https://personalizednutrition.research.illinois.edu/2026-pn-innovation-d
+ ay/
+LOCATION:Urbana\, Illinois\, Illini Union\, University of Illinois Urbana
+ -Champaign
+URL:https://personalizednutrition.research.illinois.edu/2026-pn-innovatio
+ n-day/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PN Innovation Day 2026 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PN Innovation Day 2026 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PN Innovation Day 2026 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261003
+SUMMARY:2026 AANEM Annual Meeting
+DESCRIPTION:The American Association of Neuromuscular and Electrodiagnost
+ ic Medicine holds its annual meeting in Orlando\, Florida\, with session
+ s on electrodiagnostic medicine and neuromuscular disease. The program i
+ ncludes the Myasthenia Gravis Foundation of America scientific session o
+ n September 29.\n\nDeadlines\nAbstract submission opens: 2026-01-01\nAbs
+ tract submission: 2026-03-15\nMGFA Scientific Session abstract submissio
+ n opens: 2026-03-09\nMGFA Scientific Session abstract submission: 2026-0
+ 5-01\nEarly registration: 2026-07-14\nRegular registration: 2026-08-31\n
+ \nhttps://www.aanem.org/meetings/annual-meeting
+LOCATION:Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek
+URL:https://www.aanem.org/meetings/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 AANEM Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2026-20260315-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Deadline: AANEM 2026 abstract submission
+DESCRIPTION:General AANEM abstract submission deadline for the 2026 Annua
+ l Meeting\; notification of acceptance by June 1\, 2026.\nMeeting: 2026 
+ AANEM Annual Meeting\, Sep 29 to Oct 02\, 2026\, Orlando\, Florida\, Sig
+ nia by Hilton Orlando Bonnet Creek\nhttps://www.aanem.org/meetings/annua
+ l-meeting/abstract-information-submission
+LOCATION:Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek
+URL:https://www.aanem.org/meetings/annual-meeting/abstract-information-su
+ bmission
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2026-20260501-mgfa-scientific-session-abstract-submissio
+ n@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Deadline: AANEM 2026 mgfa scientific session abstract submission
+DESCRIPTION:Meeting: 2026 AANEM Annual Meeting\, Sep 29 to Oct 02\, 2026\
+ , Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek\nhttps://www
+ .aanem.org/meetings/annual-meeting/abstract-information-submission
+LOCATION:Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek
+URL:https://www.aanem.org/meetings/annual-meeting/abstract-information-su
+ bmission
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 mgfa scientific session abstract submiss
+ ion
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 mgfa scientific session abstract submiss
+ ion
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 mgfa scientific session abstract submiss
+ ion
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2026-20260714-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Deadline: AANEM 2026 early registration
+DESCRIPTION:Early bird registration window is June 1 to July 14\, 2026\; 
+ date shown is the close of the early bird window.\nMeeting: 2026 AANEM A
+ nnual Meeting\, Sep 29 to Oct 02\, 2026\, Orlando\, Florida\, Signia by 
+ Hilton Orlando Bonnet Creek\nhttps://www.aanem.org/meetings/annual-meeti
+ ng/registration-information
+LOCATION:Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek
+URL:https://www.aanem.org/meetings/annual-meeting/registration-informatio
+ n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2026-20260831-regular-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Deadline: AANEM 2026 regular registration
+DESCRIPTION:Regular registration window is July 15 to August 31\, 2026\; 
+ late registration fees apply September 1 through October 2\, 2026.\nMeet
+ ing: 2026 AANEM Annual Meeting\, Sep 29 to Oct 02\, 2026\, Orlando\, Flo
+ rida\, Signia by Hilton Orlando Bonnet Creek\nhttps://www.aanem.org/meet
+ ings/annual-meeting/registration-information
+LOCATION:Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek
+URL:https://www.aanem.org/meetings/annual-meeting/registration-informatio
+ n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 regular registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 regular registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 regular registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wms-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261004
+SUMMARY:World Muscle Society 31st International Annual Congress 2026
+DESCRIPTION:The World Muscle Society Congress is the society's annual int
+ ernational meeting on neuromuscular disorders. The 2026 congress is the 
+ 31st edition and is being held in Hiroshima\, Japan.\n\nhttps://www.wms2
+ 026.com/
+LOCATION:Hiroshima\, Hiroshima Prefecture\, JP
+URL:https://www.wms2026.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:World Muscle Society 31st International Annual Congress 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mds-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261009
+SUMMARY:MDS International Congress of Parkinson's Disease and Movement Di
+ sorders 2026
+DESCRIPTION:The International Congress of Parkinson's Disease and Movemen
+ t Disorders is the annual scientific meeting of the International Parkin
+ son and Movement Disorder Society\, covering research and clinical care 
+ in Parkinson's disease and other movement disorders. The 2026 congress i
+ s scheduled for October 4 to 8\, 2026\, at the COEX Convention and Exhib
+ ition Center in Seoul\, South Korea\, and has not yet concluded as of Se
+ ptember 10\, 2026.\n\nDeadlines\nAbstract submission opens: 2025-12-15\n
+ Abstract submission deadline: 2026-03-15\n\nhttps://www.mdscongress.org/
+LOCATION:Seoul\, KR\, COEX Convention and Exhibition Center
+URL:https://www.mdscongress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MDS International Congress of Parkinson's Disease and Movemen
+ t Disorders 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mds-congress-2026-20260315-abstract-submission-deadline@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Deadline: MDS Congress 2026 abstract submission deadline
+DESCRIPTION:Already past as of the 2026-09-10 research date\; recorded fo
+ r completeness since the congress edition itself has not yet concluded.\
+ nMeeting: MDS International Congress of Parkinson's Disease and Movement
+  Disorders 2026\, Oct 04 to 08\, 2026\, Seoul\, KR\, COEX Convention and
+  Exhibition Center\nhttps://www.mdscongress.org/Abstracts/Submissions
+LOCATION:Seoul\, KR\, COEX Convention and Exhibition Center
+URL:https://www.mdscongress.org/Abstracts/Submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2026 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2026 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2026 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-uic-psychiatry-research-forum-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:UIC Department of Psychiatry 17th Annual Research Forum (Extravag
+ anza) 2026
+DESCRIPTION:The Department of Psychiatry's annual Research Forum\, known 
+ informally as the Extravaganza\, is a Grand Rounds poster session in whi
+ ch department faculty\, residents\, fellows and students present psychia
+ tric research for a competitive poster award. The 17th annual edition is
+  scheduled for October 7\, 2026\, with abstract submissions opening Sept
+ ember 2\, 2026.\n\nDeadlines\nAbstract submission opens: 2026-09-02\nAbs
+ tract submission deadline: 2026-09-30\n\nhttps://www.psych.uic.edu/extra
+ vaganza
+LOCATION:Chicago\, Illinois\, COMRB Moss Auditorium\, 909 S. Wolcott Ave\
+ , Chicago\, IL
+URL:https://www.psych.uic.edu/extravaganza
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UIC Department of Psychiatry 17th Annual Research Forum (Extr
+ avaganza) 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-uic-psychiatry-research-forum-2026-20260930-abstract-submission-
+ deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: UIC Psychiatry Extravaganza 2026 abstract submission de
+ adline
+DESCRIPTION:A separate poster session subpage lists a September 1 to Octo
+ ber 15 window that may reflect a different year\; verify directly before
+  relying on this date.\nMeeting: UIC Department of Psychiatry 17th Annua
+ l Research Forum (Extravaganza) 2026\, Oct 7\, 2026\, Chicago\, Illinois
+ \, COMRB Moss Auditorium\, 909 S. Wolcott Ave\, Chicago\, IL\nhttps://ww
+ w.psych.uic.edu/extravaganza
+LOCATION:Chicago\, Illinois\, COMRB Moss Auditorium\, 909 S. Wolcott Ave\
+ , Chicago\, IL
+URL:https://www.psych.uic.edu/extravaganza
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC Psychiatry Extravaganza 2026 abstract submissio
+ n deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC Psychiatry Extravaganza 2026 abstract submissio
+ n deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC Psychiatry Extravaganza 2026 abstract submissio
+ n deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aan-fall-conference-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:2026 AAN Fall Conference
+DESCRIPTION:The AAN Fall Conference is a continuing medical education mee
+ ting from the American Academy of Neurology focused on practice updates 
+ rather than original research abstracts. The 2026 edition is held in Las
+  Vegas at Caesars Palace and online\, preceded by a one day Advanced Pra
+ ctice Provider conference on October 8.\n\nDeadlines\nRegistration and h
+ ousing open: 2026-06-22\nEarly registration deadline: 2026-08-13\nAdvanc
+ e registration and hotel deadline: 2026-09-17\n\nhttps://www.aan.com/eve
+ nts/fall-conference
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.aan.com/events/fall-conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 AAN Fall Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aan-fall-conference-2026-20260813-early-registration-deadline@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Deadline: AAN Fall Conference 2026 early registration deadline
+DESCRIPTION:Discount pricing tier deadline.\nMeeting: 2026 AAN Fall Confe
+ rence\, Oct 09 to 11\, 2026\, Las Vegas\, Nevada\, Caesars Palace\nhttps
+ ://www.aan.com/events/fall-conference/registration
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.aan.com/events/fall-conference/registration
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN Fall Conference 2026 early registration deadlin
+ e
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN Fall Conference 2026 early registration deadlin
+ e
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN Fall Conference 2026 early registration deadlin
+ e
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aan-fall-conference-2026-20260917-advance-registration-and-hotel-dead
+ line@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Deadline: AAN Fall Conference 2026 advance registration and hotel
+  deadline
+DESCRIPTION:Final advance registration and discounted hotel booking deadl
+ ine.\nMeeting: 2026 AAN Fall Conference\, Oct 09 to 11\, 2026\, Las Vega
+ s\, Nevada\, Caesars Palace\nhttps://www.aan.com/events/fall-conference/
+ registration
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.aan.com/events/fall-conference/registration
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN Fall Conference 2026 advance registration and h
+ otel deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN Fall Conference 2026 advance registration and h
+ otel deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN Fall Conference 2026 advance registration and h
+ otel deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:child-neurology-society-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261018
+SUMMARY:55th Child Neurology Society Annual Meeting
+DESCRIPTION:The Child Neurology Society holds its 55th annual meeting in 
+ Montreal\, Quebec\, with scientific sessions and abstract presentations 
+ in pediatric neurology. A resident seminar on epilepsy precedes the main
+  program on October 12 and 13.\n\nDeadlines\nAbstract submission: 2026-0
+ 2-01\nAbstract withdrawal deadline: 2026-07-31\nEncore abstract eligibil
+ ity cutoff: 2026-05-03\n\nhttps://www.childneurologysociety.org/colleagu
+ es/network/cns-annual-meeting/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://www.childneurologysociety.org/colleagues/network/cns-annual-m
+ eeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:55th Child Neurology Society Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:child-neurology-society-annual-2026-20260201-abstract-submission@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Deadline: Child Neurology Society 2026 abstract submission
+DESCRIPTION:Deadline confirmed via the Child Neurology Society official s
+ ocial media announcement\; the abstracts page no longer displayed the da
+ te at time of access because submissions had closed.\nMeeting: 55th Chil
+ d Neurology Society Annual Meeting\, Oct 14 to 17\, 2026\, Montreal\, Qu
+ ebec\, CA\, Palais des congres de Montreal\nhttps://www.childneurologyso
+ ciety.org/colleagues/network/2026-abstracts-and-posters/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://www.childneurologysociety.org/colleagues/network/2026-abstrac
+ ts-and-posters/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:child-neurology-society-annual-2026-20260731-abstract-withdrawal-dead
+ line@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Deadline: Child Neurology Society 2026 abstract withdrawal deadli
+ ne
+DESCRIPTION:No abstracts may be withdrawn after this date.\nMeeting: 55th
+  Child Neurology Society Annual Meeting\, Oct 14 to 17\, 2026\, Montreal
+ \, Quebec\, CA\, Palais des congres de Montreal\nhttps://www.childneurol
+ ogysociety.org/colleagues/network/2026-abstracts-and-posters/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://www.childneurologysociety.org/colleagues/network/2026-abstrac
+ ts-and-posters/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract withdrawal de
+ adline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract withdrawal de
+ adline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract withdrawal de
+ adline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:child-neurology-society-annual-2026-20260503-encore-abstract-eligibil
+ ity-cutoff@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Deadline: Child Neurology Society 2026 encore abstract eligibilit
+ y cutoff
+DESCRIPTION:Abstracts presented elsewhere within 12 months of this date a
+ re not eligible as encore submissions.\nMeeting: 55th Child Neurology So
+ ciety Annual Meeting\, Oct 14 to 17\, 2026\, Montreal\, Quebec\, CA\, Pa
+ lais des congres de Montreal\nhttps://www.childneurologysociety.org/coll
+ eagues/network/2026-abstracts-and-posters/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://www.childneurologysociety.org/colleagues/network/2026-abstrac
+ ts-and-posters/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 encore abstract eligib
+ ility cutoff
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 encore abstract eligib
+ ility cutoff
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 encore abstract eligib
+ ility cutoff
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ana-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261021
+SUMMARY:American Neurological Association 151st Annual Meeting
+DESCRIPTION:The American Neurological Association holds its 151st annual 
+ meeting in San Diego\, California\, from October 17 to 20\, 2026. The pr
+ ogram covers clinical and translational neurology research through platf
+ orm sessions\, posters\, and late breaking science.\n\nDeadlines\nSympos
+ ium proposal submission (Call for Topics): 2025-12-15\nAbstract submissi
+ on opens: 2026-03-16\nLate-breaking abstract submission opens: 2026-05-0
+ 4\nLate-breaking abstract submission: 2026-05-26\nEarly registration dea
+ dline: 2026-09-07\n\nhttps://2026.myana.org/
+LOCATION:San Diego\, California\, Sheraton San Diego Resort
+URL:https://2026.myana.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Neurological Association 151st Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ana-annual-2026-20251215-symposium-proposal-submission-call-for-topic
+ s-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+SUMMARY:Deadline: ANA 2026 symposium proposal submission (call for topics
+ )
+DESCRIPTION:11:59 PM PST deadline for the Call for Topics form\, a separa
+ te track from abstract submission.\nMeeting: American Neurological Assoc
+ iation 151st Annual Meeting\, Oct 17 to 20\, 2026\, San Diego\, Californ
+ ia\, Sheraton San Diego Resort\nhttps://myana.org/ana2026-annual-meeting
+ -call-for-topics-submission-form/
+LOCATION:San Diego\, California\, Sheraton San Diego Resort
+URL:https://myana.org/ana2026-annual-meeting-call-for-topics-submission-f
+ orm/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 symposium proposal submission (call for to
+ pics)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 symposium proposal submission (call for to
+ pics)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 symposium proposal submission (call for to
+ pics)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ana-annual-2026-20260526-late-breaking-abstract-submission@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Deadline: ANA 2026 late-breaking abstract submission
+DESCRIPTION:11:59 PM PT deadline\, confirmed directly on the official abs
+ tract submission guidelines page.\nMeeting: American Neurological Associ
+ ation 151st Annual Meeting\, Oct 17 to 20\, 2026\, San Diego\, Californi
+ a\, Sheraton San Diego Resort\nhttps://2026.myana.org/abstracts/abstract
+ -submission-guidelines/
+LOCATION:San Diego\, California\, Sheraton San Diego Resort
+URL:https://2026.myana.org/abstracts/abstract-submission-guidelines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ana-annual-2026-20260907-early-registration-deadline@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Deadline: ANA 2026 early registration deadline
+DESCRIPTION:Early bird registration rate deadline\; standard/onsite rates
+  apply after this date\, which was also the cancellation-with-refund dea
+ dline.\nMeeting: American Neurological Association 151st Annual Meeting\
+ , Oct 17 to 20\, 2026\, San Diego\, California\, Sheraton San Diego Reso
+ rt\nhttps://2026.myana.org/registration/registration/
+LOCATION:San Diego\, California\, Sheraton San Diego Resort
+URL:https://2026.myana.org/registration/registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurocritical-care-society-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261024
+SUMMARY:NCS 24th Annual Meeting
+DESCRIPTION:The Neurocritical Care Society holds its 24th annual meeting 
+ in Seattle\, Washington\, for physicians\, nurses\, advanced practice pr
+ oviders\, pharmacists and trainees in neurocritical care. The program in
+ cludes late breaking science and research abstract presentations under t
+ he theme Reaching New Heights.\n\nDeadlines\nAbstract submission: 2026-0
+ 5-03\nAbstract notification: 2026-06-01 (estimated)\nAbstract withdrawal
+  deadline (if accepted elsewhere): 2026-07-17\nEarly registration: 2026-
+ 08-05\nDiscounted housing deadline: 2026-09-21\n\nhttps://www.neurocriti
+ calcare.org/Events/Annual-Meeting/Future-Annual-Meetings
+LOCATION:Seattle\, Washington\, Seattle Convention Center
+URL:https://www.neurocriticalcare.org/Events/Annual-Meeting/Future-Annual
+ -Meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NCS 24th Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurocritical-care-society-annual-2026-20260503-abstract-submission@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Deadline: Neurocritical Care Society 2026 abstract submission
+DESCRIPTION:Deadline is 11:59 p.m. CT\; a $50 non-refundable fee applies 
+ per submission.\nMeeting: NCS 24th Annual Meeting\, Oct 20 to 23\, 2026\
+ , Seattle\, Washington\, Seattle Convention Center\nhttps://www.neurocri
+ ticalcare.org/Events/Annual-Meeting/Call-for-Research-Abstracts
+LOCATION:Seattle\, Washington\, Seattle Convention Center
+URL:https://www.neurocriticalcare.org/Events/Annual-Meeting/Call-for-Rese
+ arch-Abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurocritical-care-society-annual-2026-20260805-early-registration@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Deadline: Neurocritical Care Society 2026 early registration
+DESCRIPTION:Meeting: NCS 24th Annual Meeting\, Oct 20 to 23\, 2026\, Seat
+ tle\, Washington\, Seattle Convention Center\nhttps://www.neurocriticalc
+ are.org/Events/Annual-Meeting/Future-Annual-Meetings
+LOCATION:Seattle\, Washington\, Seattle Convention Center
+URL:https://www.neurocriticalcare.org/Events/Annual-Meeting/Future-Annual
+ -Meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurocritical-care-society-annual-2026-20260921-discounted-housing-de
+ adline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Deadline: Neurocritical Care Society 2026 discounted housing dead
+ line
+DESCRIPTION:Meeting: NCS 24th Annual Meeting\, Oct 20 to 23\, 2026\, Seat
+ tle\, Washington\, Seattle Convention Center\nhttps://www.neurocriticalc
+ are.org/Events/Annual-Meeting/Future-Annual-Meetings
+LOCATION:Seattle\, Washington\, Seattle Convention Center
+URL:https://www.neurocriticalcare.org/Events/Annual-Meeting/Future-Annual
+ -Meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 discounted housing 
+ deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 discounted housing 
+ deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 discounted housing 
+ deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ectrims-actrims-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:10th Joint ACTRIMS-ECTRIMS Meeting (MSToronto 2026)
+DESCRIPTION:ECTRIMS and ACTRIMS hold their tenth joint congress in Toront
+ o\, Canada\, from 21 to 23 October 2026 at the Metro Toronto Convention 
+ Centre. The meeting\, also known as MSToronto 2026\, covers multiple scl
+ erosis research and clinical care.\n\nDeadlines\nAbstract submission ope
+ ns: 2026-03-24\nAbstract submission: 2026-05-07\nLate-breaking abstract 
+ submission opens: 2026-05-12\nLate-breaking abstract submission: 2026-07
+ -16\nEarly registration: 2026-08-26\n\nhttps://mstoronto2026.org/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://mstoronto2026.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10th Joint ACTRIMS-ECTRIMS Meeting (MSToronto 2026)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ectrims-actrims-2026-20260507-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Deadline: ECTRIMS/ACTRIMS 2026 abstract submission
+DESCRIPTION:Regular abstract submission deadline.\nMeeting: 10th Joint AC
+ TRIMS-ECTRIMS Meeting (MSToronto 2026)\, Oct 21 to 23\, 2026\, Toronto\,
+  Ontario\, CA\, Metro Toronto Convention Centre\nhttps://mstoronto2026.o
+ rg/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://mstoronto2026.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ectrims-actrims-2026-20260716-late-breaking-abstract-submission@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Deadline: ECTRIMS/ACTRIMS 2026 late-breaking abstract submission
+DESCRIPTION:Late-breaking abstract submission deadline.\nMeeting: 10th Jo
+ int ACTRIMS-ECTRIMS Meeting (MSToronto 2026)\, Oct 21 to 23\, 2026\, Tor
+ onto\, Ontario\, CA\, Metro Toronto Convention Centre\nhttps://mstoronto
+ 2026.org/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://mstoronto2026.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 late-breaking abstract submiss
+ ion
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 late-breaking abstract submiss
+ ion
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 late-breaking abstract submiss
+ ion
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ectrims-actrims-2026-20260826-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Deadline: ECTRIMS/ACTRIMS 2026 early registration
+DESCRIPTION:Early bird registration savings end this date.\nMeeting: 10th
+  Joint ACTRIMS-ECTRIMS Meeting (MSToronto 2026)\, Oct 21 to 23\, 2026\, 
+ Toronto\, Ontario\, CA\, Metro Toronto Convention Centre\nhttps://mstoro
+ nto2026.org/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://mstoronto2026.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wsc-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:18th World Stroke Congress
+DESCRIPTION:The World Stroke Organization holds the 18th World Stroke Con
+ gress at the COEX Convention and Exhibition Center in Seoul\, South Kore
+ a\, from 21 to 23 October 2026. The congress is combined with the Intern
+ ational Conference Stroke Update.\n\nDeadlines\nAbstract submission: 202
+ 6-04-15\nLate-breaking abstract submission: 2026-05-25\n\nhttps://worlds
+ trokecongress.org/
+LOCATION:Seoul\, Seoul\, KR\, COEX Convention and Exhibition Center
+URL:https://worldstrokecongress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:18th World Stroke Congress
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wsc-2026-20260415-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Deadline: WSC 2026 abstract submission
+DESCRIPTION:General abstract and proposal submission deadline.\nMeeting: 
+ 18th World Stroke Congress\, Oct 21 to 23\, 2026\, Seoul\, Seoul\, KR\, 
+ COEX Convention and Exhibition Center\nhttps://worldstrokecongress.org/a
+ bstract-guidelines-submission/
+LOCATION:Seoul\, Seoul\, KR\, COEX Convention and Exhibition Center
+URL:https://worldstrokecongress.org/abstract-guidelines-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wsc-2026-20260525-late-breaking-abstract-submission@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Deadline: WSC 2026 late-breaking abstract submission
+DESCRIPTION:Late-breaking clinical trial submission deadline\, 23:59 CEST
+ .\nMeeting: 18th World Stroke Congress\, Oct 21 to 23\, 2026\, Seoul\, S
+ eoul\, KR\, COEX Convention and Exhibition Center\nhttps://worldstrokeco
+ ngress.org/abstract-guidelines-submission/
+LOCATION:Seoul\, Seoul\, KR\, COEX Convention and Exhibition Center
+URL:https://worldstrokecongress.org/abstract-guidelines-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-jump-arches-symposium-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Jump ARCHES Health Care Engineering Systems Symposium 2026
+DESCRIPTION:The Jump ARCHES symposium celebrates the year's project achie
+ vements from the Jump Applied Research through Community Health Engineer
+ ing and Simulation endowment partnership between OSF HealthCare Jump Sim
+ ulation and the University of Illinois Grainger College of Engineering H
+ ealth Care Engineering Systems Center. The 2026 edition\, themed From In
+ sight to Impact Powered by AI\, is held at the Jump Trading Simulation a
+ nd Education Center in Peoria.\n\nhttps://www.osfinnovation.org/invent/i
+ nnovation-academic-incubator/jump-arches/health-care-engineering-systems
+ -symposium
+LOCATION:Peoria\, Illinois\, Jump Trading Simulation and Education Center
+URL:https://www.osfinnovation.org/invent/innovation-academic-incubator/ju
+ mp-arches/health-care-engineering-systems-symposium
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Jump ARCHES Health Care Engineering Systems Symposium 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:congress-neurological-surgeons-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261105
+SUMMARY:76th Congress of Neurological Surgeons Annual Meeting
+DESCRIPTION:Annual scientific meeting of the Congress of Neurological Sur
+ geons covering the full range of neurosurgical subspecialties. It is the
+  76th edition of the meeting\, themed Evolution.\n\nDeadlines\nAbstract 
+ submission: 2026-05-26\nEarly registration: 2026-05-31\nAdvanced registr
+ ation deadline: 2026-09-30\n\nhttps://www.cns.org/annualmeeting
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.cns.org/annualmeeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:76th Congress of Neurological Surgeons Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:congress-neurological-surgeons-2026-20260526-abstract-submission@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Deadline: CNS Neurosurgery 2026 abstract submission
+DESCRIPTION:8:00 pm CT\; deadline was extended once to this date\nMeeting
+ : 76th Congress of Neurological Surgeons Annual Meeting\, Oct 31 to Nov 
+ 04\, 2026\, Washington\, District of Columbia\, Walter E. Washington Con
+ vention Center\nhttps://www.cns.org/annualmeeting/program/abstracts
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.cns.org/annualmeeting/program/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:congress-neurological-surgeons-2026-20260531-early-registration@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Deadline: CNS Neurosurgery 2026 early registration
+DESCRIPTION:Meeting: 76th Congress of Neurological Surgeons Annual Meetin
+ g\, Oct 31 to Nov 04\, 2026\, Washington\, District of Columbia\, Walter
+  E. Washington Convention Center\nhttps://www.cns.org/annualmeeting/over
+ view
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.cns.org/annualmeeting/overview
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:congress-neurological-surgeons-2026-20260930-advanced-registration-de
+ adline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: CNS Neurosurgery 2026 advanced registration deadline
+DESCRIPTION:cutoff between Advanced and Regular registration pricing tier
+ s\nMeeting: 76th Congress of Neurological Surgeons Annual Meeting\, Oct 
+ 31 to Nov 04\, 2026\, Washington\, District of Columbia\, Walter E. Wash
+ ington Convention Center\nhttps://www.cns.org/annualmeeting/overview
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.cns.org/annualmeeting/overview
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 advanced registration deadlin
+ e
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 advanced registration deadlin
+ e
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 advanced registration deadlin
+ e
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-uic-com-research-forum-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:University of Illinois College of Medicine 2026 Research Forum
+DESCRIPTION:The University of Illinois College of Medicine Research Forum
+  is an annual poster and judging event in Chicago open to medical studen
+ ts\, graduate students\, postdoctoral fellows\, residents\, and research
+  faculty across the college. The 2026 forum runs two judging sessions fo
+ llowed by a reception at the Thompson Rooms in Student Center West.\n\nD
+ eadlines\nAbstract submission opens: 2026-09-01\nAbstract submission dea
+ dline: 2026-09-25\nPoster printing deadline: 2026-10-16\n\nhttps://medic
+ ine.uic.edu/com-research/research-forum/submission-information/
+LOCATION:Chicago\, Illinois\, Thompson Rooms\, Student Center West
+URL:https://medicine.uic.edu/com-research/research-forum/submission-infor
+ mation/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:University of Illinois College of Medicine 2026 Research Foru
+ m
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-uic-com-research-forum-2026-20260925-abstract-submission-deadlin
+ e@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Deadline: UIC COM Research Forum 2026 abstract submission deadlin
+ e
+DESCRIPTION:5:00 p.m. CST\nMeeting: University of Illinois College of Med
+ icine 2026 Research Forum\, Nov 6\, 2026\, Chicago\, Illinois\, Thompson
+  Rooms\, Student Center West\nhttps://medicine.uic.edu/com-research/rese
+ arch-forum/submission-information/
+LOCATION:Chicago\, Illinois\, Thompson Rooms\, Student Center West
+URL:https://medicine.uic.edu/com-research/research-forum/submission-infor
+ mation/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 abstract submission dea
+ dline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 abstract submission dea
+ dline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 abstract submission dea
+ dline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-uic-com-research-forum-2026-20261016-poster-printing-deadline@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Deadline: UIC COM Research Forum 2026 poster printing deadline
+DESCRIPTION:Only applies to presenters using CDS for poster printing\nMee
+ ting: University of Illinois College of Medicine 2026 Research Forum\, N
+ ov 6\, 2026\, Chicago\, Illinois\, Thompson Rooms\, Student Center West\
+ nhttps://medicine.uic.edu/com-research/research-forum/submission-informa
+ tion/
+LOCATION:Chicago\, Illinois\, Thompson Rooms\, Student Center West
+URL:https://medicine.uic.edu/com-research/research-forum/submission-infor
+ mation/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 poster printing deadlin
+ e
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 poster printing deadlin
+ e
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 poster printing deadlin
+ e
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isns-illinois-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:10th Annual Meeting of the Illinois State Neurological Society
+DESCRIPTION:The Illinois State Neurological Society holds its tenth annua
+ l meeting on 7 November 2026 at the DoubleTree by Hilton Chicago Magnifi
+ cent Mile. The one day educational program covers topics including acute
+  ischemic stroke management\, pediatric neuromuscular disease\, and narc
+ olepsy treatment.\n\nhttps://web.cvent.com/event/fc794745-1147-4f7b-9065
+ -5dbaad99f76a/summary
+LOCATION:Chicago\, Illinois\, DoubleTree by Hilton Chicago Magnificent Mi
+ le
+URL:https://web.cvent.com/event/fc794745-1147-4f7b-9065-5dbaad99f76a/summ
+ ary
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10th Annual Meeting of the Illinois State Neurological Societ
+ y
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aas-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261115
+SUMMARY:37th International Symposium on the Autonomic Nervous System (Ame
+ rican Autonomic Society Annual Meeting 2026)
+DESCRIPTION:The American Autonomic Society Annual Meeting\, held as the I
+ nternational Symposium on the Autonomic Nervous System\, covers structur
+ e\, function and disorders of the autonomic nervous system. The 2026 edi
+ tion is the 37th symposium\, featuring plenary lectures\, symposium sess
+ ions and a poster competition.\n\nDeadlines\nLate breaking abstract subm
+ ission deadline: 2026-09-15\nEarly registration deadline: 2026-09-15\n\n
+ https://americanautonomicsociety.org/meeting/
+LOCATION:San Diego\, California\, Paradise Point Resort & Spa
+URL:https://americanautonomicsociety.org/meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:37th International Symposium on the Autonomic Nervous System 
+ (American Autonomic Society Annual Meeting 2026)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aas-annual-2026-20260915-late-breaking-abstract-submission-deadline@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Deadline: AAS 2026 late breaking abstract submission deadline
+DESCRIPTION:Reserved for high-impact data that becomes available after th
+ e general deadline\, not a general deadline extension\nMeeting: 37th Int
+ ernational Symposium on the Autonomic Nervous System (American Autonomic
+  Society Annual Meeting 2026)\, Nov 10 to 14\, 2026\, San Diego\, Califo
+ rnia\, Paradise Point Resort & Spa\nhttps://americanautonomicsociety.org
+ /abstract-submission/
+LOCATION:San Diego\, California\, Paradise Point Resort & Spa
+URL:https://americanautonomicsociety.org/abstract-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 late breaking abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 late breaking abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 late breaking abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aas-annual-2026-20260915-early-registration-deadline@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Deadline: AAS 2026 early registration deadline
+DESCRIPTION:Meeting: 37th International Symposium on the Autonomic Nervou
+ s System (American Autonomic Society Annual Meeting 2026)\, Nov 10 to 14
+ \, 2026\, San Diego\, California\, Paradise Point Resort & Spa\nhttps://
+ americanautonomicsociety.org/conference-registration/
+LOCATION:San Diego\, California\, Paradise Point Resort & Spa
+URL:https://americanautonomicsociety.org/conference-registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Society for Neuro-Oncology 31st Annual Meeting and Education Day 
+ 2026
+DESCRIPTION:The SNO Annual Meeting is a multidisciplinary conference on n
+ euro-oncology research\, diagnosis and treatment\, expecting more than 3
+ 000 attendees from over 40 countries. Accepted abstracts are published i
+ n the journal Neuro-Oncology.\n\nDeadlines\nRegular abstract submission 
+ deadline: 2026-05-26\nLate-breaking abstract placeholder submission dead
+ line: 2026-05-26\nLate-breaking abstract final submission deadline: 2026
+ -09-04\nEarly bird registration deadline: 2026-09-11\nPresenter registra
+ tion deadline: 2026-09-18\n\nhttps://sno2026.oa-event.com/
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society for Neuro-Oncology 31st Annual Meeting and Education 
+ Day 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026-20260526-regular-abstract-submission-deadline@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Deadline: SNO 2026 regular abstract submission deadline
+DESCRIPTION:11:59 pm ET\, firm deadline\, cannot be extended\nMeeting: So
+ ciety for Neuro-Oncology 31st Annual Meeting and Education Day 2026\, No
+ v 12 to 15\, 2026\, Philadelphia\, Pennsylvania\, Pennsylvania Conventio
+ n Center\nhttps://sno2026.oa-event.com/submit
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 regular abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 regular abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 regular abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026-20260526-late-breaking-abstract-placeholder-submissio
+ n-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Deadline: SNO 2026 late-breaking abstract placeholder submission 
+ deadline
+DESCRIPTION:11:59 pm ET\nMeeting: Society for Neuro-Oncology 31st Annual 
+ Meeting and Education Day 2026\, Nov 12 to 15\, 2026\, Philadelphia\, Pe
+ nnsylvania\, Pennsylvania Convention Center\nhttps://sno2026.oa-event.co
+ m/submit
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract placeholder submiss
+ ion deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract placeholder submiss
+ ion deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract placeholder submiss
+ ion deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026-20260904-late-breaking-abstract-final-submission-dead
+ line@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Deadline: SNO 2026 late-breaking abstract final submission deadli
+ ne
+DESCRIPTION:5:00 pm ET\nMeeting: Society for Neuro-Oncology 31st Annual M
+ eeting and Education Day 2026\, Nov 12 to 15\, 2026\, Philadelphia\, Pen
+ nsylvania\, Pennsylvania Convention Center\nhttps://sno2026.oa-event.com
+ /submit
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract final submission de
+ adline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract final submission de
+ adline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract final submission de
+ adline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026-20260911-early-bird-registration-deadline@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Deadline: SNO 2026 early bird registration deadline
+DESCRIPTION:Meeting: Society for Neuro-Oncology 31st Annual Meeting and E
+ ducation Day 2026\, Nov 12 to 15\, 2026\, Philadelphia\, Pennsylvania\, 
+ Pennsylvania Convention Center\nhttps://sno2026.oa-event.com/registratio
+ n
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/registration
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 early bird registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 early bird registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 early bird registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026-20260918-presenter-registration-deadline@conference-c
+ alendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Deadline: SNO 2026 presenter registration deadline
+DESCRIPTION:11:59 pm ET\, required for all accepted presenters\nMeeting: 
+ Society for Neuro-Oncology 31st Annual Meeting and Education Day 2026\, 
+ Nov 12 to 15\, 2026\, Philadelphia\, Pennsylvania\, Pennsylvania Convent
+ ion Center\nhttps://sno2026.oa-event.com/submit
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 presenter registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 presenter registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 presenter registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ctad-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261120
+SUMMARY:19th Clinical Trials on Alzheimer's Disease (CTAD) Conference 202
+ 6
+DESCRIPTION:CTAD is an annual conference focused exclusively on clinical 
+ trials and drug development for Alzheimer's disease. All sessions are he
+ ld in a single track\, bringing together investigators\, clinicians\, in
+ dustry scientists and regulators.\n\nDeadlines\nAbstract submission open
+ s: 2026-04-15\nAbstract submission deadline: 2026-06-02\nLate call for a
+ bstracts opens: 2026-07-15\nLate call abstract submission deadline: 2026
+ -09-03\nRegistration opens: 2026-04-01\nEarly registration deadline: 202
+ 6-10-01\n\nhttps://www.ctad-alzheimer.com/
+LOCATION:Boston\, Massachusetts\, Boston Park Plaza Hotel
+URL:https://www.ctad-alzheimer.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:19th Clinical Trials on Alzheimer's Disease (CTAD) Conference
+  2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ctad-2026-20260602-abstract-submission-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Deadline: CTAD 2026 abstract submission deadline
+DESCRIPTION:Meeting: 19th Clinical Trials on Alzheimer's Disease (CTAD) C
+ onference 2026\, Nov 16 to 19\, 2026\, Boston\, Massachusetts\, Boston P
+ ark Plaza Hotel\nhttps://www.ctad-alzheimer.com/
+LOCATION:Boston\, Massachusetts\, Boston Park Plaza Hotel
+URL:https://www.ctad-alzheimer.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ctad-2026-20260903-late-call-abstract-submission-deadline@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Deadline: CTAD 2026 late call abstract submission deadline
+DESCRIPTION:Meeting: 19th Clinical Trials on Alzheimer's Disease (CTAD) C
+ onference 2026\, Nov 16 to 19\, 2026\, Boston\, Massachusetts\, Boston P
+ ark Plaza Hotel\nhttps://www.ctad-alzheimer.com/
+LOCATION:Boston\, Massachusetts\, Boston Park Plaza Hotel
+URL:https://www.ctad-alzheimer.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 late call abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 late call abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 late call abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ctad-2026-20261001-early-registration-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Deadline: CTAD 2026 early registration deadline
+DESCRIPTION:Meeting: 19th Clinical Trials on Alzheimer's Disease (CTAD) C
+ onference 2026\, Nov 16 to 19\, 2026\, Boston\, Massachusetts\, Boston P
+ ark Plaza Hotel\nhttps://www.ctad-alzheimer.com/
+LOCATION:Boston\, Massachusetts\, Boston Park Plaza Hotel
+URL:https://www.ctad-alzheimer.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTAD 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ahs-scottsdale-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:2026 Scottsdale Headache Symposium
+DESCRIPTION:The American Headache Society holds its Scottsdale Headache S
+ ymposium at the Westin Kierland Resort and Spa in Scottsdale\, Arizona\,
+  from 3 to 6 December 2026. The symposium offers continuing medical educ
+ ation on the diagnosis and treatment of headache disorders.\n\nDeadlines
+ \nRegistration cancellation deadline: 2026-11-11\n\nhttps://americanhead
+ achesociety.org/events/2026-scottsdale-headache-symposium
+LOCATION:Scottsdale\, Arizona\, The Westin Kierland Resort and Spa
+URL:https://americanheadachesociety.org/events/2026-scottsdale-headache-s
+ ymposium
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 Scottsdale Headache Symposium
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ahs-scottsdale-2026-20261111-registration-cancellation-deadline@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Deadline: AHS Scottsdale 2026 registration cancellation deadline
+DESCRIPTION:Also the hotel room block cutoff date for the discounted grou
+ p rate\; cancellations after this date forfeit a 100 dollar processing f
+ ee.\nMeeting: 2026 Scottsdale Headache Symposium\, Dec 03 to 06\, 2026\,
+  Scottsdale\, Arizona\, The Westin Kierland Resort and Spa\nhttps://amer
+ icanheadachesociety.org/events/2026-scottsdale-headache-symposium
+LOCATION:Scottsdale\, Arizona\, The Westin Kierland Resort and Spa
+URL:https://americanheadachesociety.org/events/2026-scottsdale-headache-s
+ ymposium
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS Scottsdale 2026 registration cancellation deadl
+ ine
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS Scottsdale 2026 registration cancellation deadl
+ ine
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS Scottsdale 2026 registration cancellation deadl
+ ine
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aes-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261209
+SUMMARY:American Epilepsy Society Annual Meeting 2026
+DESCRIPTION:The American Epilepsy Society holds its annual meeting in Den
+ ver\, Colorado\, from December 4 to 8\, 2026. The meeting presents clini
+ cal and basic science research on epilepsy along with education programs
+  for clinicians and trainees.\n\nDeadlines\nAbstract submission opens: 2
+ 026-04-13\nAbstract submission: 2026-06-08\nTravel award application: 20
+ 26-06-08\nEarly registration deadline: 2026-10-07\n\nhttps://aesnet.org/
+ AES-annual-meeting
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aesnet.org/AES-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Epilepsy Society Annual Meeting 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aes-annual-2026-20260608-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Deadline: AES 2026 abstract submission
+DESCRIPTION:11:59 PM EST deadline\, confirmed directly on the official ab
+ stract FAQ page. Abstract submission fees are non refundable.\nMeeting: 
+ American Epilepsy Society Annual Meeting 2026\, Dec 04 to 08\, 2026\, De
+ nver\, Colorado\, Colorado Convention Center\nhttps://aesnet.org/AES-ann
+ ual-meeting/abstracts/abstract-faqs
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aesnet.org/AES-annual-meeting/abstracts/abstract-faqs
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aes-annual-2026-20260608-travel-award-application@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Deadline: AES 2026 travel award application
+DESCRIPTION:Travel and scholarship awards (e.g. Eileen M. Murray First-Ge
+ neration Travel Award\, Jack M. Pellock Pediatric Travel Award) are requ
+ ested as part of the abstract submission process\, so the deadline is ta
+ ken to align with the abstract submission deadline\; the official abstra
+ ct awards page does not publish a separate stand-alone date and states a
+ ward notifications go out in late August 2026.\nMeeting: American Epilep
+ sy Society Annual Meeting 2026\, Dec 04 to 08\, 2026\, Denver\, Colorado
+ \, Colorado Convention Center\nhttps://aesnet.org/AES-annual-meeting/abs
+ tracts/abstract-awards
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aesnet.org/AES-annual-meeting/abstracts/abstract-awards
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 travel award application
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 travel award application
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 travel award application
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aes-annual-2026-20261007-early-registration-deadline@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Deadline: AES 2026 early registration deadline
+DESCRIPTION:Early bird registration rate available through October 7\, 20
+ 26\, confirmed directly on the official registration rates page\; standa
+ rd rates apply afterward.\nMeeting: American Epilepsy Society Annual Mee
+ ting 2026\, Dec 04 to 08\, 2026\, Denver\, Colorado\, Colorado Conventio
+ n Center\nhttps://aesnet.org/AES-annual-meeting/registration-information
+ /registration-rates
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aesnet.org/AES-annual-meeting/registration-information/regist
+ ration-rates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asn-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270118
+SUMMARY:50th American Society of Neuroimaging Annual Meeting
+DESCRIPTION:50th anniversary annual meeting of the American Society of Ne
+ uroimaging on clinical and research applications of neuroimaging.\n\nDea
+ dlines\nAbstract submission: 2026-07-01\n\nhttps://www.asnweb.org/2027-a
+ nnual-meeting
+LOCATION:Hilton Head Island\, South Carolina\, Omni Hilton Head Oceanfron
+ t Resort
+URL:https://www.asnweb.org/2027-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:50th American Society of Neuroimaging Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asn-annual-2027-20260701-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Deadline: ASN 2027 abstract submission
+DESCRIPTION:deadline for presentation consideration\nMeeting: 50th Americ
+ an Society of Neuroimaging Annual Meeting\, Jan 15 to 17\, 2027\, Hilton
+  Head Island\, South Carolina\, Omni Hilton Head Oceanfront Resort\nhttp
+ s://www.asnweb.org/2027-annual-meeting
+LOCATION:Hilton Head Island\, South Carolina\, Omni Hilton Head Oceanfron
+ t Resort
+URL:https://www.asnweb.org/2027-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASN 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASN 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASN 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nans-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270125
+SUMMARY:North American Neuromodulation Society Annual Meeting 2027
+DESCRIPTION:Annual meeting of the North American Neuromodulation Society\
+ , themed Neuromodulation Without Boundaries.\n\nDeadlines\nRegistration 
+ and housing open: 2026-09-10\nAbstract submission opens: 2026-06-01\nAbs
+ tract submission: 2026-08-17\nLate-breaking abstract submission opens: 2
+ 026-10-19\nEarly registration: 2026-10-27\nLate-breaking abstract submis
+ sion: 2026-11-02\nHousing deadline: 2026-12-28\n\nhttps://www.nans.org/a
+ nnual-meeting
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.nans.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:North American Neuromodulation Society Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nans-annual-2027-20260817-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Deadline: NANS 2027 abstract submission
+DESCRIPTION:1:00 pm CDT\; regular abstract track\nMeeting: North American
+  Neuromodulation Society Annual Meeting 2027\, Jan 21 to 24\, 2027\, Las
+  Vegas\, Nevada\, Caesars Palace\nhttps://www.nans.org/abstracts/
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.nans.org/abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nans-annual-2027-20261027-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deadline: NANS 2027 early registration
+DESCRIPTION:Meeting: North American Neuromodulation Society Annual Meetin
+ g 2027\, Jan 21 to 24\, 2027\, Las Vegas\, Nevada\, Caesars Palace\nhttp
+ s://www.nans.org/annual-meeting
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.nans.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nans-annual-2027-20261102-late-breaking-abstract-submission@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Deadline: NANS 2027 late-breaking abstract submission
+DESCRIPTION:1:00 pm CST\nMeeting: North American Neuromodulation Society 
+ Annual Meeting 2027\, Jan 21 to 24\, 2027\, Las Vegas\, Nevada\, Caesars
+  Palace\nhttps://www.nans.org/abstracts/
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.nans.org/abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nans-annual-2027-20261228-housing-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Deadline: NANS 2027 housing deadline
+DESCRIPTION:Meeting: North American Neuromodulation Society Annual Meetin
+ g 2027\, Jan 21 to 24\, 2027\, Las Vegas\, Nevada\, Caesars Palace\nhttp
+ s://www.nans.org/annual-meeting
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.nans.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 housing deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 housing deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 housing deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isc-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270213
+SUMMARY:International Stroke Conference 2027
+DESCRIPTION:The International Stroke Conference is the annual scientific 
+ meeting of the American Stroke Association\, a division of the American 
+ Heart Association\, focused on cerebrovascular disease research and clin
+ ical stroke care. The 2027 conference runs February 10 to 12\, 2027\, in
+  Houston\, Texas\, with pre-conference symposia held on February 9\, 202
+ 7.\n\nDeadlines\nAbstract submission deadline: 2026-08-18\nLate-breaking
+  science submission opens: 2026-09-30\nLate-breaking science submission 
+ deadline: 2026-10-28\n\nhttps://professional.heart.org/en/meetings/inter
+ national-stroke-conference
+LOCATION:Houston\, Texas\, George R. Brown Convention Center
+URL:https://professional.heart.org/en/meetings/international-stroke-confe
+ rence
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:International Stroke Conference 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isc-2027-20260818-abstract-submission-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Deadline: ISC 2027 abstract submission deadline
+DESCRIPTION:11:59 p.m. CDT\, per search snippet of the official submissio
+ n page.\nMeeting: International Stroke Conference 2027\, Feb 10 to 12\, 
+ 2027\, Houston\, Texas\, George R. Brown Convention Center\nhttps://prof
+ essional.heart.org/en/meetings/international-stroke-conference/submit-sc
+ ience
+LOCATION:Houston\, Texas\, George R. Brown Convention Center
+URL:https://professional.heart.org/en/meetings/international-stroke-confe
+ rence/submit-science
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isc-2027-20261028-late-breaking-science-submission-deadline@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deadline: ISC 2027 late-breaking science submission deadline
+DESCRIPTION:Late-breaking science and ongoing clinical trials submission 
+ period close\, per search snippet of the official submission page.\nMeet
+ ing: International Stroke Conference 2027\, Feb 10 to 12\, 2027\, Housto
+ n\, Texas\, George R. Brown Convention Center\nhttps://professional.hear
+ t.org/en/meetings/international-stroke-conference/submit-science
+LOCATION:Houston\, Texas\, George R. Brown Convention Center
+URL:https://professional.heart.org/en/meetings/international-stroke-confe
+ rence/submit-science
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 late-breaking science submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 late-breaking science submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 late-breaking science submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-medx-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:MEdX 2027: Medical Education Experience Conference and Faculty an
+ d Staff Awards
+DESCRIPTION:MEdX is Carle Illinois College of Medicine's annual daylong m
+ edical education conference for faculty\, students and staff\, held toge
+ ther with the college's Faculty and Staff Awards. It covers best practic
+ es and scholarly work in medical education and is usually held in late J
+ anuary or early February at the I Hotel and Conference Center in Champai
+ gn.\n\nhttps://calendars.illinois.edu/list/5988
+LOCATION:Champaign\, Illinois\, I Hotel and Conference Center
+URL:https://calendars.illinois.edu/list/5988
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MEdX 2027: Medical Education Experience Conference and Facult
+ y and Staff Awards
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acns-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270308
+SUMMARY:ACNS 2027 Annual Meeting and Courses
+DESCRIPTION:The American Clinical Neurophysiology Society holds its 2027 
+ Annual Meeting and Courses at the Hyatt Regency Seattle in Seattle\, Was
+ hington\, from 4 to 7 March 2027. The program covers clinical neurophysi
+ ology topics including EEG\, EMG\, and neurocritical care monitoring.\n\
+ nDeadlines\nScientific program and course submission opens: 2026-04-15\n
+ Scientific program and course submission: 2026-05-31\nPoster abstract su
+ bmission opens: 2026-10-01\nPoster abstract submission: 2026-11-15\nHous
+ ing block deadline: 2027-02-08\n\nhttps://www.acns.org/meetings/meetings
+ --programs-calendar/2027
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.acns.org/meetings/meetings--programs-calendar/2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACNS 2027 Annual Meeting and Courses
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acns-annual-2027-20260531-scientific-program-and-course-submission@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Deadline: ACNS 2027 scientific program and course submission
+DESCRIPTION:Closing date for scientific program and course proposals.\nMe
+ eting: ACNS 2027 Annual Meeting and Courses\, Mar 04 to 07\, 2027\, Seat
+ tle\, Washington\, Hyatt Regency Seattle\nhttps://www.acns.org/meetings/
+ annual-meeting-and-courses
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.acns.org/meetings/annual-meeting-and-courses
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 scientific program and course submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 scientific program and course submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 scientific program and course submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acns-annual-2027-20261115-poster-abstract-submission@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Deadline: ACNS 2027 poster abstract submission
+DESCRIPTION:Poster abstract submission deadline.\nMeeting: ACNS 2027 Annu
+ al Meeting and Courses\, Mar 04 to 07\, 2027\, Seattle\, Washington\, Hy
+ att Regency Seattle\nhttps://www.acns.org/meetings/annual-meeting-and-co
+ urses
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.acns.org/meetings/annual-meeting-and-courses
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 poster abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 poster abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 poster abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acns-annual-2027-20270208-housing-block-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Deadline: ACNS 2027 housing block deadline
+DESCRIPTION:Hotel room block cutoff\, not a program submission deadline.\
+ nMeeting: ACNS 2027 Annual Meeting and Courses\, Mar 04 to 07\, 2027\, S
+ eattle\, Washington\, Hyatt Regency Seattle\nhttps://www.acns.org/meetin
+ gs/annual-meeting-and-courses
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.acns.org/meetings/annual-meeting-and-courses
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 housing block deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 housing block deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 housing block deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270314
+SUMMARY:ACTRIMS Forum 2027
+DESCRIPTION:ACTRIMS Forum is the annual scientific and clinical meeting o
+ f the Americas Committee for Treatment and Research in Multiple Sclerosi
+ s. The 2027 Forum\, themed Charting the Path Forward\, is held in Phoeni
+ x\, Arizona with an online option for virtual attendees.\n\nDeadlines\nA
+ bstract submission opens: 2026-08-03\nRegular abstract submission deadli
+ ne: 2026-11-06\nLate-breaking abstract submission opens: 2026-11-09\nLat
+ e-breaking abstract submission deadline: 2026-12-04\nAbstract notificati
+ on: 2027-01-08\nEarly registration deadline: 2027-02-10\nGroup registrat
+ ion deadline: 2027-02-15\nIn-person registration deadline: 2027-03-01\nV
+ irtual registration deadline: 2027-03-10\n\nhttps://www.forum.actrims.or
+ g/
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACTRIMS Forum 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20261106-regular-abstract-submission-deadline@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Deadline: ACTRIMS Forum 2027 regular abstract submission deadline
+DESCRIPTION:Stated as no extension.\nMeeting: ACTRIMS Forum 2027\, Mar 11
+  to 13\, 2027\, Phoenix\, Arizona\, Phoenix Convention Center\nhttps://w
+ ww.forum.actrims.org/submit
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 regular abstract submission dead
+ line
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 regular abstract submission dead
+ line
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 regular abstract submission dead
+ line
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20261204-late-breaking-abstract-submission-deadlin
+ e@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Deadline: ACTRIMS Forum 2027 late-breaking abstract submission de
+ adline
+DESCRIPTION:Meeting: ACTRIMS Forum 2027\, Mar 11 to 13\, 2027\, Phoenix\,
+  Arizona\, Phoenix Convention Center\nhttps://www.forum.actrims.org/subm
+ it
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 late-breaking abstract submissio
+ n deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 late-breaking abstract submissio
+ n deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 late-breaking abstract submissio
+ n deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20270210-early-registration-deadline@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Deadline: ACTRIMS Forum 2027 early registration deadline
+DESCRIPTION:Early bird pricing ends\; regular pricing applies February 11
+  through March 1.\nMeeting: ACTRIMS Forum 2027\, Mar 11 to 13\, 2027\, P
+ hoenix\, Arizona\, Phoenix Convention Center\nhttps://www.forum.actrims.
+ org/register
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/register
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20270215-group-registration-deadline@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Deadline: ACTRIMS Forum 2027 group registration deadline
+DESCRIPTION:Meeting: ACTRIMS Forum 2027\, Mar 11 to 13\, 2027\, Phoenix\,
+  Arizona\, Phoenix Convention Center\nhttps://www.forum.actrims.org/regi
+ ster
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/register
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 group registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 group registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 group registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20270301-in-person-registration-deadline@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Deadline: ACTRIMS Forum 2027 in-person registration deadline
+DESCRIPTION:Also the cancellation/refund deadline.\nMeeting: ACTRIMS Foru
+ m 2027\, Mar 11 to 13\, 2027\, Phoenix\, Arizona\, Phoenix Convention Ce
+ nter\nhttps://www.forum.actrims.org/register
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/register
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 in-person registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 in-person registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 in-person registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20270310-virtual-registration-deadline@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Deadline: ACTRIMS Forum 2027 virtual registration deadline
+DESCRIPTION:12:00 p.m. Mountain Time\, virtual pass only.\nMeeting: ACTRI
+ MS Forum 2027\, Mar 11 to 13\, 2027\, Phoenix\, Arizona\, Phoenix Conven
+ tion Center\nhttps://www.forum.actrims.org/register
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/register
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 virtual registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 virtual registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 virtual registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adpd-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270321
+SUMMARY:AD/PD 2027\, 21st International Conference on Alzheimer's and Par
+ kinson's Diseases
+DESCRIPTION:AD/PD is a biennial hybrid conference covering advances in sc
+ ience and therapy for Alzheimer's disease\, Parkinson's disease and rela
+ ted neurodegenerative disorders. The 2027 edition is the 21st in the ser
+ ies and is expected to draw about 5000 delegates.\n\nDeadlines\nAbstract
+  submission deadline: 2026-09-01\nAbstract submission deadline (extended
+ ): 2026-09-08\nEarly registration deadline: 2026-12-09\n\nhttps://adpd.k
+ enes.com/
+LOCATION:Barcelona\, Catalonia\, ES\, Centre Convencions Internacional Ba
+ rcelona (CCIB)
+URL:https://adpd.kenes.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AD/PD 2027\, 21st International Conference on Alzheimer's and
+  Parkinson's Diseases
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adpd-2027-20260901-abstract-submission-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Deadline: AD/PD 2027 abstract submission deadline
+DESCRIPTION:Initial deadline\nMeeting: AD/PD 2027\, 21st International Co
+ nference on Alzheimer's and Parkinson's Diseases\, Mar 16 to 20\, 2027\,
+  Barcelona\, Catalonia\, ES\, Centre Convencions Internacional Barcelona
+  (CCIB)\nhttps://adpd.kenes.com/abstract-submission/
+LOCATION:Barcelona\, Catalonia\, ES\, Centre Convencions Internacional Ba
+ rcelona (CCIB)
+URL:https://adpd.kenes.com/abstract-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adpd-2027-20260908-abstract-submission-deadline-extended-@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Deadline: AD/PD 2027 abstract submission deadline (extended)
+DESCRIPTION:Extended deadline\, midnight CET\nMeeting: AD/PD 2027\, 21st 
+ International Conference on Alzheimer's and Parkinson's Diseases\, Mar 1
+ 6 to 20\, 2027\, Barcelona\, Catalonia\, ES\, Centre Convencions Interna
+ cional Barcelona (CCIB)\nhttps://adpd.kenes.com/abstract-submission/
+LOCATION:Barcelona\, Catalonia\, ES\, Centre Convencions Internacional Ba
+ rcelona (CCIB)
+URL:https://adpd.kenes.com/abstract-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline (extended)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline (extended)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline (extended)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adpd-2027-20261209-early-registration-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Deadline: AD/PD 2027 early registration deadline
+DESCRIPTION:Meeting: AD/PD 2027\, 21st International Conference on Alzhei
+ mer's and Parkinson's Diseases\, Mar 16 to 20\, 2027\, Barcelona\, Catal
+ onia\, ES\, Centre Convencions Internacional Barcelona (CCIB)\nhttps://a
+ dpd.kenes.com/
+LOCATION:Barcelona\, Catalonia\, ES\, Centre Convencions Internacional Ba
+ rcelona (CCIB)
+URL:https://adpd.kenes.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asnr-neurorehab-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+SUMMARY:American Society of Neurorehabilitation Annual Meeting 2027 (ASNR
+ 2027)
+DESCRIPTION:The American Society of Neurorehabilitation Annual Meeting br
+ ings together clinicians and researchers working on recovery of function
+  after neurological injury\, with a focus areas including stroke motor r
+ ecovery and neuromodulation. The 2027 meeting is currently announced onl
+ y as a save the date.\n\nhttps://www.asnr.com/i4a/pages/index.cfm?pageid
+ =3717
+LOCATION:Durham\, North Carolina\, Durham Convention Center
+URL:https://www.asnr.com/i4a/pages/index.cfm?pageid=3717
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Society of Neurorehabilitation Annual Meeting 2027 (
+ ASNR2027)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asent-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270320
+SUMMARY:ASENT 2027 Annual Meeting and Clinical Trials Course
+DESCRIPTION:Annual meeting of the American Society for Experimental Neuro
+ Therapeutics on drug and device development for nervous system disorders
+ \, preceded by a Clinical Trials Course on March 15 to 16\, 2027.\n\nDea
+ dlines\nAbstract submission: 2026-09-07\n\nhttps://www.asent.org/event-6
+ 832053
+LOCATION:Bethesda\, Maryland\, Hyatt Regency Bethesda
+URL:https://www.asent.org/event-6832053
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASENT 2027 Annual Meeting and Clinical Trials Course
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asent-annual-2027-20260907-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Deadline: ASENT 2027 abstract submission
+DESCRIPTION:date found only on the ASENT homepage listing\; not independe
+ ntly confirmed on the abstract guidelines page itself\nMeeting: ASENT 20
+ 27 Annual Meeting and Clinical Trials Course\, Mar 17 to 19\, 2027\, Bet
+ hesda\, Maryland\, Hyatt Regency Bethesda\nhttps://www.asent.org/Abstrac
+ t-Guidelines
+LOCATION:Bethesda\, Maryland\, Hyatt Regency Bethesda
+URL:https://www.asent.org/Abstract-Guidelines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASENT 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASENT 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASENT 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nanos-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270324
+SUMMARY:NANOS 53rd Annual Meeting 2027
+DESCRIPTION:The NANOS Annual Meeting is the principal scientific meeting 
+ of the North American Neuro-Ophthalmology Society. The 53rd edition is s
+ cheduled for San Diego\, California.\n\nhttps://www.nanosweb.org/i4a/pag
+ es/index.cfm?pageid=4040
+LOCATION:San Diego\, California\, Sheraton San Diego Hotel & Marina
+URL:https://www.nanosweb.org/i4a/pages/index.cfm?pageid=4040
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NANOS 53rd Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270324
+SUMMARY:Cognitive Neuroscience Society Annual Meeting 2027
+DESCRIPTION:The Cognitive Neuroscience Society holds its annual meeting o
+ n the biological basis of mind in Boston\, Massachusetts. The program in
+ cludes invited symposia\, poster sessions and the society's career and y
+ oung investigator award lectures.\n\nDeadlines\nSubmissions open: 2026-0
+ 9-01\nSymposium proposal submission: 2026-09-14\nAward nomination (Georg
+ e A. Miller and Distinguished Career Contributions): 2026-09-25\nAward n
+ omination (Young Investigator): 2026-10-02\nTravel award application ope
+ ns: 2026-10-05\nRegistration opens: 2026-10-23\nAbstract submission (pos
+ ter): 2026-11-03\nTravel award application deadline: 2026-11-03\nLate-br
+ eaking abstract submission: 2027-01-19\nEarly registration: 2027-01-05\n
+ Hotel reservation deadline: 2027-02-24\n\nhttps://www.cogneurosociety.or
+ g/annual-meeting/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cognitive Neuroscience Society Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20260914-symposium-proposal-submission@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Deadline: CNS 2027 symposium proposal submission
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 symposium proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 symposium proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 symposium proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20260925-award-nomination-george-a-miller-and-disting
+ uished-career-contributions-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Deadline: CNS 2027 award nomination (george a. miller and disting
+ uished career contributions)
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (george a. miller and dis
+ tinguished career contributions)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (george a. miller and dis
+ tinguished career contributions)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (george a. miller and dis
+ tinguished career contributions)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20261002-award-nomination-young-investigator-@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Deadline: CNS 2027 award nomination (young investigator)
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (young investigator)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (young investigator)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (young investigator)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20261103-abstract-submission-poster-@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Deadline: CNS 2027 abstract submission (poster)
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 abstract submission (poster)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 abstract submission (poster)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 abstract submission (poster)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20261103-travel-award-application-deadline@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Deadline: CNS 2027 travel award application deadline
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 travel award application deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 travel award application deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 travel award application deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20270119-late-breaking-abstract-submission@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Deadline: CNS 2027 late-breaking abstract submission
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20270105-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Deadline: CNS 2027 early registration
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20270224-hotel-reservation-deadline@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Deadline: CNS 2027 hotel reservation deadline
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 hotel reservation deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 hotel reservation deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 hotel reservation deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aans-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270413
+SUMMARY:AANS Annual Scientific Meeting 2027
+DESCRIPTION:Annual scientific meeting of the American Association of Neur
+ ological Surgeons\, themed Navigating the Impossible.\n\nDeadlines\nAbst
+ ract submission opens: 2026-07-22\nAbstract submission: 2026-10-01\nAbst
+ ract notification: 2027-01-15 (estimated)\nRegistration deadline (presen
+ ting authors): 2027-03-05\n\nhttps://annualmeeting.aans.org/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://annualmeeting.aans.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AANS Annual Scientific Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aans-annual-2027-20261001-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Deadline: AANS 2027 abstract submission
+DESCRIPTION:11:59 pm ET\nMeeting: AANS Annual Scientific Meeting 2027\, A
+ pr 09 to 12\, 2027\, San Diego\, California\, San Diego Convention Cente
+ r\nhttps://annualmeeting.aans.org/abstract-center/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://annualmeeting.aans.org/abstract-center/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aans-annual-2027-20270305-registration-deadline-presenting-authors-@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Deadline: AANS 2027 registration deadline (presenting authors)
+DESCRIPTION:accepted abstracts are declined if the presenting author has 
+ not registered by this date\nMeeting: AANS Annual Scientific Meeting 202
+ 7\, Apr 09 to 12\, 2027\, San Diego\, California\, San Diego Convention 
+ Center\nhttps://annualmeeting.aans.org/abstract-center/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://annualmeeting.aans.org/abstract-center/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 registration deadline (presenting authors
+ )
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 registration deadline (presenting authors
+ )
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 registration deadline (presenting authors
+ )
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aan-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270506
+SUMMARY:2027 AAN Annual Meeting
+DESCRIPTION:The AAN Annual Meeting is the flagship scientific and educati
+ onal meeting of the American Academy of Neurology. The 2027 edition is h
+ eld in Washington\, D.C. and online\, with plenary sessions\, abstract p
+ resentations\, and continuing medical education across neurology subspec
+ ialties.\n\nDeadlines\nAbstract submission deadline: 2026-10-13\nAbstrac
+ t disclosure deadline: 2026-11-19\nLate-breaking abstract submission ope
+ ns: 2026-12-01\nLate-breaking abstract submission deadline: 2027-02-10\n
+ \nhttps://www.aan.com/events/annual-meeting
+LOCATION:Washington\, District of Columbia
+URL:https://www.aan.com/events/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 AAN Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aan-annual-2027-20261013-abstract-submission-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Deadline: AAN 2027 abstract submission deadline
+DESCRIPTION:11:59 p.m. Central Time. A non-refundable submission fee appl
+ ies and accepted abstracts must be presented in person.\nMeeting: 2027 A
+ AN Annual Meeting\, May 01 to 05\, 2027\, Washington\, District of Colum
+ bia\nhttps://www.aan.com/events/annual-meeting/abstracts
+LOCATION:Washington\, District of Columbia
+URL:https://www.aan.com/events/annual-meeting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aan-annual-2027-20261119-abstract-disclosure-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Deadline: AAN 2027 abstract disclosure deadline
+DESCRIPTION:11:59 p.m. Central Time\, required for submitted abstracts.\n
+ Meeting: 2027 AAN Annual Meeting\, May 01 to 05\, 2027\, Washington\, Di
+ strict of Columbia\nhttps://www.aan.com/events/annual-meeting/abstracts
+LOCATION:Washington\, District of Columbia
+URL:https://www.aan.com/events/annual-meeting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract disclosure deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract disclosure deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract disclosure deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aan-annual-2027-20270210-late-breaking-abstract-submission-deadline@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Deadline: AAN 2027 late-breaking abstract submission deadline
+DESCRIPTION:11:59 p.m. Central Time.\nMeeting: 2027 AAN Annual Meeting\, 
+ May 01 to 05\, 2027\, Washington\, District of Columbia\nhttps://www.aan
+ .com/events/annual-meeting/abstracts
+LOCATION:Washington\, District of Columbia
+URL:https://www.aan.com/events/annual-meeting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 late-breaking abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 late-breaking abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 late-breaking abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-uicomp-peoria-research-day-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:University of Illinois College of Medicine Peoria Research Day 20
+ 27
+DESCRIPTION:Research Day is the annual showcase of the research enterpris
+ e on the Peoria regional campus of the University of Illinois College of
+  Medicine\, open to faculty\, students\, residents\, and fellows\, with 
+ abstract submission and poster and oral presentations\, limited to two f
+ irst author submissions per person. The 2027 edition is scheduled for Ma
+ y 5\, 2027\, though 2027 abstract and poster printing deadlines had not 
+ been published as of September 2026.\n\nhttps://peoria.medicine.uic.edu/
+ uicomp-research/research-day/
+LOCATION:Peoria\, Illinois\, University of Illinois College of Medicine P
+ eoria campus
+URL:https://peoria.medicine.uic.edu/uicomp-research/research-day/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:University of Illinois College of Medicine Peoria Research Da
+ y 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pns-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270512
+SUMMARY:2027 Peripheral Nerve Society Annual Meeting
+DESCRIPTION:The Peripheral Nerve Society Annual Meeting covers research o
+ n peripheral neuropathy\, with parallel sessions from consortia covering
+  Charcot-Marie-Tooth disease\, inflammatory neuropathies\, inherited neu
+ ropathies and related conditions. The meeting is open only to healthcare
+  professionals and researchers\, not patients or the general public.\n\n
+ Deadlines\nAbstract submission opens: 2026-09-11\nMini symposia submissi
+ on deadline: 2026-09-18\nAbstract submission deadline: 2026-12-11\nRegis
+ tration opens: 2027-01-14\nEarly bird registration deadline: 2027-03-05\
+ n\nhttps://pnsociety.com/2027-pns-annual-meeting/
+LOCATION:Chicago\, Illinois\, Hilton Chicago
+URL:https://pnsociety.com/2027-pns-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 Peripheral Nerve Society Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pns-annual-2027-20260918-mini-symposia-submission-deadline@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Deadline: PNS 2027 mini symposia submission deadline
+DESCRIPTION:Meeting: 2027 Peripheral Nerve Society Annual Meeting\, May 0
+ 8 to 11\, 2027\, Chicago\, Illinois\, Hilton Chicago\nhttps://pnsociety.
+ com/2027-pns-annual-meeting/
+LOCATION:Chicago\, Illinois\, Hilton Chicago
+URL:https://pnsociety.com/2027-pns-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 mini symposia submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 mini symposia submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 mini symposia submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pns-annual-2027-20261211-abstract-submission-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Deadline: PNS 2027 abstract submission deadline
+DESCRIPTION:End of the abstract submission window\nMeeting: 2027 Peripher
+ al Nerve Society Annual Meeting\, May 08 to 11\, 2027\, Chicago\, Illino
+ is\, Hilton Chicago\nhttps://pnsociety.com/2027-pns-annual-meeting/
+LOCATION:Chicago\, Illinois\, Hilton Chicago
+URL:https://pnsociety.com/2027-pns-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pns-annual-2027-20270305-early-bird-registration-deadline@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Deadline: PNS 2027 early bird registration deadline
+DESCRIPTION:Also the housing and group-rate deadline\nMeeting: 2027 Perip
+ heral Nerve Society Annual Meeting\, May 08 to 11\, 2027\, Chicago\, Ill
+ inois\, Hilton Chicago\nhttps://pnsociety.com/2027-pns-annual-meeting/
+LOCATION:Chicago\, Illinois\, Hilton Chicago
+URL:https://pnsociety.com/2027-pns-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 early bird registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 early bird registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 early bird registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ashnr-asnr-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270520
+SUMMARY:ASHNR/ASNR 2027 Joint Annual Meeting
+DESCRIPTION:The American Society of Neuroradiology and the American Socie
+ ty of Head and Neck Radiology hold a joint annual meeting from May 14 to
+  19\, 2027\, at the Hilton San Diego Bayfront in San Diego\, California.
+  The ASHNR portion runs May 14 to 16 and the ASNR portion runs May 16 to
+  19\, covering neuroradiology and related head and neck imaging topics.\
+ n\nDeadlines\nAbstract submission: 2026-11-04\nAbstract acceptance notif
+ ication (notif): 2027-01-29\n\nhttps://www.asnr.org/ashnr-asnr-annual-me
+ eting-2027/
+LOCATION:San Diego\, California\, Hilton San Diego Bayfront
+URL:https://www.asnr.org/ashnr-asnr-annual-meeting-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASHNR/ASNR 2027 Joint Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ashnr-asnr-annual-2027-20261104-abstract-submission@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Deadline: ASNR 2027 abstract submission
+DESCRIPTION:11:59 p.m. Eastern Time\; single deadline shared by oral pres
+ entation\, ePoster\, Excerpta\, and educational exhibit submission types
+ \, per the official call for abstracts page.\nMeeting: ASHNR/ASNR 2027 J
+ oint Annual Meeting\, May 14 to 19\, 2027\, San Diego\, California\, Hil
+ ton San Diego Bayfront\nhttps://www.asnr.org/ashnr-asnr-2027-call-for-ab
+ stracts/
+LOCATION:San Diego\, California\, Hilton San Diego Bayfront
+URL:https://www.asnr.org/ashnr-asnr-2027-call-for-abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASNR 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASNR 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASNR 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:esoc-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270522
+SUMMARY:13th European Stroke Organisation Conference
+DESCRIPTION:The European Stroke Organisation plans its 13th conference in
+  Vienna\, Austria\, from 19 to 21 May 2027\, marking the organisation's 
+ twentieth anniversary. The conference is planned as an onsite only event
+  without a virtual attendance option.\n\nhttps://eso-stroke.org/esoc2027
+ /
+LOCATION:Vienna\, Vienna\, AT
+URL:https://eso-stroke.org/esoc2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:13th European Stroke Organisation Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ibia-world-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270527
+SUMMARY:16th World Congress on Brain Injury
+DESCRIPTION:Biennial world congress of the International Brain Injury Ass
+ ociation on research\, treatment\, rehabilitation and advocacy for traum
+ atic and acquired brain injury.\n\nDeadlines\nAbstract submission: 2026-
+ 10-23\n\nhttps://braininjurycongress.org/
+LOCATION:Halifax\, Nova Scotia\, CA\, Halifax Convention Centre
+URL:https://braininjurycongress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:16th World Congress on Brain Injury
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ibia-world-congress-2027-20261023-abstract-submission@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deadline: IBIA WCBI 2027 abstract submission
+DESCRIPTION:11:59 pm ET\nMeeting: 16th World Congress on Brain Injury\, M
+ ay 23 to 26\, 2027\, Halifax\, Nova Scotia\, CA\, Halifax Convention Cen
+ tre\nhttps://braininjurycongress.org/
+LOCATION:Halifax\, Nova Scotia\, CA\, Halifax Convention Centre
+URL:https://braininjurycongress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IBIA WCBI 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IBIA WCBI 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IBIA WCBI 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cmsc-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+SUMMARY:CMSC 2027 Annual Meeting
+DESCRIPTION:The Consortium of Multiple Sclerosis Centers holds its 2027 a
+ nnual meeting at the San Diego Convention Center in San Diego\, Californ
+ ia\, from 2 to 4 June 2027. The meeting brings together clinicians and r
+ esearchers working in multiple sclerosis care.\n\nhttps://cmscscholar.or
+ g/cmsc-2027-annual-meeting/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://cmscscholar.org/cmsc-2027-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CMSC 2027 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanp-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270614
+SUMMARY:American Association of Neuropathologists 103rd Annual Meeting 20
+ 27
+DESCRIPTION:The AANP Annual Meeting is the yearly gathering of the only U
+ nited States association focused exclusively on the clinical and scienti
+ fic practice of neuropathology. The 2027 meeting is the 103rd edition an
+ d includes pre-meeting symposia the day before the main program.\n\nhttp
+ s://www.neuropath.org/upcoming-meetings
+LOCATION:Renton\, Washington\, Hyatt Regency Lake Washington
+URL:https://www.neuropath.org/upcoming-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Association of Neuropathologists 103rd Annual Meetin
+ g 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ahs-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270614
+SUMMARY:American Headache Society 69th Annual Scientific Meeting 2027
+DESCRIPTION:The American Headache Society Annual Scientific Meeting is th
+ e society's main conference for clinicians and researchers in headache a
+ nd orofacial pain medicine. The 69th meeting is scheduled for June 10 to
+  13\, 2027\, at the Gaylord Pacific Resort and Convention Center.\n\nDea
+ dlines\nAbstract submission opens: 2027-01-08 (estimated)\nAbstract subm
+ ission deadline: 2027-02-15 (estimated)\nLate-breaking abstract submissi
+ on opens: 2027-04-05 (estimated)\nLate-breaking abstract submission dead
+ line: 2027-04-26 (estimated)\n\nhttps://americanheadachesociety.org/even
+ ts/69th-annual-scientific-meeting-2
+LOCATION:San Diego\, California\, Gaylord Pacific Resort and Convention C
+ enter
+URL:https://americanheadachesociety.org/events/69th-annual-scientific-mee
+ ting-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Headache Society 69th Annual Scientific Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ahs-annual-2027-20270215-abstract-submission-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Deadline: AHS 2027 abstract submission deadline (estimated)
+DESCRIPTION:Estimated by projecting the 68th (2026) meeting's closing dat
+ e\, Monday February 9\, 2026\, forward one year to the same weekday. Off
+ icial 2027 abstract dates are not yet published.\nMeeting: American Head
+ ache Society 69th Annual Scientific Meeting 2027\, Jun 10 to 13\, 2027\,
+  San Diego\, California\, Gaylord Pacific Resort and Convention Center\n
+ https://americanheadachesociety.org/events/68th-annual-scientific-meetin
+ g/abstracts
+LOCATION:San Diego\, California\, Gaylord Pacific Resort and Convention C
+ enter
+URL:https://americanheadachesociety.org/events/68th-annual-scientific-mee
+ ting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 abstract submission deadline (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 abstract submission deadline (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 abstract submission deadline (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ahs-annual-2027-20270426-late-breaking-abstract-submission-deadline@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Deadline: AHS 2027 late-breaking abstract submission deadline (es
+ timated)
+DESCRIPTION:Estimated by projecting the 68th (2026) meeting's late-breaki
+ ng closing date\, April 20\, 2026\, forward one year to the same weekday
+ .\nMeeting: American Headache Society 69th Annual Scientific Meeting 202
+ 7\, Jun 10 to 13\, 2027\, San Diego\, California\, Gaylord Pacific Resor
+ t and Convention Center\nhttps://americanheadachesociety.org/events/68th
+ -annual-scientific-meeting/abstracts
+LOCATION:San Diego\, California\, Gaylord Pacific Resort and Convention C
+ enter
+URL:https://americanheadachesociety.org/events/68th-annual-scientific-mee
+ ting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 late-breaking abstract submission deadline
+  (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 late-breaking abstract submission deadline
+  (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 late-breaking abstract submission deadline
+  (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ean-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270616
+SUMMARY:13th Congress of the European Academy of Neurology
+DESCRIPTION:The European Academy of Neurology holds its 2027 congress at 
+ Gothia Towers in Gothenburg\, Sweden\, from 12 to 15 June 2027. The cong
+ ress theme is Transforming Neurology\, Embracing Every Brain\, and the p
+ rogram spans general and subspecialty neurology.\n\nDeadlines\nAbstract 
+ submission: 2027-01-14\nEarly registration: 2027-04-14\n\nhttps://www.ea
+ n.org/congress2027
+LOCATION:Gothenburg\, Vastra Gotaland County\, SE\, Gothia Towers
+URL:https://www.ean.org/congress2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:13th Congress of the European Academy of Neurology
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ean-congress-2027-20270114-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Deadline: EAN Congress 2027 abstract submission
+DESCRIPTION:Meeting: 13th Congress of the European Academy of Neurology\,
+  Jun 12 to 15\, 2027\, Gothenburg\, Vastra Gotaland County\, SE\, Gothia
+  Towers\nhttps://www.ean.org/congress2027
+LOCATION:Gothenburg\, Vastra Gotaland County\, SE\, Gothia Towers
+URL:https://www.ean.org/congress2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ean-congress-2027-20270414-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Deadline: EAN Congress 2027 early registration
+DESCRIPTION:Meeting: 13th Congress of the European Academy of Neurology\,
+  Jun 12 to 15\, 2027\, Gothenburg\, Vastra Gotaland County\, SE\, Gothia
+  Towers\nhttps://www.ean.org/congress2027
+LOCATION:Gothenburg\, Vastra Gotaland County\, SE\, Gothia Towers
+URL:https://www.ean.org/congress2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nns-symposium-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270617
+SUMMARY:44th Annual Symposium of the National Neurotrauma Society
+DESCRIPTION:Annual symposium of the National Neurotrauma Society\, themed
+  Ringing in Team Science\, covering research on traumatic brain and spin
+ al cord injury.\n\nhttps://www.neurotrauma.org/symposium/
+LOCATION:Portland\, Oregon\, Oregon Convention Center
+URL:https://www.neurotrauma.org/symposium/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:44th Annual Symposium of the National Neurotrauma Society
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ohbm-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270701
+SUMMARY:OHBM Annual Meeting 2027
+DESCRIPTION:Annual meeting of the Organization for Human Brain Mapping\, 
+ covering neuroimaging methods and human brain mapping research.\n\nDeadl
+ ines\nContent submission site opens: 2026-11-01 (estimated)\nAbstract su
+ bmission: 2026-12-01 (estimated)\nRegistration opens: 2027-01-01 (estima
+ ted)\nAbstract notification: 2027-02-01 (estimated)\n\nhttps://www.human
+ brainmapping.org/ohbm-2027/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://www.humanbrainmapping.org/ohbm-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OHBM Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ohbm-annual-2027-20261201-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Deadline: OHBM 2027 abstract submission (estimated)
+DESCRIPTION:only month published (December 2026)\; exact day not yet anno
+ unced\, first of month used as placeholder\; volunteer applications shar
+ e this deadline\nMeeting: OHBM Annual Meeting 2027\, Jun 26 to 30\, 2027
+ \, Toronto\, Ontario\, CA\, Metro Toronto Convention Centre\nhttps://www
+ .humanbrainmapping.org/ohbm-2027/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://www.humanbrainmapping.org/ohbm-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: OHBM 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: OHBM 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: OHBM 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ads-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270630
+SUMMARY:American Delirium Society 17th Annual Conference 2027
+DESCRIPTION:The American Delirium Society Annual Conference covers basic 
+ science\, clinical research\, education\, quality improvement and advoca
+ cy on delirium care. The 2027 conference\, themed Imagine Better Deliriu
+ m Care\, is the society's 17th annual meeting.\n\nDeadlines\nSession pro
+ posal submission deadline: 2026-10-26 (estimated)\n\nhttps://americandel
+ iriumsociety.org/ADS-Annual-Conference
+LOCATION:Orlando\, Florida
+URL:https://americandeliriumsociety.org/ADS-Annual-Conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Delirium Society 17th Annual Conference 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ads-annual-2027-20261026-session-proposal-submission-deadline@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Deadline: ADS 2027 session proposal submission deadline (estimate
+ d)
+DESCRIPTION:Page states the day and month (October 26) for symposia\, wor
+ kshop and panel proposals but does not explicitly state the year\; 2026 
+ inferred as it precedes the June 2027 conference\nMeeting: American Deli
+ rium Society 17th Annual Conference 2027\, Jun 27 to 29\, 2027\, Orlando
+ \, Florida\nhttps://americandeliriumsociety.org/ADS-Annual-Conference
+LOCATION:Orlando\, Florida
+URL:https://americandeliriumsociety.org/ADS-Annual-Conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADS 2027 session proposal submission deadline (esti
+ mated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADS 2027 session proposal submission deadline (esti
+ mated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADS 2027 session proposal submission deadline (esti
+ mated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icnmd-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270710
+SUMMARY:20th International Congress on Neuromuscular Diseases (ICNMD 2027
+ )
+DESCRIPTION:ICNMD is a congress covering the full spectrum of neuromuscul
+ ar disease research and clinical care. The 20th edition\, in Chiba\, Jap
+ an\, is the first under the organizer's newly announced shift from a bie
+ nnial to an annual schedule.\n\nDeadlines\nRegistration and abstract sub
+ mission opens: 2026-10-07\nAbstract submission deadline: 2027-01-15\nEar
+ ly bird registration deadline: 2027-03-26\nStandard registration deadlin
+ e: 2027-05-28\n\nhttps://icnmd.org/
+LOCATION:Chiba\, Chiba Prefecture\, JP\, Makuhari Messe
+URL:https://icnmd.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:20th International Congress on Neuromuscular Diseases (ICNMD 
+ 2027)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icnmd-2027-20270115-abstract-submission-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Deadline: ICNMD 2027 abstract submission deadline
+DESCRIPTION:Meeting: 20th International Congress on Neuromuscular Disease
+ s (ICNMD 2027)\, Jul 05 to 09\, 2027\, Chiba\, Chiba Prefecture\, JP\, M
+ akuhari Messe\nhttps://icnmd.org/
+LOCATION:Chiba\, Chiba Prefecture\, JP\, Makuhari Messe
+URL:https://icnmd.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icnmd-2027-20270326-early-bird-registration-deadline@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Deadline: ICNMD 2027 early bird registration deadline
+DESCRIPTION:Meeting: 20th International Congress on Neuromuscular Disease
+ s (ICNMD 2027)\, Jul 05 to 09\, 2027\, Chiba\, Chiba Prefecture\, JP\, M
+ akuhari Messe\nhttps://icnmd.org/
+LOCATION:Chiba\, Chiba Prefecture\, JP\, Makuhari Messe
+URL:https://icnmd.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 early bird registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 early bird registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 early bird registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icnmd-2027-20270528-standard-registration-deadline@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Deadline: ICNMD 2027 standard registration deadline
+DESCRIPTION:Meeting: 20th International Congress on Neuromuscular Disease
+ s (ICNMD 2027)\, Jul 05 to 09\, 2027\, Chiba\, Chiba Prefecture\, JP\, M
+ akuhari Messe\nhttps://icnmd.org/
+LOCATION:Chiba\, Chiba Prefecture\, JP\, Makuhari Messe
+URL:https://icnmd.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 standard registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 standard registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 standard registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaic-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270722
+SUMMARY:Alzheimer's Association International Conference 2027
+DESCRIPTION:The Alzheimer's Association International Conference brings t
+ ogether dementia researchers and clinicians in Chicago at McCormick Plac
+ e\, with an online component. The program covers Alzheimer's disease and
+  dementia science spanning neurology\, psychiatry and geriatrics\, and i
+ s followed by the AAIC For All public event on July 22.\n\nDeadlines\nAb
+ stract submission opens: 2027-01-18 (estimated)\nEarly registration: 202
+ 7-03-15 (estimated)\n\nhttps://aaic.alz.org/
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://aaic.alz.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Alzheimer's Association International Conference 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaic-2027-20270315-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Deadline: AAIC 2027 early registration (estimated)
+DESCRIPTION:Official site states only that registration opens 'spring 202
+ 7' without an exact date\; mid March used as a placeholder estimate.\nMe
+ eting: Alzheimer's Association International Conference 2027\, Jul 18 to
+  21\, 2027\, Chicago\, Illinois\, McCormick Place\nhttps://aaic.alz.org/
+ registration.asp
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://aaic.alz.org/registration.asp
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAIC 2027 early registration (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAIC 2027 early registration (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAIC 2027 early registration (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ihc-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270912
+SUMMARY:23rd Congress of the International Headache Society (IHC 2027)
+DESCRIPTION:The International Headache Society plans the 23rd Internation
+ al Headache Congress in Athens\, Greece\, from 9 to 11 September 2027. T
+ he congress covers clinical and scientific advances in headache disorder
+ s.\n\nhttps://ihc2027.org/
+LOCATION:Athens\, Attica\, GR
+URL:https://ihc2027.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:23rd Congress of the International Headache Society (IHC 2027
+ )
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ana-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270922
+SUMMARY:American Neurological Association 152nd Annual Meeting
+DESCRIPTION:The American Neurological Association will hold its 152nd ann
+ ual meeting in Chicago\, Illinois\, from September 18 to 21\, 2027\, wit
+ h an opening symposium on September 18. Abstract submission\, registrati
+ on\, and travel award information had not yet been published as of Septe
+ mber 2026.\n\nhttps://myana.org/meetings/future-annual-meeting-dates/
+LOCATION:Chicago\, Illinois
+URL:https://myana.org/meetings/future-annual-meeting-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Neurological Association 152nd Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mds-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20271001
+SUMMARY:MDS International Congress of Parkinson's Disease and Movement Di
+ sorders 2027
+DESCRIPTION:The International Congress of Parkinson's Disease and Movemen
+ t Disorders is the annual scientific meeting of the International Parkin
+ son and Movement Disorder Society\, covering research and clinical care 
+ in Parkinson's disease and other movement disorders. The 2027 congress i
+ s scheduled for September 26 to 30\, 2027\, in Amsterdam\, Netherlands.\
+ n\nDeadlines\nAbstract submission opens: 2026-12-08 (estimated)\nAbstrac
+ t submission deadline: 2027-03-07 (estimated)\n\nhttps://www.mdscongress
+ .org/About/Past-future
+LOCATION:Amsterdam\, North Holland\, NL
+URL:https://www.mdscongress.org/About/Past-future
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MDS International Congress of Parkinson's Disease and Movemen
+ t Disorders 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mds-congress-2027-20270307-abstract-submission-deadline@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Deadline: MDS Congress 2027 abstract submission deadline (estimat
+ ed)
+DESCRIPTION:Estimated by applying the same day-offset before the congress
+  start date used for the 2026 Seoul congress (abstract deadline was Marc
+ h 15\, 2026\, 203 days before the October 4\, 2026 start). Official 2027
+  abstract dates are not yet published.\nMeeting: MDS International Congr
+ ess of Parkinson's Disease and Movement Disorders 2027\, Sep 26 to 30\, 
+ 2027\, Amsterdam\, North Holland\, NL\nhttps://www.mdscongress.org/Abstr
+ acts/Submissions
+LOCATION:Amsterdam\, North Holland\, NL
+URL:https://www.mdscongress.org/Abstracts/Submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2027 abstract submission deadline (est
+ imated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2027 abstract submission deadline (est
+ imated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2027 abstract submission deadline (est
+ imated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurocritical-care-society-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20271001
+SUMMARY:NCS 25th Annual Meeting
+DESCRIPTION:The Neurocritical Care Society holds its 25th annual meeting 
+ in New Orleans\, Louisiana\, at the Hyatt Regency New Orleans. The meeti
+ ng covers multidisciplinary neurocritical care research and clinical pra
+ ctice.\n\nhttps://www.neurocriticalcare.org/Events/Annual-Meeting/Past-F
+ uture-Annual-Meetings
+LOCATION:New Orleans\, Louisiana\, Hyatt Regency New Orleans
+URL:https://www.neurocriticalcare.org/Events/Annual-Meeting/Past-Future-A
+ nnual-Meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NCS 25th Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wms-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20271003
+SUMMARY:World Muscle Society 32nd International Annual Congress 2027
+DESCRIPTION:The World Muscle Society Congress is the society's annual int
+ ernational meeting on neuromuscular disorders. The 2027 congress is the 
+ 32nd edition and is scheduled for Helsinki\, Finland.\n\nhttps://www.wor
+ ldmusclesociety.org/m/events/view/wms-32-helsinki-finland-28-september-2
+ -october-2027
+LOCATION:Helsinki\, Uusimaa\, FI
+URL:https://www.worldmusclesociety.org/m/events/view/wms-32-helsinki-finl
+ and-28-september-2-october-2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:World Muscle Society 32nd International Annual Congress 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ectrims-global-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271009
+SUMMARY:ECTRIMS Global 2027
+DESCRIPTION:ECTRIMS holds ECTRIMS Global 2027 in Vienna\, Austria\, from 
+ 5 to 8 October 2027\, including a pre day\, the main annual congress\, a
+ nd a patient community day. The event focuses on multiple sclerosis rese
+ arch and treatment.\n\nhttps://ectrims.eu/events/ectrims-global-2027/
+LOCATION:Vienna\, Vienna\, AT
+URL:https://ectrims.eu/events/ectrims-global-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ECTRIMS Global 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:congress-neurological-surgeons-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271028
+SUMMARY:77th Congress of Neurological Surgeons Annual Meeting
+DESCRIPTION:Annual scientific meeting of the Congress of Neurological Sur
+ geons covering the full range of neurosurgical subspecialties\, to be he
+ ld in Phoenix\, Arizona.\n\nhttps://www.cns.org/meetings/past-and-future
+ -annual-meetings
+LOCATION:Phoenix\, Arizona
+URL:https://www.cns.org/meetings/past-and-future-annual-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:77th Congress of Neurological Surgeons Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcn-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271026
+SUMMARY:XXVIII World Congress of Neurology
+DESCRIPTION:The World Federation of Neurology holds its biennial World Co
+ ngress of Neurology in Cape Town\, South Africa\, from 23 to 25 October 
+ 2027. The congress is organized by the Kenes Group on behalf of the fede
+ ration and covers general and subspecialty neurology topics.\n\nhttps://
+ wcn-neurology.com/
+LOCATION:Cape Town\, Western Cape\, ZA
+URL:https://wcn-neurology.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:XXVIII World Congress of Neurology
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271031
+SUMMARY:2027 AANEM Annual Meeting
+DESCRIPTION:The American Association of Neuromuscular and Electrodiagnost
+ ic Medicine holds its annual meeting in San Antonio\, Texas. The program
+  covers electrodiagnostic medicine and neuromuscular disease research an
+ d practice.\n\nDeadlines\nAbstract submission opens: 2027-01-01\nAbstrac
+ t submission: 2027-03-15\n\nhttps://www.aanem.org/meetings/future-annual
+ -meetings
+LOCATION:San Antonio\, Texas
+URL:https://www.aanem.org/meetings/future-annual-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 AANEM Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2027-20270315-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Deadline: AANEM 2027 abstract submission
+DESCRIPTION:Meeting: 2027 AANEM Annual Meeting\, Oct 27 to 30\, 2027\, Sa
+ n Antonio\, Texas\nhttps://www.aanem.org/meetings/annual-meeting/abstrac
+ t-information-submission
+LOCATION:San Antonio\, Texas
+URL:https://www.aanem.org/meetings/annual-meeting/abstract-information-su
+ bmission
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:child-neurology-society-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271114
+SUMMARY:56th Child Neurology Society Annual Meeting
+DESCRIPTION:The Child Neurology Society holds its 56th annual meeting in 
+ Milwaukee\, Wisconsin. The program covers research and clinical practice
+  in pediatric neurology.\n\nhttps://www.childneurologysociety.org/event/
+ 56th-cns-annual-meeting/
+LOCATION:Milwaukee\, Wisconsin
+URL:https://www.childneurologysociety.org/event/56th-cns-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:56th Child Neurology Society Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271122
+SUMMARY:Society for Neuro-Oncology Annual Meeting 2027
+DESCRIPTION:The SNO Annual Meeting is a multidisciplinary conference on n
+ euro-oncology research\, diagnosis and treatment. The 2027 edition is sc
+ heduled for Phoenix\, Arizona.\n\nhttps://www.soc-neuro-onc.org/meetings
+ -education/sno-annual-meetings
+LOCATION:Phoenix\, Arizona
+URL:https://www.soc-neuro-onc.org/meetings-education/sno-annual-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society for Neuro-Oncology Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aes-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271208
+SUMMARY:American Epilepsy Society Annual Meeting 2027
+DESCRIPTION:The American Epilepsy Society will hold its annual meeting in
+  Baltimore\, Maryland\, from December 3 to 7\, 2027. Abstract submission
+ \, registration\, and travel award information had not yet been publishe
+ d as of September 2026.\n\nhttps://aesnet.org/AES-annual-meeting/general
+ -information/future-meetings
+LOCATION:Baltimore\, Maryland
+URL:https://aesnet.org/AES-annual-meeting/general-information/future-meet
+ ings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Epilepsy Society Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icnc-2028@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280520
+SUMMARY:20th International Child Neurology Congress
+DESCRIPTION:Congress of the International Child Neurology Association hel
+ d jointly with the Sociedad Mexicana de Neurologia Pediatrica\, themed C
+ onnecting minds\, transforming lives.\n\nhttps://neurologiapediatrica.mx
+ /congreso
+LOCATION:Merida\, Yucatan\, MX\, Yucatan International Congress Center
+URL:https://neurologiapediatrica.mx/congreso
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:20th International Child Neurology Congress
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ins-world-congress-2028@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20280521
+DTEND;VALUE=DATE:20280526
+SUMMARY:18th World Congress of the International Neuromodulation Society
+DESCRIPTION:Biennial world congress of the International Neuromodulation 
+ Society\, bringing together neurosurgeons\, neurologists\, psychiatrists
+ \, pain specialists and engineers working in neuromodulation.\n\nhttps:/
+ /ins-congress.com/
+LOCATION:Dublin\, IE
+URL:https://ins-congress.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:18th World Congress of the International Neuromodulation Soci
+ ety
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:world-parkinson-congress-2029@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20290626
+DTEND;VALUE=DATE:20290630
+SUMMARY:8th World Parkinson Congress 2029
+DESCRIPTION:The World Parkinson Congress is a triennial multidisciplinary
+  meeting for researchers\, clinicians\, allied health professionals\, ca
+ regivers and people living with Parkinson's disease. The 8th edition was
+  announced for Quebec City during the closing of the 7th Congress in Pho
+ enix.\n\nhttps://www.worldpdcoalition.org
+LOCATION:Quebec City\, Quebec\, CA
+URL:https://www.worldpdcoalition.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:8th World Parkinson Congress 2029
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-carle-illinois-health-innovation-research-day-2027-20270306-abst
+ ract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Deadline: HIRD 2027 abstract submission (estimated)
+DESCRIPTION:Estimated by repeating the 2026 date (deadline Friday\, March
+  6\, 2026\, 11:59 pm)\; the 2027 date was not yet published as of Septem
+ ber 2026.\nMeeting: Health Innovation Research Day 2027\, dates not yet 
+ published\, Urbana\, Illinois\, Illini Union\nhttps://medicine.illinois.
+ edu/about/global-consortium/health-innovation-research-day
+LOCATION:Urbana\, Illinois\, Illini Union
+URL:https://medicine.illinois.edu/about/global-consortium/health-innovati
+ on-research-day
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: HIRD 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: HIRD 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: HIRD 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-cozad-new-venture-challenge-2027-20270201-registration-deadline@
+ conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Deadline: Cozad NVC 2027 registration deadline (estimated)
+DESCRIPTION:Estimated by repeating the 2026 cycle date (Feb 1\, 2026)\; t
+ he 2027 schedule was not yet published as of September 2026.\nMeeting: C
+ ozad New Venture Challenge 2027\, dates not yet published\, Champaign\, 
+ Illinois\, Illinois Conference Center\nhttps://landuyt.illinois.edu/prog
+ rams/cozad/schedule
+LOCATION:Champaign\, Illinois\, Illinois Conference Center
+URL:https://landuyt.illinois.edu/programs/cozad/schedule
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 registration deadline (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 registration deadline (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 registration deadline (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-cozad-new-venture-challenge-2027-20270417-finals-and-demo-day@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Deadline: Cozad NVC 2027 finals and demo day (estimated)
+DESCRIPTION:Estimated by repeating the 2026 cycle dates (Demo Day April 1
+ 6\, finals April 17\, 2026)\; the 2027 schedule was not yet published.\n
+ Meeting: Cozad New Venture Challenge 2027\, dates not yet published\, Ch
+ ampaign\, Illinois\, Illinois Conference Center\nhttps://landuyt.illinoi
+ s.edu/programs/cozad/schedule
+LOCATION:Champaign\, Illinois\, Illinois Conference Center
+URL:https://landuyt.illinois.edu/programs/cozad/schedule
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 finals and demo day (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 finals and demo day (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 finals and demo day (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

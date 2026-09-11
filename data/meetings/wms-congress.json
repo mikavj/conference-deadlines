@@ -1,0 +1,84 @@
+[
+ {
+  "id": "wms-congress-2026",
+  "name": "World Muscle Society 31st International Annual Congress 2026",
+  "short_name": "WMS 2026",
+  "organizer": "World Muscle Society",
+  "organizer_url": "https://www.worldmusclesociety.org",
+  "edition_url": "https://www.wms2026.com/",
+  "areas": [
+   "neurology",
+   "neuroscience"
+  ],
+  "tags": [
+   "neuromuscular"
+  ],
+  "start_date": "2026-09-29",
+  "end_date": "2026-10-03",
+  "city": "Hiroshima",
+  "region_name": "Hiroshima Prefecture",
+  "country": "JP",
+  "venue": null,
+  "lat": 34.3853,
+  "lon": 132.4553,
+  "format": null,
+  "description": "The World Muscle Society Congress is the society's annual international meeting on neuromuscular disorders. The 2026 congress is the 31st edition and is being held in Hiroshima, Japan.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.worldmusclesociety.org/m/events/view/wms-31-hiroshima-japan",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates and city"
+   },
+   {
+    "url": "https://www.wms2026.com/",
+    "accessed": "2026-09-10",
+    "note": "Official congress site; abstract and registration deadline pages required login navigation and specific dates could not be extracted"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Abstract submission and registration deadline pages on wms2026.com could not be read directly (site presented a login/navigation shell rather than deadline text); venue within Hiroshima was not found. Dates and city are confirmed on the parent worldmusclesociety.org site."
+ },
+ {
+  "id": "wms-congress-2027",
+  "name": "World Muscle Society 32nd International Annual Congress 2027",
+  "short_name": "WMS 2027",
+  "organizer": "World Muscle Society",
+  "organizer_url": "https://www.worldmusclesociety.org",
+  "edition_url": "https://www.worldmusclesociety.org/m/events/view/wms-32-helsinki-finland-28-september-2-october-2027",
+  "areas": [
+   "neurology",
+   "neuroscience"
+  ],
+  "tags": [
+   "neuromuscular"
+  ],
+  "start_date": "2027-09-28",
+  "end_date": "2027-10-02",
+  "city": "Helsinki",
+  "region_name": "Uusimaa",
+  "country": "FI",
+  "venue": null,
+  "lat": 60.1699,
+  "lon": 24.9384,
+  "format": null,
+  "description": "The World Muscle Society Congress is the society's annual international meeting on neuromuscular disorders. The 2027 congress is the 32nd edition and is scheduled for Helsinki, Finland.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.worldmusclesociety.org/m/events/view/wms-32-helsinki-finland-28-september-2-october-2027",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 dates and city"
+   },
+   {
+    "url": "https://www.worldmusclesociety.org/m/events/future-wms-congresses",
+    "accessed": "2026-09-10",
+    "note": "Lists WMS 2027 alongside WMS 2026 with matching dates"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "This is currently only a save-the-date on the parent society site; no dedicated wms2027.com content was verified, and venue and deadlines are not yet published."
+ }
+]

@@ -1,0 +1,68 @@
+[
+ {
+  "id": "uiuc-uic-com-research-forum-2026",
+  "name": "University of Illinois College of Medicine 2026 Research Forum",
+  "short_name": "UIC COM Research Forum 2026",
+  "organizer": "University of Illinois College of Medicine, University of Illinois Chicago",
+  "organizer_url": "https://medicine.uic.edu",
+  "edition_url": "https://medicine.uic.edu/com-research/research-forum/submission-information/",
+  "areas": [
+   "medical-education"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "medical-education",
+   "student-resident-research"
+  ],
+  "start_date": "2026-11-06",
+  "end_date": "2026-11-06",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "Thompson Rooms, Student Center West",
+  "lat": 41.8708,
+  "lon": -87.6505,
+  "format": "in-person",
+  "description": "The University of Illinois College of Medicine Research Forum is an annual poster and judging event in Chicago open to medical students, graduate students, postdoctoral fellows, residents, and research faculty across the college. The 2026 forum runs two judging sessions followed by a reception at the Thompson Rooms in Student Center West.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-09-01",
+    "url": "https://medicine.uic.edu/com-research/research-forum/submission-information/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-09-25",
+    "url": "https://medicine.uic.edu/com-research/research-forum/submission-information/",
+    "estimated": false,
+    "note": "5:00 p.m. CST"
+   },
+   {
+    "label": "Poster printing deadline",
+    "date": "2026-10-16",
+    "url": "https://medicine.uic.edu/com-research/research-forum/submission-information/",
+    "estimated": false,
+    "note": "Only applies to presenters using CDS for poster printing"
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-01-24",
+   "end_date": "2025-01-24",
+   "city": "Chicago",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://medicine.uic.edu/com-research/research-forum/submission-information/",
+    "accessed": "2026-09-10",
+    "note": "2026 forum dates: abstracts open Sept 1 2026, deadline Sept 25 2026 5pm CST, poster printing deadline Oct 16 2026, poster session and judging Nov 6 2026 at Thompson Rooms, Student Center West"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The prior edition year 2025 date (Jan 24, 2025) is drawn from a search snippet referencing a 2024-2025 annual research forum event page and may reflect an academic year label rather than a calendar year 2025 event; treat that single field with caution."
+ }
+]

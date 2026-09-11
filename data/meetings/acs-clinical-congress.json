@@ -1,0 +1,112 @@
+[
+ {
+  "id": "acs-clinical-congress-2026",
+  "name": "Clinical Congress 2026",
+  "short_name": "ACS CC 2026",
+  "organizer": "American College of Surgeons",
+  "organizer_url": "https://www.facs.org",
+  "edition_url": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress-2026/",
+  "areas": [
+   "surgery"
+  ],
+  "tags": [
+   "surgery",
+   "student-resident-research"
+  ],
+  "start_date": "2026-09-26",
+  "end_date": "2026-09-29",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": "Walter E. Washington Convention Center",
+  "lat": 38.9047,
+  "lon": -77.0233,
+  "format": "hybrid",
+  "description": "Clinical Congress is the annual educational meeting of the American College of Surgeons, offering courses, scientific sessions, and abstract presentations across surgical specialties. The 2026 edition takes place at the Walter E. Washington Convention Center and includes in person attendance with virtual participation options.",
+  "deadlines": [
+   {
+    "label": "General scientific abstract, surgical video, and history poster submission",
+    "date": "2026-03-02",
+    "url": "https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/acs-brief/february-24-2026-issue/last-call-for-clinical-congress-2026-abstracts-submit-by-march-2/",
+    "estimated": false,
+    "note": "1:00 pm CT"
+   },
+   {
+    "label": "High-Impact Clinical Trials and Studies submission opens",
+    "date": "2026-06-01",
+    "url": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress-2026/call-for-abstracts/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "High-Impact Clinical Trials and Studies submission",
+    "date": "2026-07-01",
+    "url": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress-2026/call-for-abstracts/",
+    "estimated": false,
+    "note": "1:00 pm CT; accepted studies presented Sunday, September 27, 2:30 to 4:00 pm ET"
+   },
+   {
+    "label": "Medical Student Program abstract submission",
+    "date": "2026-06-26",
+    "url": "https://www.facs.org/media/p0sfgbwd/medical-student-program-abstract-submission-guidelines-2026.pdf",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress-2026/",
+    "accessed": "2026-09-10",
+    "note": "confirms meeting dates, city, and hybrid in person/virtual format"
+   },
+   {
+    "url": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/clinical-congress-2026/call-for-abstracts/",
+    "accessed": "2026-09-10",
+    "note": "confirms High-Impact Clinical Trials and Studies open and deadline dates"
+   },
+   {
+    "url": "https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/acs-brief/february-24-2026-issue/last-call-for-clinical-congress-2026-abstracts-submit-by-march-2/",
+    "accessed": "2026-09-10",
+    "note": "confirms March 2, 2026 general abstract deadline"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Venue name (Walter E. Washington Convention Center) confirmed via a secondary ACS exhibitor/planning summary rather than the primary landing page, which did not name the venue directly. No early registration deadline date was found on the fetched pages; registration was described as open with an unspecified early-bird rate."
+ },
+ {
+  "id": "acs-clinical-congress-2027",
+  "name": "Clinical Congress 2027",
+  "short_name": "ACS CC 2027",
+  "organizer": "American College of Surgeons",
+  "organizer_url": "https://www.facs.org",
+  "edition_url": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/future-clinical-congress/",
+  "areas": [
+   "surgery"
+  ],
+  "tags": [
+   "surgery"
+  ],
+  "start_date": "2027-10-16",
+  "end_date": "2027-10-19",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": null,
+  "lat": 32.7157,
+  "lon": -117.1611,
+  "format": null,
+  "description": "Clinical Congress is the annual educational meeting of the American College of Surgeons, offering courses, scientific sessions, and abstract presentations across surgical specialties. The 2027 edition is scheduled to take place in San Diego, California.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.facs.org/for-medical-professionals/conferences-and-meetings/future-clinical-congress/",
+    "accessed": "2026-09-10",
+    "note": "official ACS page listing dates and host city for Clinical Congress 2027 (and 2028)"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Only the meeting dates and host city are published so far on the official future-congress page; no specific venue or abstract/registration deadlines have been announced as of 2026-09-10. Coordinates given are for San Diego city center rather than a specific venue. Deadlines are left empty rather than estimated because ACS has not yet opened a call for the 2027 congress; the 2026 edition's general abstract deadline fell in early March, roughly seven months before the meeting, which may be a rough guide once ACS publishes the actual 2027 call."
+ }
+]

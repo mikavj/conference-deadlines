@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:13th European Stroke Organisation Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:esoc-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270522
+SUMMARY:13th European Stroke Organisation Conference
+DESCRIPTION:The European Stroke Organisation plans its 13th conference in
+  Vienna\, Austria\, from 19 to 21 May 2027\, marking the organisation's 
+ twentieth anniversary. The conference is planned as an onsite only event
+  without a virtual attendance option.\n\nhttps://eso-stroke.org/esoc2027
+ /
+LOCATION:Vienna\, Vienna\, AT
+URL:https://eso-stroke.org/esoc2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:13th European Stroke Organisation Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,53 @@
+[
+ {
+  "id": "ads-annual-2027",
+  "name": "American Delirium Society 17th Annual Conference 2027",
+  "short_name": "ADS 2027",
+  "organizer": "American Delirium Society",
+  "organizer_url": "https://americandeliriumsociety.org",
+  "edition_url": "https://americandeliriumsociety.org/ADS-Annual-Conference",
+  "areas": [
+   "neurology",
+   "psychiatry",
+   "geriatrics"
+  ],
+  "tags": [
+   "geriatric",
+   "delirium"
+  ],
+  "start_date": "2027-06-27",
+  "end_date": "2027-06-29",
+  "city": "Orlando",
+  "region_name": "Florida",
+  "country": "US",
+  "venue": null,
+  "lat": 28.5384,
+  "lon": -81.3789,
+  "format": null,
+  "description": "The American Delirium Society Annual Conference covers basic science, clinical research, education, quality improvement and advocacy on delirium care. The 2027 conference, themed Imagine Better Delirium Care, is the society's 17th annual meeting.",
+  "deadlines": [
+   {
+    "label": "Session proposal submission deadline",
+    "date": "2026-10-26",
+    "url": "https://americandeliriumsociety.org/ADS-Annual-Conference",
+    "estimated": true,
+    "note": "Page states the day and month (October 26) for symposia, workshop and panel proposals but does not explicitly state the year; 2026 inferred as it precedes the June 2027 conference"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://americandeliriumsociety.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 dates (June 27-29) and Orlando, FL as the location"
+   },
+   {
+    "url": "https://americandeliriumsociety.org/ADS-Annual-Conference",
+    "accessed": "2026-09-10",
+    "note": "Confirms the October 26 session proposal deadline and conference theme, without stating the year for that deadline"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Venue within Orlando not yet announced. The proposal-deadline year is inferred rather than confirmed, so it is flagged estimated:true even though the day and month come from the official page."
+ }
+]

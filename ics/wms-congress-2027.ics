@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:World Muscle Society 32nd International Annual Congress 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:wms-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20271003
+SUMMARY:World Muscle Society 32nd International Annual Congress 2027
+DESCRIPTION:The World Muscle Society Congress is the society's annual int
+ ernational meeting on neuromuscular disorders. The 2027 congress is the 
+ 32nd edition and is scheduled for Helsinki\, Finland.\n\nhttps://www.wor
+ ldmusclesociety.org/m/events/view/wms-32-helsinki-finland-28-september-2
+ -october-2027
+LOCATION:Helsinki\, Uusimaa\, FI
+URL:https://www.worldmusclesociety.org/m/events/view/wms-32-helsinki-finl
+ and-28-september-2-october-2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:World Muscle Society 32nd International Annual Congress 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

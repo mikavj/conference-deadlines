@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Psychiatric Association Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:apa-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270506
+SUMMARY:American Psychiatric Association Annual Meeting 2027
+DESCRIPTION:The 180th annual meeting of the American Psychiatric Associat
+ ion\, held in New York City with more than 400 scientific sessions and o
+ ver 1\,000 posters. The presidential theme is Our Future: End Stigma\, A
+ dvance Science\, Secure Parity.\n\nDeadlines\nGeneral session submission
+ : 2026-09-10\nCourse submission: 2026-09-10\nPoster abstract submission:
+  2026-09-10\nMental Health Innovation Zone panel submission: 2026-09-10\
+ nNew Research poster submission opens: 2026-11-12\nNew Research poster s
+ ubmission deadline: 2027-01-08\nRegistration cancellation deadline (full
+  refund): 2027-02-11\n\nhttps://www.psychiatry.org/psychiatrists/meeting
+ s/annual-meeting
+LOCATION:New York\, New York
+URL:https://www.psychiatry.org/psychiatrists/meetings/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Psychiatric Association Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apa-annual-2027-20260910-general-session-submission@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Deadline: APA 2027 general session submission
+DESCRIPTION:Closes 5:00 p.m. ET. The site will not reopen. All presenter 
+ disclosures must be complete by this time.\nMeeting: American Psychiatri
+ c Association Annual Meeting 2027\, May 01 to 05\, 2027\, New York\, New
+  York\nhttps://www.psychiatry.org/psychiatrists/education/meeting-submis
+ sion-and-guidelines/annual-meeting-submission-guidelines
+LOCATION:New York\, New York
+URL:https://www.psychiatry.org/psychiatrists/education/meeting-submission
+ -and-guidelines/annual-meeting-submission-guidelines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 general session submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 general session submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 general session submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apa-annual-2027-20260910-course-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Deadline: APA 2027 course submission
+DESCRIPTION:Closes 5:00 p.m. ET\, same site as general sessions.\nMeeting
+ : American Psychiatric Association Annual Meeting 2027\, May 01 to 05\, 
+ 2027\, New York\, New York\nhttps://www.psychiatry.org/psychiatrists/edu
+ cation/meeting-submission-and-guidelines/annual-meeting-submission-guide
+ lines
+LOCATION:New York\, New York
+URL:https://www.psychiatry.org/psychiatrists/education/meeting-submission
+ -and-guidelines/annual-meeting-submission-guidelines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 course submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 course submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 course submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apa-annual-2027-20260910-poster-abstract-submission@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Deadline: APA 2027 poster abstract submission
+DESCRIPTION:Closes 5:00 p.m. ET. Resident and medical student poster comp
+ etition entries use this poster track\; no separate resident deadline is
+  published.\nMeeting: American Psychiatric Association Annual Meeting 20
+ 27\, May 01 to 05\, 2027\, New York\, New York\nhttps://www.psychiatry.o
+ rg/psychiatrists/education/meeting-submission-and-guidelines/annual-meet
+ ing-submission-guidelines/frequently-asked-questions
+LOCATION:New York\, New York
+URL:https://www.psychiatry.org/psychiatrists/education/meeting-submission
+ -and-guidelines/annual-meeting-submission-guidelines/frequently-asked-qu
+ estions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 poster abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 poster abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 poster abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apa-annual-2027-20260910-mental-health-innovation-zone-panel-submissi
+ on@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Deadline: APA 2027 mental health innovation zone panel submission
+DESCRIPTION:Listed on the same submission site\, which closes September 1
+ 0\, 2026 for all submissions.\nMeeting: American Psychiatric Association
+  Annual Meeting 2027\, May 01 to 05\, 2027\, New York\, New York\nhttps:
+ //www.psychiatry.org/psychiatrists/education/meeting-submission-and-guid
+ elines/annual-meeting-submission-guidelines
+LOCATION:New York\, New York
+URL:https://www.psychiatry.org/psychiatrists/education/meeting-submission
+ -and-guidelines/annual-meeting-submission-guidelines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 mental health innovation zone panel submis
+ sion
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 mental health innovation zone panel submis
+ sion
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 mental health innovation zone panel submis
+ sion
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apa-annual-2027-20270108-new-research-poster-submission-deadline@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Deadline: APA 2027 new research poster submission deadline
+DESCRIPTION:Closes 5:00 p.m. ET. Results typically released in late Febru
+ ary 2027.\nMeeting: American Psychiatric Association Annual Meeting 2027
+ \, May 01 to 05\, 2027\, New York\, New York\nhttps://www.psychiatry.org
+ /psychiatrists/education/meeting-submission-and-guidelines/annual-meetin
+ g-submission-guidelines/frequently-asked-questions
+LOCATION:New York\, New York
+URL:https://www.psychiatry.org/psychiatrists/education/meeting-submission
+ -and-guidelines/annual-meeting-submission-guidelines/frequently-asked-qu
+ estions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 new research poster submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 new research poster submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 new research poster submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apa-annual-2027-20270211-registration-cancellation-deadline-full-refu
+ nd-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Deadline: APA 2027 registration cancellation deadline (full refun
+ d)
+DESCRIPTION:Registration page states advance registration for 2027 is ope
+ n\, although parts of that page still describe the 2026 San Francisco pr
+ ogram.\nMeeting: American Psychiatric Association Annual Meeting 2027\, 
+ May 01 to 05\, 2027\, New York\, New York\nhttps://www.psychiatry.org/ps
+ ychiatrists/meetings/annual-meeting/registration
+LOCATION:New York\, New York
+URL:https://www.psychiatry.org/psychiatrists/meetings/annual-meeting/regi
+ stration
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 registration cancellation deadline (full r
+ efund)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 registration cancellation deadline (full r
+ efund)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA 2027 registration cancellation deadline (full r
+ efund)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

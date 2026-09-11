@@ -1,0 +1,78 @@
+[
+ {
+  "id": "ispor-2027",
+  "name": "ISPOR 2027",
+  "short_name": "ISPOR 2027",
+  "organizer": "ISPOR, the Professional Society for Health Economics and Outcomes Research",
+  "organizer_url": "https://www.ispor.org",
+  "edition_url": "https://www.ispor.org/conferences-education/upcoming-conferences/ispor-2027",
+  "areas": [
+   "health-services"
+  ],
+  "tags": [
+   "health-economics",
+   "decision-science",
+   "health-services"
+  ],
+  "start_date": "2027-05-23",
+  "end_date": "2027-05-26",
+  "city": "Denver",
+  "region_name": "Colorado",
+  "country": "US",
+  "venue": null,
+  "lat": 39.7392,
+  "lon": -104.9903,
+  "format": "in-person",
+  "description": "ISPOR, the professional society for health economics and outcomes research, holds its 2027 annual conference in Denver, Colorado. All presenting authors are required to present in person.",
+  "deadlines": [
+   {
+    "label": "Workshop and Issue Panel submission opens",
+    "date": "2026-10-02",
+    "url": "https://www.ispor.org/conferences-education/upcoming-conferences/abstract-information",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Workshop and Issue Panel submission",
+    "date": "2026-12-11",
+    "url": "https://www.ispor.org/conferences-education/upcoming-conferences/abstract-information",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Research abstract submission opens",
+    "date": "2026-10-30",
+    "url": "https://www.ispor.org/conferences-education/upcoming-conferences/abstract-information",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Research abstract submission",
+    "date": "2027-01-08",
+    "url": "https://www.ispor.org/conferences-education/upcoming-conferences/abstract-information",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.ispor.org/conferences-education/upcoming-conferences",
+    "accessed": "2026-09-10",
+    "note": "Confirms May 23 to 26, 2027, and that ISPOR 2026 (May 17 to 20, 2026) already concluded"
+   },
+   {
+    "url": "https://www.ispor.org/conferences-education/upcoming-conferences/abstract-information",
+    "accessed": "2026-09-10",
+    "note": "Confirms both research abstract and workshop/issue panel submission windows"
+   },
+   {
+    "url": "https://www.ispor.org/conferences-education/upcoming-conferences/ispor-2027",
+    "accessed": "2026-09-10",
+    "note": "Confirms Denver, CO location"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The 2026 ISPOR annual conference already concluded (May 2026), so only 2027 is included."
+ }
+]

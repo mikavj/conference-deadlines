@@ -1,0 +1,39 @@
+[
+ {
+  "id": "sca-annual-meeting-2027",
+  "name": "2027 SCA Annual Meeting & Workshops",
+  "short_name": "SCA 2027",
+  "organizer": "Society of Cardiovascular Anesthesiologists",
+  "organizer_url": "https://scahq.org",
+  "edition_url": "https://scahq.org/event/2027-sca-annual-meeting-workshops/",
+  "areas": [
+   "anesthesiology",
+   "cardiology"
+  ],
+  "tags": [
+   "anesthesia",
+   "cardiovascular"
+  ],
+  "start_date": "2027-04-08",
+  "end_date": "2027-04-11",
+  "city": "Las Vegas",
+  "region_name": "Nevada",
+  "country": "US",
+  "venue": "Bellagio",
+  "lat": 36.1126,
+  "lon": -115.1767,
+  "format": null,
+  "description": "The SCA Annual Meeting and Workshops is the Society of Cardiovascular Anesthesiologists' annual conference on cardiovascular and thoracic anesthesia. The 2027 meeting is its 49th edition and is scheduled for the Bellagio in Las Vegas.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://scahq.org/event/2027-sca-annual-meeting-workshops/",
+    "accessed": "2026-09-10",
+    "note": "Official event page confirming April 8-11, 2027 dates and Bellagio, Las Vegas venue; states registration and housing open Dec 4"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Abstract submission deadline for the 2027 meeting has not yet been published (only registration/housing opening of Dec 4 is listed). In recent prior years the SCA abstract deadline has fallen in early December of the preceding year, but this could not be independently verified for 2026 or 2027 within the search budget available, so no estimated deadline is included."
+ }
+]

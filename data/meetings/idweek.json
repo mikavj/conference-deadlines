@@ -1,0 +1,122 @@
+[
+ {
+  "id": "idweek-2026",
+  "name": "IDWeek 2026",
+  "short_name": "IDWeek 2026",
+  "organizer": "IDWeek (Infectious Diseases Society of America, HIV Medicine Association, Society for Healthcare Epidemiology of America, Pediatric Infectious Diseases Society)",
+  "organizer_url": "https://idweek.org",
+  "edition_url": "https://idweek.org",
+  "areas": [
+   "infectious-disease"
+  ],
+  "tags": [
+   "infectious-disease",
+   "clinical-trials"
+  ],
+  "start_date": "2026-10-21",
+  "end_date": "2026-10-24",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": "Walter E. Washington Convention Center",
+  "lat": 38.9046,
+  "lon": -77.0229,
+  "format": null,
+  "description": "IDWeek is the combined annual meeting of four infectious disease societies, covering clinical and research advances in infectious diseases, HIV medicine, healthcare epidemiology, and pediatric infectious diseases. The 2026 meeting is held in Washington, D.C.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-02-17",
+    "url": "https://idweek.org/abstracts/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-04-30",
+    "url": "https://idweek.org/abstracts/",
+    "estimated": false,
+    "note": "11:59 p.m. Eastern time"
+   },
+   {
+    "label": "Late-breaker abstract submission opens",
+    "date": "2026-06-22",
+    "url": "https://idweek.org/abstracts/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaker abstract submission",
+    "date": "2026-08-04",
+    "url": "https://idweek.org/abstracts/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://idweek.org",
+    "accessed": "2026-09-10",
+    "note": "confirms meeting dates Oct 21 to 24 2026, Washington D.C. location, and Walter E. Washington Convention Center venue"
+   },
+   {
+    "url": "https://idweek.org/abstracts/",
+    "accessed": "2026-09-10",
+    "note": "confirms regular and late-breaker abstract submission window open and close dates"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "id": "idweek-2027",
+  "name": "IDWeek 2027",
+  "short_name": "IDWeek 2027",
+  "organizer": "IDWeek (Infectious Diseases Society of America, HIV Medicine Association, Society for Healthcare Epidemiology of America, Pediatric Infectious Diseases Society)",
+  "organizer_url": "https://idweek.org",
+  "edition_url": "https://idweek.org",
+  "areas": [
+   "infectious-disease"
+  ],
+  "tags": [
+   "infectious-disease"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "region_name": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "IDWeek is the combined annual meeting of four infectious disease societies, covering clinical and research advances in infectious diseases, HIV medicine, healthcare epidemiology, and pediatric infectious diseases. Dates and location for the 2027 meeting had not been published as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-10-21",
+   "end_date": "2026-10-24",
+   "city": "Washington",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-04-30"
+    },
+    {
+     "label": "Late-breaker abstract submission",
+     "date": "2026-08-04"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://idweek.org",
+    "accessed": "2026-09-10",
+    "note": "official IDWeek site had no information about a 2027 edition as of this access"
+   }
+  ],
+  "confidence": "low",
+  "notes": "No published dates were found for IDWeek 2027 as of 2026-09-10."
+ }
+]

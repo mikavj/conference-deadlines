@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 ACGME Annual Educational Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acgme-annual-educational-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270228
+SUMMARY:2027 ACGME Annual Educational Conference
+DESCRIPTION:The Accreditation Council for Graduate Medical Education hold
+ s its 2027 Annual Educational Conference in San Antonio\, Texas. The con
+ ference covers graduate medical education\, accreditation\, and residenc
+ y program administration.\n\nDeadlines\nCall for Abstracts opens: 2026-0
+ 8-17\nAbstract submission: 2026-09-24\n\nhttps://www.acgme.org/annual-ed
+ ucational-conference
+LOCATION:San Antonio\, Texas
+URL:https://www.acgme.org/annual-educational-conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 ACGME Annual Educational Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acgme-annual-educational-2027-20260924-abstract-submission@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Deadline: ACGME 2027 abstract submission
+DESCRIPTION:5:00 pm Central time\; one ACGME communication also mentioned
+  August 26\, which may refer to a different\, earlier call\, verify dire
+ ctly\nMeeting: 2027 ACGME Annual Educational Conference\, Feb 25 to 27\,
+  2027\, San Antonio\, Texas\nhttps://www.acgme.org/annual-educational-co
+ nference
+LOCATION:San Antonio\, Texas
+URL:https://www.acgme.org/annual-educational-conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACGME 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACGME 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACGME 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

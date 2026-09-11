@@ -1,0 +1,108 @@
+[
+ {
+  "id": "chest-annual-meeting-2026",
+  "name": "CHEST 2026 Annual Meeting",
+  "short_name": "CHEST 2026",
+  "organizer": "American College of Chest Physicians",
+  "organizer_url": "https://www.chestnet.org",
+  "edition_url": "https://www.chestnet.org/learning-and-events/events/chest-annual-meeting",
+  "areas": [
+   "pulmonary-critical-care"
+  ],
+  "tags": [
+   "pulmonary",
+   "critical-care"
+  ],
+  "start_date": "2026-10-18",
+  "end_date": "2026-10-21",
+  "city": "Phoenix",
+  "region_name": "Arizona",
+  "country": "US",
+  "venue": null,
+  "lat": 33.4484,
+  "lon": -112.074,
+  "format": null,
+  "description": "The CHEST Annual Meeting is the American College of Chest Physicians' annual conference on pulmonary, critical care, and sleep medicine. The 2026 meeting takes place in Phoenix, Arizona, preceded by premeeting courses on October 17.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-02-26",
+    "url": "https://info.chestnet.org/chest-call-for-abstracts",
+    "estimated": false,
+    "note": "Date reported in third-party search summaries; the official page confirms submissions are now closed but does not redisplay the original deadline"
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-07-20",
+    "url": "https://info.chestnet.org/chest-2026-call-for-late-breaking-abstracts",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-08-12",
+    "url": "https://info.chestnet.org/chest-2026-call-for-late-breaking-abstracts",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-10-05",
+    "url": "https://www.chestnet.org/learning-and-events/events/chest-annual-meeting",
+    "estimated": false,
+    "note": "Advance pricing deadline"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.chestnet.org/learning-and-events/events/chest-annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Official page confirming Oct 18-21, 2026 Phoenix dates and Oct 5 advance pricing deadline"
+   },
+   {
+    "url": "https://info.chestnet.org/chest-call-for-abstracts",
+    "accessed": "2026-09-10",
+    "note": "Confirms general submissions closed and late-breaking window of July 20-Aug 12, 2026"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The general abstract submission deadline (Feb 26, 2026) could not be confirmed on the currently accessible chestnet.org page, which only shows that submissions are closed; the date comes from search engine result summaries."
+ },
+ {
+  "id": "chest-annual-meeting-2027",
+  "name": "CHEST 2027 Annual Meeting",
+  "short_name": "CHEST 2027",
+  "organizer": "American College of Chest Physicians",
+  "organizer_url": "https://www.chestnet.org",
+  "edition_url": "https://www.chestnet.org/learning-and-events/events/chest-annual-meeting",
+  "areas": [
+   "pulmonary-critical-care"
+  ],
+  "tags": [
+   "pulmonary",
+   "critical-care"
+  ],
+  "start_date": "2027-10-24",
+  "end_date": "2027-10-27",
+  "city": "Vancouver",
+  "region_name": "British Columbia",
+  "country": "CA",
+  "venue": null,
+  "lat": 49.2827,
+  "lon": -123.1207,
+  "format": null,
+  "description": "The CHEST Annual Meeting is the American College of Chest Physicians' annual conference on pulmonary, critical care, and sleep medicine. The 2027 meeting is scheduled for Vancouver, British Columbia.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.chestnet.org/learning-and-events/events/chest-annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Official page listing CHEST 2027 dates (Oct 24-27) and Vancouver location among future meeting dates"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Abstract submission deadlines for CHEST 2027 have not yet been published."
+ }
+]

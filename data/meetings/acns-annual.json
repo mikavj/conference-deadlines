@@ -1,0 +1,80 @@
+[
+ {
+  "id": "acns-annual-2027",
+  "name": "ACNS 2027 Annual Meeting and Courses",
+  "short_name": "ACNS 2027",
+  "organizer": "American Clinical Neurophysiology Society",
+  "organizer_url": "https://www.acns.org",
+  "edition_url": "https://www.acns.org/meetings/meetings--programs-calendar/2027",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "epilepsy",
+   "neurocritical-care",
+   "education"
+  ],
+  "start_date": "2027-03-04",
+  "end_date": "2027-03-07",
+  "city": "Seattle",
+  "region_name": "Washington",
+  "country": "US",
+  "venue": "Hyatt Regency Seattle",
+  "lat": 47.6131,
+  "lon": -122.3322,
+  "format": null,
+  "description": "The American Clinical Neurophysiology Society holds its 2027 Annual Meeting and Courses at the Hyatt Regency Seattle in Seattle, Washington, from 4 to 7 March 2027. The program covers clinical neurophysiology topics including EEG, EMG, and neurocritical care monitoring.",
+  "deadlines": [
+   {
+    "label": "Scientific program and course submission opens",
+    "date": "2026-04-15",
+    "url": "https://www.acns.org/meetings/annual-meeting-and-courses",
+    "estimated": false,
+    "note": "Window for submitting scientific program and course proposals."
+   },
+   {
+    "label": "Scientific program and course submission",
+    "date": "2026-05-31",
+    "url": "https://www.acns.org/meetings/annual-meeting-and-courses",
+    "estimated": false,
+    "note": "Closing date for scientific program and course proposals."
+   },
+   {
+    "label": "Poster abstract submission opens",
+    "date": "2026-10-01",
+    "url": "https://www.acns.org/meetings/annual-meeting-and-courses",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Poster abstract submission",
+    "date": "2026-11-15",
+    "url": "https://www.acns.org/meetings/annual-meeting-and-courses",
+    "estimated": false,
+    "note": "Poster abstract submission deadline."
+   },
+   {
+    "label": "Housing block deadline",
+    "date": "2027-02-08",
+    "url": "https://www.acns.org/meetings/annual-meeting-and-courses",
+    "estimated": false,
+    "note": "Hotel room block cutoff, not a program submission deadline."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.acns.org/meetings/meetings--programs-calendar/2027",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates and venue (Hyatt Regency Seattle, 4 to 7 March 2027)."
+   },
+   {
+    "url": "https://www.acns.org/meetings/annual-meeting-and-courses",
+    "accessed": "2026-09-10",
+    "note": "Confirms submission and registration timeline items listed above."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Advance registration is stated to open in October 2026 without a specific day and was therefore omitted from the deadlines list rather than assigning an invented day."
+ }
+]

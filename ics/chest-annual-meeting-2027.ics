@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CHEST 2027 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:chest-annual-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271028
+SUMMARY:CHEST 2027 Annual Meeting
+DESCRIPTION:The CHEST Annual Meeting is the American College of Chest Phy
+ sicians' annual conference on pulmonary\, critical care\, and sleep medi
+ cine. The 2027 meeting is scheduled for Vancouver\, British Columbia.\n\
+ nhttps://www.chestnet.org/learning-and-events/events/chest-annual-meetin
+ g
+LOCATION:Vancouver\, British Columbia\, CA
+URL:https://www.chestnet.org/learning-and-events/events/chest-annual-meet
+ ing
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CHEST 2027 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

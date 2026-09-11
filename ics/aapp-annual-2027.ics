@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAPP 2027 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aapp-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270408
+SUMMARY:AAPP 2027 Annual Meeting
+DESCRIPTION:The American Association of Psychiatric Pharmacists\, formerl
+ y the College of Psychiatric and Neurologic Pharmacists\, holds its 2027
+  annual meeting at The Galt House Hotel in Louisville\, Kentucky\, from 
+ April 4 to 7\, 2027. The organization renamed itself from CPNP to AAPP i
+ n 2022 and continues to use the name Annual Meeting for this event.\n\nD
+ eadlines\nAbstract submission: 2026-12-01 (estimated)\n\nhttps://aapp.or
+ g/ed/meeting/2027
+LOCATION:Louisville\, Kentucky\, The Galt House Hotel
+URL:https://aapp.org/ed/meeting/2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAPP 2027 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aapp-annual-2027-20261201-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Deadline: AAPP 2027 abstract submission (estimated)
+DESCRIPTION:No confirmed 2027 abstract deadline was found on the live sit
+ e as of the access date. A page indexed by search under aapp.org/ed/meet
+ ing/2026/abstract referenced a poster and abstract submission deadline o
+ f December 1\, 2026\, but the page returned HTTP 404 on direct fetch and
+  it is unclear whether it belongs to this annual meeting cycle or to a s
+ eparate 2026 Summit event mentioned on the future-meetings page. Treat a
+ s a low-confidence placeholder only.\nMeeting: AAPP 2027 Annual Meeting\
+ , Apr 04 to 07\, 2027\, Louisville\, Kentucky\, The Galt House Hotel\nht
+ tps://aapp.org/ed/meeting/2027
+LOCATION:Louisville\, Kentucky\, The Galt House Hotel
+URL:https://aapp.org/ed/meeting/2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPP 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPP 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPP 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

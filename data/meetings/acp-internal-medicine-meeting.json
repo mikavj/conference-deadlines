@@ -1,0 +1,70 @@
+[
+ {
+  "id": "acp-internal-medicine-meeting-2027",
+  "name": "ACP Internal Medicine Meeting 2027",
+  "short_name": "ACP IM 2027",
+  "organizer": "American College of Physicians",
+  "organizer_url": "https://www.acponline.org",
+  "edition_url": "https://annualmeeting.acponline.org/",
+  "areas": [
+   "internal-medicine"
+  ],
+  "tags": [
+   "primary-care",
+   "student-resident-research"
+  ],
+  "start_date": "2027-04-15",
+  "end_date": "2027-04-17",
+  "city": "Los Angeles",
+  "region_name": "California",
+  "country": "US",
+  "venue": "Los Angeles Convention Center",
+  "lat": 34.0403,
+  "lon": -118.2695,
+  "format": "hybrid",
+  "description": "The ACP Internal Medicine Meeting 2027 is the annual scientific and educational conference of the American College of Physicians, held in Los Angeles, California. It includes clinical education sessions, pre courses, and the ACP National Abstract Competitions for medical students, residents, fellows, and associates.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-10-01",
+    "url": "https://www.acponline.org/membership/residents/competitions-awards/acp-national-abstract-competitions",
+    "estimated": false,
+    "note": "National Abstract Competitions; ACP membership required for the submitting author"
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-11-12",
+    "url": "https://www.acponline.org/membership/residents/competitions-awards/acp-national-abstract-competitions",
+    "estimated": false,
+    "note": "3:00 PM ET deadline; 45 dollar submission fee per abstract; winner notification early February 2027"
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-01-31",
+    "url": "https://annualmeeting.acponline.org/about/internal-medicine-meeting-2027-frequently-asked-questions",
+    "estimated": false,
+    "note": "early bird pricing expires for ACP members"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://annualmeeting.acponline.org/about/internal-medicine-meeting-2027-frequently-asked-questions",
+    "accessed": "2026-09-10",
+    "note": "confirms meeting dates April 15-17 2027, Los Angeles CA, and registration deadlines"
+   },
+   {
+    "url": "https://www.acponline.org/membership/residents/competitions-awards/acp-national-abstract-competitions",
+    "accessed": "2026-09-10",
+    "note": "confirms abstract competition submission window October 1 to November 12 2026"
+   },
+   {
+    "url": "https://www.laconventioncenter.com/events/detail/acp-internal-medicine-meeting-2027",
+    "accessed": "2026-09-10",
+    "note": "venue confirmation, Los Angeles Convention Center (venue site, not ACP)"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

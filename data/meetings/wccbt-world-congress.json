@@ -1,0 +1,65 @@
+[
+ {
+  "id": "wccbt-world-congress-2029",
+  "name": "12th World Congress of Cognitive and Behavioural Therapies 2029 (WCCBT 2029)",
+  "short_name": "WCCBT 2029",
+  "organizer": "World Confederation of Cognitive and Behavioural Therapies",
+  "organizer_url": "https://wccbt.org/",
+  "edition_url": "https://wccbt.org/world-congress-2029/",
+  "tags": [
+   "psychotherapy",
+   "behavioral",
+   "psychology",
+   "international",
+   "global"
+  ],
+  "start_date": "2029-06-20",
+  "end_date": "2029-06-23",
+  "city": "Foz do Iguaçu",
+  "country": "BR",
+  "venue": null,
+  "lat": -25.5304,
+  "lon": -54.5831,
+  "format": null,
+  "description": "The 12th World Congress of Cognitive and Behavioural Therapies (formerly the World Congress of Behavioural and Cognitive Therapies) is organized by ALAMOC with ALAMOC Brazil in Foz do Iguaçu. The 11th congress took place in San Francisco in June 2026.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2029-01-12",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (abstracts closed 12 January 2026 for a late June congress). Not published; the 2029 site states submission information will follow."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-25",
+   "end_date": "2026-06-27",
+   "city": "San Francisco",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-01-12"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://wccbt.org/world-congress-2029/",
+    "accessed": "2026-09-09",
+    "note": "Dates 20 to 23 June 2029, Foz do Iguaçu, organizer ALAMOC, congress site wccbtfoz2029.com."
+   },
+   {
+    "url": "https://wccbt2026.org/congress-overview/",
+    "accessed": "2026-09-09",
+    "note": "WCCBT 2026 San Francisco, 25 to 27 June 2026 with workshops 28 June, Marriott Marquis, abstract deadline Friday, January 12."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Official 2029 congress site: https://www.wccbtfoz2029.com/. The 2026 site printed the abstract deadline as Friday, January 12, which does not match the 2026 calendar (12 January 2026 was a Monday).",
+  "region_name": "Paraná",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

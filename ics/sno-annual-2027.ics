@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society for Neuro-Oncology Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sno-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271122
+SUMMARY:Society for Neuro-Oncology Annual Meeting 2027
+DESCRIPTION:The SNO Annual Meeting is a multidisciplinary conference on n
+ euro-oncology research\, diagnosis and treatment. The 2027 edition is sc
+ heduled for Phoenix\, Arizona.\n\nhttps://www.soc-neuro-onc.org/meetings
+ -education/sno-annual-meetings
+LOCATION:Phoenix\, Arizona
+URL:https://www.soc-neuro-onc.org/meetings-education/sno-annual-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society for Neuro-Oncology Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RCPsych International Congress 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:rcpsych-international-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270618
+SUMMARY:RCPsych International Congress 2027
+DESCRIPTION:The Royal College of Psychiatrists holds its International Co
+ ngress in Glasgow from Monday 14 to Thursday 17 June 2027. The main prog
+ ramme is built from submitted 75 minute session proposals across streams
+  including clinical practice\, new science\, psychopharmacology\, educat
+ ion and training\, and policy.\n\nDeadlines\nSession proposal submission
+ : 2026-10-25\n\nhttps://www.rcpsych.ac.uk/events/congress
+LOCATION:Glasgow\, Scotland\, GB\, Scottish Event Campus (SEC)
+URL:https://www.rcpsych.ac.uk/events/congress
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RCPsych International Congress 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rcpsych-international-congress-2027-20261025-session-proposal-submiss
+ ion@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Deadline: RCPsych 2027 session proposal submission
+DESCRIPTION:Midnight BST\, Sunday 25 October 2026\; main programme sessio
+ ns only.\nMeeting: RCPsych International Congress 2027\, Jun 14 to 17\, 
+ 2027\, Glasgow\, Scotland\, GB\, Scottish Event Campus (SEC)\nhttps://ww
+ w.rcpsych.ac.uk/events/congress/international-congress-2027-submissions
+LOCATION:Glasgow\, Scotland\, GB\, Scottish Event Campus (SEC)
+URL:https://www.rcpsych.ac.uk/events/congress/international-congress-2027
+ -submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RCPsych 2027 session proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RCPsych 2027 session proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RCPsych 2027 session proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

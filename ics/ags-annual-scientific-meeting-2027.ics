@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AGS 2027 Annual Scientific Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ags-annual-scientific-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270523
+SUMMARY:AGS 2027 Annual Scientific Meeting
+DESCRIPTION:The AGS 2027 Annual Scientific Meeting is the yearly conferen
+ ce of the American Geriatrics Society\, held at the Georgia World Congre
+ ss Center in Atlanta\, Georgia\, with a pre conference day preceding the
+  main program. The meeting covers clinical research\, education\, and qu
+ ality improvement topics in geriatric medicine.\n\nDeadlines\nAbstract s
+ ubmission: 2026-12-02\n\nhttps://meeting.americangeriatrics.org/
+LOCATION:Atlanta\, Georgia\, Georgia World Congress Center
+URL:https://meeting.americangeriatrics.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AGS 2027 Annual Scientific Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ags-annual-scientific-meeting-2027-20261202-abstract-submission@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Deadline: AGS 2027 abstract submission
+DESCRIPTION:11:15 PM ET\; research abstract and awards nomination deadlin
+ e\; call for abstracts opens mid-September 2026 with no exact opening da
+ te published\nMeeting: AGS 2027 Annual Scientific Meeting\, May 20 to 22
+ \, 2027\, Atlanta\, Georgia\, Georgia World Congress Center\nhttps://mee
+ ting.americangeriatrics.org/submissions
+LOCATION:Atlanta\, Georgia\, Georgia World Congress Center
+URL:https://meeting.americangeriatrics.org/submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AGS 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AGS 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AGS 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

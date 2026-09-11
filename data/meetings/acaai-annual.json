@@ -1,0 +1,106 @@
+[
+ {
+  "id": "acaai-annual-2026",
+  "name": "2026 ACAAI Annual Scientific Meeting",
+  "short_name": "ACAAI 2026",
+  "organizer": "American College of Allergy, Asthma and Immunology",
+  "organizer_url": "https://acaai.org",
+  "edition_url": "https://annualmeeting.acaai.org/2026/",
+  "areas": [
+   "allergy-immunology"
+  ],
+  "tags": [
+   "allergy",
+   "immunology",
+   "education"
+  ],
+  "start_date": "2026-11-12",
+  "end_date": "2026-11-16",
+  "city": "Phoenix",
+  "region_name": "Arizona",
+  "country": "US",
+  "venue": null,
+  "lat": 33.4484,
+  "lon": -112.074,
+  "format": "hybrid",
+  "description": "The ACAAI Annual Scientific Meeting is the main scientific conference of the American College of Allergy, Asthma and Immunology. The 2026 edition takes place in Phoenix, Arizona from November 12 to 16, with an in person program and a livestream option.",
+  "deadlines": [
+   {
+    "label": "Research abstract submission opens",
+    "date": "2026-04-01",
+    "url": "https://annualmeeting.acaai.org/2026/submit_abstract.cfm",
+    "estimated": true,
+    "note": "Open date from an aggregated search snippet of this page, not independently reconfirmed by direct fetch"
+   },
+   {
+    "label": "Research abstract submission",
+    "date": "2026-07-13",
+    "url": "https://annualmeeting.acaai.org/2026/submit_abstract.cfm",
+    "estimated": false,
+    "note": "5:00 pm CT; confirmed via direct fetch of the official page"
+   },
+   {
+    "label": "Medically challenging case abstract submission opens",
+    "date": "2026-04-01",
+    "url": "https://annualmeeting.acaai.org/2026/submit_abstract.cfm",
+    "estimated": true,
+    "note": "Open date from an aggregated search snippet of this page, not independently reconfirmed by direct fetch"
+   },
+   {
+    "label": "Medically challenging case abstract submission",
+    "date": "2026-08-03",
+    "url": "https://annualmeeting.acaai.org/2026/submit_abstract.cfm",
+    "estimated": true,
+    "note": "5:00 pm CT; from an aggregated search snippet, not independently reconfirmed by direct fetch"
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-09-01",
+    "url": "https://annualmeeting.acaai.org/2026/submit_abstract.cfm",
+    "estimated": true,
+    "note": "Open date from an aggregated search snippet of this page, not independently reconfirmed by direct fetch"
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-10-06",
+    "url": "https://annualmeeting.acaai.org/2026/submit_abstract.cfm",
+    "estimated": false,
+    "note": "5:00 pm CT; confirmed via direct fetch of the official page"
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2026-09-14",
+    "url": "https://annualmeeting.acaai.org/2026/registration.cfm",
+    "estimated": false,
+    "note": "Confirmed via direct fetch of the official registration page"
+   },
+   {
+    "label": "Livestream registration deadline",
+    "date": "2026-11-11",
+    "url": "https://annualmeeting.acaai.org/2026/registration.cfm",
+    "estimated": false,
+    "note": "5:00 pm MT"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://annualmeeting.acaai.org/2026/submit_abstract.cfm",
+    "accessed": "2026-09-10",
+    "note": "Confirms the late-breaking abstract deadline of October 6, 2026 and mentions the July 13, 2026 research abstract deadline"
+   },
+   {
+    "url": "https://annualmeeting.acaai.org/2026/registration.cfm",
+    "accessed": "2026-09-10",
+    "note": "Confirms the September 14, 2026 early registration deadline and November 11, 2026 livestream registration cutoff"
+   },
+   {
+    "url": "https://annualmeeting.acaai.org/2026/",
+    "accessed": "2026-09-10",
+    "note": "Confirms November 12-16, 2026 dates and Phoenix, Arizona location"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The specific convention center or venue name within Phoenix was not found on any fetched page. A separate regular (non-early) registration deadline distinct from the early registration and livestream cutoffs was not found."
+ }
+]

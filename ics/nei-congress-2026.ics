@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NEI Fall Congress 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:nei-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:NEI Fall Congress 2026
+DESCRIPTION:The annual psychopharmacology congress of the Neuroscience Ed
+ ucation Institute\, offered in person at The Broadmoor and online\, with
+  up to 32 CME credits. Pre conference programs begin November 4 and the 
+ scientific poster session is held November 7\, 2026.\n\nDeadlines\nPoste
+ r abstract submission deadline: 2026-08-03\n\nhttps://www.neiglobal.com/
+ Congress/CNGOverview/tabid/147/Default.aspx
+LOCATION:Colorado Springs\, Colorado\, The Broadmoor
+URL:https://www.neiglobal.com/Congress/CNGOverview/tabid/147/Default.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NEI Fall Congress 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nei-congress-2026-20260803-poster-abstract-submission-deadline@confer
+ ence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Deadline: NEI Congress 2026 poster abstract submission deadline
+DESCRIPTION:Presenters must attend in person\; virtual poster presentatio
+ ns are not accepted. Accepted abstracts are published in the NEI Virtual
+  Poster Library with a DOI in CNS Spectrums.\nMeeting: NEI Fall Congress
+  2026\, Nov 05 to 08\, 2026\, Colorado Springs\, Colorado\, The Broadmoo
+ r\nhttps://www.neiglobal.com/Congress/CNGPosterSession/tabid/159/Default
+ .aspx
+LOCATION:Colorado Springs\, Colorado\, The Broadmoor
+URL:https://www.neiglobal.com/Congress/CNGPosterSession/tabid/159/Default
+ .aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NEI Congress 2026 poster abstract submission deadli
+ ne
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NEI Congress 2026 poster abstract submission deadli
+ ne
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NEI Congress 2026 poster abstract submission deadli
+ ne
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

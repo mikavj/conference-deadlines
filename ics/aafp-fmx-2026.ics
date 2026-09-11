@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAFP Family Medicine Experience 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aafp-fmx-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261025
+SUMMARY:AAFP Family Medicine Experience 2026
+DESCRIPTION:The AAFP Family Medicine Experience 2026 is the annual confer
+ ence of the American Academy of Family Physicians\, held at the Music Ci
+ ty Center in Nashville\, Tennessee. The program is a continuing medical 
+ education event with lectures\, hands on workshops\, and an exhibit hall
+ \, and does not use an open call for scientific abstracts.\n\nhttps://ww
+ w.aafp.org/events/fmx.html
+LOCATION:Nashville\, Tennessee\, Music City Center
+URL:https://www.aafp.org/events/fmx.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAFP Family Medicine Experience 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

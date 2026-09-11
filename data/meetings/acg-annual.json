@@ -1,0 +1,51 @@
+[
+ {
+  "id": "acg-annual-2026",
+  "name": "ACG 2026 Annual Scientific Meeting",
+  "short_name": "ACG 2026",
+  "organizer": "American College of Gastroenterology",
+  "organizer_url": "https://gi.org",
+  "edition_url": "https://acgmeetings.gi.org/",
+  "areas": [
+   "gastroenterology"
+  ],
+  "tags": [
+   "gastroenterology",
+   "clinical-trials"
+  ],
+  "start_date": "2026-10-09",
+  "end_date": "2026-10-14",
+  "city": "Nashville",
+  "region_name": "Tennessee",
+  "country": "US",
+  "venue": "Music City Center",
+  "lat": 36.159,
+  "lon": -86.7775,
+  "format": "hybrid",
+  "description": "The ACG Annual Scientific Meeting is the American College of Gastroenterology's flagship clinical meeting on gastroenterology and hepatology. The 2026 meeting is held in Nashville, Tennessee, with on demand virtual access available afterward.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-06-01",
+    "url": "https://acgmeetings.gi.org/abstracts/",
+    "estimated": false,
+    "note": "11:59 p.m. Eastern time"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://acgmeetings.gi.org/",
+    "accessed": "2026-09-10",
+    "note": "confirms meeting dates Oct 9 to 14 2026, Nashville location, Music City Center venue, and virtual access through March 2027"
+   },
+   {
+    "url": "https://acgmeetings.gi.org/abstracts/",
+    "accessed": "2026-09-10",
+    "note": "confirms regular abstract deadline June 1 2026; late-breaking abstracts are listed only as closed, with no stated deadline date"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The late-breaking abstract deadline had already passed and was listed only as closed on the fetched page, without a specific date, so it is omitted rather than guessed. No 2027 ACG meeting information was found."
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "id": "isns-illinois-annual-2026",
+  "name": "10th Annual Meeting of the Illinois State Neurological Society",
+  "short_name": "ISNS 2026",
+  "organizer": "Illinois State Neurological Society",
+  "organizer_url": "https://ilstateneuro.org",
+  "edition_url": "https://web.cvent.com/event/fc794745-1147-4f7b-9065-5dbaad99f76a/summary",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "illinois",
+   "education",
+   "community"
+  ],
+  "start_date": "2026-11-07",
+  "end_date": "2026-11-07",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "DoubleTree by Hilton Chicago Magnificent Mile",
+  "lat": 41.8925,
+  "lon": -87.6244,
+  "format": null,
+  "description": "The Illinois State Neurological Society holds its tenth annual meeting on 7 November 2026 at the DoubleTree by Hilton Chicago Magnificent Mile. The one day educational program covers topics including acute ischemic stroke management, pediatric neuromuscular disease, and narcolepsy treatment.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://web.cvent.com/event/fc794745-1147-4f7b-9065-5dbaad99f76a/summary",
+    "accessed": "2026-09-10",
+    "note": "Confirms date, time, venue address, and program topics."
+   },
+   {
+    "url": "https://ilstateneuro.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms official organization name and links to the conference registration site."
+   }
+  ],
+  "confidence": "high",
+  "notes": "The URL given in the task prompt (isns.org) belongs to an unrelated organization, the Islamic Society of Northwest Suburbs; the correct official site is ilstateneuro.org, which was used here instead. No abstract or registration deadline dates were found on the event page."
+ }
+]

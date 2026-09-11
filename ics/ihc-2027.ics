@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:23rd Congress of the International Headache Society (IHC 202
+ 7)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ihc-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270912
+SUMMARY:23rd Congress of the International Headache Society (IHC 2027)
+DESCRIPTION:The International Headache Society plans the 23rd Internation
+ al Headache Congress in Athens\, Greece\, from 9 to 11 September 2027. T
+ he congress covers clinical and scientific advances in headache disorder
+ s.\n\nhttps://ihc2027.org/
+LOCATION:Athens\, Attica\, GR
+URL:https://ihc2027.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:23rd Congress of the International Headache Society (IHC 2027
+ )
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,73 @@
+[
+ {
+  "id": "cinp-world-congress-2028",
+  "name": "CINP 38th World Congress of Neuropsychopharmacology 2028",
+  "short_name": "CINP 2028",
+  "organizer": "Collegium Internationale Neuro-Psychopharmacologicum (International College of Neuropsychopharmacology)",
+  "organizer_url": "https://cinp.org/",
+  "edition_url": "https://cinp.org/congress",
+  "tags": [
+   "psychopharmacology",
+   "international",
+   "global",
+   "neuroscience"
+  ],
+  "start_date": "2028-06-21",
+  "end_date": "2028-06-24",
+  "city": "Rio de Janeiro",
+  "country": "BR",
+  "venue": null,
+  "lat": -22.9068,
+  "lon": -43.1729,
+  "format": "in-person",
+  "description": "CINP announced its next World Congress for June 21 to 24, 2028, in Rio de Janeiro after cancelling the planned 2027 Abu Dhabi congress. No venue or submission deadlines have been published.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2028-01-10",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 cycle (extended deadline January 12, 2026 for a late June congress); not published"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-26",
+   "end_date": "2026-06-29",
+   "city": "Glasgow",
+   "deadlines": [
+    {
+     "label": "Abstract submission (extended)",
+     "date": "2026-01-12"
+    },
+    {
+     "label": "Abstract notification",
+     "date": "2026-02-05"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://cinp.org/congress",
+    "accessed": "2026-09-09",
+    "note": "2028 congress June 21 to 24, 2028, Rio de Janeiro; no world congress in 2027; Abu Dhabi cancelled"
+   },
+   {
+    "url": "https://cinp.org/Past-Events",
+    "accessed": "2026-09-09",
+    "note": "2026 congress June 26 to 29, 2026, Glasgow, joint with SCNP"
+   },
+   {
+    "url": "https://cinp2026.org/submissions/abstract.html",
+    "accessed": "2026-09-09",
+    "note": "2026 abstract deadline extended to January 12, 2026, 23:59 CET; notifications February 5, 2026"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "There is no CINP World Congress in 2027; the college plans regional and educational events instead. Some third party calendars still list a June 2027 Abu Dhabi congress, which CINP states is cancelled.",
+  "region_name": "Rio de Janeiro",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

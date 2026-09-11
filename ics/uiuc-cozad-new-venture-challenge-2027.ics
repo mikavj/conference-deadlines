@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cozad New Venture Challenge 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uiuc-cozad-new-venture-challenge-2027-20270201-registration-deadline@
+ conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Deadline: Cozad NVC 2027 registration deadline (estimated)
+DESCRIPTION:Estimated by repeating the 2026 cycle date (Feb 1\, 2026)\; t
+ he 2027 schedule was not yet published as of September 2026.\nMeeting: C
+ ozad New Venture Challenge 2027\, dates not yet published\, Champaign\, 
+ Illinois\, Illinois Conference Center\nhttps://landuyt.illinois.edu/prog
+ rams/cozad/schedule
+LOCATION:Champaign\, Illinois\, Illinois Conference Center
+URL:https://landuyt.illinois.edu/programs/cozad/schedule
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 registration deadline (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 registration deadline (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 registration deadline (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-cozad-new-venture-challenge-2027-20270417-finals-and-demo-day@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Deadline: Cozad NVC 2027 finals and demo day (estimated)
+DESCRIPTION:Estimated by repeating the 2026 cycle dates (Demo Day April 1
+ 6\, finals April 17\, 2026)\; the 2027 schedule was not yet published.\n
+ Meeting: Cozad New Venture Challenge 2027\, dates not yet published\, Ch
+ ampaign\, Illinois\, Illinois Conference Center\nhttps://landuyt.illinoi
+ s.edu/programs/cozad/schedule
+LOCATION:Champaign\, Illinois\, Illinois Conference Center
+URL:https://landuyt.illinois.edu/programs/cozad/schedule
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 finals and demo day (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 finals and demo day (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Cozad NVC 2027 finals and demo day (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 ISMRM & ISMRT Annual Meeting & Exhibition
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ismrm-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270514
+SUMMARY:2027 ISMRM & ISMRT Annual Meeting & Exhibition
+DESCRIPTION:The ISMRM and ISMRT Annual Meeting and Exhibition brings toge
+ ther magnetic resonance researchers\, clinicians\, and technologists for
+  scientific presentations and educational sessions. The 2027 edition wil
+ l be held in Vancouver\, British Columbia\, Canada\, organized jointly b
+ y ISMRM and ISMRT.\n\nhttps://www.ismrm.org/27m/
+LOCATION:Vancouver\, British Columbia\, CA
+URL:https://www.ismrm.org/27m/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 ISMRM & ISMRT Annual Meeting & Exhibition
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

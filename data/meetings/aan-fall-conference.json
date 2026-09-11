@@ -1,0 +1,69 @@
+[
+ {
+  "id": "aan-fall-conference-2026",
+  "name": "2026 AAN Fall Conference",
+  "short_name": "AAN Fall Conference 2026",
+  "organizer": "American Academy of Neurology",
+  "organizer_url": "https://www.aan.com",
+  "edition_url": "https://www.aan.com/events/fall-conference",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "education"
+  ],
+  "start_date": "2026-10-09",
+  "end_date": "2026-10-11",
+  "city": "Las Vegas",
+  "region_name": "Nevada",
+  "country": "US",
+  "venue": "Caesars Palace",
+  "lat": 36.1162,
+  "lon": -115.1745,
+  "format": "hybrid",
+  "description": "The AAN Fall Conference is a continuing medical education meeting from the American Academy of Neurology focused on practice updates rather than original research abstracts. The 2026 edition is held in Las Vegas at Caesars Palace and online, preceded by a one day Advanced Practice Provider conference on October 8.",
+  "deadlines": [
+   {
+    "label": "Registration and housing open",
+    "date": "2026-06-22",
+    "url": "https://www.aan.com/events/fall-conference",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2026-08-13",
+    "url": "https://www.aan.com/events/fall-conference/registration",
+    "estimated": false,
+    "note": "Discount pricing tier deadline."
+   },
+   {
+    "label": "Advance registration and hotel deadline",
+    "date": "2026-09-17",
+    "url": "https://www.aan.com/events/fall-conference/registration",
+    "estimated": false,
+    "note": "Final advance registration and discounted hotel booking deadline."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aan.com/events/fall-conference",
+    "accessed": "2026-09-10",
+    "note": "Confirmed 2026 dates (October 9-11), Caesars Palace Las Vegas venue, hybrid format, and registration opening date."
+   },
+   {
+    "url": "https://www.aan.com/events/fall-conference/registration",
+    "accessed": "2026-09-10",
+    "note": "Confirmed early registration and advance registration/hotel deadlines."
+   },
+   {
+    "url": "https://www.aan.com/events/fall-conference/programs",
+    "accessed": "2026-09-10",
+    "note": "Confirmed programming tracks (Neurology Update, Practice Management, Best of Annual Meeting) and that there is no abstract or proposal call for this meeting."
+   }
+  ],
+  "confidence": "high",
+  "notes": "This meeting has no call for abstracts; programming is invited faculty CME content, so no submission or notification deadlines exist. Only the 2026 edition is in scope per the assignment."
+ }
+]

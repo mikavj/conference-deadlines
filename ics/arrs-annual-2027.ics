@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ARRS 2027 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:arrs-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270506
+SUMMARY:ARRS 2027 Annual Meeting
+DESCRIPTION:The American Roentgen Ray Society holds its 2027 Annual Meeti
+ ng from May 2 to 5\, 2027\, at the Sheraton Denver Downtown Hotel in Den
+ ver\, Colorado. The meeting is offered both in person and online and cov
+ ers general and subspecialty diagnostic radiology topics.\n\nDeadlines\n
+ Abstract submission: 2026-08-28\n\nhttps://www2.arrs.org/am27/
+LOCATION:Denver\, Colorado\, Sheraton Denver Downtown Hotel
+URL:https://www2.arrs.org/am27/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARRS 2027 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arrs-annual-2027-20260828-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Deadline: ARRS 2027 abstract submission
+DESCRIPTION:Official ARRS 2027 call for abstracts page states this as the
+  deadline to submit an abstract and author disclosure forms. This date h
+ as already passed relative to the 2026-09-10 research date.\nMeeting: AR
+ RS 2027 Annual Meeting\, May 02 to 05\, 2027\, Denver\, Colorado\, Shera
+ ton Denver Downtown Hotel\nhttps://www2.arrs.org/am27/call-for-abstracts
+ -arrs-2027/
+LOCATION:Denver\, Colorado\, Sheraton Denver Downtown Hotel
+URL:https://www2.arrs.org/am27/call-for-abstracts-arrs-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ARRS 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ARRS 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ARRS 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

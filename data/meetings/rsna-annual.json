@@ -1,0 +1,120 @@
+[
+ {
+  "id": "rsna-annual-2026",
+  "name": "RSNA 2026 Scientific Assembly and Annual Meeting",
+  "short_name": "RSNA 2026",
+  "organizer": "Radiological Society of North America",
+  "organizer_url": "https://www.rsna.org",
+  "edition_url": "https://www.rsna.org/annual-meeting",
+  "areas": [
+   "radiology",
+   "nuclear-medicine"
+  ],
+  "tags": [
+   "radiology",
+   "imaging",
+   "education",
+   "informatics",
+   "oncology"
+  ],
+  "start_date": "2026-11-29",
+  "end_date": "2026-12-03",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "McCormick Place",
+  "lat": 41.8531,
+  "lon": -87.6121,
+  "format": "hybrid",
+  "description": "The Radiological Society of North America holds its annual Scientific Assembly and Annual Meeting at McCormick Place in Chicago from November 29 to December 3, 2026. The program covers diagnostic radiology and related imaging specialties and offers both in-person and virtual registration.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-05-06",
+    "url": "https://www.rsna.org/media/press/2026/2652",
+    "estimated": false,
+    "note": "Submission site closed at 12:00 p.m. Central Time; confirmed in RSNA's April 2026 press release. The current abstract submission page no longer lists this date since submissions have closed."
+   },
+   {
+    "label": "Early registration deadline (regist)",
+    "date": "2026-10-01",
+    "url": "https://www.rsna.org/annual-meeting/attendee-resources/pricing-and-registration",
+    "estimated": false,
+    "note": "Official page states registration rates increase by 100 USD on October 2, 2026, implying October 1 is the last day of the lower rate."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.rsna.org/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Confirms meeting dates November 29 to December 3, 2026, and technical exhibit dates."
+   },
+   {
+    "url": "https://www.rsna.org/annual-meeting/future-and-past-meetings",
+    "accessed": "2026-09-10",
+    "note": "Confirms venue as McCormick Place, Chicago, Illinois, for the 2026 edition."
+   },
+   {
+    "url": "https://www.rsna.org/annual-meeting/attendee-resources/pricing-and-registration",
+    "accessed": "2026-09-10",
+    "note": "Lists registration pricing tiers and the October 2, 2026 rate increase date."
+   },
+   {
+    "url": "https://www.rsna.org/media/press/2026/2652",
+    "accessed": "2026-09-10",
+    "note": "RSNA April 2026 press release stating the abstract submission site closed May 6, 2026 at 12 p.m. CT."
+   },
+   {
+    "url": "https://www.rsna.org/annual-meeting/abstract-submission",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract submissions for 2026 are now closed (cross-check, no date given on current page)."
+   }
+  ],
+  "confidence": "high",
+  "notes": "No separate onsite or final registration deadline is published; RSNA registration commonly stays open through the meeting. Notification date for abstract acceptance was not found on official pages."
+ },
+ {
+  "id": "rsna-annual-2027",
+  "name": "RSNA 2027 Scientific Assembly and Annual Meeting",
+  "short_name": "RSNA 2027",
+  "organizer": "Radiological Society of North America",
+  "organizer_url": "https://www.rsna.org",
+  "edition_url": "https://www.rsna.org/annual-meeting/future-and-past-meetings",
+  "areas": [
+   "radiology",
+   "nuclear-medicine"
+  ],
+  "tags": [
+   "radiology",
+   "imaging",
+   "education"
+  ],
+  "start_date": "2027-11-14",
+  "end_date": "2027-11-18",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "McCormick Place",
+  "lat": 41.8531,
+  "lon": -87.6121,
+  "format": null,
+  "description": "The Radiological Society of North America has scheduled its 2027 Scientific Assembly and Annual Meeting for November 14 to 18, 2027, at McCormick Place in Chicago. This edition begins about two weeks earlier than the 2026 meeting, and abstract submission and registration details had not been published as of September 2026.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.rsna.org/annual-meeting/future-and-past-meetings",
+    "accessed": "2026-09-10",
+    "note": "Official RSNA page listing confirmed dates (Nov 14 to 18, 2027) and venue (McCormick Place, Chicago) for the 2027 annual meeting."
+   },
+   {
+    "url": "https://www.rsna.org/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Notes that RSNA 2027 starts two weeks earlier than RSNA 2026, consistent with the future-and-past-meetings page."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Dates and venue are officially published, but no abstract submission, registration, or format information for RSNA 2027 was available as of 2026-09-10. RSNA 2026 (the prior edition) ran November 29 to December 3, 2026 at McCormick Place, Chicago, with an abstract submission deadline of May 6, 2026 and a registration rate increase on October 2, 2026; check the record for rsna-annual-2026 for details."
+ }
+]

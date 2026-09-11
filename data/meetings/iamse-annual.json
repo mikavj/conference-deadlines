@@ -1,0 +1,79 @@
+[
+ {
+  "id": "iamse-annual-2027",
+  "name": "IAMSE 31st Annual Meeting",
+  "short_name": "IAMSE 2027",
+  "organizer": "International Association of Medical Science Educators",
+  "organizer_url": "https://www.iamse.org",
+  "edition_url": "https://www.iamse.org/annual-conference/",
+  "areas": [
+   "medical-education"
+  ],
+  "tags": [
+   "medical-education",
+   "education"
+  ],
+  "start_date": "2027-06-05",
+  "end_date": "2027-06-08",
+  "city": "Bellevue",
+  "region_name": "Washington",
+  "country": "US",
+  "venue": "Hyatt Regency Bellevue",
+  "lat": 47.6101,
+  "lon": -122.2015,
+  "format": "in-person",
+  "description": "The International Association of Medical Science Educators holds its 31st Annual Meeting in Bellevue, Washington in 2027. The meeting focuses on the science of medical and health professions education.",
+  "deadlines": [
+   {
+    "label": "Focus Sessions submission",
+    "date": "2026-09-01",
+    "url": "https://www.iamse.org/annual-conference/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Poster and Oral Abstract submission",
+    "date": "2026-12-01",
+    "url": "https://www.iamse.org/annual-conference/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Travel Award application",
+    "date": "2026-12-15",
+    "url": "https://www.iamse.org/annual-conference/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early Bird registration",
+    "date": "2027-04-01",
+    "url": "https://www.iamse.org/annual-conference/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Presenter registration",
+    "date": "2027-04-01",
+    "url": "https://www.iamse.org/annual-conference/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.iamse.org/annual-conference/",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 dates, Bellevue WA venue, and all listed deadlines; also confirms the 2026 meeting (Augusta, GA) already concluded"
+   },
+   {
+    "url": "https://www.iamse.org/",
+    "accessed": "2026-09-10",
+    "note": "Homepage cross reference for the 2026/2027 meeting cycle"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The 2026 IAMSE Annual Meeting (Augusta, GA) already concluded; this record covers only the 2027 edition."
+ }
+]

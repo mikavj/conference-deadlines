@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 Peripheral Nerve Society Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:pns-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270512
+SUMMARY:2027 Peripheral Nerve Society Annual Meeting
+DESCRIPTION:The Peripheral Nerve Society Annual Meeting covers research o
+ n peripheral neuropathy\, with parallel sessions from consortia covering
+  Charcot-Marie-Tooth disease\, inflammatory neuropathies\, inherited neu
+ ropathies and related conditions. The meeting is open only to healthcare
+  professionals and researchers\, not patients or the general public.\n\n
+ Deadlines\nAbstract submission opens: 2026-09-11\nMini symposia submissi
+ on deadline: 2026-09-18\nAbstract submission deadline: 2026-12-11\nRegis
+ tration opens: 2027-01-14\nEarly bird registration deadline: 2027-03-05\
+ n\nhttps://pnsociety.com/2027-pns-annual-meeting/
+LOCATION:Chicago\, Illinois\, Hilton Chicago
+URL:https://pnsociety.com/2027-pns-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 Peripheral Nerve Society Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pns-annual-2027-20260918-mini-symposia-submission-deadline@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Deadline: PNS 2027 mini symposia submission deadline
+DESCRIPTION:Meeting: 2027 Peripheral Nerve Society Annual Meeting\, May 0
+ 8 to 11\, 2027\, Chicago\, Illinois\, Hilton Chicago\nhttps://pnsociety.
+ com/2027-pns-annual-meeting/
+LOCATION:Chicago\, Illinois\, Hilton Chicago
+URL:https://pnsociety.com/2027-pns-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 mini symposia submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 mini symposia submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 mini symposia submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pns-annual-2027-20261211-abstract-submission-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Deadline: PNS 2027 abstract submission deadline
+DESCRIPTION:End of the abstract submission window\nMeeting: 2027 Peripher
+ al Nerve Society Annual Meeting\, May 08 to 11\, 2027\, Chicago\, Illino
+ is\, Hilton Chicago\nhttps://pnsociety.com/2027-pns-annual-meeting/
+LOCATION:Chicago\, Illinois\, Hilton Chicago
+URL:https://pnsociety.com/2027-pns-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pns-annual-2027-20270305-early-bird-registration-deadline@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Deadline: PNS 2027 early bird registration deadline
+DESCRIPTION:Also the housing and group-rate deadline\nMeeting: 2027 Perip
+ heral Nerve Society Annual Meeting\, May 08 to 11\, 2027\, Chicago\, Ill
+ inois\, Hilton Chicago\nhttps://pnsociety.com/2027-pns-annual-meeting/
+LOCATION:Chicago\, Illinois\, Hilton Chicago
+URL:https://pnsociety.com/2027-pns-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 early bird registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 early bird registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PNS 2027 early bird registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

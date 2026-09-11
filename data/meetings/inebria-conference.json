@@ -1,0 +1,58 @@
+[
+ {
+  "id": "inebria-conference-2026",
+  "name": "22nd INEBRIA Conference 2026",
+  "short_name": "INEBRIA 2026",
+  "organizer": "International Network on Brief Interventions for Alcohol and Other Drugs",
+  "organizer_url": "https://inebria.net/",
+  "edition_url": "https://inebria.net/prague-2026/",
+  "areas": [
+   "addiction-medicine",
+   "psychiatry",
+   "public-health"
+  ],
+  "tags": [
+   "alcohol",
+   "addiction",
+   "public-health",
+   "global",
+   "international"
+  ],
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-16",
+  "city": "Prague",
+  "region_name": null,
+  "country": "CZ",
+  "venue": "Karolinum Centre",
+  "lat": 50.087,
+  "lon": 14.4213,
+  "format": "in-person",
+  "description": "The International Network on Brief Interventions for Alcohol and Other Drugs holds its 22nd conference at the Karolinum Centre in Prague, Czech Republic from October 14 to 16, 2026. The conference covers brief interventions for alcohol and other drug use across addiction medicine, psychiatry, and public health, with capacity for about 150 participants and no conference fee.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-02-18",
+    "url": "https://inebria.net/prague-2026/",
+    "estimated": false,
+    "note": "Opening of the combined pre-registration and abstract submission window; up to two abstracts per participant across oral, symposia, workshop, poster, and innovative formats."
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-04-29",
+    "url": "https://inebria.net/prague-2026/",
+    "estimated": false,
+    "note": "Extended deadline for the pre-registration and abstract submission window."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://inebria.net/prague-2026/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates (October 14 to 16, 2026), Karolinum Centre venue in Prague, fully in person format, no conference fee, approximate 150 person capacity, and the abstract submission window (February 18 to April 29, 2026). Fetched through the r.jina.ai text proxy because direct fetches of inebria.net failed with a TLS certificate verification error."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Participant confirmation is stated only as mid May 2026 and the formal commitment deadline is stated only as two weeks after acceptance notification, so neither is precise enough to record as a dated deadline entry. Direct WebFetch access to inebria.net failed twice with a TLS certificate error (both https and http); content was retrieved via the r.jina.ai read proxy instead, so a maintainer may want to independently reverify this page loads correctly in a normal browser."
+ }
+]

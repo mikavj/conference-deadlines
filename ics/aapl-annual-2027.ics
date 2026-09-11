@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAPL 58th Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aapl-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271101
+SUMMARY:AAPL 58th Annual Meeting 2027
+DESCRIPTION:The 58th annual meeting of the American Academy of Psychiatry
+  and the Law\, scheduled for San Antonio\, Texas.\n\nDeadlines\nCall for
+  papers deadline: 2027-03-01 (estimated)\n\nhttps://aapl.org/58th-annual
+ -meeting/
+LOCATION:San Antonio\, Texas
+URL:https://aapl.org/58th-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAPL 58th Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aapl-annual-2027-20270301-call-for-papers-deadline@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Deadline: AAPL 2027 call for papers deadline (estimated)
+DESCRIPTION:Estimated from AAPL's historical early March deadline (March 
+ 1\, 2024 documented in a Call for Papers FAQ snippet). Not published for
+  2027.\nMeeting: AAPL 58th Annual Meeting 2027\, Oct 28 to 31\, 2027\, S
+ an Antonio\, Texas\nhttps://aapl.org/58th-annual-meeting/
+LOCATION:San Antonio\, Texas
+URL:https://aapl.org/58th-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPL 2027 call for papers deadline (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPL 2027 call for papers deadline (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPL 2027 call for papers deadline (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,55 @@
+[
+ {
+  "id": "amia-2027-amplify-informatics-summit",
+  "name": "AMIA 2027 Amplify Informatics Conference",
+  "short_name": "AMIA 2027 Informatics Summit",
+  "organizer": "American Medical Informatics Association",
+  "organizer_url": "https://amia.org",
+  "edition_url": "https://amia.org/education-events/2027-amplify-informatics-conference",
+  "areas": [
+   "informatics"
+  ],
+  "tags": [
+   "informatics"
+  ],
+  "start_date": "2027-04-12",
+  "end_date": "2027-04-15",
+  "city": "Atlanta",
+  "region_name": "Georgia",
+  "country": "US",
+  "venue": "Hyatt Regency Atlanta",
+  "lat": 33.7627,
+  "lon": -84.39,
+  "format": "in-person",
+  "description": "The American Medical Informatics Association holds its 2027 Amplify Informatics Conference at the Hyatt Regency Atlanta in Atlanta, Georgia. Starting in 2026, AMIA combined its former Informatics Summit and Clinical Informatics Conference into this single spring event.",
+  "deadlines": [
+   {
+    "label": "Proposal submission",
+    "date": "2026-09-03",
+    "url": "https://amia.org/education-events/summit-proposals",
+    "estimated": false,
+    "note": "11:59 pm EDT; already passed as of the research date"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://amia.org/education-events/2027-amplify-informatics-conference",
+    "accessed": "2026-09-10",
+    "note": "Confirms April 12 to 15, 2027, Atlanta GA, via search engine cache"
+   },
+   {
+    "url": "https://amia.org/education-events/upcoming-events",
+    "accessed": "2026-09-10",
+    "note": "Confirms Hyatt Regency Atlanta venue"
+   },
+   {
+    "url": "https://amia.org/education-events/summit-proposals",
+    "accessed": "2026-09-10",
+    "note": "Confirms September 3, 2026 proposal submission deadline"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "AMIA rebranded the Informatics Summit as the Amplify Informatics Conference beginning with an inaugural 2026 edition, merging it with the former Clinical Informatics Conference; this record tracks that series as the successor to the Informatics Summit requested. amia.org blocks automated fetching (Cloudflare check), so data comes from Google search snippets quoting the official pages directly."
+ }
+]

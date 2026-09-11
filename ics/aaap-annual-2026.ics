@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAAP 37th Annual Meeting and Scientific Symposium 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aaap-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:AAAP 37th Annual Meeting and Scientific Symposium 2026
+DESCRIPTION:The annual scientific meeting of the American Academy of Addi
+ ction Psychiatry\, covering substance use disorders and co occurring psy
+ chiatric disorders through symposia\, workshops\, paper sessions\, poste
+ rs and case conferences.\n\nDeadlines\nEarly bird registration deadline:
+  2026-10-01\n\nhttps://www.aaap.org/training-events/annual-meeting/2026-
+ annual-meeting-and-scientific-symposium/
+LOCATION:Memphis\, Tennessee\, The Peabody Memphis
+URL:https://www.aaap.org/training-events/annual-meeting/2026-annual-meeti
+ ng-and-scientific-symposium/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAAP 37th Annual Meeting and Scientific Symposium 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaap-annual-2026-20261001-early-bird-registration-deadline@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Deadline: AAAP 2026 early bird registration deadline
+DESCRIPTION:Early bird rates apply through October 1\, 2026.\nMeeting: AA
+ AP 37th Annual Meeting and Scientific Symposium 2026\, Nov 12 to 15\, 20
+ 26\, Memphis\, Tennessee\, The Peabody Memphis\nhttps://aaap.societyconf
+ erence.com/conference/
+LOCATION:Memphis\, Tennessee\, The Peabody Memphis
+URL:https://aaap.societyconference.com/conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAAP 2026 early bird registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAAP 2026 early bird registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAAP 2026 early bird registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

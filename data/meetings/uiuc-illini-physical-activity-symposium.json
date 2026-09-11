@@ -1,0 +1,47 @@
+[
+ {
+  "id": "uiuc-illini-physical-activity-symposium-2027",
+  "name": "Illini Physical Activity Symposium 2027",
+  "short_name": "IPA Symposium 2027",
+  "organizer": "Department of Health and Kinesiology, College of Applied Health Sciences, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://ahs.illinois.edu",
+  "edition_url": "https://publish.illinois.edu/lapassstalab/ipa-symposium/",
+  "areas": [
+   "public-health"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "public-health",
+   "community",
+   "student-resident-research"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Urbana",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": null,
+  "lat": 40.102,
+  "lon": -88.2272,
+  "format": "in-person",
+  "description": "The Illini Physical Activity Symposium, hosted by the Department of Health and Kinesiology, celebrates research on physical activity and public health, including student poster presentations. The second annual edition was held April 3, 2026; the third edition had not been scheduled as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-03",
+   "end_date": "2026-04-03",
+   "city": "Urbana",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://ahs.illinois.edu/illini-physical-activity-symposium-two/",
+    "accessed": "2026-09-10",
+    "note": "Second annual Illini Physical Activity Symposium held April 3, 2026, hosted by Health and Kinesiology, with student poster presentations"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "New and small symposium, only in its second year as of 2026; no 2027 date has been published yet."
+ }
+]

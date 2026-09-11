@@ -1,0 +1,153 @@
+[
+ {
+  "id": "aap-nce-2026",
+  "name": "2026 AAP National Conference & Exhibition",
+  "short_name": "AAP NCE 2026",
+  "organizer": "American Academy of Pediatrics",
+  "organizer_url": "https://www.aap.org",
+  "edition_url": "https://aapexperience.org/",
+  "areas": [
+   "pediatrics"
+  ],
+  "tags": [
+   "pediatrics",
+   "education",
+   "community",
+   "primary-care"
+  ],
+  "start_date": "2026-10-02",
+  "end_date": "2026-10-06",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "San Diego Convention Center",
+  "lat": 32.7062,
+  "lon": -117.1611,
+  "format": "hybrid",
+  "description": "The American Academy of Pediatrics hosts its annual National Conference and Exhibition for pediatricians, pediatric subspecialists, residents and other child health professionals. The 2026 edition is held at the San Diego Convention Center with in person and virtual attendance options.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-02-06",
+    "url": "https://aapexperience.org/abstracts/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-04-10",
+    "url": "https://aapexperience.org/abstracts/",
+    "estimated": false,
+    "note": "11:59 PM CDT, no exceptions"
+   },
+   {
+    "label": "Registration opens for members",
+    "date": "2026-05-01",
+    "url": "https://aapexperience.org/conference-registration/",
+    "estimated": false,
+    "note": "10:00 AM CT"
+   },
+   {
+    "label": "Registration opens for nonmembers",
+    "date": "2026-05-08",
+    "url": "https://aapexperience.org/conference-registration/",
+    "estimated": false,
+    "note": "10:00 AM CT"
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2026-08-21",
+    "url": "https://aapexperience.org/conference-registration/",
+    "estimated": false,
+    "note": "Registration fees increase after this date"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://archive.aapexperience.org/future-dates/",
+    "accessed": "2026-09-10",
+    "note": "Official site mirror, fetched directly; confirms 2026 dates (Oct 2 to 6) and venue (San Diego Convention Center)"
+   },
+   {
+    "url": "https://publications.aap.org/aapnews/news/34822/Registration-opens-for-the-2026-AAP-National",
+    "accessed": "2026-09-10",
+    "note": "AAP News article confirming member and nonmember registration open dates; direct fetch returned HTTP 403, information taken from search engine summary of this official article"
+   },
+   {
+    "url": "https://aapexperience.org/conference-registration/",
+    "accessed": "2026-09-10",
+    "note": "Official registration page states early registration deadline of August 21, 2026; direct fetch returned HTTP 503, information taken from search engine snippet of this official page"
+   },
+   {
+    "url": "https://aapexperience.org/abstracts/",
+    "accessed": "2026-09-10",
+    "note": "Official abstracts page states call for abstracts opened February 6, 2026 and closed April 10, 2026; direct fetch returned HTTP 503, information taken from search engine snippet of this official page"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The primary aapexperience.org domain returned HTTP 503 to direct automated fetches during this research session; the archive.aapexperience.org mirror was fetchable directly and corroborated the dates. Deadline details for this 2026 edition (all in the past relative to today, 2026-09-10) were obtained from search engine snippets of the official pages rather than direct page fetches, so confidence is medium rather than high."
+ },
+ {
+  "id": "aap-nce-2027",
+  "name": "2027 AAP National Conference & Exhibition",
+  "short_name": "AAP NCE 2027",
+  "organizer": "American Academy of Pediatrics",
+  "organizer_url": "https://www.aap.org",
+  "edition_url": "https://aapexperience.org/future-dates/",
+  "areas": [
+   "pediatrics"
+  ],
+  "tags": [
+   "pediatrics",
+   "education",
+   "community",
+   "primary-care"
+  ],
+  "start_date": "2027-10-15",
+  "end_date": "2027-10-19",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "McCormick Place",
+  "lat": 41.8515,
+  "lon": -87.6167,
+  "format": null,
+  "description": "The American Academy of Pediatrics will hold its 2027 National Conference and Exhibition at McCormick Place in Chicago. This is the annual gathering for pediatric clinicians, researchers and trainees to present research and attend educational programming.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-06",
+   "city": "San Diego",
+   "deadlines": [
+    {
+     "label": "Abstract submission deadline",
+     "date": "2026-04-10"
+    },
+    {
+     "label": "Registration opens for members",
+     "date": "2026-05-01"
+    },
+    {
+     "label": "Early registration deadline",
+     "date": "2026-08-21"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://archive.aapexperience.org/future-dates/",
+    "accessed": "2026-09-10",
+    "note": "Official site mirror, fetched directly; confirms 2027 dates (Oct 15 to 19), city (Chicago) and venue (McCormick Place)"
+   },
+   {
+    "url": "https://aapexperience.org/future-dates/",
+    "accessed": "2026-09-10",
+    "note": "Same official page on the primary domain; direct fetch returned HTTP 503, but content matches the archive mirror and search engine result snippets"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Dates and venue for 2027 are published on the official site (confirmed via the archive.aapexperience.org mirror after the primary domain returned HTTP 503 to direct fetch) but are far enough out that no abstract submission or registration deadlines have been announced yet as of 2026-09-10. The deadlines list is therefore empty rather than estimated; the prior_edition block gives the 2026 timing for reference only, not as an estimate of 2027 dates."
+ }
+]

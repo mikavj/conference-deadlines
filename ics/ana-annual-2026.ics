@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Neurological Association 151st Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ana-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261021
+SUMMARY:American Neurological Association 151st Annual Meeting
+DESCRIPTION:The American Neurological Association holds its 151st annual 
+ meeting in San Diego\, California\, from October 17 to 20\, 2026. The pr
+ ogram covers clinical and translational neurology research through platf
+ orm sessions\, posters\, and late breaking science.\n\nDeadlines\nSympos
+ ium proposal submission (Call for Topics): 2025-12-15\nAbstract submissi
+ on opens: 2026-03-16\nLate-breaking abstract submission opens: 2026-05-0
+ 4\nLate-breaking abstract submission: 2026-05-26\nEarly registration dea
+ dline: 2026-09-07\n\nhttps://2026.myana.org/
+LOCATION:San Diego\, California\, Sheraton San Diego Resort
+URL:https://2026.myana.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Neurological Association 151st Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ana-annual-2026-20251215-symposium-proposal-submission-call-for-topic
+ s-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20251215
+DTEND;VALUE=DATE:20251216
+SUMMARY:Deadline: ANA 2026 symposium proposal submission (call for topics
+ )
+DESCRIPTION:11:59 PM PST deadline for the Call for Topics form\, a separa
+ te track from abstract submission.\nMeeting: American Neurological Assoc
+ iation 151st Annual Meeting\, Oct 17 to 20\, 2026\, San Diego\, Californ
+ ia\, Sheraton San Diego Resort\nhttps://myana.org/ana2026-annual-meeting
+ -call-for-topics-submission-form/
+LOCATION:San Diego\, California\, Sheraton San Diego Resort
+URL:https://myana.org/ana2026-annual-meeting-call-for-topics-submission-f
+ orm/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 symposium proposal submission (call for to
+ pics)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 symposium proposal submission (call for to
+ pics)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 symposium proposal submission (call for to
+ pics)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ana-annual-2026-20260526-late-breaking-abstract-submission@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Deadline: ANA 2026 late-breaking abstract submission
+DESCRIPTION:11:59 PM PT deadline\, confirmed directly on the official abs
+ tract submission guidelines page.\nMeeting: American Neurological Associ
+ ation 151st Annual Meeting\, Oct 17 to 20\, 2026\, San Diego\, Californi
+ a\, Sheraton San Diego Resort\nhttps://2026.myana.org/abstracts/abstract
+ -submission-guidelines/
+LOCATION:San Diego\, California\, Sheraton San Diego Resort
+URL:https://2026.myana.org/abstracts/abstract-submission-guidelines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ana-annual-2026-20260907-early-registration-deadline@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Deadline: ANA 2026 early registration deadline
+DESCRIPTION:Early bird registration rate deadline\; standard/onsite rates
+  apply after this date\, which was also the cancellation-with-refund dea
+ dline.\nMeeting: American Neurological Association 151st Annual Meeting\
+ , Oct 17 to 20\, 2026\, San Diego\, California\, Sheraton San Diego Reso
+ rt\nhttps://2026.myana.org/registration/registration/
+LOCATION:San Diego\, California\, Sheraton San Diego Resort
+URL:https://2026.myana.org/registration/registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANA 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

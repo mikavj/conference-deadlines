@@ -1,0 +1,68 @@
+[
+ {
+  "id": "sbsm-annual-2027",
+  "name": "Society for Biopsychosocial Science and Medicine 84th Annual Meeting 2027 (formerly American Psychosomatic Society)",
+  "short_name": "SBSM 2027",
+  "organizer": "Society for Biopsychosocial Science and Medicine (formerly American Psychosomatic Society)",
+  "organizer_url": "https://thesbsm.org/",
+  "edition_url": "https://thesbsm.org/2027-annual-meeting/",
+  "tags": [
+   "psychosomatic",
+   "consultation-liaison",
+   "behavioral",
+   "psychology",
+   "international"
+  ],
+  "start_date": "2027-03-17",
+  "end_date": "2027-03-20",
+  "city": "New Orleans",
+  "country": "US",
+  "venue": null,
+  "lat": 29.9511,
+  "lon": -90.0715,
+  "format": "in-person",
+  "description": "The 84th annual scientific meeting of the society formerly known as the American Psychosomatic Society, covering mind, brain, body and social context in medicine. The 2027 theme is Biopsychosocial Mechanisms of Restorative Practices for Health and Healing Across the Lifespan.",
+  "deadlines": [
+   {
+    "label": "Abstract submission deadline (symposium, standard abstract, case based)",
+    "date": "2026-09-16",
+    "url": "https://thesbsm.org/2027-annual-meeting/",
+    "estimated": false,
+    "note": "11:59 pm EST. Five special interest groups will give abstract awards; limited travel scholarships available."
+   },
+   {
+    "label": "Late-breaking abstract portal opens",
+    "date": null,
+    "url": "https://thesbsm.org/2027-annual-meeting/",
+    "estimated": false,
+    "note": "Opens later in 2026; late breaking submissions are considered for poster presentation only."
+   },
+   {
+    "label": "Registration opens",
+    "date": null,
+    "url": "https://thesbsm.org/2027-annual-meeting/",
+    "estimated": false,
+    "note": "Page states registration will open in December 2026."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://thesbsm.org/2027-annual-meeting/",
+    "accessed": "2026-09-09",
+    "note": "Confirms March 17 to 20, 2027, New Orleans, LA, theme, abstract deadline September 16, 2026 at 11:59pm EST, late breaking portal, registration opening December 2026."
+   },
+   {
+    "url": "https://thesbsm.org/future-annual-meetings/",
+    "accessed": "2026-09-09",
+    "note": "Confirms SBSM 84th Annual Meeting March 17 to 20, 2027, New Orleans; logo reads formerly APS."
+   }
+  ],
+  "confidence": "high",
+  "notes": "The 2027 meeting page also contains the phrase 'three types of submissions for the September 8th deadline', which conflicts with the September 16, 2026 deadline stated elsewhere on the same page; the September 16 date is stated explicitly with a time and is treated as authoritative. Venue hotel not yet published.",
+  "region_name": "Louisiana",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "id": "nns-symposium-2027",
+  "name": "44th Annual Symposium of the National Neurotrauma Society",
+  "short_name": "NNS 2027",
+  "organizer": "National Neurotrauma Society",
+  "organizer_url": "https://www.neurotrauma.org",
+  "edition_url": "https://www.neurotrauma.org/symposium/",
+  "areas": [
+   "neurology",
+   "surgery",
+   "rehabilitation"
+  ],
+  "tags": [
+   "brain-injury",
+   "neurocritical-care",
+   "student-resident-research"
+  ],
+  "start_date": "2027-06-13",
+  "end_date": "2027-06-16",
+  "city": "Portland",
+  "region_name": "Oregon",
+  "country": "US",
+  "venue": "Oregon Convention Center",
+  "lat": 45.5307,
+  "lon": -122.6636,
+  "format": "in-person",
+  "description": "Annual symposium of the National Neurotrauma Society, themed Ringing in Team Science, covering research on traumatic brain and spinal cord injury.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-14",
+   "end_date": "2026-06-17",
+   "city": "Milwaukee",
+   "deadlines": [
+    {
+     "label": "Session proposal submission opens",
+     "date": "2025-10-01"
+    },
+    {
+     "label": "Session proposal submission",
+     "date": "2025-11-10"
+    },
+    {
+     "label": "Abstract submission and registration opens",
+     "date": "2026-01-19"
+    },
+    {
+     "label": "Abstract submission",
+     "date": "2026-03-09"
+    },
+    {
+     "label": "Early registration",
+     "date": "2026-03-20"
+    },
+    {
+     "label": "Regular registration deadline",
+     "date": "2026-05-01"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://r.jina.ai/https://www.oregoncc.org/attend/events/2027/06/national-neurotrauma-society-44th-annual-symposium-nns-2027-western-region",
+    "accessed": "2026-09-10",
+    "note": "oregoncc.org blocked direct WebFetch (403); used r.jina.ai proxy to confirm 2027 dates and venue"
+   },
+   {
+    "url": "https://www.neurotrauma.org/symposium/",
+    "accessed": "2026-09-10",
+    "note": "confirms NNS 2027 branding and that dates and deadlines are not yet posted on the official society page"
+   },
+   {
+    "url": "https://www.neurotrauma-symposium.org/nns-2026-important-dates/",
+    "accessed": "2026-09-10",
+    "note": "prior (2026) edition dates and full deadline schedule"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The direct oregoncc.org venue listing page returned HTTP 403 to WebFetch; date and venue were confirmed via an r.jina.ai proxy fetch of the same official venue page. Abstract and registration deadlines for 2027 are not yet published."
+ }
+]

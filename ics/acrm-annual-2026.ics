@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACRM 2026 Annual Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acrm-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:ACRM 2026 Annual Conference
+DESCRIPTION:The ACRM Annual Conference is the main scientific meeting of 
+ the American Congress of Rehabilitation Medicine. The 2026 edition takes
+  place in Washington\, D.C. from October 12 to 16 at the Washington Hilt
+ on.\n\nhttps://conference.acrm.org/
+LOCATION:Washington\, District of Columbia\, Washington Hilton
+URL:https://conference.acrm.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACRM 2026 Annual Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

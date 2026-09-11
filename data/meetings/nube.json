@@ -1,0 +1,62 @@
+[
+ {
+  "id": "nube-2026",
+  "name": "National Update on Behavioral Emergencies (NUBE) Conference 2026",
+  "short_name": "NUBE 2026",
+  "organizer": "American Association for Emergency Psychiatry",
+  "organizer_url": "https://www.emergencypsychiatry.org/",
+  "edition_url": "http://www.behavioralemergencies.civicaconferences.com/",
+  "tags": [
+   "emergency",
+   "general-psychiatry"
+  ],
+  "start_date": "2026-12-07",
+  "end_date": "2026-12-09",
+  "city": "Scottsdale",
+  "country": "US",
+  "venue": null,
+  "lat": 33.4942,
+  "lon": -111.9261,
+  "format": null,
+  "description": "The AAEP National Update on Behavioral Emergencies conference is held December 7 to 9, 2026 in Scottsdale, Arizona. It addresses behavioral emergencies in emergency departments, psychiatric emergency services and crisis settings.",
+  "deadlines": [
+   {
+    "label": "Speaker proposal submission",
+    "date": "2026-07-31",
+    "url": "http://www.behavioralemergencies.civicaconferences.com/2026-call-for-presenters/",
+    "estimated": false,
+    "note": "Closed"
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-12-08",
+   "end_date": "2025-12-10",
+   "city": "New Orleans",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "http://www.behavioralemergencies.civicaconferences.com/",
+    "accessed": "2026-09-09",
+    "note": "Conference site header: Scottsdale, AZ, December 7 to 9, 2026"
+   },
+   {
+    "url": "http://www.behavioralemergencies.civicaconferences.com/2026-call-for-presenters/",
+    "accessed": "2026-09-09",
+    "note": "Proposal deadline July 31, 2026 and daily dates"
+   },
+   {
+    "url": "http://www.behavioralemergencies.civicaconferences.com/about/",
+    "accessed": "2026-09-09",
+    "note": "2025 New Orleans meeting December 8 to 10, 2025"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The conference site labels 2026 as the 17th Annual NUBE although the 2025 New Orleans meeting carried the same number, so the edition count is ambiguous. No hotel is named yet. emergencypsychiatry.org blocks automated fetches. No 2027 information found.",
+  "region_name": "Arizona",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

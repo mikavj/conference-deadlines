@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 AAP National Conference & Exhibition
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aap-nce-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261007
+SUMMARY:2026 AAP National Conference & Exhibition
+DESCRIPTION:The American Academy of Pediatrics hosts its annual National 
+ Conference and Exhibition for pediatricians\, pediatric subspecialists\,
+  residents and other child health professionals. The 2026 edition is hel
+ d at the San Diego Convention Center with in person and virtual attendan
+ ce options.\n\nDeadlines\nAbstract submission opens: 2026-02-06\nAbstrac
+ t submission deadline: 2026-04-10\nRegistration opens for members: 2026-
+ 05-01\nRegistration opens for nonmembers: 2026-05-08\nEarly registration
+  deadline: 2026-08-21\n\nhttps://aapexperience.org/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://aapexperience.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 AAP National Conference & Exhibition
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aap-nce-2026-20260410-abstract-submission-deadline@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:Deadline: AAP NCE 2026 abstract submission deadline
+DESCRIPTION:11:59 PM CDT\, no exceptions\nMeeting: 2026 AAP National Conf
+ erence & Exhibition\, Oct 02 to 06\, 2026\, San Diego\, California\, San
+  Diego Convention Center\nhttps://aapexperience.org/abstracts/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://aapexperience.org/abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAP NCE 2026 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAP NCE 2026 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAP NCE 2026 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aap-nce-2026-20260821-early-registration-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Deadline: AAP NCE 2026 early registration deadline
+DESCRIPTION:Registration fees increase after this date\nMeeting: 2026 AAP
+  National Conference & Exhibition\, Oct 02 to 06\, 2026\, San Diego\, Ca
+ lifornia\, San Diego Convention Center\nhttps://aapexperience.org/confer
+ ence-registration/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://aapexperience.org/conference-registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAP NCE 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAP NCE 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAP NCE 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

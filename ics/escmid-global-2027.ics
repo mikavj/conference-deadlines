@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ESCMID Global 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:escmid-global-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270414
+SUMMARY:ESCMID Global 2027
+DESCRIPTION:ESCMID Global is the annual congress of the European Society 
+ of Clinical Microbiology and Infectious Diseases\, covering clinical mic
+ robiology\, infectious diseases\, and related research. The 2027 congres
+ s is held in Stockholm\, Sweden.\n\nDeadlines\nAbstract submission opens
+ : 2026-10-07\nAbstract submission: 2026-11-18\nRegistration opens: 2026-
+ 10-28\nEarly registration: 2027-02-10\nRegular registration: 2027-03-10\
+ n\nhttps://www.escmid.org/escmid-global/
+LOCATION:Stockholm\, Stockholm County\, SE
+URL:https://www.escmid.org/escmid-global/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ESCMID Global 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:escmid-global-2027-20261118-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Deadline: ESCMID Global 2027 abstract submission
+DESCRIPTION:Meeting: ESCMID Global 2027\, Apr 09 to 13\, 2027\, Stockholm
+ \, Stockholm County\, SE\nhttps://www.escmid.org/escmid-global/
+LOCATION:Stockholm\, Stockholm County\, SE
+URL:https://www.escmid.org/escmid-global/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESCMID Global 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESCMID Global 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESCMID Global 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:escmid-global-2027-20270210-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Deadline: ESCMID Global 2027 early registration
+DESCRIPTION:Meeting: ESCMID Global 2027\, Apr 09 to 13\, 2027\, Stockholm
+ \, Stockholm County\, SE\nhttps://www.escmid.org/escmid-global/
+LOCATION:Stockholm\, Stockholm County\, SE
+URL:https://www.escmid.org/escmid-global/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESCMID Global 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESCMID Global 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESCMID Global 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:escmid-global-2027-20270310-regular-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Deadline: ESCMID Global 2027 regular registration
+DESCRIPTION:Meeting: ESCMID Global 2027\, Apr 09 to 13\, 2027\, Stockholm
+ \, Stockholm County\, SE\nhttps://www.escmid.org/escmid-global/
+LOCATION:Stockholm\, Stockholm County\, SE
+URL:https://www.escmid.org/escmid-global/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESCMID Global 2027 regular registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESCMID Global 2027 regular registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESCMID Global 2027 regular registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

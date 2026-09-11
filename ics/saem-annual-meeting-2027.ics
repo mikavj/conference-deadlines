@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SAEM27 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:saem-annual-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270522
+SUMMARY:SAEM27 Annual Meeting
+DESCRIPTION:The SAEM Annual Meeting is the Society for Academic Emergency
+  Medicine's annual conference on emergency medicine research and educati
+ on. The 2027 meeting is scheduled for the San Francisco Marriott Marquis
+ .\n\nDeadlines\nAbstract submission opens: 2026-11-02\nAbstract submissi
+ on: 2027-01-05\nPresenter disclosure and bio deadline: 2027-04-01\n\nhtt
+ ps://www.saem.org/meetings-and-events/annual-meeting
+LOCATION:San Francisco\, California\, San Francisco Marriott Marquis
+URL:https://www.saem.org/meetings-and-events/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SAEM27 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:saem-annual-meeting-2027-20270105-abstract-submission@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Deadline: SAEM27 abstract submission
+DESCRIPTION:Meeting: SAEM27 Annual Meeting\, May 18 to 21\, 2027\, San Fr
+ ancisco\, California\, San Francisco Marriott Marquis\nhttps://www.saem.
+ org/meetings-and-events/annual-meeting/annual-meeting-navigation/educati
+ on/submission-deadlines
+LOCATION:San Francisco\, California\, San Francisco Marriott Marquis
+URL:https://www.saem.org/meetings-and-events/annual-meeting/annual-meetin
+ g-navigation/education/submission-deadlines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SAEM27 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SAEM27 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SAEM27 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:saem-annual-meeting-2027-20270401-presenter-disclosure-and-bio-deadli
+ ne@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Deadline: SAEM27 presenter disclosure and bio deadline
+DESCRIPTION:Presenters with undisclosed relevant financial relationships 
+ cannot be added to sessions after this date\nMeeting: SAEM27 Annual Meet
+ ing\, May 18 to 21\, 2027\, San Francisco\, California\, San Francisco M
+ arriott Marquis\nhttps://www.saem.org/meetings-and-events/annual-meeting
+ /annual-meeting-navigation/education/submission-deadlines
+LOCATION:San Francisco\, California\, San Francisco Marriott Marquis
+URL:https://www.saem.org/meetings-and-events/annual-meeting/annual-meetin
+ g-navigation/education/submission-deadlines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SAEM27 presenter disclosure and bio deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SAEM27 presenter disclosure and bio deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SAEM27 presenter disclosure and bio deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

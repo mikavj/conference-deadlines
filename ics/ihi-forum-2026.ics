@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IHI Forum 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ihi-forum-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261210
+SUMMARY:IHI Forum 2026
+DESCRIPTION:The Institute for Healthcare Improvement holds its 2026 Natio
+ nal Forum at the Phoenix Convention Center in Phoenix\, Arizona. The For
+ um covers quality improvement and patient safety in healthcare.\n\nDeadl
+ ines\nPoster submission: 2026-09-30\nEarly registration: 2026-09-30\n\nh
+ ttps://events.ihi.org/forum
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://events.ihi.org/forum
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IHI Forum 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ihi-forum-2026-20260930-poster-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: IHI Forum 2026 poster submission
+DESCRIPTION:Meeting: IHI Forum 2026\, Dec 06 to 09\, 2026\, Phoenix\, Ari
+ zona\, Phoenix Convention Center\nhttps://events.ihi.org/forum/present
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://events.ihi.org/forum/present
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IHI Forum 2026 poster submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IHI Forum 2026 poster submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IHI Forum 2026 poster submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ihi-forum-2026-20260930-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: IHI Forum 2026 early registration
+DESCRIPTION:General Conference (December 8 to 9) rate of $1\,395 availabl
+ e until this date\nMeeting: IHI Forum 2026\, Dec 06 to 09\, 2026\, Phoen
+ ix\, Arizona\, Phoenix Convention Center\nhttps://events.ihi.org/forum/f
+ ees-and-scholarships
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://events.ihi.org/forum/fees-and-scholarships
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IHI Forum 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IHI Forum 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IHI Forum 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

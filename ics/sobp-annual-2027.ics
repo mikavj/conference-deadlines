@@ -1,0 +1,194 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society of Biological Psychiatry 82nd Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sobp-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270509
+SUMMARY:Society of Biological Psychiatry 82nd Annual Meeting 2027
+DESCRIPTION:The 2027 SOBP Annual Meeting takes place May 6 to 8\, 2027\, 
+ in Chicago under the theme The Metabolic Brain. Travel fellowship applic
+ ations for the meeting close October 5\, 2026\; the oral and poster abst
+ ract deadline has not been posted on the society site as of September 20
+ 26.\n\nDeadlines\nTravel fellowship application (predoctoral\, early car
+ eer North American\, early career international): 2026-10-05\nSymposium 
+ proposal submission: 2026-09-25 (estimated)\nHonorific award nominations
+ : 2026-10-23 (estimated)\nOral and poster abstract submission: 2026-12-0
+ 4 (estimated)\nLate breaking poster abstract submission: 2027-02-12 (est
+ imated)\n\nhttps://sobp.org/sobp-annual-meeting/
+LOCATION:Chicago\, Illinois\, Sheraton Grand Chicago Riverwalk
+URL:https://sobp.org/sobp-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society of Biological Psychiatry 82nd Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sobp-annual-2027-20261005-travel-fellowship-application-predoctoral-e
+ arly-career-north-american-early-career-international-@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Deadline: SOBP 2027 travel fellowship application (predoctoral\, 
+ early career north american\, early career international)
+DESCRIPTION:notification by early December 2026 (predoctoral by end of De
+ cember)\; awardees then submit a late breaking abstract by mid December\
+ nMeeting: Society of Biological Psychiatry 82nd Annual Meeting 2027\, Ma
+ y 06 to 08\, 2027\, Chicago\, Illinois\, Sheraton Grand Chicago Riverwal
+ k\nhttps://sobp.org/travel-fellowship-award-predoctoral-scholars/
+LOCATION:Chicago\, Illinois\, Sheraton Grand Chicago Riverwalk
+URL:https://sobp.org/travel-fellowship-award-predoctoral-scholars/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 travel fellowship application (predoctora
+ l\, early career north american\, early career international)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 travel fellowship application (predoctora
+ l\, early career north american\, early career international)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 travel fellowship application (predoctora
+ l\, early career north american\, early career international)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sobp-annual-2027-20260925-symposium-proposal-submission@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Deadline: SOBP 2027 symposium proposal submission (estimated)
+DESCRIPTION:estimated from the 2025 cycle (September 27\, 2024\, roughly 
+ seven months before the meeting)\; not published for 2027 and may alread
+ y have passed\nMeeting: Society of Biological Psychiatry 82nd Annual Mee
+ ting 2027\, May 06 to 08\, 2027\, Chicago\, Illinois\, Sheraton Grand Ch
+ icago Riverwalk\nhttps://sobp.org/sobp-annual-meeting/
+LOCATION:Chicago\, Illinois\, Sheraton Grand Chicago Riverwalk
+URL:https://sobp.org/sobp-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 symposium proposal submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 symposium proposal submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 symposium proposal submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sobp-annual-2027-20261023-honorific-award-nominations@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deadline: SOBP 2027 honorific award nominations (estimated)
+DESCRIPTION:estimated from the 2025 cycle (October 25\, 2024)\; not publi
+ shed\nMeeting: Society of Biological Psychiatry 82nd Annual Meeting 2027
+ \, May 06 to 08\, 2027\, Chicago\, Illinois\, Sheraton Grand Chicago Riv
+ erwalk\nhttps://sobp.org/sobp-annual-meeting/
+LOCATION:Chicago\, Illinois\, Sheraton Grand Chicago Riverwalk
+URL:https://sobp.org/sobp-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 honorific award nominations (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 honorific award nominations (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 honorific award nominations (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sobp-annual-2027-20261204-oral-and-poster-abstract-submission@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Deadline: SOBP 2027 oral and poster abstract submission (estimate
+ d)
+DESCRIPTION:estimated: the 2025 cycle closed November 22\, 2024 and award
+  pages for 2027 say abstracts are due by mid December\; the site should 
+ verify against sobp.societyconference.com\nMeeting: Society of Biologica
+ l Psychiatry 82nd Annual Meeting 2027\, May 06 to 08\, 2027\, Chicago\, 
+ Illinois\, Sheraton Grand Chicago Riverwalk\nhttps://sobp.org/sobp-annua
+ l-meeting/
+LOCATION:Chicago\, Illinois\, Sheraton Grand Chicago Riverwalk
+URL:https://sobp.org/sobp-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 oral and poster abstract submission (esti
+ mated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 oral and poster abstract submission (esti
+ mated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 oral and poster abstract submission (esti
+ mated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sobp-annual-2027-20270212-late-breaking-poster-abstract-submission@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Deadline: SOBP 2027 late breaking poster abstract submission (est
+ imated)
+DESCRIPTION:estimated from the 2025 cycle (February 7\, 2025\, opened Jan
+ uary)\; not published\nMeeting: Society of Biological Psychiatry 82nd An
+ nual Meeting 2027\, May 06 to 08\, 2027\, Chicago\, Illinois\, Sheraton 
+ Grand Chicago Riverwalk\nhttps://sobp.org/sobp-annual-meeting/
+LOCATION:Chicago\, Illinois\, Sheraton Grand Chicago Riverwalk
+URL:https://sobp.org/sobp-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 late breaking poster abstract submission 
+ (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 late breaking poster abstract submission 
+ (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SOBP 2027 late breaking poster abstract submission 
+ (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

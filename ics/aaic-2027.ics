@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Alzheimer's Association International Conference 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aaic-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270722
+SUMMARY:Alzheimer's Association International Conference 2027
+DESCRIPTION:The Alzheimer's Association International Conference brings t
+ ogether dementia researchers and clinicians in Chicago at McCormick Plac
+ e\, with an online component. The program covers Alzheimer's disease and
+  dementia science spanning neurology\, psychiatry and geriatrics\, and i
+ s followed by the AAIC For All public event on July 22.\n\nDeadlines\nAb
+ stract submission opens: 2027-01-18 (estimated)\nEarly registration: 202
+ 7-03-15 (estimated)\n\nhttps://aaic.alz.org/
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://aaic.alz.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Alzheimer's Association International Conference 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaic-2027-20270315-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Deadline: AAIC 2027 early registration (estimated)
+DESCRIPTION:Official site states only that registration opens 'spring 202
+ 7' without an exact date\; mid March used as a placeholder estimate.\nMe
+ eting: Alzheimer's Association International Conference 2027\, Jul 18 to
+  21\, 2027\, Chicago\, Illinois\, McCormick Place\nhttps://aaic.alz.org/
+ registration.asp
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://aaic.alz.org/registration.asp
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAIC 2027 early registration (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAIC 2027 early registration (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAIC 2027 early registration (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

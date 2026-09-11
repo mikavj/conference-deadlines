@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SHM Converge 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:shm-converge-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270403
+SUMMARY:SHM Converge 2027
+DESCRIPTION:SHM Converge 2027 is the annual conference of the Society of 
+ Hospital Medicine\, held at Mandalay Bay Resort and Casino in Las Vegas\
+ , Nevada. The program includes pre courses\, didactic sessions\, and wor
+ kshops covering clinical and professional topics in hospital medicine.\n
+ \nDeadlines\nSpeaker and topic proposal submission: 2026-05-03\n\nhttps:
+ //shmconverge.hospitalmedicine.org/
+LOCATION:Las Vegas\, Nevada\, Mandalay Bay Resort and Casino
+URL:https://shmconverge.hospitalmedicine.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SHM Converge 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:shm-converge-2027-20260503-speaker-and-topic-proposal-submission@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Deadline: SHM Converge 2027 speaker and topic proposal submission
+DESCRIPTION:11:59 PM ET deadline for keynote\, didactic\, and workshop sp
+ eaker and topic proposals\nMeeting: SHM Converge 2027\, Mar 30 to Apr 02
+ \, 2027\, Las Vegas\, Nevada\, Mandalay Bay Resort and Casino\nhttps://w
+ ww.conferenceabstracts.com/uploads/documents/26574/2027FormalDidacticKey
+ noteGuidelines.pdf
+LOCATION:Las Vegas\, Nevada\, Mandalay Bay Resort and Casino
+URL:https://www.conferenceabstracts.com/uploads/documents/26574/2027Forma
+ lDidacticKeynoteGuidelines.pdf
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SHM Converge 2027 speaker and topic proposal submis
+ sion
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SHM Converge 2027 speaker and topic proposal submis
+ sion
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SHM Converge 2027 speaker and topic proposal submis
+ sion
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

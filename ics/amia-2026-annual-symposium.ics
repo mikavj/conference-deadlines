@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AMIA 2026 Annual Symposium
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:amia-2026-annual-symposium@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261112
+SUMMARY:AMIA 2026 Annual Symposium
+DESCRIPTION:The American Medical Informatics Association holds its 2026 A
+ nnual Symposium at the Hilton Anatole in Dallas\, Texas. The symposium c
+ overs research and practice across biomedical and health informatics.\n\
+ nDeadlines\nManuscript submission: 2026-03-10\nHigh School Scholars appl
+ ication: 2026-09-08\nStudent volunteer application: 2026-09-08\nFHIR App
+  Competition materials submission: 2026-09-30\nHotel reservation: 2026-1
+ 0-14\n\nhttps://amia.org/education-events/amia-2026-annual-symposium
+LOCATION:Dallas\, Texas\, Hilton Anatole
+URL:https://amia.org/education-events/amia-2026-annual-symposium
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMIA 2026 Annual Symposium
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amia-2026-annual-symposium-20260310-manuscript-submission@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:Deadline: AMIA 2026 Annual Symposium manuscript submission
+DESCRIPTION:Symposium manuscript submission deadline\; already passed as 
+ of the research date\nMeeting: AMIA 2026 Annual Symposium\, Nov 07 to 11
+ \, 2026\, Dallas\, Texas\, Hilton Anatole\nhttps://amia.org/education-ev
+ ents/amia-2026-annual-symposium/call-participation
+LOCATION:Dallas\, Texas\, Hilton Anatole
+URL:https://amia.org/education-events/amia-2026-annual-symposium/call-par
+ ticipation
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium manuscript submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium manuscript submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium manuscript submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amia-2026-annual-symposium-20260908-high-school-scholars-application@
+ conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Deadline: AMIA 2026 Annual Symposium high school scholars applica
+ tion
+DESCRIPTION:Meeting: AMIA 2026 Annual Symposium\, Nov 07 to 11\, 2026\, D
+ allas\, Texas\, Hilton Anatole\nhttps://amia.org/education-events/amia-2
+ 026-annual-symposium/high-school-scholars
+LOCATION:Dallas\, Texas\, Hilton Anatole
+URL:https://amia.org/education-events/amia-2026-annual-symposium/high-sch
+ ool-scholars
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium high school scholars app
+ lication
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium high school scholars app
+ lication
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium high school scholars app
+ lication
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amia-2026-annual-symposium-20260908-student-volunteer-application@con
+ ference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Deadline: AMIA 2026 Annual Symposium student volunteer applicatio
+ n
+DESCRIPTION:Meeting: AMIA 2026 Annual Symposium\, Nov 07 to 11\, 2026\, D
+ allas\, Texas\, Hilton Anatole\nhttps://amia.org/membership/student-cent
+ er
+LOCATION:Dallas\, Texas\, Hilton Anatole
+URL:https://amia.org/membership/student-center
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium student volunteer applic
+ ation
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium student volunteer applic
+ ation
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium student volunteer applic
+ ation
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amia-2026-annual-symposium-20260930-fhir-app-competition-materials-su
+ bmission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: AMIA 2026 Annual Symposium fhir app competition materia
+ ls submission
+DESCRIPTION:Meeting: AMIA 2026 Annual Symposium\, Nov 07 to 11\, 2026\, D
+ allas\, Texas\, Hilton Anatole\nhttps://amia.org/amia-2026-annual-sympos
+ ium/fhir
+LOCATION:Dallas\, Texas\, Hilton Anatole
+URL:https://amia.org/amia-2026-annual-symposium/fhir
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium fhir app competition mat
+ erials submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium fhir app competition mat
+ erials submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium fhir app competition mat
+ erials submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amia-2026-annual-symposium-20261014-hotel-reservation@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Deadline: AMIA 2026 Annual Symposium hotel reservation
+DESCRIPTION:Discounted hotel block reservation deadline\nMeeting: AMIA 20
+ 26 Annual Symposium\, Nov 07 to 11\, 2026\, Dallas\, Texas\, Hilton Anat
+ ole\nhttps://amia.org/education-events/venue
+LOCATION:Dallas\, Texas\, Hilton Anatole
+URL:https://amia.org/education-events/venue
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium hotel reservation
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium hotel reservation
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2026 Annual Symposium hotel reservation
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

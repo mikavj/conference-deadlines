@@ -1,0 +1,65 @@
+[
+ {
+  "id": "ismrm-annual-2027",
+  "name": "2027 ISMRM & ISMRT Annual Meeting & Exhibition",
+  "short_name": "ISMRM 2027",
+  "organizer": "International Society for Magnetic Resonance in Medicine",
+  "organizer_url": "https://www.ismrm.org/",
+  "edition_url": "https://www.ismrm.org/27m/",
+  "areas": [
+   "radiology"
+  ],
+  "tags": [
+   "radiology",
+   "imaging",
+   "education"
+  ],
+  "start_date": "2027-05-08",
+  "end_date": "2027-05-13",
+  "city": "Vancouver",
+  "region_name": "British Columbia",
+  "country": "CA",
+  "venue": null,
+  "lat": 49.2827,
+  "lon": -123.1207,
+  "format": null,
+  "description": "The ISMRM and ISMRT Annual Meeting and Exhibition brings together magnetic resonance researchers, clinicians, and technologists for scientific presentations and educational sessions. The 2027 edition will be held in Vancouver, British Columbia, Canada, organized jointly by ISMRM and ISMRT.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-09",
+   "end_date": "2026-05-14",
+   "city": "Cape Town",
+   "deadlines": [
+    {
+     "label": "Abstract submission (extended deadline)",
+     "date": "2025-10-29"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.ismrm.org/27m/",
+    "accessed": "2026-09-10",
+    "note": "Official 2027 meeting page (retrieved via read-only proxy after direct WebFetch returned only a truncated title); confirms dates May 8-13 2027 and Vancouver, BC location, and states abstract submission, registration, and venue details had not yet been published as of the page's August 11, 2026 update."
+   },
+   {
+    "url": "https://www.ismrm.org/meetings-workshops/future-ismrm-meetings/",
+    "accessed": "2026-09-10",
+    "note": "Search snippet cross-check of future meeting dates/location."
+   },
+   {
+    "url": "https://x.com/ISMRM/status/2060863878452384097",
+    "accessed": "2026-09-10",
+    "note": "Official ISMRM social account save-the-date post confirming 08-13 May 2027, Vancouver."
+   },
+   {
+    "url": "https://www.ismrm.org/26m/call/",
+    "accessed": "2026-09-10",
+    "note": "Prior (2026) edition page confirming Cape Town dates 09-14 May 2026 (retrieved via proxy)."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Direct WebFetch of ismrm.org pages returned only truncated titles; content was instead retrieved through a read-only proxy (r.jina.ai) that mirrored the official page text. That official text explicitly states abstract submission, registration, housing, and venue details for 2027 are not yet published. Several third-party aggregator search snippets claimed an abstract window of 1-28 October 2026 for the 2027 meeting, but this could not be confirmed on the official site and appears to conflate the prior (2026) cycle's schedule, so it was not recorded. Venue and meeting format (in-person/hybrid) are unconfirmed for 2027."
+ }
+]

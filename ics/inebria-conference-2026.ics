@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:22nd INEBRIA Conference 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:inebria-conference-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+SUMMARY:22nd INEBRIA Conference 2026
+DESCRIPTION:The International Network on Brief Interventions for Alcohol 
+ and Other Drugs holds its 22nd conference at the Karolinum Centre in Pra
+ gue\, Czech Republic from October 14 to 16\, 2026. The conference covers
+  brief interventions for alcohol and other drug use across addiction med
+ icine\, psychiatry\, and public health\, with capacity for about 150 par
+ ticipants and no conference fee.\n\nDeadlines\nAbstract submission opens
+ : 2026-02-18\nAbstract submission deadline: 2026-04-29\n\nhttps://inebri
+ a.net/prague-2026/
+LOCATION:Prague\, CZ\, Karolinum Centre
+URL:https://inebria.net/prague-2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:22nd INEBRIA Conference 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:inebria-conference-2026-20260429-abstract-submission-deadline@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:Deadline: INEBRIA 2026 abstract submission deadline
+DESCRIPTION:Extended deadline for the pre-registration and abstract submi
+ ssion window.\nMeeting: 22nd INEBRIA Conference 2026\, Oct 14 to 16\, 20
+ 26\, Prague\, CZ\, Karolinum Centre\nhttps://inebria.net/prague-2026/
+LOCATION:Prague\, CZ\, Karolinum Centre
+URL:https://inebria.net/prague-2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INEBRIA 2026 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INEBRIA 2026 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INEBRIA 2026 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

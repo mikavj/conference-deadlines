@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:55th Child Neurology Society Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:child-neurology-society-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261018
+SUMMARY:55th Child Neurology Society Annual Meeting
+DESCRIPTION:The Child Neurology Society holds its 55th annual meeting in 
+ Montreal\, Quebec\, with scientific sessions and abstract presentations 
+ in pediatric neurology. A resident seminar on epilepsy precedes the main
+  program on October 12 and 13.\n\nDeadlines\nAbstract submission: 2026-0
+ 2-01\nAbstract withdrawal deadline: 2026-07-31\nEncore abstract eligibil
+ ity cutoff: 2026-05-03\n\nhttps://www.childneurologysociety.org/colleagu
+ es/network/cns-annual-meeting/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://www.childneurologysociety.org/colleagues/network/cns-annual-m
+ eeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:55th Child Neurology Society Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:child-neurology-society-annual-2026-20260201-abstract-submission@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:Deadline: Child Neurology Society 2026 abstract submission
+DESCRIPTION:Deadline confirmed via the Child Neurology Society official s
+ ocial media announcement\; the abstracts page no longer displayed the da
+ te at time of access because submissions had closed.\nMeeting: 55th Chil
+ d Neurology Society Annual Meeting\, Oct 14 to 17\, 2026\, Montreal\, Qu
+ ebec\, CA\, Palais des congres de Montreal\nhttps://www.childneurologyso
+ ciety.org/colleagues/network/2026-abstracts-and-posters/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://www.childneurologysociety.org/colleagues/network/2026-abstrac
+ ts-and-posters/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:child-neurology-society-annual-2026-20260731-abstract-withdrawal-dead
+ line@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Deadline: Child Neurology Society 2026 abstract withdrawal deadli
+ ne
+DESCRIPTION:No abstracts may be withdrawn after this date.\nMeeting: 55th
+  Child Neurology Society Annual Meeting\, Oct 14 to 17\, 2026\, Montreal
+ \, Quebec\, CA\, Palais des congres de Montreal\nhttps://www.childneurol
+ ogysociety.org/colleagues/network/2026-abstracts-and-posters/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://www.childneurologysociety.org/colleagues/network/2026-abstrac
+ ts-and-posters/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract withdrawal de
+ adline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract withdrawal de
+ adline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 abstract withdrawal de
+ adline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:child-neurology-society-annual-2026-20260503-encore-abstract-eligibil
+ ity-cutoff@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Deadline: Child Neurology Society 2026 encore abstract eligibilit
+ y cutoff
+DESCRIPTION:Abstracts presented elsewhere within 12 months of this date a
+ re not eligible as encore submissions.\nMeeting: 55th Child Neurology So
+ ciety Annual Meeting\, Oct 14 to 17\, 2026\, Montreal\, Quebec\, CA\, Pa
+ lais des congres de Montreal\nhttps://www.childneurologysociety.org/coll
+ eagues/network/2026-abstracts-and-posters/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://www.childneurologysociety.org/colleagues/network/2026-abstrac
+ ts-and-posters/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 encore abstract eligib
+ ility cutoff
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 encore abstract eligib
+ ility cutoff
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Child Neurology Society 2026 encore abstract eligib
+ ility cutoff
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

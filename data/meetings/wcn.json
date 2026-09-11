@@ -1,0 +1,50 @@
+[
+ {
+  "id": "wcn-2027",
+  "name": "XXVIII World Congress of Neurology",
+  "short_name": "WCN 2027",
+  "organizer": "World Federation of Neurology",
+  "organizer_url": "https://wfneurology.org",
+  "edition_url": "https://wcn-neurology.com/",
+  "areas": [
+   "neurology",
+   "neuroscience"
+  ],
+  "tags": [
+   "international",
+   "global",
+   "neuroscience"
+  ],
+  "start_date": "2027-10-23",
+  "end_date": "2027-10-25",
+  "city": "Cape Town",
+  "region_name": "Western Cape",
+  "country": "ZA",
+  "venue": null,
+  "lat": -33.9249,
+  "lon": 18.4241,
+  "format": null,
+  "description": "The World Federation of Neurology holds its biennial World Congress of Neurology in Cape Town, South Africa, from 23 to 25 October 2027. The congress is organized by the Kenes Group on behalf of the federation and covers general and subspecialty neurology topics.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://wcn-neurology.com/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates (23 to 25 October 2027), city, and organizer (Kenes Group)."
+   },
+   {
+    "url": "https://wfneurology.org/wcn-meetings",
+    "accessed": "2026-09-10",
+    "note": "Confirms World Federation of Neurology as sponsoring organization of the WCN series."
+   },
+   {
+    "url": "https://wfneurology.org/future-congresses",
+    "accessed": "2026-09-10",
+    "note": "Lists future WFN congresses."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Some secondary aggregator sites list the dates as 24 to 27 October 2027, but the official wcn-neurology.com site states 23 to 25 October 2027, which was used here. Venue name and abstract or registration deadlines are not yet published on the official site as of the access date."
+ }
+]

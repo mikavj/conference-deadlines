@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Epilepsy Society Annual Meeting 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aes-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261209
+SUMMARY:American Epilepsy Society Annual Meeting 2026
+DESCRIPTION:The American Epilepsy Society holds its annual meeting in Den
+ ver\, Colorado\, from December 4 to 8\, 2026. The meeting presents clini
+ cal and basic science research on epilepsy along with education programs
+  for clinicians and trainees.\n\nDeadlines\nAbstract submission opens: 2
+ 026-04-13\nAbstract submission: 2026-06-08\nTravel award application: 20
+ 26-06-08\nEarly registration deadline: 2026-10-07\n\nhttps://aesnet.org/
+ AES-annual-meeting
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aesnet.org/AES-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Epilepsy Society Annual Meeting 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aes-annual-2026-20260608-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Deadline: AES 2026 abstract submission
+DESCRIPTION:11:59 PM EST deadline\, confirmed directly on the official ab
+ stract FAQ page. Abstract submission fees are non refundable.\nMeeting: 
+ American Epilepsy Society Annual Meeting 2026\, Dec 04 to 08\, 2026\, De
+ nver\, Colorado\, Colorado Convention Center\nhttps://aesnet.org/AES-ann
+ ual-meeting/abstracts/abstract-faqs
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aesnet.org/AES-annual-meeting/abstracts/abstract-faqs
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aes-annual-2026-20260608-travel-award-application@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Deadline: AES 2026 travel award application
+DESCRIPTION:Travel and scholarship awards (e.g. Eileen M. Murray First-Ge
+ neration Travel Award\, Jack M. Pellock Pediatric Travel Award) are requ
+ ested as part of the abstract submission process\, so the deadline is ta
+ ken to align with the abstract submission deadline\; the official abstra
+ ct awards page does not publish a separate stand-alone date and states a
+ ward notifications go out in late August 2026.\nMeeting: American Epilep
+ sy Society Annual Meeting 2026\, Dec 04 to 08\, 2026\, Denver\, Colorado
+ \, Colorado Convention Center\nhttps://aesnet.org/AES-annual-meeting/abs
+ tracts/abstract-awards
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aesnet.org/AES-annual-meeting/abstracts/abstract-awards
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 travel award application
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 travel award application
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 travel award application
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aes-annual-2026-20261007-early-registration-deadline@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Deadline: AES 2026 early registration deadline
+DESCRIPTION:Early bird registration rate available through October 7\, 20
+ 26\, confirmed directly on the official registration rates page\; standa
+ rd rates apply afterward.\nMeeting: American Epilepsy Society Annual Mee
+ ting 2026\, Dec 04 to 08\, 2026\, Denver\, Colorado\, Colorado Conventio
+ n Center\nhttps://aesnet.org/AES-annual-meeting/registration-information
+ /registration-rates
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aesnet.org/AES-annual-meeting/registration-information/regist
+ ration-rates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AES 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

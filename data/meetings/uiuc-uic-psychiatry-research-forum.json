@@ -1,0 +1,76 @@
+[
+ {
+  "id": "uiuc-uic-psychiatry-research-forum-2026",
+  "name": "UIC Department of Psychiatry 17th Annual Research Forum (Extravaganza) 2026",
+  "short_name": "UIC Psychiatry Extravaganza 2026",
+  "organizer": "Department of Psychiatry, University of Illinois College of Medicine (UIC)",
+  "organizer_url": "https://www.psych.uic.edu",
+  "edition_url": "https://www.psych.uic.edu/extravaganza",
+  "areas": [
+   "psychiatry"
+  ],
+  "tags": [
+   "uiuc",
+   "general-psychiatry",
+   "student-resident-research",
+   "illinois"
+  ],
+  "start_date": "2026-10-07",
+  "end_date": "2026-10-07",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "COMRB Moss Auditorium, 909 S. Wolcott Ave, Chicago, IL",
+  "lat": 41.8708,
+  "lon": -87.6505,
+  "format": "in-person",
+  "description": "The Department of Psychiatry's annual Research Forum, known informally as the Extravaganza, is a Grand Rounds poster session in which department faculty, residents, fellows and students present psychiatric research for a competitive poster award. The 17th annual edition is scheduled for October 7, 2026, with abstract submissions opening September 2, 2026.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-09-02",
+    "url": "https://www.psych.uic.edu/extravaganza",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-09-30",
+    "url": "https://www.psych.uic.edu/extravaganza",
+    "estimated": false,
+    "note": "A separate poster session subpage lists a September 1 to October 15 window that may reflect a different year; verify directly before relying on this date."
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": null,
+   "end_date": null,
+   "city": "Chicago",
+   "deadlines": [
+    {
+     "label": "16th annual poster competition results released",
+     "date": "2025-10-30"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.psych.uic.edu/extravaganza",
+    "accessed": "2026-09-10",
+    "note": "abstract window September 2 to September 30, 2026; direct HTTPS fetch failed a certificate check and was retrieved via the r.jina.ai text proxy"
+   },
+   {
+    "url": "https://www.psych.uic.edu/events/grand-rounds",
+    "accessed": "2026-09-10",
+    "note": "confirms the 17th Annual Research Forum date of October 7, 2026, 1 to 3pm, at COMRB Moss Auditorium; also retrieved via the r.jina.ai proxy after a certificate error on direct fetch"
+   },
+   {
+    "url": "https://www.psych.uic.edu/extravaganza/poster-session",
+    "accessed": "2026-09-10",
+    "note": "search-snippet only; states a September 1 to October 15 abstract window, inconsistent with the main extravaganza page"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Direct HTTPS fetches of psych.uic.edu failed with a certificate error; all psych.uic.edu content used here was retrieved via the r.jina.ai text proxy. Two official-looking pages give slightly different abstract windows (September 2 to September 30 versus September 1 to October 15); the maintainer should verify directly before publishing the deadline."
+ }
+]

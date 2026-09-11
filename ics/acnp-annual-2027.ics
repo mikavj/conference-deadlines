@@ -1,0 +1,240 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACNP 65th Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acnp-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270114
+SUMMARY:ACNP 65th Annual Meeting 2027
+DESCRIPTION:The 65th ACNP Annual Meeting runs Sunday through Wednesday\, 
+ January 10 to 13\, 2027\, at the Manchester Grand Hyatt in San Diego. At
+ tendance is by membership or invitation\, and poster abstract submission
+  requires prior meeting registration.\n\nDeadlines\nTravel award applica
+ tion: 2026-05-14\nPanel\, mini-panel and study group chair submission: 2
+ 026-05-19\nPanel presenter abstracts due: 2026-06-02\nPanel\, mini-panel
+  and study group final submission: 2026-06-04\nMember invited guest invi
+ tation requests: 2026-08-26\nPoster abstract submission: 2026-08-27\nPro
+ mising Targets abstract submission: 2026-10-28\n\nhttps://acnp.org/annua
+ l-meeting/
+LOCATION:San Diego\, California\, Manchester Grand Hyatt San Diego
+URL:https://acnp.org/annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACNP 65th Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acnp-annual-2027-20260514-travel-award-application@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Deadline: ACNP 2027 travel award application
+DESCRIPTION:5:00 pm Central\; notifications by late July 2026\; closed\nM
+ eeting: ACNP 65th Annual Meeting 2027\, Jan 10 to 13\, 2027\, San Diego\
+ , California\, Manchester Grand Hyatt San Diego\nhttps://acnp.org/annual
+ -meeting/travel-awards/
+LOCATION:San Diego\, California\, Manchester Grand Hyatt San Diego
+URL:https://acnp.org/annual-meeting/travel-awards/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 travel award application
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 travel award application
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 travel award application
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acnp-annual-2027-20260519-panel-mini-panel-and-study-group-chair-subm
+ ission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:Deadline: ACNP 2027 panel\, mini-panel and study group chair subm
+ ission
+DESCRIPTION:5:00 pm Central\; closed\nMeeting: ACNP 65th Annual Meeting 2
+ 027\, Jan 10 to 13\, 2027\, San Diego\, California\, Manchester Grand Hy
+ att San Diego\nhttps://acnp.org/annual-meeting/submissions/
+LOCATION:San Diego\, California\, Manchester Grand Hyatt San Diego
+URL:https://acnp.org/annual-meeting/submissions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 panel\, mini-panel and study group chair 
+ submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 panel\, mini-panel and study group chair 
+ submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 panel\, mini-panel and study group chair 
+ submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acnp-annual-2027-20260602-panel-presenter-abstracts-due@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Deadline: ACNP 2027 panel presenter abstracts due
+DESCRIPTION:closed\nMeeting: ACNP 65th Annual Meeting 2027\, Jan 10 to 13
+ \, 2027\, San Diego\, California\, Manchester Grand Hyatt San Diego\nhtt
+ ps://acnp.org/annual-meeting/submissions/
+LOCATION:San Diego\, California\, Manchester Grand Hyatt San Diego
+URL:https://acnp.org/annual-meeting/submissions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 panel presenter abstracts due
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 panel presenter abstracts due
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 panel presenter abstracts due
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acnp-annual-2027-20260604-panel-mini-panel-and-study-group-final-subm
+ ission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Deadline: ACNP 2027 panel\, mini-panel and study group final subm
+ ission
+DESCRIPTION:notifications August 2026\; closed\nMeeting: ACNP 65th Annual
+  Meeting 2027\, Jan 10 to 13\, 2027\, San Diego\, California\, Mancheste
+ r Grand Hyatt San Diego\nhttps://acnp.org/annual-meeting/submissions/
+LOCATION:San Diego\, California\, Manchester Grand Hyatt San Diego
+URL:https://acnp.org/annual-meeting/submissions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 panel\, mini-panel and study group final 
+ submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 panel\, mini-panel and study group final 
+ submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 panel\, mini-panel and study group final 
+ submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acnp-annual-2027-20260826-member-invited-guest-invitation-requests@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Deadline: ACNP 2027 member invited guest invitation requests
+DESCRIPTION:invitation bank capped at 400 guests for this meeting\nMeetin
+ g: ACNP 65th Annual Meeting 2027\, Jan 10 to 13\, 2027\, San Diego\, Cal
+ ifornia\, Manchester Grand Hyatt San Diego\nhttps://acnp.org/annual-meet
+ ing/
+LOCATION:San Diego\, California\, Manchester Grand Hyatt San Diego
+URL:https://acnp.org/annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 member invited guest invitation requests
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 member invited guest invitation requests
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 member invited guest invitation requests
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acnp-annual-2027-20260827-poster-abstract-submission@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Deadline: ACNP 2027 poster abstract submission
+DESCRIPTION:5:00 pm Central\; not extended\; notifications October 2026\;
+  closed\nMeeting: ACNP 65th Annual Meeting 2027\, Jan 10 to 13\, 2027\, 
+ San Diego\, California\, Manchester Grand Hyatt San Diego\nhttps://acnp.
+ org/annual-meeting/submissions/
+LOCATION:San Diego\, California\, Manchester Grand Hyatt San Diego
+URL:https://acnp.org/annual-meeting/submissions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 poster abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 poster abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 poster abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acnp-annual-2027-20261028-promising-targets-abstract-submission@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deadline: ACNP 2027 promising targets abstract submission
+DESCRIPTION:5:00 pm Central\; notifications late November 2026\nMeeting: 
+ ACNP 65th Annual Meeting 2027\, Jan 10 to 13\, 2027\, San Diego\, Califo
+ rnia\, Manchester Grand Hyatt San Diego\nhttps://acnp.org/annual-meeting
+ /submissions/
+LOCATION:San Diego\, California\, Manchester Grand Hyatt San Diego
+URL:https://acnp.org/annual-meeting/submissions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 promising targets abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 promising targets abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2027 promising targets abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

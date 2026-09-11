@@ -1,0 +1,146 @@
+[
+ {
+  "id": "ana-annual-2026",
+  "name": "American Neurological Association 151st Annual Meeting",
+  "short_name": "ANA 2026",
+  "organizer": "American Neurological Association",
+  "organizer_url": "https://myana.org",
+  "edition_url": "https://2026.myana.org/",
+  "areas": [
+   "neurology",
+   "neuroscience"
+  ],
+  "tags": [
+   "neuroscience",
+   "student-resident-research"
+  ],
+  "start_date": "2026-10-17",
+  "end_date": "2026-10-20",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "Sheraton San Diego Resort",
+  "lat": 32.7274,
+  "lon": -117.1975,
+  "format": "in-person",
+  "description": "The American Neurological Association holds its 151st annual meeting in San Diego, California, from October 17 to 20, 2026. The program covers clinical and translational neurology research through platform sessions, posters, and late breaking science.",
+  "deadlines": [
+   {
+    "label": "Symposium proposal submission (Call for Topics)",
+    "date": "2025-12-15",
+    "url": "https://myana.org/ana2026-annual-meeting-call-for-topics-submission-form/",
+    "estimated": false,
+    "note": "11:59 PM PST deadline for the Call for Topics form, a separate track from abstract submission."
+   },
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-03-16",
+    "url": "https://2026.myana.org/abstracts/abstract-submission-guidelines/",
+    "estimated": false,
+    "note": "Regular (non late breaking) abstract submission period opening date; found in a search engine snippet of this official page, direct fetch of the page content did not surface it."
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-05-04",
+    "url": "https://2026.myana.org/abstracts/abstract-submission-guidelines/",
+    "estimated": false,
+    "note": "Start of the Call for Late Breaking Abstracts window (May 4 to 26, 2026)."
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-05-26",
+    "url": "https://2026.myana.org/abstracts/abstract-submission-guidelines/",
+    "estimated": false,
+    "note": "11:59 PM PT deadline, confirmed directly on the official abstract submission guidelines page."
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2026-09-07",
+    "url": "https://2026.myana.org/registration/registration/",
+    "estimated": false,
+    "note": "Early bird registration rate deadline; standard/onsite rates apply after this date, which was also the cancellation-with-refund deadline."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://2026.myana.org/general-information/general-information/",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch confirmed meeting dates (Oct 17-20, 2026), venue (Sheraton San Diego Resort), that this is the 151st annual meeting, and in-person format."
+   },
+   {
+    "url": "https://2026.myana.org/abstracts/abstract-submission-guidelines/",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch confirmed the late-breaking abstract deadline of May 26, 2026; the regular abstract opening date and late-breaking window start came from a search engine snippet of this same page."
+   },
+   {
+    "url": "https://myana.org/ana2026-annual-meeting-call-for-topics-submission-form/",
+    "accessed": "2026-09-10",
+    "note": "Confirmed Call for Topics submission deadline of December 15, 2025 via search snippet of this official page."
+   },
+   {
+    "url": "https://2026.myana.org/registration/registration/",
+    "accessed": "2026-09-10",
+    "note": "Confirmed early bird registration deadline of September 7, 2026 via search snippet of this official page."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Meeting dates, venue, and late-breaking abstract deadline were confirmed by direct WebFetch of official 2026.myana.org pages (high confidence). The regular abstract submission opening date, the late breaking window start date, and the early registration deadline were only recoverable via search engine snippets of those same official pages rather than direct fetch, so confidence is set to medium overall. The exact closing date for the regular (non late breaking) abstract track could not be located in any fetched or snippeted content and is intentionally omitted rather than guessed; it is known only that the regular call was closed before the late breaking window opened on 2026-05-04."
+ },
+ {
+  "id": "ana-annual-2027",
+  "name": "American Neurological Association 152nd Annual Meeting",
+  "short_name": "ANA 2027",
+  "organizer": "American Neurological Association",
+  "organizer_url": "https://myana.org",
+  "edition_url": "https://myana.org/meetings/future-annual-meeting-dates/",
+  "areas": [
+   "neurology",
+   "neuroscience"
+  ],
+  "tags": [
+   "neuroscience",
+   "student-resident-research"
+  ],
+  "start_date": "2027-09-18",
+  "end_date": "2027-09-21",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": null,
+  "lat": 41.8919,
+  "lon": -87.6278,
+  "format": null,
+  "description": "The American Neurological Association will hold its 152nd annual meeting in Chicago, Illinois, from September 18 to 21, 2027, with an opening symposium on September 18. Abstract submission, registration, and travel award information had not yet been published as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-10-17",
+   "end_date": "2026-10-20",
+   "city": "San Diego",
+   "deadlines": [
+    {
+     "label": "Abstract submission opens",
+     "date": "2026-03-16"
+    },
+    {
+     "label": "Late-breaking abstract submission",
+     "date": "2026-05-26"
+    },
+    {
+     "label": "Early registration deadline",
+     "date": "2026-09-07"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://myana.org/meetings/future-annual-meeting-dates/",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch confirmed the 152nd annual meeting dates (September 18-21, 2027), Chicago IL location, and that it is listed under the 'Magnificent Mile' area; no deadlines listed."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Only the meeting dates and city are published for 2027; the source page names the venue area as 'The Magnificent Mile,' which is a Chicago hotel and shopping district rather than a specific confirmed hotel name, so venue is left null pending a specific hotel name. No abstract, registration, or travel award deadlines have been published yet; the prior (2026) edition's schedule is provided for reference only and none of its dates should be read as estimates for 2027."
+ }
+]

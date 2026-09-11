@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAO-HNSF 2026 Annual Meeting & OTO Experience
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aao-hnsf-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261021
+SUMMARY:AAO-HNSF 2026 Annual Meeting & OTO Experience
+DESCRIPTION:The AAO-HNSF Annual Meeting and OTO Experience is the princip
+ al scientific and clinical conference of the American Academy of Otolary
+ ngology\, Head and Neck Surgery Foundation. The 2026 edition combines sc
+ ientific sessions\, instruction courses\, and poster presentations with 
+ the OTO EXPO exhibit hall.\n\nDeadlines\nCall for Science submission ope
+ ns: 2025-12-01\nCall for Science submission deadline: 2026-01-26\nLate-b
+ reaking science submission opens: 2026-05-19\nLate-breaking science subm
+ ission deadline: 2026-06-09\nEarly registration deadline: 2026-08-24\n\n
+ https://www.entnet.org/events/annual-meeting/
+LOCATION:Los Angeles\, California\, Los Angeles Convention Center
+URL:https://www.entnet.org/events/annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAO-HNSF 2026 Annual Meeting & OTO Experience
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aao-hnsf-annual-2026-20260126-call-for-science-submission-deadline@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Deadline: AAO-HNSF 2026 call for science submission deadline
+DESCRIPTION:Meeting: AAO-HNSF 2026 Annual Meeting & OTO Experience\, Oct 
+ 17 to 20\, 2026\, Los Angeles\, California\, Los Angeles Convention Cent
+ er\nhttps://www.entnet.org/events/annual-meeting/call-for-science/
+LOCATION:Los Angeles\, California\, Los Angeles Convention Center
+URL:https://www.entnet.org/events/annual-meeting/call-for-science/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO-HNSF 2026 call for science submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO-HNSF 2026 call for science submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO-HNSF 2026 call for science submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aao-hnsf-annual-2026-20260609-late-breaking-science-submission-deadli
+ ne@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:Deadline: AAO-HNSF 2026 late-breaking science submission deadline
+DESCRIPTION:Meeting: AAO-HNSF 2026 Annual Meeting & OTO Experience\, Oct 
+ 17 to 20\, 2026\, Los Angeles\, California\, Los Angeles Convention Cent
+ er\nhttps://www.entnet.org/events/annual-meeting/program/late-breaking-s
+ cience/
+LOCATION:Los Angeles\, California\, Los Angeles Convention Center
+URL:https://www.entnet.org/events/annual-meeting/program/late-breaking-sc
+ ience/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO-HNSF 2026 late-breaking science submission dead
+ line
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO-HNSF 2026 late-breaking science submission dead
+ line
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO-HNSF 2026 late-breaking science submission dead
+ line
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aao-hnsf-annual-2026-20260824-early-registration-deadline@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Deadline: AAO-HNSF 2026 early registration deadline
+DESCRIPTION:described on the FAQ page as the early-bird discount deadline
+ \nMeeting: AAO-HNSF 2026 Annual Meeting & OTO Experience\, Oct 17 to 20\
+ , 2026\, Los Angeles\, California\, Los Angeles Convention Center\nhttps
+ ://www.entnet.org/events/annual-meeting/annual-meeting-faqs/
+LOCATION:Los Angeles\, California\, Los Angeles Convention Center
+URL:https://www.entnet.org/events/annual-meeting/annual-meeting-faqs/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO-HNSF 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO-HNSF 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO-HNSF 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

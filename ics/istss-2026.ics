@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ISTSS 42nd Annual Meeting 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:istss-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+SUMMARY:ISTSS 42nd Annual Meeting 2026
+DESCRIPTION:The 42nd ISTSS Annual Meeting is held in San Antonio under th
+ e theme Traumatic Stress in a Troubled World: Collaboration on Evidence 
+ and Action. The program includes premeeting institutes\, keynotes\, symp
+ osia\, papers\, flash talks and posters.\n\nDeadlines\nProposal submissi
+ on: 2026-02-19\nRegistration cancellation deadline: 2026-08-14\n\nhttps:
+ //istss.org/annual-meeting-hub/
+LOCATION:San Antonio\, Texas\, San Antonio Marriott Rivercenter on the Ri
+ ver Walk
+URL:https://istss.org/annual-meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISTSS 42nd Annual Meeting 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istss-2026-20260219-proposal-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:Deadline: ISTSS 2026 proposal submission
+DESCRIPTION:Posters\, flash talks\, papers\, symposia and workshops were 
+ due Thursday\, February 19\, 2026 according to ISTSS pages indexed in se
+ arch\; the Call for Proposals PDF confirms the meeting but does not rest
+ ate the date\nMeeting: ISTSS 42nd Annual Meeting 2026\, Sep 23 to 26\, 2
+ 026\, San Antonio\, Texas\, San Antonio Marriott Rivercenter on the Rive
+ r Walk\nhttps://istss.org/annual-meeting-hub/
+LOCATION:San Antonio\, Texas\, San Antonio Marriott Rivercenter on the Ri
+ ver Walk
+URL:https://istss.org/annual-meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISTSS 2026 proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISTSS 2026 proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISTSS 2026 proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:istss-2026-20260814-registration-cancellation-deadline@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Deadline: ISTSS 2026 registration cancellation deadline
+DESCRIPTION:Refund less 100 USD for cancellations on or before August 14\
+ , 2026\nMeeting: ISTSS 42nd Annual Meeting 2026\, Sep 23 to 26\, 2026\, 
+ San Antonio\, Texas\, San Antonio Marriott Rivercenter on the River Walk
+ \nhttps://istss.org/wp-content/uploads/2026/01/2026-Call-for-Proposals.p
+ df
+LOCATION:San Antonio\, Texas\, San Antonio Marriott Rivercenter on the Ri
+ ver Walk
+URL:https://istss.org/wp-content/uploads/2026/01/2026-Call-for-Proposals.
+ pdf
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISTSS 2026 registration cancellation deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISTSS 2026 registration cancellation deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISTSS 2026 registration cancellation deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

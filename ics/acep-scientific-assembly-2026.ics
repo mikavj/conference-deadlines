@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACEP26 Scientific Assembly
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acep-scientific-assembly-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261009
+SUMMARY:ACEP26 Scientific Assembly
+DESCRIPTION:The ACEP Scientific Assembly is the American College of Emerg
+ ency Physicians' annual educational meeting for emergency medicine. ACEP
+ 26 takes place at McCormick Place in Chicago and includes the ACEP Resea
+ rch Forum.\n\nDeadlines\nResearch Forum abstract submission opens: 2026-
+ 03-04\n\nhttps://www.acep.org/sa
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://www.acep.org/sa
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACEP26 Scientific Assembly
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

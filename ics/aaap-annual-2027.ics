@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAAP 38th Annual Meeting and Scientific Symposium 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aaap-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271115
+SUMMARY:AAAP 38th Annual Meeting and Scientific Symposium 2027
+DESCRIPTION:The 2027 annual scientific meeting of the American Academy of
+  Addiction Psychiatry. AAAP states that more information will be release
+ d in early 2027.\n\nDeadlines\nEarly bird registration deadline: 2027-10
+ -01 (estimated)\n\nhttps://www.aaap.org/training-events/annual-meeting/a
+ bout-the-aaap-annual-meeting/
+LOCATION:Washington\, District of Columbia\, JW Marriott Washington\, DC
+URL:https://www.aaap.org/training-events/annual-meeting/about-the-aaap-an
+ nual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAAP 38th Annual Meeting and Scientific Symposium 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaap-annual-2027-20271001-early-bird-registration-deadline@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:Deadline: AAAP 2027 early bird registration deadline (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (early bird rates through Oct
+ ober 1\, 2026).\nMeeting: AAAP 38th Annual Meeting and Scientific Sympos
+ ium 2027\, Nov 11 to 14\, 2027\, Washington\, District of Columbia\, JW 
+ Marriott Washington\, DC\nhttps://www.aaap.org/training-events/annual-me
+ eting/about-the-aaap-annual-meeting/
+LOCATION:Washington\, District of Columbia\, JW Marriott Washington\, DC
+URL:https://www.aaap.org/training-events/annual-meeting/about-the-aaap-an
+ nual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAAP 2027 early bird registration deadline (estimat
+ ed)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAAP 2027 early bird registration deadline (estimat
+ ed)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAAP 2027 early bird registration deadline (estimat
+ ed)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

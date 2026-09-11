@@ -1,0 +1,70 @@
+[
+ {
+  "id": "esc-congress-2027",
+  "name": "ESC Congress 2027",
+  "short_name": "ESC Congress 2027",
+  "organizer": "European Society of Cardiology",
+  "organizer_url": "https://www.escardio.org",
+  "edition_url": "https://www.escardio.org/events/congresses/esc-congress/future-destinations/",
+  "areas": [
+   "cardiology"
+  ],
+  "tags": [
+   "cardiovascular",
+   "international"
+  ],
+  "start_date": "2027-08-27",
+  "end_date": "2027-08-30",
+  "city": "Milan",
+  "region_name": "Lombardy",
+  "country": "IT",
+  "venue": null,
+  "lat": 45.4642,
+  "lon": 9.19,
+  "format": null,
+  "description": "ESC Congress is the European Society of Cardiology's annual meeting covering cardiovascular science and clinical practice. The 2027 congress is scheduled to take place in Milan, Italy.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2027-03-01",
+    "url": null,
+    "estimated": true,
+    "note": "Official ESC Congress 2027 abstract deadline not yet published as of access date; estimated from the ESC Congress 2026 deadline pattern (abstracts closed Sunday March 1, 2026, noon CET)."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-08-28",
+   "end_date": "2026-08-31",
+   "city": "Munich",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-03-01"
+    },
+    {
+     "label": "Early registration",
+     "date": "2026-05-31"
+    },
+    {
+     "label": "Presentation confirmation",
+     "date": "2026-06-30"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.escardio.org/events/congresses/esc-congress/future-destinations/",
+    "accessed": "2026-09-10",
+    "note": "Confirms ESC Congress 2027 dates (Aug 27-30) and Milan location, and ESC Congress 2026 dates (Aug 28-31, Munich)"
+   },
+   {
+    "url": "https://www.escardio.org/events/congresses/esc-congress/call-for-science/abstracts/",
+    "accessed": "2026-09-10",
+    "note": "ESC Congress 2026 abstract results, early registration, and presentation confirmation dates"
+   }
+  ],
+  "confidence": "high",
+  "notes": "ESC Congress 2027 abstract submission deadline is not yet officially announced; the single deadline entry above is a rough estimate flagged as estimated:true and should be replaced once ESC publishes the real 2027 call for abstracts timeline."
+ }
+]

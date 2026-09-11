@@ -1,0 +1,67 @@
+[
+ {
+  "id": "psi-2027",
+  "name": "Postpartum Support International 40th Annual Conference 2027",
+  "short_name": "PSI 2027",
+  "organizer": "Postpartum Support International",
+  "organizer_url": "https://postpartum.net/",
+  "edition_url": "https://postpartum.net/professionals/psi-conference/",
+  "tags": [
+   "perinatal",
+   "community"
+  ],
+  "start_date": "2027-07-07",
+  "end_date": "2027-07-11",
+  "city": "Chicago",
+  "country": "US",
+  "venue": null,
+  "lat": 41.8781,
+  "lon": -87.6298,
+  "format": null,
+  "description": "The 40th PSI Annual Conference will be held in Chicago with preconference trainings July 7 to 8, 2027 and the main conference July 8 to 11, 2027. PSI expects more than 1,400 attendees; hotel and proposal details are not yet posted.",
+  "deadlines": [
+   {
+    "label": "Presentation proposal submission",
+    "date": "2027-01-06",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (proposals for the June 2026 conference closed January 6, 2026); the 2027 call has not been posted with a date"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-25",
+   "end_date": "2026-06-28",
+   "city": "Los Angeles",
+   "deadlines": [
+    {
+     "label": "Presentation proposal submission",
+     "date": "2026-01-06"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://postpartum.net/professionals/psi-conference/",
+    "accessed": "2026-09-09",
+    "note": "2027 dates, city, 40th anniversary; more information to come"
+   },
+   {
+    "url": "https://mnpqc.org/event/postpartum-support-international-psi-39th-annual-conference/",
+    "accessed": "2026-09-09",
+    "note": "2026 conference June 25 to 28, Westin Bonaventure, Los Angeles"
+   },
+   {
+    "url": "https://www.facebook.com/PostpartumSupportInternational/posts/-psicon2026-call-for-proposals-is-open-share-your-expertise-at-the-39th-annual-p/1277594747745842/",
+    "accessed": "2026-09-09",
+    "note": "2026 call for proposals deadline January 6, 2026"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Venue and deadlines not yet published. The conference is in Chicago, which may be relevant for Illinois based users.",
+  "region_name": "Illinois",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

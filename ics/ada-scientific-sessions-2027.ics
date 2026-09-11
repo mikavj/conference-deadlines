@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Diabetes Association 87th Scientific Sessions
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ada-scientific-sessions-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270622
+SUMMARY:American Diabetes Association 87th Scientific Sessions
+DESCRIPTION:The American Diabetes Association 87th Scientific Sessions is
+  the annual research conference of the American Diabetes Association\, h
+ eld at the Walter E. Washington Convention Center in Washington\, D.C. T
+ he program presents new research and clinical guidance on diabetes and r
+ elated metabolic disease.\n\nDeadlines\nAbstract submission opens: 2026-
+ 09-28\nAbstract submission: 2027-01-05\nLate-breaking abstract submissio
+ n opens: 2027-01-25\nLate-breaking abstract submission: 2027-03-08\n\nht
+ tps://professional.diabetes.org/scientific-sessions
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://professional.diabetes.org/scientific-sessions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Diabetes Association 87th Scientific Sessions
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ada-scientific-sessions-2027-20270105-abstract-submission@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Deadline: ADA Scientific Sessions 2027 abstract submission
+DESCRIPTION:5:00 PM ET\; regular abstract deadline\nMeeting: American Dia
+ betes Association 87th Scientific Sessions\, Jun 18 to 21\, 2027\, Washi
+ ngton\, District of Columbia\, Walter E. Washington Convention Center\nh
+ ttps://professional.diabetes.org/scientific-sessions/abstracts
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://professional.diabetes.org/scientific-sessions/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADA Scientific Sessions 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADA Scientific Sessions 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADA Scientific Sessions 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ada-scientific-sessions-2027-20270308-late-breaking-abstract-submissi
+ on@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Deadline: ADA Scientific Sessions 2027 late-breaking abstract sub
+ mission
+DESCRIPTION:5:00 PM ET\nMeeting: American Diabetes Association 87th Scien
+ tific Sessions\, Jun 18 to 21\, 2027\, Washington\, District of Columbia
+ \, Walter E. Washington Convention Center\nhttps://professional.diabetes
+ .org/scientific-sessions/abstracts
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://professional.diabetes.org/scientific-sessions/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADA Scientific Sessions 2027 late-breaking abstract
+  submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADA Scientific Sessions 2027 late-breaking abstract
+  submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADA Scientific Sessions 2027 late-breaking abstract
+  submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Personalized Nutrition Initiative Innovation Day 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uiuc-pn-innovation-day-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261001
+SUMMARY:Personalized Nutrition Initiative Innovation Day 2026
+DESCRIPTION:PN Innovation Day is the Personalized Nutrition Initiative's 
+ annual meeting bringing together university researchers and external par
+ tners around personalized nutrition research\, with a call for abstracts
+ . The 2026 edition runs September 28 to 30\, 2026 at the Illini Union\, 
+ including a clinical research facility tour and welcome dinner\, the mai
+ n programming day\, and an external partners program meeting.\n\nDeadlin
+ es\nAbstract submission deadline: 2026-08-24\n\nhttps://personalizednutr
+ ition.research.illinois.edu/2026-pn-innovation-day/
+LOCATION:Urbana\, Illinois\, Illini Union\, University of Illinois Urbana
+ -Champaign
+URL:https://personalizednutrition.research.illinois.edu/2026-pn-innovatio
+ n-day/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Personalized Nutrition Initiative Innovation Day 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-pn-innovation-day-2026-20260824-abstract-submission-deadline@con
+ ference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Deadline: PN Innovation Day 2026 abstract submission deadline
+DESCRIPTION:Already past as of the September 10\, 2026 research date\; in
+ cluded for completeness and to anchor the annual pattern. The main event
+  on September 28 to 30\, 2026 has not yet occurred.\nMeeting: Personaliz
+ ed Nutrition Initiative Innovation Day 2026\, Sep 28 to 30\, 2026\, Urba
+ na\, Illinois\, Illini Union\, University of Illinois Urbana-Champaign\n
+ https://personalizednutrition.research.illinois.edu/2026-pn-innovation-d
+ ay/
+LOCATION:Urbana\, Illinois\, Illini Union\, University of Illinois Urbana
+ -Champaign
+URL:https://personalizednutrition.research.illinois.edu/2026-pn-innovatio
+ n-day/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PN Innovation Day 2026 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PN Innovation Day 2026 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PN Innovation Day 2026 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

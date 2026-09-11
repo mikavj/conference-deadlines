@@ -1,0 +1,46 @@
+[
+ {
+  "id": "uiuc-kruh-cancer-research-symposium-2027",
+  "name": "Dr. Gary Kruh Cancer Research Symposium and Student/Trainee Poster Competition 2027",
+  "short_name": "Kruh Cancer Research Symposium 2027",
+  "organizer": "University of Illinois Cancer Center (UIC)",
+  "organizer_url": "https://cancer.uillinois.edu",
+  "edition_url": "https://cancer.uillinois.edu/events/kruh-cancer-research-symposium",
+  "areas": [
+   "oncology"
+  ],
+  "tags": [
+   "uiuc",
+   "cancer-research",
+   "student-resident-research",
+   "illinois"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "818 South Wolcott Avenue, Chicago, IL",
+  "lat": 41.8708,
+  "lon": -87.6505,
+  "format": "in-person",
+  "description": "The Dr. Gary Kruh Cancer Research Symposium is the University of Illinois Cancer Center's annual cancer research symposium and student/trainee poster competition, open to students, postdocs, and fellows with cancer focused research, judged by scientific and community reviewers with cash awards across four categories. The 2026 edition was held April 3, 2026, and a 2027 date had not been published as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-03",
+   "end_date": "2026-04-03",
+   "city": "Chicago",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://cancer.uillinois.edu/events/kruh-cancer-research-symposium",
+    "accessed": "2026-09-10",
+    "note": "confirms 2026 date, location, eligibility, and poster award structure"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "This is the University of Illinois Cancer Center, an NCI-designated center in Chicago that is part of UIC, distinct from the Cancer Center at Illinois in Urbana-Champaign covered separately in this file. Included as an additional UIC College of Medicine connected event under the research brief's allowance for up to five extra recurring events."
+ }
+]

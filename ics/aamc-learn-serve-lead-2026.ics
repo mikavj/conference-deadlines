@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Learn Serve Lead 2026: The AAMC Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aamc-learn-serve-lead-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261111
+SUMMARY:Learn Serve Lead 2026: The AAMC Annual Meeting
+DESCRIPTION:The Association of American Medical Colleges holds Learn Serv
+ e Lead\, its annual meeting\, in Anaheim\, California in 2026. The meeti
+ ng covers medical education\, research\, and leadership across academic 
+ medicine\, marking the AAMC's 150th anniversary.\n\nDeadlines\nAbstract 
+ submission: 2025-12-01\n\nhttps://www.aamc.org/learn-network/learn-serve
+ -lead
+LOCATION:Anaheim\, California
+URL:https://www.aamc.org/learn-network/learn-serve-lead
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn Serve Lead 2026: The AAMC Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aamc-learn-serve-lead-2026-20251201-abstract-submission@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251202
+SUMMARY:Deadline: AAMC Learn Serve Lead 2026 abstract submission
+DESCRIPTION:11:59 pm Pacific Time\; decisions sent to contact authors in 
+ March 2026\nMeeting: Learn Serve Lead 2026: The AAMC Annual Meeting\, No
+ v 06 to 10\, 2026\, Anaheim\, California\nhttps://www.aamc.org/learn-net
+ work/learn-serve-lead
+LOCATION:Anaheim\, California
+URL:https://www.aamc.org/learn-network/learn-serve-lead
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAMC Learn Serve Lead 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAMC Learn Serve Lead 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAMC Learn Serve Lead 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

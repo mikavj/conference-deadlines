@@ -1,0 +1,71 @@
+[
+ {
+  "id": "iepa-16-conference-2027",
+  "name": "IEPA 16: 16th International Conference on Early Intervention in Mental Health 2027",
+  "short_name": "IEPA 16 (2027)",
+  "organizer": "IEPA Early Intervention in Mental Health (International Early Psychosis Association)",
+  "organizer_url": "https://iepa.org.au/",
+  "edition_url": "https://iepa16.eventsairsite.com/",
+  "tags": [
+   "schizophrenia",
+   "community",
+   "international",
+   "cultural"
+  ],
+  "start_date": "2027-09-20",
+  "end_date": "2027-09-23",
+  "city": "Auckland",
+  "country": "NZ",
+  "venue": "New Zealand International Convention Centre (NZICC)",
+  "lat": -36.8491,
+  "lon": 174.7603,
+  "format": null,
+  "description": "IEPA 16 is the biennial international conference of the IEPA on early intervention and prevention in mental health, held at the New Zealand International Convention Centre in Auckland under the theme Ko te Tirohanga Whānui, Early Intervention and Prevention Through Many Eyes. The programme integrates clinical science, lived experience and Māori and Pacific perspectives.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": null,
+    "url": "https://iepa16.eventsairsite.com/",
+    "estimated": false,
+    "note": "Not yet published."
+   },
+   {
+    "label": "Early registration",
+    "date": null,
+    "url": "https://iepa16.eventsairsite.com/",
+    "estimated": false,
+    "note": "Not yet published."
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-09-07",
+   "end_date": "2025-09-11",
+   "city": "Berlin",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://iepa16.eventsairsite.com/",
+    "accessed": "2026-09-09",
+    "note": "Dates 20 to 23 September 2027, venue address, theme."
+   },
+   {
+    "url": "https://iepa.org.au/iepa16",
+    "accessed": "2026-09-09",
+    "note": "IEPA page pointing to the IEPA 16 conference site, Tamaki Makaurau Auckland 2027."
+   },
+   {
+    "url": "https://iepa15conference.org/",
+    "accessed": "2026-09-09",
+    "note": "IEPA 15 Berlin, 7 to 11 September 2025 (prior edition)."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "No conference in 2026 (biennial cycle). The IEPA 15 site header gives 7 to 11 September 2025 while its text describes three days; deadlines for IEPA 15 were not retrieved.",
+  "region_name": "Auckland",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

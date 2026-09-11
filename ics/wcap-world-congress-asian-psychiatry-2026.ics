@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:11th World Congress of Asian Psychiatry (WCAP 2026)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:wcap-world-congress-asian-psychiatry-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261009
+SUMMARY:11th World Congress of Asian Psychiatry (WCAP 2026)
+DESCRIPTION:The 11th World Congress of Asian Psychiatry is organized by t
+ he Asian Federation of Psychiatric Associations in partnership with the 
+ World Psychiatric Association at Hokkaido University under the theme Har
+ monization between Urbanization and Nature in Future Mental Health. The 
+ programme includes keynote lectures\, symposia\, workshops and oral and 
+ poster presentations.\n\nDeadlines\nSymposium and workshop proposal subm
+ ission opens: 2025-11-05\nSymposium and workshop proposal submission: 20
+ 26-02-28\nAbstract submission opens: 2025-12-25\nOral abstract submissio
+ n: 2026-04-06\nPoster abstract submission: 2026-04-30\nPresenter registr
+ ation: 2026-07-31\nEarly registration: 2026-08-16\nRegular registration:
+  2026-09-15\n\nhttps://www.wcap2026.jp/
+LOCATION:Sapporo\, Hokkaido\, JP\, Hokkaido University\, Clark Memorial S
+ tudent Center
+URL:https://www.wcap2026.jp/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:11th World Congress of Asian Psychiatry (WCAP 2026)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcap-world-congress-asian-psychiatry-2026-20260228-symposium-and-work
+ shop-proposal-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:Deadline: WCAP 2026 symposium and workshop proposal submission
+DESCRIPTION:Extended deadline\, 23:59 JST.\nMeeting: 11th World Congress 
+ of Asian Psychiatry (WCAP 2026)\, Oct 06 to 08\, 2026\, Sapporo\, Hokkai
+ do\, JP\, Hokkaido University\, Clark Memorial Student Center\nhttps://w
+ ww.wcap2026.jp/submission.html
+LOCATION:Sapporo\, Hokkaido\, JP\, Hokkaido University\, Clark Memorial S
+ tudent Center
+URL:https://www.wcap2026.jp/submission.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 symposium and workshop proposal submissio
+ n
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 symposium and workshop proposal submissio
+ n
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 symposium and workshop proposal submissio
+ n
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcap-world-congress-asian-psychiatry-2026-20260406-oral-abstract-subm
+ ission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:Deadline: WCAP 2026 oral abstract submission
+DESCRIPTION:23:59 JST.\nMeeting: 11th World Congress of Asian Psychiatry 
+ (WCAP 2026)\, Oct 06 to 08\, 2026\, Sapporo\, Hokkaido\, JP\, Hokkaido U
+ niversity\, Clark Memorial Student Center\nhttps://www.wcap2026.jp/submi
+ ssion.html
+LOCATION:Sapporo\, Hokkaido\, JP\, Hokkaido University\, Clark Memorial S
+ tudent Center
+URL:https://www.wcap2026.jp/submission.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 oral abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 oral abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 oral abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcap-world-congress-asian-psychiatry-2026-20260430-poster-abstract-su
+ bmission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Deadline: WCAP 2026 poster abstract submission
+DESCRIPTION:23:59 JST.\nMeeting: 11th World Congress of Asian Psychiatry 
+ (WCAP 2026)\, Oct 06 to 08\, 2026\, Sapporo\, Hokkaido\, JP\, Hokkaido U
+ niversity\, Clark Memorial Student Center\nhttps://www.wcap2026.jp/submi
+ ssion.html
+LOCATION:Sapporo\, Hokkaido\, JP\, Hokkaido University\, Clark Memorial S
+ tudent Center
+URL:https://www.wcap2026.jp/submission.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 poster abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 poster abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 poster abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcap-world-congress-asian-psychiatry-2026-20260731-presenter-registra
+ tion@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Deadline: WCAP 2026 presenter registration
+DESCRIPTION:Meeting: 11th World Congress of Asian Psychiatry (WCAP 2026)\
+ , Oct 06 to 08\, 2026\, Sapporo\, Hokkaido\, JP\, Hokkaido University\, 
+ Clark Memorial Student Center\nhttps://www.wcap2026.jp/registration.html
+LOCATION:Sapporo\, Hokkaido\, JP\, Hokkaido University\, Clark Memorial S
+ tudent Center
+URL:https://www.wcap2026.jp/registration.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 presenter registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 presenter registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 presenter registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcap-world-congress-asian-psychiatry-2026-20260816-early-registration
+ @conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Deadline: WCAP 2026 early registration
+DESCRIPTION:Early bird rate 17 June to 16 August 2026 JST.\nMeeting: 11th
+  World Congress of Asian Psychiatry (WCAP 2026)\, Oct 06 to 08\, 2026\, 
+ Sapporo\, Hokkaido\, JP\, Hokkaido University\, Clark Memorial Student C
+ enter\nhttps://www.wcap2026.jp/registration.html
+LOCATION:Sapporo\, Hokkaido\, JP\, Hokkaido University\, Clark Memorial S
+ tudent Center
+URL:https://www.wcap2026.jp/registration.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcap-world-congress-asian-psychiatry-2026-20260915-regular-registrati
+ on@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Deadline: WCAP 2026 regular registration
+DESCRIPTION:Late and on site rate 16 September to 8 October 2026.\nMeetin
+ g: 11th World Congress of Asian Psychiatry (WCAP 2026)\, Oct 06 to 08\, 
+ 2026\, Sapporo\, Hokkaido\, JP\, Hokkaido University\, Clark Memorial St
+ udent Center\nhttps://www.wcap2026.jp/registration.html
+LOCATION:Sapporo\, Hokkaido\, JP\, Hokkaido University\, Clark Memorial S
+ tudent Center
+URL:https://www.wcap2026.jp/registration.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 regular registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 regular registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCAP 2026 regular registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

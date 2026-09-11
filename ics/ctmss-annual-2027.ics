@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Clinical TMS Society 15th Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ctmss-annual-2027-20270201-poster-abstract-submission@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Deadline: CTMSS 2027 poster abstract submission (estimated)
+DESCRIPTION:estimated from the 2026 cycle (February 2\, 2026)\; not publi
+ shed\nMeeting: Clinical TMS Society 15th Annual Meeting 2027\, dates not
+  yet published\, Chicago\, Illinois\nhttps://clinicaltmssociety.org/annu
+ al-meeting/
+LOCATION:Chicago\, Illinois
+URL:https://clinicaltmssociety.org/annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTMSS 2027 poster abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTMSS 2027 poster abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CTMSS 2027 poster abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

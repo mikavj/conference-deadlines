@@ -1,0 +1,62 @@
+[
+ {
+  "id": "ashnr-asnr-annual-2027",
+  "name": "ASHNR/ASNR 2027 Joint Annual Meeting",
+  "short_name": "ASNR 2027",
+  "organizer": "American Society of Neuroradiology",
+  "organizer_url": "https://www.asnr.org",
+  "edition_url": "https://www.asnr.org/ashnr-asnr-annual-meeting-2027/",
+  "areas": [
+   "radiology",
+   "neurology"
+  ],
+  "tags": [
+   "radiology",
+   "neuroradiology",
+   "imaging",
+   "education",
+   "stroke"
+  ],
+  "start_date": "2027-05-14",
+  "end_date": "2027-05-19",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "Hilton San Diego Bayfront",
+  "lat": 32.7033,
+  "lon": -117.1587,
+  "format": "in-person",
+  "description": "The American Society of Neuroradiology and the American Society of Head and Neck Radiology hold a joint annual meeting from May 14 to 19, 2027, at the Hilton San Diego Bayfront in San Diego, California. The ASHNR portion runs May 14 to 16 and the ASNR portion runs May 16 to 19, covering neuroradiology and related head and neck imaging topics.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-11-04",
+    "url": "https://www.asnr.org/ashnr-asnr-2027-call-for-abstracts/",
+    "estimated": false,
+    "note": "11:59 p.m. Eastern Time; single deadline shared by oral presentation, ePoster, Excerpta, and educational exhibit submission types, per the official call for abstracts page."
+   },
+   {
+    "label": "Abstract acceptance notification (notif)",
+    "date": "2027-01-29",
+    "url": "https://www.asnr.org/ashnr-asnr-2027-call-for-abstracts/",
+    "estimated": false,
+    "note": "Notifications are stated to arrive on or before this date, upon conclusion of peer review."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.asnr.org/ashnr-asnr-annual-meeting-2027/",
+    "accessed": "2026-09-10",
+    "note": "Confirms joint meeting dates, ASHNR/ASNR sub-ranges, and venue (Hilton San Diego Bayfront, San Diego, California)."
+   },
+   {
+    "url": "https://www.asnr.org/ashnr-asnr-2027-call-for-abstracts/",
+    "accessed": "2026-09-10",
+    "note": "States the November 4 abstract submission deadline and the January 29, 2027 notification date."
+   }
+  ],
+  "confidence": "high",
+  "notes": "The call for abstracts page does not print the year for the November 4 submission deadline; 2026 was inferred because the stated notification date of January 29, 2027 must follow it and precede the May 2027 meeting. No registration or travel award deadlines were found on official pages as of 2026-09-10."
+ }
+]

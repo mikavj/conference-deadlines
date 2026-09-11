@@ -1,0 +1,53 @@
+[
+ {
+  "id": "ispn-annual-2027",
+  "name": "ISPN 2027 Annual Conference",
+  "short_name": "ISPN 2027",
+  "organizer": "International Society of Psychiatric-Mental Health Nurses",
+  "organizer_url": "https://www.ispn-psych.org",
+  "edition_url": "https://www.ispn-psych.org/2027-annual-conference",
+  "areas": [
+   "psychiatry",
+   "nursing"
+  ],
+  "tags": [
+   "general-psychiatry",
+   "nursing",
+   "education"
+  ],
+  "start_date": "2027-03-17",
+  "end_date": "2027-03-20",
+  "city": "Asheville",
+  "region_name": "North Carolina",
+  "country": "US",
+  "venue": "Renaissance Asheville Downtown Hotel",
+  "lat": 35.5951,
+  "lon": -82.5515,
+  "format": null,
+  "description": "The International Society of Psychiatric Mental Health Nurses holds its 2027 annual conference in Asheville, North Carolina. The program theme addresses psychiatric nursing leadership through crisis, innovation and transformation.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-08-31",
+    "url": "https://www.ispn-psych.org/2027-call-for-abstracts",
+    "estimated": false,
+    "note": "Already closed as of the research date"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.ispn-psych.org/2027-annual-conference",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, city, venue and theme"
+   },
+   {
+    "url": "https://www.ispn-psych.org/2027-call-for-abstracts",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract submission deadline"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

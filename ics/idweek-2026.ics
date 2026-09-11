@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IDWeek 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:idweek-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261025
+SUMMARY:IDWeek 2026
+DESCRIPTION:IDWeek is the combined annual meeting of four infectious dise
+ ase societies\, covering clinical and research advances in infectious di
+ seases\, HIV medicine\, healthcare epidemiology\, and pediatric infectio
+ us diseases. The 2026 meeting is held in Washington\, D.C.\n\nDeadlines\
+ nAbstract submission opens: 2026-02-17\nAbstract submission: 2026-04-30\
+ nLate-breaker abstract submission opens: 2026-06-22\nLate-breaker abstra
+ ct submission: 2026-08-04\n\nhttps://idweek.org
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://idweek.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IDWeek 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:idweek-2026-20260430-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Deadline: IDWeek 2026 abstract submission
+DESCRIPTION:11:59 p.m. Eastern time\nMeeting: IDWeek 2026\, Oct 21 to 24\
+ , 2026\, Washington\, District of Columbia\, Walter E. Washington Conven
+ tion Center\nhttps://idweek.org/abstracts/
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://idweek.org/abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IDWeek 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IDWeek 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IDWeek 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:idweek-2026-20260804-late-breaker-abstract-submission@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Deadline: IDWeek 2026 late-breaker abstract submission
+DESCRIPTION:Meeting: IDWeek 2026\, Oct 21 to 24\, 2026\, Washington\, Dis
+ trict of Columbia\, Walter E. Washington Convention Center\nhttps://idwe
+ ek.org/abstracts/
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://idweek.org/abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IDWeek 2026 late-breaker abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IDWeek 2026 late-breaker abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IDWeek 2026 late-breaker abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,64 @@
+[
+ {
+  "id": "istss-2026",
+  "name": "ISTSS 42nd Annual Meeting 2026",
+  "short_name": "ISTSS 2026",
+  "organizer": "International Society for Traumatic Stress Studies",
+  "organizer_url": "https://istss.org/",
+  "edition_url": "https://istss.org/annual-meeting-hub/",
+  "tags": [
+   "trauma",
+   "psychology",
+   "international"
+  ],
+  "start_date": "2026-09-23",
+  "end_date": "2026-09-26",
+  "city": "San Antonio",
+  "country": "US",
+  "venue": "San Antonio Marriott Rivercenter on the River Walk",
+  "lat": 29.4237,
+  "lon": -98.4852,
+  "format": null,
+  "description": "The 42nd ISTSS Annual Meeting is held in San Antonio under the theme Traumatic Stress in a Troubled World: Collaboration on Evidence and Action. The program includes premeeting institutes, keynotes, symposia, papers, flash talks and posters.",
+  "deadlines": [
+   {
+    "label": "Proposal submission",
+    "date": "2026-02-19",
+    "url": "https://istss.org/annual-meeting-hub/",
+    "estimated": false,
+    "note": "Posters, flash talks, papers, symposia and workshops were due Thursday, February 19, 2026 according to ISTSS pages indexed in search; the Call for Proposals PDF confirms the meeting but does not restate the date"
+   },
+   {
+    "label": "Registration cancellation deadline",
+    "date": "2026-08-14",
+    "url": "https://istss.org/wp-content/uploads/2026/01/2026-Call-for-Proposals.pdf",
+    "estimated": false,
+    "note": "Refund less 100 USD for cancellations on or before August 14, 2026"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://istss.org/annual-meeting-hub/",
+    "accessed": "2026-09-09",
+    "note": "Dates, city, program elements, link to 2026 Call for Proposals"
+   },
+   {
+    "url": "https://istss.org/meetings-events/upcoming-events/",
+    "accessed": "2026-09-09",
+    "note": "Dates and venue name"
+   },
+   {
+    "url": "https://istss.org/wp-content/uploads/2026/01/2026-Call-for-Proposals.pdf",
+    "accessed": "2026-09-09",
+    "note": "Meeting dates, theme, cancellation policy"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Meeting begins two weeks after the access date. No early registration deadline is shown on the current hub; the registration page still displays 2024 tiers. No information about the 2027 (43rd) meeting was found on istss.org.",
+  "region_name": "Texas",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

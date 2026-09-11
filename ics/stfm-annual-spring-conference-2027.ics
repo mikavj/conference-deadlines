@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 STFM Annual Spring Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:stfm-annual-spring-conference-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270506
+SUMMARY:2027 STFM Annual Spring Conference
+DESCRIPTION:The 2027 STFM Annual Spring Conference is the yearly meeting 
+ of the Society of Teachers of Family Medicine\, held at the Sheraton Gra
+ nd Chicago Riverwalk in Chicago\, Illinois. The conference brings togeth
+ er family medicine educators for presentations on teaching\, research\, 
+ and clinical practice.\n\nDeadlines\nPresentation proposal submission: 2
+ 026-09-04\n\nhttps://www.stfm.org/conferences/annual/overview/
+LOCATION:Chicago\, Illinois\, Sheraton Grand Chicago Riverwalk
+URL:https://www.stfm.org/conferences/annual/overview/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 STFM Annual Spring Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:stfm-annual-spring-conference-2027-20260904-presentation-proposal-sub
+ mission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Deadline: STFM 2027 presentation proposal submission
+DESCRIPTION:call for presentations closed on this date\; a separate call 
+ for fellow\, resident\, and student research posters was announced to op
+ en in late 2026 with no specific date yet published\nMeeting: 2027 STFM 
+ Annual Spring Conference\, May 01 to 05\, 2027\, Chicago\, Illinois\, Sh
+ eraton Grand Chicago Riverwalk\nhttps://www.stfm.org/conferences/annual/
+ call-for-presentations/
+LOCATION:Chicago\, Illinois\, Sheraton Grand Chicago Riverwalk
+URL:https://www.stfm.org/conferences/annual/call-for-presentations/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: STFM 2027 presentation proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: STFM 2027 presentation proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: STFM 2027 presentation proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,122 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society for Neuroscience Neuroscience 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sfn-neuroscience-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271028
+SUMMARY:Society for Neuroscience Neuroscience 2027
+DESCRIPTION:SfN lists Neuroscience 2027 for October 23 to 27\, 2027\, in 
+ Chicago. No venue\, abstract or registration deadlines have been publish
+ ed\; the meeting falls three weeks earlier in the year than Neuroscience
+  2026.\n\nDeadlines\nSymposium and session proposals: 2027-01-15 (estima
+ ted)\nAbstract submission: 2027-05-20 (estimated)\nLate breaking abstrac
+ t submission: 2027-08-24 (estimated)\n\nhttps://www.sfn.org/meetings
+LOCATION:Chicago\, Illinois
+URL:https://www.sfn.org/meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society for Neuroscience Neuroscience 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sfn-neuroscience-2027-20270115-symposium-and-session-proposals@confer
+ ence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Deadline: SfN 2027 symposium and session proposals (estimated)
+DESCRIPTION:estimated from the 2026 cycle (extended deadline January 26\,
+  2026)\; not published\nMeeting: Society for Neuroscience Neuroscience 2
+ 027\, Oct 23 to 27\, 2027\, Chicago\, Illinois\nhttps://www.sfn.org/meet
+ ings
+LOCATION:Chicago\, Illinois
+URL:https://www.sfn.org/meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2027 symposium and session proposals (estimated
+ )
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2027 symposium and session proposals (estimated
+ )
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2027 symposium and session proposals (estimated
+ )
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sfn-neuroscience-2027-20270520-abstract-submission@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Deadline: SfN 2027 abstract submission (estimated)
+DESCRIPTION:estimated from the 2026 cycle (opened May 27\, closed June 11
+ \, 2026\, about five months before the meeting) adjusted for the earlier
+  October dates\; not published\nMeeting: Society for Neuroscience Neuros
+ cience 2027\, Oct 23 to 27\, 2027\, Chicago\, Illinois\nhttps://www.sfn.
+ org/meetings
+LOCATION:Chicago\, Illinois
+URL:https://www.sfn.org/meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sfn-neuroscience-2027-20270824-late-breaking-abstract-submission@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:Deadline: SfN 2027 late breaking abstract submission (estimated)
+DESCRIPTION:estimated from the 2026 cycle (September 15\, 2026\, two mont
+ hs before the meeting)\; not published\nMeeting: Society for Neuroscienc
+ e Neuroscience 2027\, Oct 23 to 27\, 2027\, Chicago\, Illinois\nhttps://
+ www.sfn.org/meetings
+LOCATION:Chicago\, Illinois
+URL:https://www.sfn.org/meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2027 late breaking abstract submission (estimat
+ ed)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2027 late breaking abstract submission (estimat
+ ed)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2027 late breaking abstract submission (estimat
+ ed)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

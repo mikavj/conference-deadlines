@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 SMFM Pregnancy Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:smfm-pregnancy-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270327
+SUMMARY:2027 SMFM Pregnancy Meeting
+DESCRIPTION:The Pregnancy Meeting is the annual scientific meeting of the
+  Society for Maternal Fetal Medicine\, featuring postgraduate courses\, 
+ scientific forums\, and oral and poster presentations on maternal fetal 
+ medicine. The 2027 edition takes place at the Gaylord National in Nation
+ al Harbor\, Maryland.\n\nDeadlines\nAbstract submission opens: 2026-07-1
+ 0\nAbstract submission: 2026-09-14\nAbstract notification: 2026-11-06\nA
+ bstract withdrawal deadline: 2026-11-13\nRegistration opens: 2026-10-05\
+ nLate-breaking abstract submission opens: 2026-11-16\nLate-breaking abst
+ ract submission: 2026-12-21\nLate-breaking abstract notification: 2027-0
+ 1-11\n\nhttps://www.smfm.org/events/2027-pregnancy-meeting
+LOCATION:National Harbor\, Maryland\, Gaylord National Resort and Convent
+ ion Center
+URL:https://www.smfm.org/events/2027-pregnancy-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 SMFM Pregnancy Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smfm-pregnancy-meeting-2027-20260914-abstract-submission@conference-c
+ alendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Deadline: SMFM 2027 abstract submission
+DESCRIPTION:9:00 pm ET\nMeeting: 2027 SMFM Pregnancy Meeting\, Mar 21 to 
+ 26\, 2027\, National Harbor\, Maryland\, Gaylord National Resort and Con
+ vention Center\nhttps://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU
+ 1WTUZAMjY1NDVAQWJzdHJhY3Rz
+LOCATION:National Harbor\, Maryland\, Gaylord National Resort and Convent
+ ion Center
+URL:https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDV
+ AQWJzdHJhY3Rz
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMFM 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMFM 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMFM 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smfm-pregnancy-meeting-2027-20261113-abstract-withdrawal-deadline@con
+ ference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Deadline: SMFM 2027 abstract withdrawal deadline
+DESCRIPTION:Meeting: 2027 SMFM Pregnancy Meeting\, Mar 21 to 26\, 2027\, 
+ National Harbor\, Maryland\, Gaylord National Resort and Convention Cent
+ er\nhttps://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1ND
+ VAQWJzdHJhY3Rz
+LOCATION:National Harbor\, Maryland\, Gaylord National Resort and Convent
+ ion Center
+URL:https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDV
+ AQWJzdHJhY3Rz
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMFM 2027 abstract withdrawal deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMFM 2027 abstract withdrawal deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMFM 2027 abstract withdrawal deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smfm-pregnancy-meeting-2027-20261221-late-breaking-abstract-submissio
+ n@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Deadline: SMFM 2027 late-breaking abstract submission
+DESCRIPTION:9:00 pm ET\nMeeting: 2027 SMFM Pregnancy Meeting\, Mar 21 to 
+ 26\, 2027\, National Harbor\, Maryland\, Gaylord National Resort and Con
+ vention Center\nhttps://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU
+ 1WTUZAMjY1NDVAQWJzdHJhY3Rz
+LOCATION:National Harbor\, Maryland\, Gaylord National Resort and Convent
+ ion Center
+URL:https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDV
+ AQWJzdHJhY3Rz
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMFM 2027 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMFM 2027 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMFM 2027 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

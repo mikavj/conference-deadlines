@@ -1,0 +1,195 @@
+[
+ {
+  "id": "ash-annual-2026",
+  "name": "ASH Annual Meeting and Exposition 2026",
+  "short_name": "ASH 2026",
+  "organizer": "American Society of Hematology",
+  "organizer_url": "https://www.hematology.org",
+  "edition_url": "https://www.hematology.org/meetings/annual-meeting",
+  "areas": [
+   "hematology",
+   "oncology"
+  ],
+  "tags": [
+   "hematology",
+   "oncology",
+   "clinical-trials"
+  ],
+  "start_date": "2026-12-12",
+  "end_date": "2026-12-15",
+  "city": "New Orleans",
+  "region_name": "Louisiana",
+  "country": "US",
+  "venue": "Ernest N. Morial Convention Center",
+  "lat": 29.9412,
+  "lon": -90.0651,
+  "format": "hybrid",
+  "description": "The ASH Annual Meeting and Exposition is the primary scientific meeting of the American Society of Hematology, covering malignant and non-malignant blood disorders. The 68th edition is scheduled for December 12 to 15, 2026 at the Ernest N. Morial Convention Center in New Orleans, Louisiana, with in person and virtual attendance options.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-06-02",
+    "url": "https://www.hematology.org/meetings/annual-meeting/abstracts/call-for-abstracts",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-08-04",
+    "url": "https://www.hematology.org/meetings/annual-meeting/abstracts/call-for-abstracts",
+    "estimated": false,
+    "note": "11:59 PM Pacific time."
+   },
+   {
+    "label": "Travel award application",
+    "date": "2026-08-04",
+    "url": "https://www.hematology.org/meetings/annual-meeting/abstracts/call-for-abstracts",
+    "estimated": false,
+    "note": "Abstract Achievement Award and Outstanding Abstract Achievement Award deadline coincides with the regular abstract deadline; $500 merit awards for trainee investigators."
+   },
+   {
+    "label": "Abstract withdrawal deadline",
+    "date": "2026-09-16",
+    "url": "https://www.hematology.org/meetings/annual-meeting/abstracts/call-for-abstracts",
+    "estimated": false,
+    "note": "No withdrawals permitted after this date."
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-10-14",
+    "url": "https://www.hematology.org/meetings/annual-meeting/abstracts/call-for-abstracts",
+    "estimated": false,
+    "note": "Limited to six abstracts; competitive selection."
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-10-28",
+    "url": "https://www.hematology.org/meetings/annual-meeting/abstracts/call-for-abstracts",
+    "estimated": false,
+    "note": "$150 non-refundable submission fee."
+   },
+   {
+    "label": "Abstract notification",
+    "date": "2026-11-04",
+    "url": "https://www.hematology.org/meetings/annual-meeting/abstracts/call-for-abstracts",
+    "estimated": false,
+    "note": "9:00 AM Eastern time; posts presentation format (plenary, oral, or poster). A separate, imprecisely dated acceptance notification is described elsewhere as early October 2026 and is not included as a discrete entry."
+   },
+   {
+    "label": "Advance registration opens (members)",
+    "date": "2026-07-22",
+    "url": "https://www.hematology.org/meetings/annual-meeting/registration-information",
+    "estimated": false,
+    "note": "11:00 AM Eastern time; ASH members."
+   },
+   {
+    "label": "Advance registration opens (non-members)",
+    "date": "2026-08-12",
+    "url": "https://www.hematology.org/meetings/annual-meeting/registration-information",
+    "estimated": false,
+    "note": "11:00 AM Eastern time; non-members, groups, exhibitors, media."
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-10-21",
+    "url": "https://www.hematology.org/meetings/annual-meeting/registration-information",
+    "estimated": false,
+    "note": "Advance registration deadline, 11:59 PM Pacific time."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.hematology.org/meetings/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch succeeded; confirms meeting dates, city, venue, and hybrid format for the 68th Annual Meeting."
+   },
+   {
+    "url": "https://www.hematology.org/meetings/annual-meeting/abstracts/call-for-abstracts",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch succeeded; confirms abstract submission, late-breaking, withdrawal, and notification dates."
+   },
+   {
+    "url": "https://www.hematology.org/meetings/annual-meeting/registration-information",
+    "accessed": "2026-09-10",
+    "note": "Search-engine snippet of this official page confirms registration opening and early/advance registration deadline dates."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Search results also referenced a generic August 2026 acceptance notification distinct from the November 4, 2026 presentation-format notification; only the precisely dated November 4 item is recorded as a deadline entry."
+ },
+ {
+  "id": "ash-annual-2027",
+  "name": "ASH Annual Meeting and Exposition 2027",
+  "short_name": "ASH 2027",
+  "organizer": "American Society of Hematology",
+  "organizer_url": "https://www.hematology.org",
+  "edition_url": "https://www.hematology.org/meetings/annual-meeting",
+  "areas": [
+   "hematology",
+   "oncology"
+  ],
+  "tags": [
+   "hematology",
+   "oncology",
+   "clinical-trials"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "region_name": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "The ASH Annual Meeting and Exposition is the primary scientific meeting of the American Society of Hematology, covering malignant and non-malignant blood disorders. As of September 2026, the American Society of Hematology had not yet published dates or a location for the 69th edition in 2027.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-12-12",
+   "end_date": "2026-12-15",
+   "city": "New Orleans",
+   "deadlines": [
+    {
+     "label": "Abstract submission opens",
+     "date": "2026-06-02"
+    },
+    {
+     "label": "Abstract submission",
+     "date": "2026-08-04"
+    },
+    {
+     "label": "Late-breaking abstract submission opens",
+     "date": "2026-10-14"
+    },
+    {
+     "label": "Late-breaking abstract submission",
+     "date": "2026-10-28"
+    },
+    {
+     "label": "Abstract notification",
+     "date": "2026-11-04"
+    },
+    {
+     "label": "Early registration",
+     "date": "2026-10-21"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.hematology.org/meetings",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch succeeded; page lists 2027 'Highlights of ASH' regional meetings but no dates or location for the 69th Annual Meeting itself."
+   },
+   {
+    "url": "https://www.hematology.org/meetings/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch succeeded; confirms no 2027 Annual Meeting information is published on this page as of the access date."
+   }
+  ],
+  "confidence": "low",
+  "notes": "No official date or location for the 69th ASH Annual Meeting (2027) has been published by hematology.org as of 2026-09-10. Aggregator sites (showsbee.com, life-sciences-usa.com) list placeholder values such as a generic December 2027 or a 2027-12-01 start date, but these are not sourced from ASH and were deliberately not used to populate start_date or end_date, per instructions never to invent a date. No deadlines are estimated because doing so would require first guessing the meeting date itself, which is not yet public; the prior (2026) edition's dates are recorded above for reference only."
+ }
+]

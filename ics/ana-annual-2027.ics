@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Neurological Association 152nd Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ana-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270922
+SUMMARY:American Neurological Association 152nd Annual Meeting
+DESCRIPTION:The American Neurological Association will hold its 152nd ann
+ ual meeting in Chicago\, Illinois\, from September 18 to 21\, 2027\, wit
+ h an opening symposium on September 18. Abstract submission\, registrati
+ on\, and travel award information had not yet been published as of Septe
+ mber 2026.\n\nhttps://myana.org/meetings/future-annual-meeting-dates/
+LOCATION:Chicago\, Illinois
+URL:https://myana.org/meetings/future-annual-meeting-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Neurological Association 152nd Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

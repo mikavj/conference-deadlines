@@ -1,0 +1,75 @@
+[
+ {
+  "id": "aapp-annual-2027",
+  "name": "AAPP 2027 Annual Meeting",
+  "short_name": "AAPP 2027",
+  "organizer": "American Association of Psychiatric Pharmacists (AAPP, formerly CPNP)",
+  "organizer_url": "https://aapp.org/",
+  "edition_url": "https://aapp.org/ed/meeting/2027",
+  "areas": [
+   "psychiatry",
+   "pharmacy"
+  ],
+  "tags": [
+   "psychopharmacology",
+   "pharmacy",
+   "general-psychiatry",
+   "education"
+  ],
+  "start_date": "2027-04-04",
+  "end_date": "2027-04-07",
+  "city": "Louisville",
+  "region_name": "Kentucky",
+  "country": "US",
+  "venue": "The Galt House Hotel",
+  "lat": 38.2569,
+  "lon": -85.7595,
+  "format": "in-person",
+  "description": "The American Association of Psychiatric Pharmacists, formerly the College of Psychiatric and Neurologic Pharmacists, holds its 2027 annual meeting at The Galt House Hotel in Louisville, Kentucky, from April 4 to 7, 2027. The organization renamed itself from CPNP to AAPP in 2022 and continues to use the name Annual Meeting for this event.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-12-01",
+    "url": null,
+    "estimated": true,
+    "note": "No confirmed 2027 abstract deadline was found on the live site as of the access date. A page indexed by search under aapp.org/ed/meeting/2026/abstract referenced a poster and abstract submission deadline of December 1, 2026, but the page returned HTTP 404 on direct fetch and it is unclear whether it belongs to this annual meeting cycle or to a separate 2026 Summit event mentioned on the future-meetings page. Treat as a low-confidence placeholder only."
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-04-27",
+   "end_date": "2025-04-30",
+   "city": "Salt Lake City",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://aapp.org/ed/meeting/futureannual",
+    "accessed": "2026-09-10",
+    "note": "Lists future AAPP annual meetings including 2027 (Louisville, Galt House, April 4 to 7, 2027), 2028 and 2029; confirms the organization has no full 2026 Annual Meeting, only a 2026 Summit."
+   },
+   {
+    "url": "https://aapp.org/ed/meeting/2027",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 meeting dates and venue directly on the dedicated meeting page; no deadline dates were shown."
+   },
+   {
+    "url": "https://aapp.org/about",
+    "accessed": "2026-09-10",
+    "note": "Confirms the organization was renamed from CPNP to AAPP in 2022."
+   },
+   {
+    "url": "https://aapp.org/ed/meeting/2025",
+    "accessed": "2026-09-10",
+    "note": "Confirms prior (2025) annual meeting dates, city and venue; no deadline dates were shown."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/American_Association_of_Psychiatric_Pharmacists",
+    "accessed": "2026-09-10",
+    "note": "Corroborates founding date, 2022 name change from CPNP, and headquarters location."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Organizer name confirmed as American Association of Psychiatric Pharmacists (AAPP), formerly College of Psychiatric and Neurologic Pharmacists (CPNP), renamed in 2022; the event is still called the AAPP Annual Meeting, not renamed. Meeting dates, city and venue for 2027 are confirmed on the official site with high confidence, but no official abstract, registration or travel award deadlines for 2027 could be located; the single deadline entry above is a low-confidence estimate flagged accordingly. Maintainer should recheck aapp.org/ed/meeting/2027 closer to the event for a published call for abstracts and registration deadlines."
+ }
+]

@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AASLD The Liver Meeting 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aasld-liver-meeting-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261110
+SUMMARY:AASLD The Liver Meeting 2026
+DESCRIPTION:The Liver Meeting is the American Association for the Study o
+ f Liver Diseases' annual scientific meeting on hepatology. The 2026 meet
+ ing is held in Denver\, Colorado\, beginning one day earlier than usual 
+ to accommodate the Diwali holiday.\n\nDeadlines\nCase report and academi
+ c debate submission: 2026-08-31\nEarly registration: 2026-08-26\n\nhttps
+ ://www.aasld.org/tlm-26/home
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://www.aasld.org/tlm-26/home
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AASLD The Liver Meeting 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aasld-liver-meeting-2026-20260831-case-report-and-academic-debate-sub
+ mission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Deadline: The Liver Meeting 2026 case report and academic debate 
+ submission
+DESCRIPTION:Deadline for case report and academic debate applications\; t
+ he standard scientific abstract deadline was not confirmed on this page\
+ nMeeting: AASLD The Liver Meeting 2026\, Nov 05 to 09\, 2026\, Denver\, 
+ Colorado\, Colorado Convention Center\nhttps://www.aasld.org/tlm-26/home
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://www.aasld.org/tlm-26/home
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: The Liver Meeting 2026 case report and academic deb
+ ate submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: The Liver Meeting 2026 case report and academic deb
+ ate submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: The Liver Meeting 2026 case report and academic deb
+ ate submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aasld-liver-meeting-2026-20260826-early-registration@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Deadline: The Liver Meeting 2026 early registration
+DESCRIPTION:Meeting: AASLD The Liver Meeting 2026\, Nov 05 to 09\, 2026\,
+  Denver\, Colorado\, Colorado Convention Center\nhttps://www.aasld.org/t
+ lm-26/home
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://www.aasld.org/tlm-26/home
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: The Liver Meeting 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: The Liver Meeting 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: The Liver Meeting 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

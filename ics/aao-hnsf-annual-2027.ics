@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAO-HNSF 2027 Annual Meeting & OTO Experience
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aao-hnsf-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270922
+SUMMARY:AAO-HNSF 2027 Annual Meeting & OTO Experience
+DESCRIPTION:The AAO-HNSF Annual Meeting and OTO Experience is the princip
+ al scientific and clinical conference of the American Academy of Otolary
+ ngology\, Head and Neck Surgery Foundation. The 2027 edition is schedule
+ d for New Orleans\, Louisiana\, though a specific venue and submission d
+ eadlines have not yet been published.\n\nhttps://www.entnet.org/events/a
+ nnual-meeting/future-meeting-information/
+LOCATION:New Orleans\, Louisiana
+URL:https://www.entnet.org/events/annual-meeting/future-meeting-informati
+ on/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAO-HNSF 2027 Annual Meeting & OTO Experience
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

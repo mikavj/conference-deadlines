@@ -1,0 +1,89 @@
+[
+ {
+  "id": "apa-psychological-convention-2027",
+  "name": "APA 2027 Convention (American Psychological Association)",
+  "short_name": "APA (Psychological) 2027",
+  "organizer": "American Psychological Association",
+  "organizer_url": "https://www.apa.org/",
+  "edition_url": "https://convention.apa.org/attend/future-conventions",
+  "tags": [
+   "psychology"
+  ],
+  "start_date": "2027-08-12",
+  "end_date": "2027-08-14",
+  "city": "San Francisco",
+  "country": "US",
+  "venue": null,
+  "lat": 37.7749,
+  "lon": -122.4194,
+  "format": null,
+  "description": "The APA 2027 Convention is scheduled for August 12 to 14, 2027 in San Francisco. The call for proposals has not opened; the convention site invites sign ups to be notified when it does.",
+  "deadlines": [
+   {
+    "label": "Call for proposals opens",
+    "date": null,
+    "url": "https://convention.apa.org/",
+    "estimated": false,
+    "note": "Not yet announced as of the access date"
+   },
+   {
+    "label": "Preconvention CE workshop proposal submission",
+    "date": "2026-12-21",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (December 22, 2025 deadline for the August 2026 convention)"
+   },
+   {
+    "label": "Division session and poster proposal submission",
+    "date": "2027-01-13",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (January 14, 2026 deadline for the August 2026 convention)"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-08-06",
+   "end_date": "2026-08-08",
+   "city": "Washington, DC",
+   "deadlines": [
+    {
+     "label": "Preconvention CE workshop proposal submission",
+     "date": "2025-12-22"
+    },
+    {
+     "label": "Division session and poster proposal submission",
+     "date": "2026-01-14"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://convention.apa.org/attend/future-conventions",
+    "accessed": "2026-09-09",
+    "note": "Future conventions list: 2027 San Francisco August 12 to 14; 2028 Chicago August 3 to 5"
+   },
+   {
+    "url": "https://convention.apa.org/",
+    "accessed": "2026-09-09",
+    "note": "APA 2026 August 6 to 8, Washington, DC and virtual; 2027 call for proposals not yet open"
+   },
+   {
+    "url": "https://convention.apa.org/proposals/preconvention-ce-workshops",
+    "accessed": "2026-09-09",
+    "note": "2026 CE workshop proposal deadline"
+   },
+   {
+    "url": "https://convention.apa.org/proposals",
+    "accessed": "2026-09-09",
+    "note": "2026 general proposal deadline January 14, 2026"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "APA 2026 was hybrid (in person and virtual); the 2027 format is not stated.",
+  "region_name": "California",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

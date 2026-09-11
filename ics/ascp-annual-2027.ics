@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASCP Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ascp-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270605
+SUMMARY:ASCP Annual Meeting 2027
+DESCRIPTION:The 2027 ASCP Annual Meeting (formerly NCDEU) is scheduled fo
+ r June 1 to 4\, 2027\, in Chicago. Submissions for panels\, posters\, ne
+ w investigator awards and pipeline presentations opened in September 202
+ 6 with deadlines running from November 2026 to March 2027.\n\nDeadlines\
+ nPanel and workshop proposals: 2026-11-17\nAward nominations open: 2026-
+ 11-01\nPoster and individual research report submission: 2027-01-27\nNew
+  Investigator Award application: 2027-01-27\nAward nominations close: 20
+ 27-01-27\nPharmaceutical pipeline presentation submission: 2027-02-18\nL
+ ate breaking poster submission opens: 2027-02-24\nLate breaking poster s
+ ubmission: 2027-03-12\n\nhttps://ascpp.org/meeting-hub/
+LOCATION:Chicago\, Illinois\, Chicago Marriott Downtown Magnificent Mile
+URL:https://ascpp.org/meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASCP Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ascp-annual-2027-20261117-panel-and-workshop-proposals@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Deadline: ASCP 2027 panel and workshop proposals
+DESCRIPTION:chair and individual presenter proposals\; open\nMeeting: ASC
+ P Annual Meeting 2027\, Jun 01 to 04\, 2027\, Chicago\, Illinois\, Chica
+ go Marriott Downtown Magnificent Mile\nhttps://ascpp.org/meeting-hub/
+LOCATION:Chicago\, Illinois\, Chicago Marriott Downtown Magnificent Mile
+URL:https://ascpp.org/meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 panel and workshop proposals
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 panel and workshop proposals
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 panel and workshop proposals
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ascp-annual-2027-20270127-poster-and-individual-research-report-submi
+ ssion@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Deadline: ASCP 2027 poster and individual research report submiss
+ ion
+DESCRIPTION:open\; 5:00 pm Central per ASCP convention\nMeeting: ASCP Ann
+ ual Meeting 2027\, Jun 01 to 04\, 2027\, Chicago\, Illinois\, Chicago Ma
+ rriott Downtown Magnificent Mile\nhttps://ascpp.org/meeting-hub/
+LOCATION:Chicago\, Illinois\, Chicago Marriott Downtown Magnificent Mile
+URL:https://ascpp.org/meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 poster and individual research report sub
+ mission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 poster and individual research report sub
+ mission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 poster and individual research report sub
+ mission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ascp-annual-2027-20270127-new-investigator-award-application@conferen
+ ce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Deadline: ASCP 2027 new investigator award application
+DESCRIPTION:NIA workshop May 31\, 2027\nMeeting: ASCP Annual Meeting 2027
+ \, Jun 01 to 04\, 2027\, Chicago\, Illinois\, Chicago Marriott Downtown 
+ Magnificent Mile\nhttps://ascpp.org/ascp-meetings/ascp-annual-meeting/ne
+ w-investigator-program/
+LOCATION:Chicago\, Illinois\, Chicago Marriott Downtown Magnificent Mile
+URL:https://ascpp.org/ascp-meetings/ascp-annual-meeting/new-investigator-
+ program/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 new investigator award application
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 new investigator award application
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 new investigator award application
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ascp-annual-2027-20270127-award-nominations-close@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Deadline: ASCP 2027 award nominations close
+DESCRIPTION:winners notified early spring 2027\nMeeting: ASCP Annual Meet
+ ing 2027\, Jun 01 to 04\, 2027\, Chicago\, Illinois\, Chicago Marriott D
+ owntown Magnificent Mile\nhttps://ascpp.org/meeting-hub/
+LOCATION:Chicago\, Illinois\, Chicago Marriott Downtown Magnificent Mile
+URL:https://ascpp.org/meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 award nominations close
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 award nominations close
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 award nominations close
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ascp-annual-2027-20270218-pharmaceutical-pipeline-presentation-submis
+ sion@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Deadline: ASCP 2027 pharmaceutical pipeline presentation submissi
+ on
+DESCRIPTION:Meeting: ASCP Annual Meeting 2027\, Jun 01 to 04\, 2027\, Chi
+ cago\, Illinois\, Chicago Marriott Downtown Magnificent Mile\nhttps://as
+ cpp.org/meeting-hub/
+LOCATION:Chicago\, Illinois\, Chicago Marriott Downtown Magnificent Mile
+URL:https://ascpp.org/meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 pharmaceutical pipeline presentation subm
+ ission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 pharmaceutical pipeline presentation subm
+ ission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 pharmaceutical pipeline presentation subm
+ ission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ascp-annual-2027-20270312-late-breaking-poster-submission@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Deadline: ASCP 2027 late breaking poster submission
+DESCRIPTION:Meeting: ASCP Annual Meeting 2027\, Jun 01 to 04\, 2027\, Chi
+ cago\, Illinois\, Chicago Marriott Downtown Magnificent Mile\nhttps://as
+ cpp.org/meeting-hub/
+LOCATION:Chicago\, Illinois\, Chicago Marriott Downtown Magnificent Mile
+URL:https://ascpp.org/meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 late breaking poster submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 late breaking poster submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCP 2027 late breaking poster submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

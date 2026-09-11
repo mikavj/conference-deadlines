@@ -1,0 +1,44 @@
+[
+ {
+  "id": "amee-2027",
+  "name": "AMEE 2027",
+  "short_name": "AMEE 2027",
+  "organizer": "AMEE, An International Association for Health Professions Education",
+  "organizer_url": "https://amee.org",
+  "edition_url": "https://amee.org/events/amee-2027/",
+  "areas": [
+   "medical-education"
+  ],
+  "tags": [
+   "medical-education",
+   "education",
+   "international"
+  ],
+  "start_date": "2027-08-28",
+  "end_date": "2027-09-01",
+  "city": "Helsinki",
+  "region_name": "Uusimaa",
+  "country": "FI",
+  "venue": null,
+  "lat": 60.1699,
+  "lon": 24.9384,
+  "format": "hybrid",
+  "description": "AMEE, An International Association for Health Professions Education, holds its 2027 annual conference in Helsinki, Finland. The conference covers research and practice in medical and health professions education.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://amee.org/events/amee-2027/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates (28 August to 1 September 2027) and Helsinki as the host city"
+   },
+   {
+    "url": "https://amee.org/events/amee-2026/",
+    "accessed": "2026-09-10",
+    "note": "Confirms the 2026 conference (Vienna) already concluded, with online participation offered alongside in-person"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Format is listed as hybrid based on the 2026 conference offering both in-person (Vienna) and online participation; this has not been explicitly restated yet for 2027. No 2027 abstract or registration deadlines are published yet."
+ }
+]

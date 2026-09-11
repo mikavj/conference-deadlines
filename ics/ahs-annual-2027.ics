@@ -1,0 +1,105 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Headache Society 69th Annual Scientific Meeting 202
+ 7
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ahs-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270614
+SUMMARY:American Headache Society 69th Annual Scientific Meeting 2027
+DESCRIPTION:The American Headache Society Annual Scientific Meeting is th
+ e society's main conference for clinicians and researchers in headache a
+ nd orofacial pain medicine. The 69th meeting is scheduled for June 10 to
+  13\, 2027\, at the Gaylord Pacific Resort and Convention Center.\n\nDea
+ dlines\nAbstract submission opens: 2027-01-08 (estimated)\nAbstract subm
+ ission deadline: 2027-02-15 (estimated)\nLate-breaking abstract submissi
+ on opens: 2027-04-05 (estimated)\nLate-breaking abstract submission dead
+ line: 2027-04-26 (estimated)\n\nhttps://americanheadachesociety.org/even
+ ts/69th-annual-scientific-meeting-2
+LOCATION:San Diego\, California\, Gaylord Pacific Resort and Convention C
+ enter
+URL:https://americanheadachesociety.org/events/69th-annual-scientific-mee
+ ting-2
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Headache Society 69th Annual Scientific Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ahs-annual-2027-20270215-abstract-submission-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Deadline: AHS 2027 abstract submission deadline (estimated)
+DESCRIPTION:Estimated by projecting the 68th (2026) meeting's closing dat
+ e\, Monday February 9\, 2026\, forward one year to the same weekday. Off
+ icial 2027 abstract dates are not yet published.\nMeeting: American Head
+ ache Society 69th Annual Scientific Meeting 2027\, Jun 10 to 13\, 2027\,
+  San Diego\, California\, Gaylord Pacific Resort and Convention Center\n
+ https://americanheadachesociety.org/events/68th-annual-scientific-meetin
+ g/abstracts
+LOCATION:San Diego\, California\, Gaylord Pacific Resort and Convention C
+ enter
+URL:https://americanheadachesociety.org/events/68th-annual-scientific-mee
+ ting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 abstract submission deadline (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 abstract submission deadline (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 abstract submission deadline (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ahs-annual-2027-20270426-late-breaking-abstract-submission-deadline@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:Deadline: AHS 2027 late-breaking abstract submission deadline (es
+ timated)
+DESCRIPTION:Estimated by projecting the 68th (2026) meeting's late-breaki
+ ng closing date\, April 20\, 2026\, forward one year to the same weekday
+ .\nMeeting: American Headache Society 69th Annual Scientific Meeting 202
+ 7\, Jun 10 to 13\, 2027\, San Diego\, California\, Gaylord Pacific Resor
+ t and Convention Center\nhttps://americanheadachesociety.org/events/68th
+ -annual-scientific-meeting/abstracts
+LOCATION:San Diego\, California\, Gaylord Pacific Resort and Convention C
+ enter
+URL:https://americanheadachesociety.org/events/68th-annual-scientific-mee
+ ting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 late-breaking abstract submission deadline
+  (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 late-breaking abstract submission deadline
+  (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS 2027 late-breaking abstract submission deadline
+  (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

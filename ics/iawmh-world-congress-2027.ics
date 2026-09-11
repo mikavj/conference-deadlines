@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:11th World Congress on Women's Mental Health 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:iawmh-world-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270318
+SUMMARY:11th World Congress on Women's Mental Health 2027
+DESCRIPTION:The 11th World Congress on Women's Mental Health is organized
+  by the International Association for Women's Mental Health and hosted b
+ y the Women and Mental Health working group of the Catalan Society of Ps
+ ychiatry and Mental Health. The theme is integrating a biopsychosocial a
+ pproach in women's mental health\, with oral presentations\, posters\, s
+ ymposia and workshops.\n\nDeadlines\nAbstract submission opens: 2026-02-
+ 15\nSymposium and workshop submission: 2026-09-30\nOral and poster abstr
+ act submission: 2026-10-30\nUndergraduate student submission: 2026-12-23
+  (estimated)\n\nhttps://iawmh2027.org/
+LOCATION:Sitges\, Catalonia\, ES\, Hotel Meliá Sitges
+URL:https://iawmh2027.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:11th World Congress on Women's Mental Health 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iawmh-world-congress-2027-20260930-symposium-and-workshop-submission@
+ conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: IAWMH 2027 symposium and workshop submission
+DESCRIPTION:Notification 5 October 2026.\nMeeting: 11th World Congress on
+  Women's Mental Health 2027\, Mar 14 to 17\, 2027\, Sitges\, Catalonia\,
+  ES\, Hotel Meliá Sitges\nhttps://iawmh2027.org/
+LOCATION:Sitges\, Catalonia\, ES\, Hotel Meliá Sitges
+URL:https://iawmh2027.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAWMH 2027 symposium and workshop submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAWMH 2027 symposium and workshop submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAWMH 2027 symposium and workshop submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iawmh-world-congress-2027-20261030-oral-and-poster-abstract-submissio
+ n@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deadline: IAWMH 2027 oral and poster abstract submission
+DESCRIPTION:Notification 30 November 2026.\nMeeting: 11th World Congress 
+ on Women's Mental Health 2027\, Mar 14 to 17\, 2027\, Sitges\, Catalonia
+ \, ES\, Hotel Meliá Sitges\nhttps://iawmh2027.org/
+LOCATION:Sitges\, Catalonia\, ES\, Hotel Meliá Sitges
+URL:https://iawmh2027.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAWMH 2027 oral and poster abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAWMH 2027 oral and poster abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAWMH 2027 oral and poster abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iawmh-world-congress-2027-20261223-undergraduate-student-submission@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:Deadline: IAWMH 2027 undergraduate student submission (estimated)
+DESCRIPTION:Site prints 23 December 2027\, which falls after the congress
+ \; 2026 assumed since notifications are dated 8 January 2027.\nMeeting: 
+ 11th World Congress on Women's Mental Health 2027\, Mar 14 to 17\, 2027\
+ , Sitges\, Catalonia\, ES\, Hotel Meliá Sitges\nhttps://iawmh2027.org/
+LOCATION:Sitges\, Catalonia\, ES\, Hotel Meliá Sitges
+URL:https://iawmh2027.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAWMH 2027 undergraduate student submission (estima
+ ted)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAWMH 2027 undergraduate student submission (estima
+ ted)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAWMH 2027 undergraduate student submission (estima
+ ted)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

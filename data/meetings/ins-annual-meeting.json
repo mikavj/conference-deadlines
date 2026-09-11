@@ -1,0 +1,92 @@
+[
+ {
+  "id": "ins-annual-meeting-2027",
+  "name": "International Neuropsychological Society 55th Annual Meeting 2027 (INS Boston 2027)",
+  "short_name": "INS 2027",
+  "organizer": "International Neuropsychological Society",
+  "organizer_url": "https://the-ins.org/",
+  "edition_url": "https://ins-boston-2027.oa-event.com/",
+  "tags": [
+   "neuropsychology",
+   "neuroscience",
+   "psychology",
+   "international"
+  ],
+  "start_date": "2027-02-10",
+  "end_date": "2027-02-13",
+  "city": "Boston",
+  "country": "US",
+  "venue": "Sheraton Boston Hotel",
+  "lat": 42.3465,
+  "lon": -71.0839,
+  "format": "in-person",
+  "description": "The 55th Annual Meeting of the International Neuropsychological Society is held in Boston under the theme From Neurocircuits to People. Submissions include posters, papers and symposia, with a late breaking poster session on Saturday 13 February 2027.",
+  "deadlines": [
+   {
+    "label": "Abstract and symposium submission",
+    "date": "2026-08-19",
+    "url": "https://the-ins.org/wp-content/uploads/2026/05/INS-Boston-2027-Call-for-Abstracts-FINAL1.pdf",
+    "estimated": false,
+    "note": "11:59 pm US Eastern Time; no late submissions."
+   },
+   {
+    "label": "Late-breaking poster submission opens",
+    "date": "2026-09-04",
+    "url": "https://ins-boston-2027.oa-event.com/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking poster submission",
+    "date": "2026-10-07",
+    "url": "https://ins-boston-2027.oa-event.com/",
+    "estimated": false,
+    "note": "Posters only."
+   },
+   {
+    "label": "Abstract notification",
+    "date": null,
+    "url": "https://the-ins.org/wp-content/uploads/2026/05/INS-Boston-2027-Call-for-Abstracts-FINAL1.pdf",
+    "estimated": false,
+    "note": "Call states mid October 2026; meeting site states end of October 2026."
+   },
+   {
+    "label": "Early registration",
+    "date": null,
+    "url": "https://ins-boston-2027.oa-event.com/",
+    "estimated": false,
+    "note": "Registration not yet open."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-02-04",
+   "end_date": "2026-02-07",
+   "city": "Philadelphia",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://the-ins.org/wp-content/uploads/2026/05/INS-Boston-2027-Call-for-Abstracts-FINAL1.pdf",
+    "accessed": "2026-09-09",
+    "note": "Meeting dates, theme, submission deadline 19 August 2026, notification mid October, late breaking window."
+   },
+   {
+    "url": "https://ins-boston-2027.oa-event.com/",
+    "accessed": "2026-09-09",
+    "note": "Late breaking window 4 September to 7 October 2026, notification end of October, registration coming soon."
+   },
+   {
+    "url": "https://the-ins.org/2027-prospectus/",
+    "accessed": "2026-09-09",
+    "note": "Sheraton Boston Hotel as meeting venue (from search index text; page timed out on direct fetch)."
+   }
+  ],
+  "confidence": "high",
+  "notes": "The 2026 Annual Meeting was in Philadelphia (4 to 7 February 2026); 2026 prior deadlines not retrieved.",
+  "region_name": "Massachusetts",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

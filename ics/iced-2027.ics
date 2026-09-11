@@ -1,0 +1,128 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:International Conference on Eating Disorders (ICED) 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:iced-2027-20261030-abstract-submission-first-portal-@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deadline: ICED 2027 abstract submission (first portal)
+DESCRIPTION:The page lists two submission portals under the call for abst
+ racts without distinct labels\; this is the earlier closing date\nMeetin
+ g: International Conference on Eating Disorders (ICED) 2027\, dates not 
+ yet published\, Phoenix\, Arizona\, Arizona Grand Resort & Spa\nhttps://
+ web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summary
+LOCATION:Phoenix\, Arizona\, Arizona Grand Resort & Spa
+URL:https://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summ
+ ary
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 abstract submission (first portal)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 abstract submission (first portal)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 abstract submission (first portal)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iced-2027-20261117-abstract-submission-second-portal-@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Deadline: ICED 2027 abstract submission (second portal)
+DESCRIPTION:Second submission portal closing date listed under the call f
+ or abstracts\nMeeting: International Conference on Eating Disorders (ICE
+ D) 2027\, dates not yet published\, Phoenix\, Arizona\, Arizona Grand Re
+ sort & Spa\nhttps://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6
+ e67d/summary
+LOCATION:Phoenix\, Arizona\, Arizona Grand Resort & Spa
+URL:https://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summ
+ ary
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 abstract submission (second portal)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 abstract submission (second portal)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 abstract submission (second portal)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iced-2027-20270111-aed-fellows-application@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Deadline: ICED 2027 aed fellows application
+DESCRIPTION:Meeting: International Conference on Eating Disorders (ICED) 
+ 2027\, dates not yet published\, Phoenix\, Arizona\, Arizona Grand Resor
+ t & Spa\nhttps://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67
+ d/summary
+LOCATION:Phoenix\, Arizona\, Arizona Grand Resort & Spa
+URL:https://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summ
+ ary
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 aed fellows application
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 aed fellows application
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 aed fellows application
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iced-2027-20270131-aed-fellows-nomination@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Deadline: ICED 2027 aed fellows nomination
+DESCRIPTION:Meeting: International Conference on Eating Disorders (ICED) 
+ 2027\, dates not yet published\, Phoenix\, Arizona\, Arizona Grand Resor
+ t & Spa\nhttps://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67
+ d/summary
+LOCATION:Phoenix\, Arizona\, Arizona Grand Resort & Spa
+URL:https://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summ
+ ary
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 aed fellows nomination
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 aed fellows nomination
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICED 2027 aed fellows nomination
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 Annual Meeting of the American College of Clinical Phar
+ macology
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:accp-clinpharm-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260930
+SUMMARY:2026 Annual Meeting of the American College of Clinical Pharmacol
+ ogy
+DESCRIPTION:The American College of Clinical Pharmacology holds its 2026 
+ annual meeting in North Bethesda\, Maryland. The program includes sympos
+ ia\, a pre-meeting workshop on cardiac safety in drug development\, and 
+ a clinical pharmacology review course jointly sponsored with the America
+ n Board of Clinical Pharmacology.\n\nDeadlines\nEarly registration: 2026
+ -06-30\n\nhttps://accp1.org/Members/ACCP1/3Annual_Meeting/2026-ACCP-Annu
+ al-Meeting.aspx
+LOCATION:North Bethesda\, Maryland\, Bethesda North Marriott Hotel & Conf
+ erence Center
+URL:https://accp1.org/Members/ACCP1/3Annual_Meeting/2026-ACCP-Annual-Meet
+ ing.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 Annual Meeting of the American College of Clinical Pharm
+ acology
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:accp-clinpharm-annual-2026-20260630-early-registration@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Deadline: ACCP 2026 early registration
+DESCRIPTION:Meeting: 2026 Annual Meeting of the American College of Clini
+ cal Pharmacology\, Sep 27 to 29\, 2026\, North Bethesda\, Maryland\, Bet
+ hesda North Marriott Hotel & Conference Center\nhttps://accp1.org/Member
+ s/ACCP1/3Annual_Meeting/2026-ACCP-Annual-Meeting.aspx
+LOCATION:North Bethesda\, Maryland\, Bethesda North Marriott Hotel & Conf
+ erence Center
+URL:https://accp1.org/Members/ACCP1/3Annual_Meeting/2026-ACCP-Annual-Meet
+ ing.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACCP 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACCP 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACCP 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

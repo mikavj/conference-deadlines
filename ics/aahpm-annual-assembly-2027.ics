@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 Annual Assembly of Hospice and Palliative Care
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aahpm-annual-assembly-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270321
+SUMMARY:2027 Annual Assembly of Hospice and Palliative Care
+DESCRIPTION:The 2027 Annual Assembly of Hospice and Palliative Care is th
+ e joint annual conference of the American Academy of Hospice and Palliat
+ ive Medicine and the Hospice and Palliative Nurses Association\, held at
+  the David L. Lawrence Convention Center in Pittsburgh\, Pennsylvania. T
+ he program covers clinical research\, education\, and practice guidance 
+ in hospice and palliative care.\n\nDeadlines\nAbstract submission: 2026-
+ 07-13\n\nhttps://aahpm.org/education-events/annual-assembly/
+LOCATION:Pittsburgh\, Pennsylvania\, David L. Lawrence Convention Center
+URL:https://aahpm.org/education-events/annual-assembly/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 Annual Assembly of Hospice and Palliative Care
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aahpm-annual-assembly-2027-20260713-abstract-submission@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Deadline: AAHPM/HPNA Assembly 2027 abstract submission
+DESCRIPTION:11:59 PM CT\; abstracts limited to 400 words\, blinded review
+ \nMeeting: 2027 Annual Assembly of Hospice and Palliative Care\, Mar 17 
+ to 20\, 2027\, Pittsburgh\, Pennsylvania\, David L. Lawrence Convention 
+ Center\nhttps://aahpm.org/wp-content/uploads/2024/10/v2_2025_Subsequent_
+ Call_Abstract_Submission_Guide.pdf
+LOCATION:Pittsburgh\, Pennsylvania\, David L. Lawrence Convention Center
+URL:https://aahpm.org/wp-content/uploads/2024/10/v2_2025_Subsequent_Call_
+ Abstract_Submission_Guide.pdf
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAHPM/HPNA Assembly 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAHPM/HPNA Assembly 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAHPM/HPNA Assembly 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

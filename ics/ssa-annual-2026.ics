@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society for the Study of Addiction Annual Conference 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ssa-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261114
+SUMMARY:Society for the Study of Addiction Annual Conference 2026
+DESCRIPTION:The Society for the Study of Addiction holds its annual confe
+ rence for UK addiction researchers\, policymakers\, practitioners and pe
+ ople with lived experience in Newcastle upon Tyne\, England.\n\nDeadline
+ s\nEarly registration: 2026-09-24\n\nhttps://www.addiction-ssa.org/news/
+ guide-to-attending-the-2026-annual-conference/
+LOCATION:Newcastle upon Tyne\, England\, GB\, Crowne Plaza Newcastle\, St
+ ephenson Quarter
+URL:https://www.addiction-ssa.org/news/guide-to-attending-the-2026-annual
+ -conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society for the Study of Addiction Annual Conference 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ssa-annual-2026-20260924-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Deadline: SSA 2026 early registration
+DESCRIPTION:Early bird ticket pricing ends on this date\nMeeting: Society
+  for the Study of Addiction Annual Conference 2026\, Nov 12 to 13\, 2026
+ \, Newcastle upon Tyne\, England\, GB\, Crowne Plaza Newcastle\, Stephen
+ son Quarter\nhttps://www.addiction-ssa.org/news/guide-to-attending-the-2
+ 026-annual-conference/
+LOCATION:Newcastle upon Tyne\, England\, GB\, Crowne Plaza Newcastle\, St
+ ephenson Quarter
+URL:https://www.addiction-ssa.org/news/guide-to-attending-the-2026-annual
+ -conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SSA 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SSA 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SSA 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

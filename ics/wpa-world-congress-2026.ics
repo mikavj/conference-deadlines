@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:26th World Congress of Psychiatry (WCP 2026)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:wpa-world-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260927
+SUMMARY:26th World Congress of Psychiatry (WCP 2026)
+DESCRIPTION:The 26th World Congress of Psychiatry is organized by the Wor
+ ld Psychiatric Association together with the Swedish Psychiatric Associa
+ tion under the theme Guided by Compassion\, Grounded in Science: Psychia
+ try for Our Time. The programme covers clinical\, research and policy to
+ pics across psychiatry.\n\nDeadlines\nSession proposal submission: 2026-
+ 02-09\nFellowship applications: 2026-03-19\nAbstract submission: 2026-03
+ -23\nEarly registration: 2026-06-02\nRegular registration: 2026-08-18\n\
+ nhttps://wcp-congress.com/
+LOCATION:Stockholm\, Stockholm County\, SE\, Stockholmsmässan
+URL:https://wcp-congress.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:26th World Congress of Psychiatry (WCP 2026)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wpa-world-congress-2026-20260209-session-proposal-submission@conferen
+ ce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:Deadline: WPA WCP 2026 session proposal submission
+DESCRIPTION:Official general information page lists 9 February 2026\; one
+  aggregator lists 2 February 2026.\nMeeting: 26th World Congress of Psyc
+ hiatry (WCP 2026)\, Sep 23 to 26\, 2026\, Stockholm\, Stockholm County\,
+  SE\, Stockholmsmässan\nhttps://wcp-congress.com/general-information/
+LOCATION:Stockholm\, Stockholm County\, SE\, Stockholmsmässan
+URL:https://wcp-congress.com/general-information/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 session proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 session proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 session proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wpa-world-congress-2026-20260319-fellowship-applications@conference-c
+ alendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Deadline: WPA WCP 2026 fellowship applications
+DESCRIPTION:Meeting: 26th World Congress of Psychiatry (WCP 2026)\, Sep 2
+ 3 to 26\, 2026\, Stockholm\, Stockholm County\, SE\, Stockholmsmässan\n
+ https://wcp-congress.com/general-information/
+LOCATION:Stockholm\, Stockholm County\, SE\, Stockholmsmässan
+URL:https://wcp-congress.com/general-information/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 fellowship applications
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 fellowship applications
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 fellowship applications
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wpa-world-congress-2026-20260323-abstract-submission@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:Deadline: WPA WCP 2026 abstract submission
+DESCRIPTION:Submission now closed.\nMeeting: 26th World Congress of Psych
+ iatry (WCP 2026)\, Sep 23 to 26\, 2026\, Stockholm\, Stockholm County\, 
+ SE\, Stockholmsmässan\nhttps://wcp-congress.com/general-information/
+LOCATION:Stockholm\, Stockholm County\, SE\, Stockholmsmässan
+URL:https://wcp-congress.com/general-information/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wpa-world-congress-2026-20260602-early-registration@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:Deadline: WPA WCP 2026 early registration
+DESCRIPTION:Official page lists 2 June 2026\; one aggregator lists 1 June
+  2026.\nMeeting: 26th World Congress of Psychiatry (WCP 2026)\, Sep 23 t
+ o 26\, 2026\, Stockholm\, Stockholm County\, SE\, Stockholmsmässan\nhtt
+ ps://wcp-congress.com/general-information/
+LOCATION:Stockholm\, Stockholm County\, SE\, Stockholmsmässan
+URL:https://wcp-congress.com/general-information/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wpa-world-congress-2026-20260818-regular-registration@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Deadline: WPA WCP 2026 regular registration
+DESCRIPTION:Late registration rates apply from 19 August 2026.\nMeeting: 
+ 26th World Congress of Psychiatry (WCP 2026)\, Sep 23 to 26\, 2026\, Sto
+ ckholm\, Stockholm County\, SE\, Stockholmsmässan\nhttps://wcp-congress
+ .com/
+LOCATION:Stockholm\, Stockholm County\, SE\, Stockholmsmässan
+URL:https://wcp-congress.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 regular registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 regular registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2026 regular registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

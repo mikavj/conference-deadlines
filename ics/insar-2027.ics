@@ -1,0 +1,97 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:INSAR 2027 Annual Meeting (International Society for Autism 
+ Research)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:insar-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270522
+SUMMARY:INSAR 2027 Annual Meeting (International Society for Autism Resea
+ rch)
+DESCRIPTION:The INSAR 2027 Annual Meeting is planned for May 18 to 21\, 2
+ 027 in Cape Town\, the first INSAR meeting on the African continent. Acc
+ epted panels\, oral presentations and posters must be presented in perso
+ n and there is no late breaking abstract round.\n\nDeadlines\nAbstract s
+ ubmission: 2026-10-16\nConflict of interest disclosure by all authors: 2
+ 026-11-12\nAbstract notifications: 2027-01-28\n\nhttps://insar.confex.co
+ m/insar/2027/cfp.cgi
+LOCATION:Cape Town\, Western Cape\, ZA\, Cape Town International Conventi
+ on Centre (CTICC)
+URL:https://insar.confex.com/insar/2027/cfp.cgi
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:INSAR 2027 Annual Meeting (International Society for Autism R
+ esearch)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:insar-2027-20261016-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Deadline: INSAR 2027 abstract submission
+DESCRIPTION:11:59 PM Pacific Time\; panels\, posters and oral presentatio
+ ns\nMeeting: INSAR 2027 Annual Meeting (International Society for Autism
+  Research)\, May 18 to 21\, 2027\, Cape Town\, Western Cape\, ZA\, Cape 
+ Town International Convention Centre (CTICC)\nhttps://insar.confex.com/i
+ nsar/2027/cfp.cgi
+LOCATION:Cape Town\, Western Cape\, ZA\, Cape Town International Conventi
+ on Centre (CTICC)
+URL:https://insar.confex.com/insar/2027/cfp.cgi
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INSAR 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INSAR 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INSAR 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:insar-2027-20261112-conflict-of-interest-disclosure-by-all-authors@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Deadline: INSAR 2027 conflict of interest disclosure by all autho
+ rs
+DESCRIPTION:11:59 PM Pacific Time\nMeeting: INSAR 2027 Annual Meeting (In
+ ternational Society for Autism Research)\, May 18 to 21\, 2027\, Cape To
+ wn\, Western Cape\, ZA\, Cape Town International Convention Centre (CTIC
+ C)\nhttps://insar.confex.com/insar/2027/cfp.cgi
+LOCATION:Cape Town\, Western Cape\, ZA\, Cape Town International Conventi
+ on Centre (CTICC)
+URL:https://insar.confex.com/insar/2027/cfp.cgi
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INSAR 2027 conflict of interest disclosure by all a
+ uthors
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INSAR 2027 conflict of interest disclosure by all a
+ uthors
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INSAR 2027 conflict of interest disclosure by all a
+ uthors
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,71 @@
+[
+ {
+  "id": "sgim-annual-meeting-2027",
+  "name": "2027 SGIM Annual Meeting",
+  "short_name": "SGIM 2027",
+  "organizer": "Society of General Internal Medicine",
+  "organizer_url": "https://www.sgim.org",
+  "edition_url": "https://annualmeeting.sgim.org/",
+  "areas": [
+   "internal-medicine"
+  ],
+  "tags": [
+   "primary-care",
+   "health-services",
+   "student-resident-research"
+  ],
+  "start_date": "2027-05-05",
+  "end_date": "2027-05-08",
+  "city": "Seattle",
+  "region_name": "Washington",
+  "country": "US",
+  "venue": null,
+  "lat": 47.6062,
+  "lon": -122.3321,
+  "format": "in-person",
+  "description": "The 2027 SGIM Annual Meeting is the yearly scientific conference of the Society of General Internal Medicine, held in Seattle, Washington. The 2027 edition marks the fiftieth anniversary of the society and includes scientific abstract sessions, special symposia, and workshops on general internal medicine research, education, and clinical care.",
+  "deadlines": [
+   {
+    "label": "Special symposia submission opens",
+    "date": "2026-07-14",
+    "url": "https://annualmeeting.sgim.org/present/special-symposia/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Special symposia submission",
+    "date": "2026-08-04",
+    "url": "https://annualmeeting.sgim.org/present/special-symposia/",
+    "estimated": false,
+    "note": "submitted through sgim27.abstractcentral.com"
+   },
+   {
+    "label": "Scientific abstract submission",
+    "date": "2026-12-11",
+    "url": "https://annualmeeting.sgim.org/present/scientific-abstracts/",
+    "estimated": false,
+    "note": "date reported by a third party citing the SGIM portal; the SGIM page itself could not be fetched directly, confirm before relying on it"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.sgim.org/event/2027-sgim-annual-meeting/",
+    "accessed": "2026-09-10",
+    "note": "confirms dates May 5-8 2027 and Seattle location, 50th anniversary"
+   },
+   {
+    "url": "https://annualmeeting.sgim.org/present/special-symposia/",
+    "accessed": "2026-09-10",
+    "note": "special symposia submission window July 14 to August 4 2026, from search results"
+   },
+   {
+    "url": "https://rigormd.com/meetings/sgim-2027",
+    "accessed": "2026-09-10",
+    "note": "secondary aggregator reporting scientific abstract deadline December 11 2026; direct fetch of annualmeeting.sgim.org/present/scientific-abstracts/ returned HTTP 404"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Venue not yet specified on official pages as of access date. Scientific abstract deadline sourced from a secondary aggregator because the official scientific-abstracts page returned HTTP 404 on direct fetch; verify directly before relying on it."
+ }
+]

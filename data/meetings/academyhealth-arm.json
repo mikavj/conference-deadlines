@@ -1,0 +1,53 @@
+[
+ {
+  "id": "academyhealth-arm-2027",
+  "name": "AcademyHealth Annual Research Meeting 2027",
+  "short_name": "AcademyHealth ARM 2027",
+  "organizer": "AcademyHealth",
+  "organizer_url": "https://academyhealth.org",
+  "edition_url": "https://academyhealth.org/ARM2026",
+  "areas": [
+   "health-services"
+  ],
+  "tags": [
+   "health-services",
+   "health-economics"
+  ],
+  "start_date": "2027-06-12",
+  "end_date": "2027-06-15",
+  "city": "Boston",
+  "region_name": "Massachusetts",
+  "country": "US",
+  "venue": "Hynes Convention Center",
+  "lat": 42.3467,
+  "lon": -71.085,
+  "format": "in-person",
+  "description": "AcademyHealth holds its 2027 Annual Research Meeting in Boston, Massachusetts at the Hynes Convention Center. The meeting convenes health services researchers and health policy analysts.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-30",
+   "end_date": "2026-06-02",
+   "city": "Seattle",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-01-06"
+    },
+    {
+     "label": "Late breaking abstract submission",
+     "date": "2026-03-11"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://academyhealth.org/ARM2026",
+    "accessed": "2026-09-10",
+    "note": "Page lists both the concluded 2026 Seattle meeting and the announced 2027 Boston dates and venue"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The 2026 ARM (Seattle) concluded before today; no abstract submission deadline has yet been published for the 2027 Boston meeting."
+ }
+]

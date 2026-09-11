@@ -1,0 +1,66 @@
+[
+ {
+  "id": "sabcs-2026",
+  "name": "2026 San Antonio Breast Cancer Symposium",
+  "short_name": "SABCS 2026",
+  "organizer": "UT Health San Antonio MD Anderson Cancer Center, American Association for Cancer Research, and Baylor College of Medicine",
+  "organizer_url": "https://www.sabcs.org",
+  "edition_url": "https://www.sabcs.org",
+  "areas": [
+   "oncology"
+  ],
+  "tags": [
+   "breast-cancer",
+   "cancer-research",
+   "clinical-trials"
+  ],
+  "start_date": "2026-12-08",
+  "end_date": "2026-12-11",
+  "city": "San Antonio",
+  "region_name": "Texas",
+  "country": "US",
+  "venue": null,
+  "lat": 29.4241,
+  "lon": -98.4936,
+  "format": null,
+  "description": "The San Antonio Breast Cancer Symposium is an annual meeting focused on breast cancer research, prevention, and treatment, co-sponsored by UT Health San Antonio, the American Association for Cancer Research, and Baylor College of Medicine. The 2026 symposium is held in San Antonio, Texas.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-07-13",
+    "url": "https://www.sabcs.org/Abstracts",
+    "estimated": false,
+    "note": "11:59 p.m. Central time"
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-09-30",
+    "url": "https://www.sabcs.org/Abstracts",
+    "estimated": false,
+    "note": "Submission window opens Sept 1, 2026 and closes 11:59 p.m. Central time; also serves as an editing window for earlier submissions"
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-09-25",
+    "url": "https://www.sabcs.org/Registration",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.sabcs.org",
+    "accessed": "2026-09-10",
+    "note": "confirms meeting dates Dec 8 to 11 2026, San Antonio location, and early registration deadline of Sept 25"
+   },
+   {
+    "url": "https://www.sabcs.org/Abstracts",
+    "accessed": "2026-09-10",
+    "note": "confirms regular abstract deadline July 13 2026 and late-breaking window Sept 1 to 30 2026"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Venue was not stated on the fetched pages, so it is left null rather than assumed. No SABCS 2027 dates were found published as of 2026-09-10."
+ }
+]

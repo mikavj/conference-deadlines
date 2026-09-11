@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ISPOR 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ispor-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270527
+SUMMARY:ISPOR 2027
+DESCRIPTION:ISPOR\, the professional society for health economics and out
+ comes research\, holds its 2027 annual conference in Denver\, Colorado. 
+ All presenting authors are required to present in person.\n\nDeadlines\n
+ Workshop and Issue Panel submission opens: 2026-10-02\nWorkshop and Issu
+ e Panel submission: 2026-12-11\nResearch abstract submission opens: 2026
+ -10-30\nResearch abstract submission: 2027-01-08\n\nhttps://www.ispor.or
+ g/conferences-education/upcoming-conferences/ispor-2027
+LOCATION:Denver\, Colorado
+URL:https://www.ispor.org/conferences-education/upcoming-conferences/ispo
+ r-2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISPOR 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ispor-2027-20261211-workshop-and-issue-panel-submission@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Deadline: ISPOR 2027 workshop and issue panel submission
+DESCRIPTION:Meeting: ISPOR 2027\, May 23 to 26\, 2027\, Denver\, Colorado
+ \nhttps://www.ispor.org/conferences-education/upcoming-conferences/abstr
+ act-information
+LOCATION:Denver\, Colorado
+URL:https://www.ispor.org/conferences-education/upcoming-conferences/abst
+ ract-information
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISPOR 2027 workshop and issue panel submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISPOR 2027 workshop and issue panel submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISPOR 2027 workshop and issue panel submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ispor-2027-20270108-research-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Deadline: ISPOR 2027 research abstract submission
+DESCRIPTION:Meeting: ISPOR 2027\, May 23 to 26\, 2027\, Denver\, Colorado
+ \nhttps://www.ispor.org/conferences-education/upcoming-conferences/abstr
+ act-information
+LOCATION:Denver\, Colorado
+URL:https://www.ispor.org/conferences-education/upcoming-conferences/abst
+ ract-information
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISPOR 2027 research abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISPOR 2027 research abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISPOR 2027 research abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

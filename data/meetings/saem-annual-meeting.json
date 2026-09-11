@@ -1,0 +1,60 @@
+[
+ {
+  "id": "saem-annual-meeting-2027",
+  "name": "SAEM27 Annual Meeting",
+  "short_name": "SAEM27",
+  "organizer": "Society for Academic Emergency Medicine",
+  "organizer_url": "https://www.saem.org",
+  "edition_url": "https://www.saem.org/meetings-and-events/annual-meeting",
+  "areas": [
+   "emergency-medicine"
+  ],
+  "tags": [
+   "emergency-medicine",
+   "student-resident-research"
+  ],
+  "start_date": "2027-05-18",
+  "end_date": "2027-05-21",
+  "city": "San Francisco",
+  "region_name": "California",
+  "country": "US",
+  "venue": "San Francisco Marriott Marquis",
+  "lat": 37.7846,
+  "lon": -122.4034,
+  "format": null,
+  "description": "The SAEM Annual Meeting is the Society for Academic Emergency Medicine's annual conference on emergency medicine research and education. The 2027 meeting is scheduled for the San Francisco Marriott Marquis.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-11-02",
+    "url": "https://www.saem.org/meetings-and-events/annual-meeting/annual-meeting-navigation/education/submission-deadlines",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2027-01-05",
+    "url": "https://www.saem.org/meetings-and-events/annual-meeting/annual-meeting-navigation/education/submission-deadlines",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Presenter disclosure and bio deadline",
+    "date": "2027-04-01",
+    "url": "https://www.saem.org/meetings-and-events/annual-meeting/annual-meeting-navigation/education/submission-deadlines",
+    "estimated": false,
+    "note": "Presenters with undisclosed relevant financial relationships cannot be added to sessions after this date"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.saem.org/meetings-and-events/annual-meeting/annual-meeting-navigation/education/submission-deadlines",
+    "accessed": "2026-09-10",
+    "note": "Official SAEM27 submission deadline calendar"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

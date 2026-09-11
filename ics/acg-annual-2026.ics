@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACG 2026 Annual Scientific Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acg-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261015
+SUMMARY:ACG 2026 Annual Scientific Meeting
+DESCRIPTION:The ACG Annual Scientific Meeting is the American College of 
+ Gastroenterology's flagship clinical meeting on gastroenterology and hep
+ atology. The 2026 meeting is held in Nashville\, Tennessee\, with on dem
+ and virtual access available afterward.\n\nDeadlines\nAbstract submissio
+ n: 2026-06-01\n\nhttps://acgmeetings.gi.org/
+LOCATION:Nashville\, Tennessee\, Music City Center
+URL:https://acgmeetings.gi.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACG 2026 Annual Scientific Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acg-annual-2026-20260601-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Deadline: ACG 2026 abstract submission
+DESCRIPTION:11:59 p.m. Eastern time\nMeeting: ACG 2026 Annual Scientific 
+ Meeting\, Oct 09 to 14\, 2026\, Nashville\, Tennessee\, Music City Cente
+ r\nhttps://acgmeetings.gi.org/abstracts/
+LOCATION:Nashville\, Tennessee\, Music City Center
+URL:https://acgmeetings.gi.org/abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACG 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACG 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACG 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

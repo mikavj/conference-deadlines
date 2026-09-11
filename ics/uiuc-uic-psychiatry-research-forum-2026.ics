@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UIC Department of Psychiatry 17th Annual Research Forum (Ext
+ ravaganza) 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uiuc-uic-psychiatry-research-forum-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:UIC Department of Psychiatry 17th Annual Research Forum (Extravag
+ anza) 2026
+DESCRIPTION:The Department of Psychiatry's annual Research Forum\, known 
+ informally as the Extravaganza\, is a Grand Rounds poster session in whi
+ ch department faculty\, residents\, fellows and students present psychia
+ tric research for a competitive poster award. The 17th annual edition is
+  scheduled for October 7\, 2026\, with abstract submissions opening Sept
+ ember 2\, 2026.\n\nDeadlines\nAbstract submission opens: 2026-09-02\nAbs
+ tract submission deadline: 2026-09-30\n\nhttps://www.psych.uic.edu/extra
+ vaganza
+LOCATION:Chicago\, Illinois\, COMRB Moss Auditorium\, 909 S. Wolcott Ave\
+ , Chicago\, IL
+URL:https://www.psych.uic.edu/extravaganza
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:UIC Department of Psychiatry 17th Annual Research Forum (Extr
+ avaganza) 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-uic-psychiatry-research-forum-2026-20260930-abstract-submission-
+ deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: UIC Psychiatry Extravaganza 2026 abstract submission de
+ adline
+DESCRIPTION:A separate poster session subpage lists a September 1 to Octo
+ ber 15 window that may reflect a different year\; verify directly before
+  relying on this date.\nMeeting: UIC Department of Psychiatry 17th Annua
+ l Research Forum (Extravaganza) 2026\, Oct 7\, 2026\, Chicago\, Illinois
+ \, COMRB Moss Auditorium\, 909 S. Wolcott Ave\, Chicago\, IL\nhttps://ww
+ w.psych.uic.edu/extravaganza
+LOCATION:Chicago\, Illinois\, COMRB Moss Auditorium\, 909 S. Wolcott Ave\
+ , Chicago\, IL
+URL:https://www.psych.uic.edu/extravaganza
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC Psychiatry Extravaganza 2026 abstract submissio
+ n deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC Psychiatry Extravaganza 2026 abstract submissio
+ n deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC Psychiatry Extravaganza 2026 abstract submissio
+ n deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

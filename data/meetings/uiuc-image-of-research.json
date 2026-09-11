@@ -1,0 +1,60 @@
+[
+ {
+  "id": "uiuc-image-of-research-2027",
+  "name": "Graduate College Image of Research Competition 2027",
+  "short_name": "Image of Research 2027",
+  "organizer": "Graduate College, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://grad.illinois.edu",
+  "edition_url": "https://publish.illinois.edu/imageofresearch/requirements-and-deadlines",
+  "areas": [
+   "medical-education"
+  ],
+  "tags": [
+   "uiuc",
+   "education",
+   "student-resident-research",
+   "illinois"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Urbana",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": null,
+  "lat": 40.102,
+  "lon": -88.2272,
+  "format": "hybrid",
+  "description": "Image of Research is a Graduate College competition in which Illinois graduate students, including those in health science fields, submit an image and a short narrative connecting visual art to their research, judged by a jury and a public People's Choice vote with an exhibition of finalists. For the 2026 competition, People's Choice voting closed April 10, 2026 and winners were announced April 13, 2026; the submission window for 2026, and any 2027 dates, were not published on the pages retrieved as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": null,
+   "end_date": "2026-04-13",
+   "city": "Urbana",
+   "deadlines": [
+    {
+     "label": "Voting closes (People's Choice)",
+     "date": "2026-04-10"
+    },
+    {
+     "label": "Winners announced",
+     "date": "2026-04-13"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://publish.illinois.edu/imageofresearch/requirements-and-deadlines",
+    "accessed": "2026-09-10",
+    "note": "lists submission requirements; states 2026 submission period is closed but does not give the closed dates"
+   },
+   {
+    "url": "https://grad.illinois.edu/news/congratulations-2026-image-research-finalists",
+    "accessed": "2026-09-10",
+    "note": "confirms 2026 voting closed April 10 and winners announced April 13"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Submission-opening and submission-deadline dates for the graduate competition itself were not found on the pages retrieved, only the voting and announcement dates for the 2026 cycle. A separate undergraduate Image of Research competition also exists at the same site."
+ }
+]

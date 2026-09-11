@@ -1,0 +1,108 @@
+[
+ {
+  "id": "apha-annual-2026",
+  "name": "APHA Annual Meeting and Expo 2026",
+  "short_name": "APHA 2026",
+  "organizer": "American Public Health Association",
+  "organizer_url": "https://www.apha.org",
+  "edition_url": "https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-meeting-and-expo",
+  "areas": [
+   "public-health"
+  ],
+  "tags": [
+   "public-health",
+   "epidemiology",
+   "community"
+  ],
+  "start_date": "2026-11-01",
+  "end_date": "2026-11-04",
+  "city": "San Antonio",
+  "region_name": "Texas",
+  "country": "US",
+  "venue": "Henry B. Gonzalez Convention Center",
+  "lat": 29.4247,
+  "lon": -98.4894,
+  "format": "in-person",
+  "description": "The American Public Health Association holds its 2026 Annual Meeting and Expo in San Antonio, Texas. The meeting brings together public health professionals to present research and network across all areas of public health practice.",
+  "deadlines": [
+   {
+    "label": "Early registration",
+    "date": "2026-07-14",
+    "url": "https://www.apha.org/events-and-meetings/annual/registration-information",
+    "estimated": false,
+    "note": "Early registration window opens June 2, 2026 and closes July 14, 2026"
+   },
+   {
+    "label": "Advance registration",
+    "date": "2026-09-15",
+    "url": "https://www.apha.org/events-and-meetings/annual/registration-information",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late registration",
+    "date": "2026-10-29",
+    "url": "https://www.apha.org/events-and-meetings/annual/registration-information",
+    "estimated": false,
+    "note": "Onsite rates apply October 30 through November 4"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-meeting-and-expo",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates and San Antonio location"
+   },
+   {
+    "url": "https://www.apha.org/events-and-meetings/annual/registration-information",
+    "accessed": "2026-09-10",
+    "note": "Confirms venue and registration deadline tiers"
+   },
+   {
+    "url": "https://www.apha.org/events-and-meetings/annual/presenters/late-breakers-reviewers-and-moderators",
+    "accessed": "2026-09-10",
+    "note": "Confirms late breaker abstract tracks remain open with section specific deadlines, no single centralized date"
+   }
+  ],
+  "confidence": "high",
+  "notes": "General call for abstracts has already closed for 2026 (notifications sent June 2, 2026); late breaker submissions remain open per section with no centralized deadline published."
+ },
+ {
+  "id": "apha-annual-2027",
+  "name": "APHA Annual Meeting and Expo 2027",
+  "short_name": "APHA 2027",
+  "organizer": "American Public Health Association",
+  "organizer_url": "https://www.apha.org",
+  "edition_url": "https://www.apha.org/events-and-meetings/annual/about/past-and-future-annual-meetings",
+  "areas": [
+   "public-health"
+  ],
+  "tags": [
+   "public-health",
+   "epidemiology",
+   "community"
+  ],
+  "start_date": "2027-11-07",
+  "end_date": "2027-11-10",
+  "city": "Philadelphia",
+  "region_name": "Pennsylvania",
+  "country": "US",
+  "venue": null,
+  "lat": 39.9526,
+  "lon": -75.1652,
+  "format": "in-person",
+  "description": "The American Public Health Association plans its 2027 Annual Meeting and Expo for Philadelphia, Pennsylvania. The organization notes that future meeting dates and locations may change.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.apha.org/events-and-meetings/annual/about/past-and-future-annual-meetings",
+    "accessed": "2026-09-10",
+    "note": "Lists Nov 7 to 10, 2027 in Philadelphia, PA, with a note that dates may be subject to change"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "No abstract or registration deadlines are published yet for 2027, and the organizer flags these future dates as subject to change."
+ }
+]

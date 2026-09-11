@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society for Research in Psychopathology 2026 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:srp-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261012
+SUMMARY:Society for Research in Psychopathology 2026 Annual Meeting
+DESCRIPTION:The SRP 2026 Annual Meeting runs October 8 to 11\, 2026\, at 
+ the Hyatt Regency Columbus in Columbus\, Ohio. Abstract submission\, whi
+ ch requires SRP membership\, closed April 20\, 2026\; registration is op
+ en.\n\nDeadlines\nAbstract submission: 2026-04-20\nEarly bird registrati
+ on: 2026-08-23\n\nhttps://psychopathology.org/annual-meeting-2/
+LOCATION:Columbus\, Ohio\, Hyatt Regency Columbus
+URL:https://psychopathology.org/annual-meeting-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society for Research in Psychopathology 2026 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:srp-annual-2026-20260420-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:Deadline: SRP 2026 abstract submission
+DESCRIPTION:5:00 pm Eastern\; SRP membership required\; closed\nMeeting: 
+ Society for Research in Psychopathology 2026 Annual Meeting\, Oct 08 to 
+ 11\, 2026\, Columbus\, Ohio\, Hyatt Regency Columbus\nhttps://psychopath
+ ology.org/annual-meeting-2/
+LOCATION:Columbus\, Ohio\, Hyatt Regency Columbus
+URL:https://psychopathology.org/annual-meeting-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRP 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRP 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRP 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:srp-annual-2026-20260823-early-bird-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Deadline: SRP 2026 early bird registration
+DESCRIPTION:date from the society's X account via search\; the society pa
+ ge gives the window as June to August\nMeeting: Society for Research in 
+ Psychopathology 2026 Annual Meeting\, Oct 08 to 11\, 2026\, Columbus\, O
+ hio\, Hyatt Regency Columbus\nhttps://x.com/srp_science
+LOCATION:Columbus\, Ohio\, Hyatt Regency Columbus
+URL:https://x.com/srp_science
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRP 2026 early bird registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRP 2026 early bird registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRP 2026 early bird registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

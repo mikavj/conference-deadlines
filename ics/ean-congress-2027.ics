@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:13th Congress of the European Academy of Neurology
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ean-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270616
+SUMMARY:13th Congress of the European Academy of Neurology
+DESCRIPTION:The European Academy of Neurology holds its 2027 congress at 
+ Gothia Towers in Gothenburg\, Sweden\, from 12 to 15 June 2027. The cong
+ ress theme is Transforming Neurology\, Embracing Every Brain\, and the p
+ rogram spans general and subspecialty neurology.\n\nDeadlines\nAbstract 
+ submission: 2027-01-14\nEarly registration: 2027-04-14\n\nhttps://www.ea
+ n.org/congress2027
+LOCATION:Gothenburg\, Vastra Gotaland County\, SE\, Gothia Towers
+URL:https://www.ean.org/congress2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:13th Congress of the European Academy of Neurology
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ean-congress-2027-20270114-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Deadline: EAN Congress 2027 abstract submission
+DESCRIPTION:Meeting: 13th Congress of the European Academy of Neurology\,
+  Jun 12 to 15\, 2027\, Gothenburg\, Vastra Gotaland County\, SE\, Gothia
+  Towers\nhttps://www.ean.org/congress2027
+LOCATION:Gothenburg\, Vastra Gotaland County\, SE\, Gothia Towers
+URL:https://www.ean.org/congress2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ean-congress-2027-20270414-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Deadline: EAN Congress 2027 early registration
+DESCRIPTION:Meeting: 13th Congress of the European Academy of Neurology\,
+  Jun 12 to 15\, 2027\, Gothenburg\, Vastra Gotaland County\, SE\, Gothia
+  Towers\nhttps://www.ean.org/congress2027
+LOCATION:Gothenburg\, Vastra Gotaland County\, SE\, Gothia Towers
+URL:https://www.ean.org/congress2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EAN Congress 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

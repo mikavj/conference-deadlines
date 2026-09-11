@@ -1,0 +1,56 @@
+[
+ {
+  "id": "wasp-world-congress-2028",
+  "name": "26th World Congress of Social Psychiatry 2028",
+  "short_name": "WASP 2028",
+  "organizer": "World Association of Social Psychiatry",
+  "organizer_url": "https://waspsocialpsychiatry.org/",
+  "edition_url": "https://waspsocialpsychiatry.org/upcoming-events/",
+  "tags": [
+   "community",
+   "cultural",
+   "international",
+   "global"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "New Delhi",
+  "country": "IN",
+  "venue": null,
+  "lat": 28.6139,
+  "lon": 77.209,
+  "format": null,
+  "description": "The World Association of Social Psychiatry holds its world congress every three years. The 25th congress took place in Marrakesh in January 2026 and the association has stated that the next world congress will be held in New Delhi in late 2028; dates are not yet published.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-01-15",
+   "end_date": "2026-01-17",
+   "city": "Marrakesh",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://waspsocialpsychiatry.org/25th-world-congress-of-social-psychiatry-marrakech-morocco/",
+    "accessed": "2026-09-09",
+    "note": "25th congress, 15 to 17 January 2026, Faculty of Medicine and Pharmacy, Marrakesh."
+   },
+   {
+    "url": "https://waspsocialpsychiatry.org/upcoming-events/",
+    "accessed": "2026-09-09",
+    "note": "Together Against Stigma conference, New Delhi, 12 to 14 November 2026, and a 2028 New Delhi event."
+   },
+   {
+    "url": "https://waspsocialpsychiatry.org/tag/congress/",
+    "accessed": "2026-09-09",
+    "note": "Statement that the next world congress will be held in New Delhi in late 2028."
+   }
+  ],
+  "confidence": "low",
+  "notes": "The New Delhi Together Against Stigma conference (12 to 14 November 2026) is a WASP linked event but not the world congress.",
+  "region_name": "Delhi",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

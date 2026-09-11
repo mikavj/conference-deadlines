@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASENT 2027 Annual Meeting and Clinical Trials Course
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:asent-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270320
+SUMMARY:ASENT 2027 Annual Meeting and Clinical Trials Course
+DESCRIPTION:Annual meeting of the American Society for Experimental Neuro
+ Therapeutics on drug and device development for nervous system disorders
+ \, preceded by a Clinical Trials Course on March 15 to 16\, 2027.\n\nDea
+ dlines\nAbstract submission: 2026-09-07\n\nhttps://www.asent.org/event-6
+ 832053
+LOCATION:Bethesda\, Maryland\, Hyatt Regency Bethesda
+URL:https://www.asent.org/event-6832053
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASENT 2027 Annual Meeting and Clinical Trials Course
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asent-annual-2027-20260907-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Deadline: ASENT 2027 abstract submission
+DESCRIPTION:date found only on the ASENT homepage listing\; not independe
+ ntly confirmed on the abstract guidelines page itself\nMeeting: ASENT 20
+ 27 Annual Meeting and Clinical Trials Course\, Mar 17 to 19\, 2027\, Bet
+ hesda\, Maryland\, Hyatt Regency Bethesda\nhttps://www.asent.org/Abstrac
+ t-Guidelines
+LOCATION:Bethesda\, Maryland\, Hyatt Regency Bethesda
+URL:https://www.asent.org/Abstract-Guidelines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASENT 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASENT 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASENT 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

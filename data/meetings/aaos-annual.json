@@ -1,0 +1,70 @@
+[
+ {
+  "id": "aaos-annual-2027",
+  "name": "AAOS 2027 Annual Meeting",
+  "short_name": "AAOS 2027",
+  "organizer": "American Academy of Orthopaedic Surgeons",
+  "organizer_url": "https://www.aaos.org/",
+  "edition_url": "https://www.aaos.org/annual/",
+  "areas": [
+   "orthopedics"
+  ],
+  "tags": [
+   "orthopedics",
+   "surgery"
+  ],
+  "start_date": "2027-03-03",
+  "end_date": "2027-03-06",
+  "city": "Las Vegas",
+  "region_name": "Nevada",
+  "country": "US",
+  "venue": "Venetian Convention and Expo Center",
+  "lat": 36.1212,
+  "lon": -115.1693,
+  "format": "in-person",
+  "description": "The AAOS Annual Meeting is the flagship educational and networking meeting of the American Academy of Orthopaedic Surgeons for orthopedic surgeons. The 2027 edition takes place at the Venetian Convention and Expo Center in Las Vegas, Nevada.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-06-01",
+    "url": "https://www.aaos.org/callforabstracts",
+    "estimated": false,
+    "note": "5:00 PM Central Time. Already closed as of today. Confirmed via search engine snippet; direct fetch of aaos.org pages failed with a header overflow error."
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-12-06",
+    "url": "https://www.aaos.org/annual/attend/registration/",
+    "estimated": false,
+    "note": "Early Bird registration pricing ends this date. Maritz is the official registration provider."
+   },
+   {
+    "label": "Advance registration and cancellation deadline",
+    "date": "2027-01-24",
+    "url": "https://www.aaos.org/annual/attend/registration/",
+    "estimated": false,
+    "note": "Advance registration pricing ends and this is also the registration cancellation deadline."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aaos.org/annual/attend/future-meetings/",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 meeting dates (March 3-6) and venue (Venetian Convention and Expo Center, Las Vegas); direct fetch failed with a header overflow error, content confirmed via search snippet."
+   },
+   {
+    "url": "https://www.aaos.org/callforabstracts",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract submission is closed for 2027 and that 2028 applications open April 1, 2027; also source for the June 1, 2026 deadline noted in search snippets."
+   },
+   {
+    "url": "https://www.aaos.org/annual/attend/registration/",
+    "accessed": "2026-09-10",
+    "note": "Source for early bird and advance registration deadline dates."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "All aaos.org pages returned a header overflow error on direct fetch, so every date was confirmed only via search engine result snippets rather than direct page content. Multiple independent search queries returned consistent dates, but this could not be cross-checked against full page text."
+ }
+]

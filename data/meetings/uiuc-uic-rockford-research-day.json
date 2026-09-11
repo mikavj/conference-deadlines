@@ -1,0 +1,58 @@
+[
+ {
+  "id": "uiuc-uic-rockford-research-day-2027",
+  "name": "College of Medicine Rockford Research Day 2027",
+  "short_name": "UIC Rockford Research Day 2027",
+  "organizer": "University of Illinois College of Medicine Rockford",
+  "organizer_url": "https://rockford.medicine.uic.edu",
+  "edition_url": "https://rockford.medicine.uic.edu/comp-research/research-day",
+  "areas": [
+   "medical-education",
+   "health-services"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "medical-education",
+   "health-services",
+   "student-resident-research"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Rockford",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "University of Illinois College of Medicine Rockford",
+  "lat": 42.2711,
+  "lon": -89.094,
+  "format": "in-person",
+  "description": "Research Day at the University of Illinois College of Medicine Rockford showcases research from the campus and its affiliated regional institutions through keynote addresses, student led presentations, and poster sessions by students, residents, faculty, and staff. The 2027 edition had not been scheduled as of September 2026; the 31st annual 2026 edition addressed health policy research.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-10",
+   "end_date": "2026-04-10",
+   "city": "Rockford",
+   "deadlines": [
+    {
+     "label": "Abstract submission deadline",
+     "date": "2026-02-13"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://rockford.medicine.uic.edu/events/research-day-2026/",
+    "accessed": "2026-09-10",
+    "note": "31st annual Research Day 2026 held April 10, 2026, themed Evidence for Impact Driving Change Through Health Policy Research"
+   },
+   {
+    "url": "https://rockford.medicine.uic.edu/events/research-day-call-to-abstract-due-date/",
+    "accessed": "2026-09-10",
+    "note": "2026 abstract submission deadline Friday, February 13, 2026"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The 2027 date was not yet published; based on the annual April pattern it is likely to fall in April 2027 with an abstract deadline in mid February 2027, but no specific estimate is given since only one prior year's exact data point was confirmed."
+ }
+]

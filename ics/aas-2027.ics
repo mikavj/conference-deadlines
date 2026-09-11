@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAS27: American Association of Suicidology 60th Annual Confe
+ rence
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aas-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270416
+SUMMARY:AAS27: American Association of Suicidology 60th Annual Conference
+DESCRIPTION:The 60th AAS Annual Conference runs April 11 to 15\, 2027 in 
+ Dallas with preconference workshops on April 11 and 12\, the main confer
+ ence April 13 to 15 and the Healing After Suicide Loss Summit on April 1
+ 5. Formats include workshops\, paper presentations and posters.\n\nDeadl
+ ines\nSession proposal submission opens: 2026-08-07\nSession proposal su
+ bmission: 2026-10-30\nPresenter registration deadline: 2027-01-25\nPoste
+ r submission: 2027-02-01\nPoster presenter registration deadline: 2027-0
+ 2-15\n\nhttps://suicidology.org/conference/
+LOCATION:Dallas\, Texas\, Hyatt Regency Dallas
+URL:https://suicidology.org/conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAS27: American Association of Suicidology 60th Annual Confer
+ ence
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aas-2027-20261030-session-proposal-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deadline: AAS 2027 session proposal submission
+DESCRIPTION:Preconference workshops\, papers and workshops\; 11:59 PM EST
+ \nMeeting: AAS27: American Association of Suicidology 60th Annual Confer
+ ence\, Apr 11 to 15\, 2027\, Dallas\, Texas\, Hyatt Regency Dallas\nhttp
+ s://suicidology.org/aas27-session-proposals-now-open/
+LOCATION:Dallas\, Texas\, Hyatt Regency Dallas
+URL:https://suicidology.org/aas27-session-proposals-now-open/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 session proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 session proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 session proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aas-2027-20270125-presenter-registration-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:Deadline: AAS 2027 presenter registration deadline
+DESCRIPTION:Accepted general session presenters must register by this dat
+ e\nMeeting: AAS27: American Association of Suicidology 60th Annual Confe
+ rence\, Apr 11 to 15\, 2027\, Dallas\, Texas\, Hyatt Regency Dallas\nhtt
+ ps://suicidology.org/conference/
+LOCATION:Dallas\, Texas\, Hyatt Regency Dallas
+URL:https://suicidology.org/conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 presenter registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 presenter registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 presenter registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aas-2027-20270201-poster-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Deadline: AAS 2027 poster submission
+DESCRIPTION:5:00 PM EST\nMeeting: AAS27: American Association of Suicidol
+ ogy 60th Annual Conference\, Apr 11 to 15\, 2027\, Dallas\, Texas\, Hyat
+ t Regency Dallas\nhttps://suicidology.org/aas27-session-proposals-now-op
+ en/
+LOCATION:Dallas\, Texas\, Hyatt Regency Dallas
+URL:https://suicidology.org/aas27-session-proposals-now-open/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 poster submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 poster submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 poster submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aas-2027-20270215-poster-presenter-registration-deadline@conference-c
+ alendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Deadline: AAS 2027 poster presenter registration deadline
+DESCRIPTION:Meeting: AAS27: American Association of Suicidology 60th Annu
+ al Conference\, Apr 11 to 15\, 2027\, Dallas\, Texas\, Hyatt Regency Dal
+ las\nhttps://suicidology.org/conference/
+LOCATION:Dallas\, Texas\, Hyatt Regency Dallas
+URL:https://suicidology.org/conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 poster presenter registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 poster presenter registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2027 poster presenter registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

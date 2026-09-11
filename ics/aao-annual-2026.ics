@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAO 2026 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aao-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261013
+SUMMARY:AAO 2026 Annual Meeting
+DESCRIPTION:AAO 2026 is the American Academy of Ophthalmology's annual me
+ eting\, held in New Orleans\, Louisiana at the Ernest N. Morial Conventi
+ on Center from October 9 to 12\, 2026. This is the annual meeting of the
+  American Academy of Ophthalmology\, distinct from other organizations t
+ hat share the AAO abbreviation.\n\nDeadlines\nAdvance registration: 2026
+ -09-09\nMembership application deadline to register as a member: 2026-09
+ -15\nAbstract acceptance notification (published in Meeting Guide): 2026
+ -09-01\n\nhttps://www.aao.org/annual-meeting
+LOCATION:New Orleans\, Louisiana\, Ernest N. Morial Convention Center
+URL:https://www.aao.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAO 2026 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aao-annual-2026-20260909-advance-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Deadline: AAO 2026 advance registration
+DESCRIPTION:Advance pricing fee deadline\; fees increase starting Septemb
+ er 10\, 2026. This date has already passed as of the 2026-09-10 research
+  date\nMeeting: AAO 2026 Annual Meeting\, Oct 09 to 12\, 2026\, New Orle
+ ans\, Louisiana\, Ernest N. Morial Convention Center\nhttps://www.aao.or
+ g/annual-meeting
+LOCATION:New Orleans\, Louisiana\, Ernest N. Morial Convention Center
+URL:https://www.aao.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2026 advance registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2026 advance registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2026 advance registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aao-annual-2026-20260915-membership-application-deadline-to-register-
+ as-a-member@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Deadline: AAO 2026 membership application deadline to register as
+  a member
+DESCRIPTION:Meeting: AAO 2026 Annual Meeting\, Oct 09 to 12\, 2026\, New 
+ Orleans\, Louisiana\, Ernest N. Morial Convention Center\nhttps://www.aa
+ o.org/annual-meeting/presenter/dates
+LOCATION:New Orleans\, Louisiana\, Ernest N. Morial Convention Center
+URL:https://www.aao.org/annual-meeting/presenter/dates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2026 membership application deadline to registe
+ r as a member
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2026 membership application deadline to registe
+ r as a member
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2026 membership application deadline to registe
+ r as a member
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,200 @@
+[
+ {
+  "id": "abct-2026",
+  "name": "ABCT 60th Annual Convention 2026",
+  "short_name": "ABCT 2026",
+  "organizer": "Association for Behavioral and Cognitive Therapies",
+  "organizer_url": "https://www.abct.org/",
+  "edition_url": "https://www.abct.org/2026-convention/",
+  "tags": [
+   "psychotherapy",
+   "behavioral",
+   "psychology"
+  ],
+  "start_date": "2026-11-12",
+  "end_date": "2026-11-15",
+  "city": "Baltimore",
+  "country": "US",
+  "venue": "Hilton Baltimore Inner Harbor and Baltimore Convention Center",
+  "lat": 39.2857,
+  "lon": -76.6161,
+  "format": "in-person",
+  "description": "The 60th ABCT Annual Convention takes place in Baltimore under the theme Integrating Compassion and Science. The program includes symposia, panels, clinical round tables, workshops, poster sessions and invited addresses.",
+  "deadlines": [
+   {
+    "label": "Ticketed session submission opens",
+    "date": "2026-01-02",
+    "url": "https://www.abct.org/convention-ce/call-for-papers-ticketed-sessions/",
+    "estimated": false,
+    "note": "Workshops, mini workshops, institutes and other continuing education ticketed sessions"
+   },
+   {
+    "label": "Ticketed session submission",
+    "date": "2026-02-06",
+    "url": "https://www.abct.org/convention-ce/call-for-papers-ticketed-sessions/",
+    "estimated": false,
+    "note": "Stated as February 6, 2026 at 3:00 AM EST"
+   },
+   {
+    "label": "General session submission opens",
+    "date": "2026-02-09",
+    "url": "https://www.abct.org/convention-ce/call-for-papers/",
+    "estimated": false,
+    "note": "Symposia, panels, clinical round tables, posters and other general sessions"
+   },
+   {
+    "label": "General session submission",
+    "date": "2026-03-13",
+    "url": "https://www.abct.org/convention-ce/call-for-papers/",
+    "estimated": false,
+    "note": "Stated as Friday, March 13, 2026, 11:59 pm PDT"
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-10-16",
+    "url": "https://www.abct.org/2026-convention/registration/",
+    "estimated": false,
+    "note": "Early bird pricing applies to registrations made before October 16, 2026"
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-11-20",
+   "end_date": "2025-11-23",
+   "city": "New Orleans",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.abct.org/2026-convention/",
+    "accessed": "2026-09-09",
+    "note": "Dates, venue, city, theme"
+   },
+   {
+    "url": "https://www.abct.org/convention-ce/annual-conventions/",
+    "accessed": "2026-09-09",
+    "note": "List of past and future conventions with dates and cities"
+   },
+   {
+    "url": "https://www.abct.org/convention-ce/call-for-papers/",
+    "accessed": "2026-09-09",
+    "note": "General session portal opening and deadline"
+   },
+   {
+    "url": "https://www.abct.org/convention-ce/call-for-papers-ticketed-sessions/",
+    "accessed": "2026-09-09",
+    "note": "Ticketed session site opening and deadline"
+   },
+   {
+    "url": "https://www.abct.org/2026-convention/registration/",
+    "accessed": "2026-09-09",
+    "note": "Early bird pricing cutoff and on site registration hours"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Submission deadlines have passed. No late breaking poster call was found on the ABCT site for 2026.",
+  "region_name": "Maryland",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "abct-2027",
+  "name": "ABCT 61st Annual Convention 2027",
+  "short_name": "ABCT 2027",
+  "organizer": "Association for Behavioral and Cognitive Therapies",
+  "organizer_url": "https://www.abct.org/",
+  "edition_url": "https://www.abct.org/convention-ce/annual-conventions/",
+  "tags": [
+   "psychotherapy",
+   "behavioral",
+   "psychology"
+  ],
+  "start_date": "2027-11-18",
+  "end_date": "2027-11-21",
+  "city": "New Orleans",
+  "country": "US",
+  "venue": null,
+  "lat": 29.9511,
+  "lon": -90.0715,
+  "format": null,
+  "description": "The 61st ABCT Annual Convention is scheduled for New Orleans in November 2027. ABCT lists the dates and city on its annual conventions page; the venue, theme and call for papers have not been published.",
+  "deadlines": [
+   {
+    "label": "Ticketed session submission",
+    "date": "2027-02-05",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (site opened January 2, deadline February 6, 2026); not yet published for 2027"
+   },
+   {
+    "label": "General session submission opens",
+    "date": "2027-02-08",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (portal opened February 9, 2026); not yet published for 2027"
+   },
+   {
+    "label": "General session submission",
+    "date": "2027-03-12",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (deadline March 13, 2026); not yet published for 2027"
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-10-15",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (early bird before October 16, 2026); not yet published for 2027"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-11-12",
+   "end_date": "2026-11-15",
+   "city": "Baltimore",
+   "deadlines": [
+    {
+     "label": "Ticketed session submission",
+     "date": "2026-02-06"
+    },
+    {
+     "label": "General session submission opens",
+     "date": "2026-02-09"
+    },
+    {
+     "label": "General session submission",
+     "date": "2026-03-13"
+    },
+    {
+     "label": "Early registration",
+     "date": "2026-10-16"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.abct.org/convention-ce/annual-conventions/",
+    "accessed": "2026-09-09",
+    "note": "2027 convention listed as November 18 to 21, New Orleans, LA"
+   },
+   {
+    "url": "https://www.abct.org/convention-ce/call-for-papers/",
+    "accessed": "2026-09-09",
+    "note": "2026 general session deadlines used for the estimate"
+   },
+   {
+    "url": "https://www.abct.org/convention-ce/call-for-papers-ticketed-sessions/",
+    "accessed": "2026-09-09",
+    "note": "2026 ticketed session deadlines used for the estimate"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Only dates and city are published. ABCT also lists 2028 (November 16 to 19, National Harbor, MD) and 2029 (November 8 to 11, Montreal).",
+  "region_name": "Louisiana",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

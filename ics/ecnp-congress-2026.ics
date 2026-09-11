@@ -1,0 +1,207 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:39th ECNP Congress 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ecnp-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261014
+SUMMARY:39th ECNP Congress 2026
+DESCRIPTION:The 39th ECNP Congress takes place October 10 to 13\, 2026\, 
+ at the ICM in Munich. Abstract submission closed May 7\, 2026\, with no 
+ late breaking track\, and standard fee registration remains open until O
+ ctober 9\, 2026.\n\nDeadlines\nAbstract submission: 2026-05-07\nEarly fe
+ e registration: 2026-05-20\nAbstract notification: 2026-07-15\nPresenter
+  registration: 2026-07-22\nePoster and poster upload: 2026-09-08\nStanda
+ rd fee registration: 2026-10-09\nOnsite registration closes: 2026-10-13\
+ n\nhttps://www.ecnp.eu/congress2026/
+LOCATION:Munich\, Bavaria\, DE\, ICM International Congress Center Messe 
+ Muenchen
+URL:https://www.ecnp.eu/congress2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:39th ECNP Congress 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnp-congress-2026-20260507-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Deadline: ECNP 2026 abstract submission
+DESCRIPTION:10:00 CEST\; no late breaking abstracts\; not extended\; clos
+ ed\nMeeting: 39th ECNP Congress 2026\, Oct 10 to 13\, 2026\, Munich\, Ba
+ varia\, DE\, ICM International Congress Center Messe Muenchen\nhttps://w
+ ww.ecnp.eu/congress2026/abstract/
+LOCATION:Munich\, Bavaria\, DE\, ICM International Congress Center Messe 
+ Muenchen
+URL:https://www.ecnp.eu/congress2026/abstract/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnp-congress-2026-20260520-early-fee-registration@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:Deadline: ECNP 2026 early fee registration
+DESCRIPTION:closed\nMeeting: 39th ECNP Congress 2026\, Oct 10 to 13\, 202
+ 6\, Munich\, Bavaria\, DE\, ICM International Congress Center Messe Muen
+ chen\nhttps://www.ecnp.eu/congress2026/registration/registration-fees/
+LOCATION:Munich\, Bavaria\, DE\, ICM International Congress Center Messe 
+ Muenchen
+URL:https://www.ecnp.eu/congress2026/registration/registration-fees/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 early fee registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 early fee registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 early fee registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnp-congress-2026-20260722-presenter-registration@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Deadline: ECNP 2026 presenter registration
+DESCRIPTION:23:59 CEST\; required for poster presenters\nMeeting: 39th EC
+ NP Congress 2026\, Oct 10 to 13\, 2026\, Munich\, Bavaria\, DE\, ICM Int
+ ernational Congress Center Messe Muenchen\nhttps://www.ecnp.eu/congress2
+ 026/abstract/
+LOCATION:Munich\, Bavaria\, DE\, ICM International Congress Center Messe 
+ Muenchen
+URL:https://www.ecnp.eu/congress2026/abstract/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 presenter registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 presenter registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 presenter registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnp-congress-2026-20260908-eposter-and-poster-upload@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Deadline: ECNP 2026 eposter and poster upload
+DESCRIPTION:Meeting: 39th ECNP Congress 2026\, Oct 10 to 13\, 2026\, Muni
+ ch\, Bavaria\, DE\, ICM International Congress Center Messe Muenchen\nht
+ tps://www.ecnp.eu/congress2026/abstract/
+LOCATION:Munich\, Bavaria\, DE\, ICM International Congress Center Messe 
+ Muenchen
+URL:https://www.ecnp.eu/congress2026/abstract/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 eposter and poster upload
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 eposter and poster upload
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 eposter and poster upload
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnp-congress-2026-20261009-standard-fee-registration@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Deadline: ECNP 2026 standard fee registration
+DESCRIPTION:23:59 CEST\nMeeting: 39th ECNP Congress 2026\, Oct 10 to 13\,
+  2026\, Munich\, Bavaria\, DE\, ICM International Congress Center Messe 
+ Muenchen\nhttps://www.ecnp.eu/news/agenda-and-deadlines/
+LOCATION:Munich\, Bavaria\, DE\, ICM International Congress Center Messe 
+ Muenchen
+URL:https://www.ecnp.eu/news/agenda-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 standard fee registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 standard fee registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 standard fee registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnp-congress-2026-20261013-onsite-registration-closes@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Deadline: ECNP 2026 onsite registration closes
+DESCRIPTION:13:00 CEST\; virtual registration follows the same closing ti
+ me\nMeeting: 39th ECNP Congress 2026\, Oct 10 to 13\, 2026\, Munich\, Ba
+ varia\, DE\, ICM International Congress Center Messe Muenchen\nhttps://w
+ ww.ecnp.eu/news/agenda-and-deadlines/
+LOCATION:Munich\, Bavaria\, DE\, ICM International Congress Center Messe 
+ Muenchen
+URL:https://www.ecnp.eu/news/agenda-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 onsite registration closes
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 onsite registration closes
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2026 onsite registration closes
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,120 @@
+[
+ {
+  "id": "esmo-congress-2026",
+  "name": "ESMO Congress 2026",
+  "short_name": "ESMO 2026",
+  "organizer": "European Society for Medical Oncology",
+  "organizer_url": "https://www.esmo.org",
+  "edition_url": "https://www.esmo.org/meeting-calendar/esmo-congress-2026",
+  "areas": [
+   "oncology"
+  ],
+  "tags": [
+   "oncology",
+   "cancer-research",
+   "clinical-trials",
+   "international",
+   "global"
+  ],
+  "start_date": "2026-10-23",
+  "end_date": "2026-10-27",
+  "city": "Madrid",
+  "region_name": "Community of Madrid",
+  "country": "ES",
+  "venue": "IFEMA Madrid",
+  "lat": 40.4691,
+  "lon": -3.6174,
+  "format": null,
+  "description": "ESMO Congress is the flagship annual meeting of the European Society for Medical Oncology, presenting new clinical research across solid tumor oncology. The 2026 congress is held in Madrid, Spain.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-05-12",
+    "url": "https://www.esmo.org/meeting-calendar/esmo-congress-2026/abstracts",
+    "estimated": false,
+    "note": "deadline already passed as of the 2026-09-10 research date"
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-09-08",
+    "url": "https://www.esmo.org/meeting-calendar/esmo-congress-2026/abstracts",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.esmo.org/meeting-calendar/esmo-congress-2026/abstracts",
+    "accessed": "2026-09-10",
+    "note": "search engine snippet confirms abstract deadline 12 May 2026 and late breaking deadline 8 Sept 2026; direct fetch returned only a page footer template with no substantive content"
+   },
+   {
+    "url": "https://www.esmadrid.com/en/whats-on/esmo-madrid-congress-ifema-madrid",
+    "accessed": "2026-09-10",
+    "note": "confirms Oct 23 to 27 2026 dates and IFEMA Madrid venue"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "esmo.org pages returned only template or footer content on direct fetch, likely because the site is JS rendered. Dates were confirmed via search snippets and an independent tourism board source. Event format, in-person versus hybrid, was not confirmed this session."
+ },
+ {
+  "id": "esmo-congress-2027",
+  "name": "ESMO Congress 2027",
+  "short_name": "ESMO 2027",
+  "organizer": "European Society for Medical Oncology",
+  "organizer_url": "https://www.esmo.org",
+  "edition_url": "https://www.esmo.org/meeting-calendar/esmo-congress-2027",
+  "areas": [
+   "oncology"
+  ],
+  "tags": [
+   "oncology",
+   "cancer-research",
+   "clinical-trials",
+   "international",
+   "global"
+  ],
+  "start_date": "2027-09-17",
+  "end_date": "2027-09-21",
+  "city": "Barcelona",
+  "region_name": "Catalonia",
+  "country": "ES",
+  "venue": null,
+  "lat": 41.3851,
+  "lon": 2.1734,
+  "format": null,
+  "description": "ESMO Congress is the flagship annual meeting of the European Society for Medical Oncology, presenting new clinical research across solid tumor oncology. The 2027 congress will be held in Barcelona, Spain.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-10-23",
+   "end_date": "2026-10-27",
+   "city": "Madrid",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-05-12"
+    },
+    {
+     "label": "Late-breaking abstract submission",
+     "date": "2026-09-08"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://oncodaily.com/event/esmo-congress-2027-417485",
+    "accessed": "2026-09-10",
+    "note": "independent oncology news source confirming 2027 dates Sept 17 to 21 and Barcelona location"
+   },
+   {
+    "url": "https://www.esmo.org/meeting-calendar/esmo-congress-2027",
+    "accessed": "2026-09-10",
+    "note": "official page did not render usable content on direct fetch; used as the edition URL"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "A search engine summary claimed an abstract submission deadline of 20 September 2026 for this 2027 congress, but no primary or independent source could corroborate this and it is chronologically implausible, since it would fall before the 2026 congress itself takes place. That figure was excluded pending verification. No confirmed abstract submission deadline is available yet for ESMO Congress 2027."
+ }
+]

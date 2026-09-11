@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Annual Global ISAM Congress 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:isam-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270829
+SUMMARY:Annual Global ISAM Congress 2027
+DESCRIPTION:The International Society of Addiction Medicine plans its nex
+ t annual global congress in Seattle\, United States\, from August 26 to 
+ 28\, 2027. Related events listed on the same schedule include an Innovat
+ ion Day and a Women and Addiction Day on August 25\, 2027\, and a board 
+ meeting on August 24\, 2027.\n\nDeadlines\nAbstract submission: 2027-02-
+ 26 (estimated)\n\nhttps://isamweb.org/annual/
+LOCATION:Seattle\, Washington
+URL:https://isamweb.org/annual/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Annual Global ISAM Congress 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isam-annual-2027-20270226-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Deadline: ISAM 2027 abstract submission (estimated)
+DESCRIPTION:No 2027 submission deadline has been published as of the acce
+ ss date. This date projects the 2026 cycle's interval (abstract deadline
+  fell approximately six months before the congress start) onto the 2027 
+ congress date and should be treated as a rough placeholder only.\nMeetin
+ g: Annual Global ISAM Congress 2027\, Aug 26 to 28\, 2027\, Seattle\, Wa
+ shington\nhttps://isamweb.org/annual/
+LOCATION:Seattle\, Washington
+URL:https://isamweb.org/annual/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

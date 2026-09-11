@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CFHA 2026 Annual Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:cfha-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261011
+SUMMARY:CFHA 2026 Annual Conference
+DESCRIPTION:The Collaborative Family Healthcare Association holds its ann
+ ual Integrated Care Conference in St. Louis\, Missouri. The program focu
+ ses on team based\, whole person approaches that combine medicine and be
+ havioral health.\n\nhttps://www.integratedcareconference.com/our-2026-co
+ nference/
+LOCATION:St. Louis\, Missouri
+URL:https://www.integratedcareconference.com/our-2026-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CFHA 2026 Annual Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,88 @@
+[
+ {
+  "id": "insar-2027",
+  "name": "INSAR 2027 Annual Meeting (International Society for Autism Research)",
+  "short_name": "INSAR 2027",
+  "organizer": "International Society for Autism Research",
+  "organizer_url": "https://www.autism-insar.org/",
+  "edition_url": "https://insar.confex.com/insar/2027/cfp.cgi",
+  "tags": [
+   "autism",
+   "child-adolescent",
+   "neuroscience",
+   "international",
+   "global"
+  ],
+  "start_date": "2027-05-18",
+  "end_date": "2027-05-21",
+  "city": "Cape Town",
+  "country": "ZA",
+  "venue": "Cape Town International Convention Centre (CTICC)",
+  "lat": -33.9153,
+  "lon": 18.4262,
+  "format": "in-person",
+  "description": "The INSAR 2027 Annual Meeting is planned for May 18 to 21, 2027 in Cape Town, the first INSAR meeting on the African continent. Accepted panels, oral presentations and posters must be presented in person and there is no late breaking abstract round.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-10-16",
+    "url": "https://insar.confex.com/insar/2027/cfp.cgi",
+    "estimated": false,
+    "note": "11:59 PM Pacific Time; panels, posters and oral presentations"
+   },
+   {
+    "label": "Conflict of interest disclosure by all authors",
+    "date": "2026-11-12",
+    "url": "https://insar.confex.com/insar/2027/cfp.cgi",
+    "estimated": false,
+    "note": "11:59 PM Pacific Time"
+   },
+   {
+    "label": "Abstract notifications",
+    "date": "2027-01-28",
+    "url": "https://insar.confex.com/insar/2027/cfp.cgi",
+    "estimated": false,
+    "note": "Scheduled to be sent by this date"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-22",
+   "end_date": "2026-04-25",
+   "city": "Prague",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2025-10-16"
+    },
+    {
+     "label": "Presentation schedule sent",
+     "date": "2026-03-13"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://insar.confex.com/insar/2027/cfp.cgi",
+    "accessed": "2026-09-09",
+    "note": "Official call for abstracts: dates May 18 to 21, 2027, deadline, COI date, notification date, no late breaking round"
+   },
+   {
+    "url": "https://health.uct.ac.za/cara/articles/2026-05-12-insar-2027-will-be-cape-town",
+    "accessed": "2026-09-09",
+    "note": "Host announcement; gives May 19 to 22, 2027"
+   },
+   {
+    "url": "https://insar.confex.com/insar/2026/cfp.cgi",
+    "accessed": "2026-09-09",
+    "note": "2026 Prague meeting dates and deadline for the prior edition"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Date discrepancy: the INSAR call for abstracts states May 18 to 21, 2027 while the University of Cape Town host announcement states May 19 to 22. The venue is reported as CTICC on INSAR registration pages indexed by search; autism-insar.org blocks automated fetches so this was not read directly.",
+  "region_name": "Western Cape",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

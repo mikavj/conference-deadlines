@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:12th World Congress of Cognitive and Behavioural Therapies 2
+ 029 (WCCBT 2029)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:wccbt-world-congress-2029@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20290620
+DTEND;VALUE=DATE:20290624
+SUMMARY:12th World Congress of Cognitive and Behavioural Therapies 2029 (
+ WCCBT 2029)
+DESCRIPTION:The 12th World Congress of Cognitive and Behavioural Therapie
+ s (formerly the World Congress of Behavioural and Cognitive Therapies) i
+ s organized by ALAMOC with ALAMOC Brazil in Foz do Iguaçu. The 11th con
+ gress took place in San Francisco in June 2026.\n\nDeadlines\nAbstract s
+ ubmission: 2029-01-12 (estimated)\n\nhttps://wccbt.org/world-congress-20
+ 29/
+LOCATION:Foz do Iguaçu\, Paraná\, BR
+URL:https://wccbt.org/world-congress-2029/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:12th World Congress of Cognitive and Behavioural Therapies 20
+ 29 (WCCBT 2029)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wccbt-world-congress-2029-20290112-abstract-submission@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20290112
+DTEND;VALUE=DATE:20290113
+SUMMARY:Deadline: WCCBT 2029 abstract submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (abstracts closed 12 January 
+ 2026 for a late June congress). Not published\; the 2029 site states sub
+ mission information will follow.\nMeeting: 12th World Congress of Cognit
+ ive and Behavioural Therapies 2029 (WCCBT 2029)\, Jun 20 to 23\, 2029\, 
+ Foz do Iguaçu\, Paraná\, BR\nhttps://wccbt.org/world-congress-2029/
+LOCATION:Foz do Iguaçu\, Paraná\, BR
+URL:https://wccbt.org/world-congress-2029/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCCBT 2029 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCCBT 2029 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCCBT 2029 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

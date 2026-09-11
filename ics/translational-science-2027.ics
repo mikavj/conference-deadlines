@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Translational Science 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:translational-science-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270424
+SUMMARY:Translational Science 2027
+DESCRIPTION:The Association for Clinical and Translational Science holds 
+ Translational Science 2027 in Washington\, DC. The meeting is in person 
+ only and covers clinical and translational research methods and infrastr
+ ucture.\n\nhttps://www.actscience.org/Translational-Science
+LOCATION:Washington\, District of Columbia
+URL:https://www.actscience.org/Translational-Science
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Translational Science 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

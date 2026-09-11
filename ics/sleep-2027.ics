@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SLEEP 2027: 41st Annual Meeting of the Associated Profession
+ al Sleep Societies
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sleep-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270610
+SUMMARY:SLEEP 2027: 41st Annual Meeting of the Associated Professional Sl
+ eep Societies
+DESCRIPTION:SLEEP 2027\, the 41st APSS annual meeting\, runs June 6 to 9\
+ , 2027 at the Colorado Convention Center in Denver\, with postgraduate c
+ ourses on June 5 and 6. Registration opens in January 2027.\n\nDeadlines
+ \nAbstract submission opens: 2026-09-16 (estimated)\nAbstract submission
+ : 2026-12-07 (estimated)\nLate-breaking abstract submission opens: 2027-
+ 02-08 (estimated)\nLate-breaking abstract submission: 2027-03-15 (estima
+ ted)\n\nhttps://aasm.org/event/sleep-2027/
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aasm.org/event/sleep-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SLEEP 2027: 41st Annual Meeting of the Associated Professiona
+ l Sleep Societies
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sleep-2027-20261207-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Deadline: SLEEP 2027 abstract submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (December 8\, 2025 deadline)\
+ nMeeting: SLEEP 2027: 41st Annual Meeting of the Associated Professional
+  Sleep Societies\, Jun 06 to 09\, 2027\, Denver\, Colorado\, Colorado Co
+ nvention Center\nhttps://aasm.org/event/sleep-2027/
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aasm.org/event/sleep-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SLEEP 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SLEEP 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SLEEP 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sleep-2027-20270315-late-breaking-abstract-submission@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Deadline: SLEEP 2027 late-breaking abstract submission (estimated
+ )
+DESCRIPTION:Estimated from the 2026 pattern (March 16\, 2026)\nMeeting: S
+ LEEP 2027: 41st Annual Meeting of the Associated Professional Sleep Soci
+ eties\, Jun 06 to 09\, 2027\, Denver\, Colorado\, Colorado Convention Ce
+ nter\nhttps://aasm.org/event/sleep-2027/
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://aasm.org/event/sleep-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SLEEP 2027 late-breaking abstract submission (estim
+ ated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SLEEP 2027 late-breaking abstract submission (estim
+ ated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SLEEP 2027 late-breaking abstract submission (estim
+ ated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

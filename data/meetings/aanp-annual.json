@@ -1,0 +1,39 @@
+[
+ {
+  "id": "aanp-annual-2027",
+  "name": "American Association of Neuropathologists 103rd Annual Meeting 2027",
+  "short_name": "AANP 2027",
+  "organizer": "American Association of Neuropathologists",
+  "organizer_url": "https://www.neuropath.org",
+  "edition_url": "https://www.neuropath.org/upcoming-meetings",
+  "areas": [
+   "neurology",
+   "pathology"
+  ],
+  "tags": [
+   "translational",
+   "student-resident-research"
+  ],
+  "start_date": "2027-06-10",
+  "end_date": "2027-06-13",
+  "city": "Renton",
+  "region_name": "Washington",
+  "country": "US",
+  "venue": "Hyatt Regency Lake Washington",
+  "lat": 47.4762,
+  "lon": -122.2114,
+  "format": "in-person",
+  "description": "The AANP Annual Meeting is the yearly gathering of the only United States association focused exclusively on the clinical and scientific practice of neuropathology. The 2027 meeting is the 103rd edition and includes pre-meeting symposia the day before the main program.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.neuropath.org/upcoming-meetings",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, venue and month-level deadline windows"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Deadlines are published only at month-level precision as of this research and were therefore omitted from the deadlines array to avoid inventing exact days: registration opens early December 2026, diagnostic slide session (DSS) case submission deadline early January 2027, and abstract submission deadline February 2027."
+ }
+]

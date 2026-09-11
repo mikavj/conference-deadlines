@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CMSC 2027 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:cmsc-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+SUMMARY:CMSC 2027 Annual Meeting
+DESCRIPTION:The Consortium of Multiple Sclerosis Centers holds its 2027 a
+ nnual meeting at the San Diego Convention Center in San Diego\, Californ
+ ia\, from 2 to 4 June 2027. The meeting brings together clinicians and r
+ esearchers working in multiple sclerosis care.\n\nhttps://cmscscholar.or
+ g/cmsc-2027-annual-meeting/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://cmscscholar.org/cmsc-2027-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CMSC 2027 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

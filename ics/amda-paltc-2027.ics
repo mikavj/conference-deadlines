@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PALTC27 Annual Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:amda-paltc-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270321
+SUMMARY:PALTC27 Annual Conference
+DESCRIPTION:PALTC27 is the annual conference of the Society for Post-Acut
+ e and Long-Term Care Medicine\, held at the Albuquerque Convention Cente
+ r in Albuquerque\, New Mexico. The conference is described as available 
+ both online and in person and covers clinical practice and education for
+  professionals working in post-acute and long-term care.\n\nhttps://palt
+ med.org/events/paltc27-annual-conference
+LOCATION:Albuquerque\, New Mexico\, Albuquerque Convention Center
+URL:https://paltmed.org/events/paltc27-annual-conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PALTC27 Annual Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

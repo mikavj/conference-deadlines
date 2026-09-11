@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ABCT 61st Annual Convention 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:abct-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271122
+SUMMARY:ABCT 61st Annual Convention 2027
+DESCRIPTION:The 61st ABCT Annual Convention is scheduled for New Orleans 
+ in November 2027. ABCT lists the dates and city on its annual convention
+ s page\; the venue\, theme and call for papers have not been published.\
+ n\nDeadlines\nTicketed session submission: 2027-02-05 (estimated)\nGener
+ al session submission opens: 2027-02-08 (estimated)\nGeneral session sub
+ mission: 2027-03-12 (estimated)\nEarly registration: 2027-10-15 (estimat
+ ed)\n\nhttps://www.abct.org/convention-ce/annual-conventions/
+LOCATION:New Orleans\, Louisiana
+URL:https://www.abct.org/convention-ce/annual-conventions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ABCT 61st Annual Convention 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abct-2027-20270205-ticketed-session-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:Deadline: ABCT 2027 ticketed session submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (site opened January 2\, dead
+ line February 6\, 2026)\; not yet published for 2027\nMeeting: ABCT 61st
+  Annual Convention 2027\, Nov 18 to 21\, 2027\, New Orleans\, Louisiana\
+ nhttps://www.abct.org/convention-ce/annual-conventions/
+LOCATION:New Orleans\, Louisiana
+URL:https://www.abct.org/convention-ce/annual-conventions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2027 ticketed session submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2027 ticketed session submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2027 ticketed session submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abct-2027-20270312-general-session-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:Deadline: ABCT 2027 general session submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (deadline March 13\, 2026)\; 
+ not yet published for 2027\nMeeting: ABCT 61st Annual Convention 2027\, 
+ Nov 18 to 21\, 2027\, New Orleans\, Louisiana\nhttps://www.abct.org/conv
+ ention-ce/annual-conventions/
+LOCATION:New Orleans\, Louisiana
+URL:https://www.abct.org/convention-ce/annual-conventions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2027 general session submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2027 general session submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2027 general session submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abct-2027-20271015-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:Deadline: ABCT 2027 early registration (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (early bird before October 16
+ \, 2026)\; not yet published for 2027\nMeeting: ABCT 61st Annual Convent
+ ion 2027\, Nov 18 to 21\, 2027\, New Orleans\, Louisiana\nhttps://www.ab
+ ct.org/convention-ce/annual-conventions/
+LOCATION:New Orleans\, Louisiana
+URL:https://www.abct.org/convention-ce/annual-conventions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2027 early registration (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2027 early registration (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ABCT 2027 early registration (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

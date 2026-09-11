@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Australasian Marcé Society Biennial Conference 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:marce-australasian-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270905
+SUMMARY:Australasian Marcé Society Biennial Conference 2027
+DESCRIPTION:The Australasian Marcé Society regional biennial conference 
+ is listed for September 2 to 4\, 2027 in Manly\, New South Wales. No ven
+ ue or call for abstracts has been published.\n\nhttps://marcesociety.com
+ /meetings/marce-meetings/
+LOCATION:Manly\, New South Wales\, AU
+URL:https://marcesociety.com/meetings/marce-meetings/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Australasian Marcé Society Biennial Conference 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

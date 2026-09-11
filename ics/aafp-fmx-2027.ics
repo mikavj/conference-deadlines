@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAFP Family Medicine Experience 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aafp-fmx-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270925
+SUMMARY:AAFP Family Medicine Experience 2027
+DESCRIPTION:The AAFP Family Medicine Experience 2027 is the annual confer
+ ence of the American Academy of Family Physicians\, scheduled to be held
+  in San Diego\, California. As with prior years\, the program is expecte
+ d to be a continuing medical education event without an open call for sc
+ ientific abstracts.\n\nhttps://www.aafp.org/cme-and-events/in-person/fmx
+ /what-is-fmx/faq
+LOCATION:San Diego\, California
+URL:https://www.aafp.org/cme-and-events/in-person/fmx/what-is-fmx/faq
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAFP Family Medicine Experience 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:50th American Society of Neuroimaging Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:asn-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270118
+SUMMARY:50th American Society of Neuroimaging Annual Meeting
+DESCRIPTION:50th anniversary annual meeting of the American Society of Ne
+ uroimaging on clinical and research applications of neuroimaging.\n\nDea
+ dlines\nAbstract submission: 2026-07-01\n\nhttps://www.asnweb.org/2027-a
+ nnual-meeting
+LOCATION:Hilton Head Island\, South Carolina\, Omni Hilton Head Oceanfron
+ t Resort
+URL:https://www.asnweb.org/2027-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:50th American Society of Neuroimaging Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asn-annual-2027-20260701-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Deadline: ASN 2027 abstract submission
+DESCRIPTION:deadline for presentation consideration\nMeeting: 50th Americ
+ an Society of Neuroimaging Annual Meeting\, Jan 15 to 17\, 2027\, Hilton
+  Head Island\, South Carolina\, Omni Hilton Head Oceanfront Resort\nhttp
+ s://www.asnweb.org/2027-annual-meeting
+LOCATION:Hilton Head Island\, South Carolina\, Omni Hilton Head Oceanfron
+ t Resort
+URL:https://www.asnweb.org/2027-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASN 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASN 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASN 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASH Annual Meeting and Exposition 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ash-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261216
+SUMMARY:ASH Annual Meeting and Exposition 2026
+DESCRIPTION:The ASH Annual Meeting and Exposition is the primary scientif
+ ic meeting of the American Society of Hematology\, covering malignant an
+ d non-malignant blood disorders. The 68th edition is scheduled for Decem
+ ber 12 to 15\, 2026 at the Ernest N. Morial Convention Center in New Orl
+ eans\, Louisiana\, with in person and virtual attendance options.\n\nDea
+ dlines\nAbstract submission opens: 2026-06-02\nAbstract submission: 2026
+ -08-04\nTravel award application: 2026-08-04\nAbstract withdrawal deadli
+ ne: 2026-09-16\nLate-breaking abstract submission opens: 2026-10-14\nLat
+ e-breaking abstract submission: 2026-10-28\nAbstract notification: 2026-
+ 11-04\nAdvance registration opens (members): 2026-07-22\nAdvance registr
+ ation opens (non-members): 2026-08-12\nEarly registration: 2026-10-21\n\
+ nhttps://www.hematology.org/meetings/annual-meeting
+LOCATION:New Orleans\, Louisiana\, Ernest N. Morial Convention Center
+URL:https://www.hematology.org/meetings/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASH Annual Meeting and Exposition 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ash-annual-2026-20260804-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Deadline: ASH 2026 abstract submission
+DESCRIPTION:11:59 PM Pacific time.\nMeeting: ASH Annual Meeting and Expos
+ ition 2026\, Dec 12 to 15\, 2026\, New Orleans\, Louisiana\, Ernest N. M
+ orial Convention Center\nhttps://www.hematology.org/meetings/annual-meet
+ ing/abstracts/call-for-abstracts
+LOCATION:New Orleans\, Louisiana\, Ernest N. Morial Convention Center
+URL:https://www.hematology.org/meetings/annual-meeting/abstracts/call-for
+ -abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ash-annual-2026-20260804-travel-award-application@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Deadline: ASH 2026 travel award application
+DESCRIPTION:Abstract Achievement Award and Outstanding Abstract Achieveme
+ nt Award deadline coincides with the regular abstract deadline\; $500 me
+ rit awards for trainee investigators.\nMeeting: ASH Annual Meeting and E
+ xposition 2026\, Dec 12 to 15\, 2026\, New Orleans\, Louisiana\, Ernest 
+ N. Morial Convention Center\nhttps://www.hematology.org/meetings/annual-
+ meeting/abstracts/call-for-abstracts
+LOCATION:New Orleans\, Louisiana\, Ernest N. Morial Convention Center
+URL:https://www.hematology.org/meetings/annual-meeting/abstracts/call-for
+ -abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 travel award application
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 travel award application
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 travel award application
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ash-annual-2026-20260916-abstract-withdrawal-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Deadline: ASH 2026 abstract withdrawal deadline
+DESCRIPTION:No withdrawals permitted after this date.\nMeeting: ASH Annua
+ l Meeting and Exposition 2026\, Dec 12 to 15\, 2026\, New Orleans\, Loui
+ siana\, Ernest N. Morial Convention Center\nhttps://www.hematology.org/m
+ eetings/annual-meeting/abstracts/call-for-abstracts
+LOCATION:New Orleans\, Louisiana\, Ernest N. Morial Convention Center
+URL:https://www.hematology.org/meetings/annual-meeting/abstracts/call-for
+ -abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 abstract withdrawal deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 abstract withdrawal deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 abstract withdrawal deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ash-annual-2026-20261028-late-breaking-abstract-submission@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deadline: ASH 2026 late-breaking abstract submission
+DESCRIPTION:$150 non-refundable submission fee.\nMeeting: ASH Annual Meet
+ ing and Exposition 2026\, Dec 12 to 15\, 2026\, New Orleans\, Louisiana\
+ , Ernest N. Morial Convention Center\nhttps://www.hematology.org/meeting
+ s/annual-meeting/abstracts/call-for-abstracts
+LOCATION:New Orleans\, Louisiana\, Ernest N. Morial Convention Center
+URL:https://www.hematology.org/meetings/annual-meeting/abstracts/call-for
+ -abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ash-annual-2026-20261021-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Deadline: ASH 2026 early registration
+DESCRIPTION:Advance registration deadline\, 11:59 PM Pacific time.\nMeeti
+ ng: ASH Annual Meeting and Exposition 2026\, Dec 12 to 15\, 2026\, New O
+ rleans\, Louisiana\, Ernest N. Morial Convention Center\nhttps://www.hem
+ atology.org/meetings/annual-meeting/registration-information
+LOCATION:New Orleans\, Louisiana\, Ernest N. Morial Convention Center
+URL:https://www.hematology.org/meetings/annual-meeting/registration-infor
+ mation
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASH 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

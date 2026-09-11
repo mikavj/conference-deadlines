@@ -1,0 +1,58 @@
+[
+ {
+  "id": "uiuc-health-make-a-thon",
+  "name": "Carle Illinois Health Make-a-Thon",
+  "short_name": "Health Make-a-Thon",
+  "organizer": "Carle Illinois College of Medicine Health Maker Lab, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://medicine.illinois.edu/innovation/health-maker-lab",
+  "edition_url": "https://medicine.illinois.edu/innovation/health-maker-lab/events",
+  "areas": [
+   "medical-education",
+   "health-services"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "health-services",
+   "education",
+   "community"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Urbana",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": null,
+  "lat": 40.102,
+  "lon": -88.2272,
+  "format": "in-person",
+  "description": "The Health Make-a-Thon is a design and pitch competition run by Carle Illinois College of Medicine's Health Maker Lab since 2019, feeding winning teams into the Cozad New Venture Challenge Health Care Track. Early editions ran in spring, but recent editions, including a two-day Patient-Centered Health Make-a-Thon reported in December 2025, are branded the Fall Health Make-a-Thon and run in the fall. The exact date for the next edition had not been published as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": null,
+   "end_date": null,
+   "city": "Urbana",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://medicine.illinois.edu/news/ci-med-patient-centered-health-make-a-thon-prototypes-address-gaps-in-health-care",
+    "accessed": "2026-09-10",
+    "note": "Describes a two-day Patient-Centered Health Make-a-Thon; article dated December 11, 2025; exact event dates not stated in the retrieved text"
+   },
+   {
+    "url": "https://medicine.illinois.edu/innovation/health-maker-lab/events",
+    "accessed": "2026-09-10",
+    "note": "Confirms current branding as the Fall Health Make-a-Thon feeding the Cozad Health Care Track, with no specific dates listed"
+   },
+   {
+    "url": "https://medicine.illinois.edu/news/innovate-locally-impact-globally-broad-based-innovations-win-support-at-health-make-a-thon",
+    "accessed": "2026-09-10",
+    "note": "December 2023 article confirms a fall timing feeding into the Spring 2024 Cozad cycle"
+   }
+  ],
+  "confidence": "low",
+  "notes": "This event's seasonal pattern appears to have shifted: 2019 to 2022 editions ran in spring (for example an April 2022 Tournament of Champions), but the 2023 and 2025 editions ran in the fall under the Fall Health Make-a-Thon name, contrary to the spring pattern assumed in the task brief. Exact day level dates for any recent edition could not be confirmed from the pages retrieved, only publication dates of after the fact news articles. Maintainer should check medicine.illinois.edu/innovation/health-maker-lab/events directly closer to the event."
+ }
+]

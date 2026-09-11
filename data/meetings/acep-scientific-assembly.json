@@ -1,0 +1,85 @@
+[
+ {
+  "id": "acep-scientific-assembly-2026",
+  "name": "ACEP26 Scientific Assembly",
+  "short_name": "ACEP26",
+  "organizer": "American College of Emergency Physicians",
+  "organizer_url": "https://www.acep.org",
+  "edition_url": "https://www.acep.org/sa",
+  "areas": [
+   "emergency-medicine"
+  ],
+  "tags": [
+   "emergency-medicine"
+  ],
+  "start_date": "2026-10-05",
+  "end_date": "2026-10-08",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "McCormick Place",
+  "lat": 41.8517,
+  "lon": -87.6167,
+  "format": null,
+  "description": "The ACEP Scientific Assembly is the American College of Emergency Physicians' annual educational meeting for emergency medicine. ACEP26 takes place at McCormick Place in Chicago and includes the ACEP Research Forum.",
+  "deadlines": [
+   {
+    "label": "Research Forum abstract submission opens",
+    "date": "2026-03-04",
+    "url": "https://www.acep.org/sa/education/acep26-rf",
+    "estimated": false,
+    "note": "Research Forum runs as part of ACEP26 registration; closing date for abstract submission not published on accessible pages"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.acep.org/sa",
+    "accessed": "2026-09-10",
+    "note": "Confirms ACEP26 dates October 5-8, 2026 in Chicago"
+   },
+   {
+    "url": "https://www.acep.org/sa/education/acep26-rf",
+    "accessed": "2026-09-10",
+    "note": "Confirms Research Forum abstract submission opening date of March 4, 2026; does not list closing date"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The Research Forum abstract submission closing date could not be found on acep.org pages that were accessible; only the opening date is confirmed."
+ },
+ {
+  "id": "acep-scientific-assembly-2027",
+  "name": "ACEP27 Scientific Assembly",
+  "short_name": "ACEP27",
+  "organizer": "American College of Emergency Physicians",
+  "organizer_url": "https://www.acep.org",
+  "edition_url": "https://www.acep.org/master-calendar/acep27-scientific-assembly",
+  "areas": [
+   "emergency-medicine"
+  ],
+  "tags": [
+   "emergency-medicine"
+  ],
+  "start_date": "2027-10-25",
+  "end_date": "2027-10-28",
+  "city": "Boston",
+  "region_name": "Massachusetts",
+  "country": "US",
+  "venue": null,
+  "lat": 42.3601,
+  "lon": -71.0589,
+  "format": null,
+  "description": "The ACEP Scientific Assembly is the American College of Emergency Physicians' annual educational meeting for emergency medicine. ACEP27 is scheduled for Boston, Massachusetts.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.acep.org/sa/general-information/future-dates",
+    "accessed": "2026-09-10",
+    "note": "Official future dates page confirming ACEP27 dates (Oct 25-28, 2027) and Boston location"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Research Forum abstract submission details for ACEP27 have not yet been published."
+ }
+]

@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:16th World Congress on Brain Injury
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ibia-world-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270527
+SUMMARY:16th World Congress on Brain Injury
+DESCRIPTION:Biennial world congress of the International Brain Injury Ass
+ ociation on research\, treatment\, rehabilitation and advocacy for traum
+ atic and acquired brain injury.\n\nDeadlines\nAbstract submission: 2026-
+ 10-23\n\nhttps://braininjurycongress.org/
+LOCATION:Halifax\, Nova Scotia\, CA\, Halifax Convention Centre
+URL:https://braininjurycongress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:16th World Congress on Brain Injury
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ibia-world-congress-2027-20261023-abstract-submission@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Deadline: IBIA WCBI 2027 abstract submission
+DESCRIPTION:11:59 pm ET\nMeeting: 16th World Congress on Brain Injury\, M
+ ay 23 to 26\, 2027\, Halifax\, Nova Scotia\, CA\, Halifax Convention Cen
+ tre\nhttps://braininjurycongress.org/
+LOCATION:Halifax\, Nova Scotia\, CA\, Halifax Convention Centre
+URL:https://braininjurycongress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IBIA WCBI 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IBIA WCBI 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IBIA WCBI 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,61 @@
+[
+ {
+  "id": "sts-annual-2027",
+  "name": "63rd STS Annual Meeting",
+  "short_name": "STS 2027",
+  "organizer": "Society of Thoracic Surgeons",
+  "organizer_url": "https://www.sts.org",
+  "edition_url": "https://www.sts.org/annualmeeting",
+  "areas": [
+   "surgery"
+  ],
+  "tags": [
+   "thoracic-surgery",
+   "surgery"
+  ],
+  "start_date": "2027-01-28",
+  "end_date": "2027-01-31",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "San Diego Convention Center",
+  "lat": 32.7076,
+  "lon": -117.1611,
+  "format": "in-person",
+  "description": "The STS Annual Meeting is the principal scientific meeting of the Society of Thoracic Surgeons, covering cardiothoracic surgical research, techniques, and continuing education. The 63rd edition takes place at the San Diego Convention Center.",
+  "deadlines": [
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-08-31",
+    "url": "https://www.sts.org/annual-meeting-faq",
+    "estimated": false,
+    "note": "confirmed on the official FAQ page; the abstract portal had already closed as of the access date"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.sts.org/education/future-annual-meetings",
+    "accessed": "2026-09-10",
+    "note": "confirms 2027 dates and city"
+   },
+   {
+    "url": "https://www.sts.org/calendar-of-events/63rd-sts-annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "confirms dates and venue (San Diego Convention Center)"
+   },
+   {
+    "url": "https://www.sts.org/annual-meeting-faq",
+    "accessed": "2026-09-10",
+    "note": "confirms abstract submission deadline of August 31, 2026 and that notification is expected early October 2026"
+   },
+   {
+    "url": "https://www.sts.org/abstract-submission",
+    "accessed": "2026-09-10",
+    "note": "confirms abstract submissions for the 63rd meeting have closed"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Abstract decision notification was stated only as 'early October 2026' without an exact day, so no notification deadline row was recorded. No early-bird or advance registration deadline was found published on the official site as of the access date."
+ }
+]

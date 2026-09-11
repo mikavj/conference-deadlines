@@ -1,0 +1,126 @@
+[
+ {
+  "id": "aapmr-annual-assembly-2026",
+  "name": "2026 AAPM&R Annual Assembly",
+  "short_name": "AAPM&R 2026",
+  "organizer": "American Academy of Physical Medicine and Rehabilitation",
+  "organizer_url": "https://www.aapmr.org",
+  "edition_url": "https://www.aapmr.org/education/annual-assembly",
+  "areas": [
+   "rehabilitation"
+  ],
+  "tags": [
+   "rehabilitation",
+   "education"
+  ],
+  "start_date": "2026-11-11",
+  "end_date": "2026-11-14",
+  "city": "Orlando",
+  "region_name": "Florida",
+  "country": "US",
+  "venue": null,
+  "lat": 28.5384,
+  "lon": -81.3789,
+  "format": "hybrid",
+  "description": "The AAPM&R Annual Assembly is the annual scientific meeting of the American Academy of Physical Medicine and Rehabilitation. The 2026 edition takes place in Orlando, Florida from November 11 to 14, with in person and virtual attendance options.",
+  "deadlines": [
+   {
+    "label": "Late-breaking research abstract submission opens",
+    "date": "2026-05-20",
+    "url": "https://www.aapmr.org/education/annual-assembly/2026/call-for-abstracts",
+    "estimated": true,
+    "note": "Window reported in a search engine snippet of this page; direct fetch of the page returned HTTP 404, so the exact date could not be independently confirmed"
+   },
+   {
+    "label": "Late-breaking research abstract submission",
+    "date": "2026-06-24",
+    "url": "https://www.aapmr.org/education/annual-assembly/2026/call-for-abstracts",
+    "estimated": true,
+    "note": "Window reported in a search engine snippet of this page; direct fetch of the page returned HTTP 404, so the exact date could not be independently confirmed"
+   },
+   {
+    "label": "Registration deadline (mail-in and fax; refund cutoff)",
+    "date": "2026-10-13",
+    "url": "https://www.aapmr.org/education/annual-assembly/registration",
+    "estimated": false,
+    "note": "Mail postmark and fax (4:00 pm CT) cutoff, and last date for written cancellation to receive a refund minus a 150 USD fee. After this date registration is online or onsite only."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aapmr.org/docs/default-source/annual-assembly-documents/2025-tote-bag/2026-key-dates.pdf",
+    "accessed": "2026-09-10",
+    "note": "Official key dates flyer confirming November 11-14, 2026 in Orlando, FL"
+   },
+   {
+    "url": "https://www.aapmr.org/education/annual-assembly/registration",
+    "accessed": "2026-09-10",
+    "note": "Confirms the October 13, 2026 mail/fax registration and refund cutoff"
+   },
+   {
+    "url": "https://www.aapmr.org/education/annual-assembly",
+    "accessed": "2026-09-10",
+    "note": "Confirms hybrid (in person and virtual) format and general program details"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Venue name within Orlando was not found on the fetched pages. The call-for-abstracts page (2026/call-for-abstracts) returned HTTP 404 on direct fetch; late-breaking abstract window dates are based on a search engine snippet of that page only."
+ },
+ {
+  "id": "aapmr-annual-assembly-2027",
+  "name": "2027 AAPM&R Annual Assembly",
+  "short_name": "AAPM&R 2027",
+  "organizer": "American Academy of Physical Medicine and Rehabilitation",
+  "organizer_url": "https://www.aapmr.org",
+  "edition_url": "https://www.aapmr.org/education/annual-assembly",
+  "areas": [
+   "rehabilitation"
+  ],
+  "tags": [
+   "rehabilitation",
+   "education"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "region_name": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "The AAPM&R Annual Assembly is the annual scientific meeting of the American Academy of Physical Medicine and Rehabilitation. Dates and location for the 2027 edition have not been published yet.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-11-11",
+   "end_date": "2026-11-14",
+   "city": "Orlando, FL",
+   "deadlines": [
+    {
+     "label": "Late-breaking research abstract submission",
+     "date": "2026-06-24"
+    },
+    {
+     "label": "Registration deadline (mail-in and fax)",
+     "date": "2026-10-13"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.aapmr.org/docs/default-source/annual-assembly-documents/2025-tote-bag/2026-key-dates.pdf",
+    "accessed": "2026-09-10",
+    "note": "2026 key dates flyer; contains no 2027 information"
+   },
+   {
+    "url": "https://www.aapmr.org/education/annual-assembly",
+    "accessed": "2026-09-10",
+    "note": "General Annual Assembly page; no 2027 dates or location mentioned"
+   }
+  ],
+  "confidence": "low",
+  "notes": "No 2027 dates or location have been published as of 2026-09-10 on any AAPM&R page found. Record emitted with null dates and the 2026 prior edition per instructions."
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "id": "shm-converge-2027",
+  "name": "SHM Converge 2027",
+  "short_name": "SHM Converge 2027",
+  "organizer": "Society of Hospital Medicine",
+  "organizer_url": "https://www.hospitalmedicine.org",
+  "edition_url": "https://shmconverge.hospitalmedicine.org/",
+  "areas": [
+   "hospital-medicine"
+  ],
+  "tags": [
+   "hospital-medicine",
+   "quality-safety"
+  ],
+  "start_date": "2027-03-30",
+  "end_date": "2027-04-02",
+  "city": "Las Vegas",
+  "region_name": "Nevada",
+  "country": "US",
+  "venue": "Mandalay Bay Resort and Casino",
+  "lat": 36.0908,
+  "lon": -115.1758,
+  "format": "in-person",
+  "description": "SHM Converge 2027 is the annual conference of the Society of Hospital Medicine, held at Mandalay Bay Resort and Casino in Las Vegas, Nevada. The program includes pre courses, didactic sessions, and workshops covering clinical and professional topics in hospital medicine.",
+  "deadlines": [
+   {
+    "label": "Speaker and topic proposal submission",
+    "date": "2026-05-03",
+    "url": "https://www.conferenceabstracts.com/uploads/documents/26574/2027FormalDidacticKeynoteGuidelines.pdf",
+    "estimated": false,
+    "note": "11:59 PM ET deadline for keynote, didactic, and workshop speaker and topic proposals"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://shmconverge.hospitalmedicine.org/",
+    "accessed": "2026-09-10",
+    "note": "confirms dates March 30 to April 2 2027 and Mandalay Bay Resort and Casino venue; general abstract submission dates not yet posted, site states 2027 schedule coming soon"
+   },
+   {
+    "url": "https://www.conferenceabstracts.com/uploads/documents/26574/2027FormalDidacticKeynoteGuidelines.pdf",
+    "accessed": "2026-09-10",
+    "note": "call for speaker and topic proposals deadline May 3 2026, confirmed via search snippet since the PDF could not be parsed as text on direct fetch"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "General scientific or research abstract submission dates for SHM Converge 2027, as distinct from speaker and topic proposals, were not found published as of access date."
+ }
+]

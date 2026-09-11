@@ -1,0 +1,64 @@
+[
+ {
+  "id": "isen-annual-2027",
+  "name": "ISEN Annual Meeting and ECT Course 2027",
+  "short_name": "ISEN 2027",
+  "organizer": "International Society for ECT and Neurostimulation",
+  "organizer_url": "https://www.isen-ect.org/",
+  "edition_url": "https://www.isen-ect.org/programs---events",
+  "tags": [
+   "neuromodulation",
+   "mood-disorders"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "New York",
+  "country": "US",
+  "venue": null,
+  "lat": 40.7128,
+  "lon": -74.006,
+  "format": null,
+  "description": "ISEN lists its 2027 Annual Meeting for May 2027 in New York, NY, with details to follow. Poster submission is announced to open in December 2026.",
+  "deadlines": [
+   {
+    "label": "Poster abstract submission opens",
+    "date": null,
+    "url": "https://www.isen-ect.org/programs---events",
+    "estimated": false,
+    "note": "announced for December 2026"
+   },
+   {
+    "label": "Poster abstract submission",
+    "date": null,
+    "url": null,
+    "estimated": true,
+    "note": "not published; the 2026 deadline could not be recovered"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-15",
+   "end_date": "2026-05-16",
+   "city": "San Francisco",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.isen-ect.org/programs---events",
+    "accessed": "2026-09-09",
+    "note": "2027 meeting May 2027, New York, NY; poster submissions coming December 2026"
+   },
+   {
+    "url": "https://www.isen-ect.org/images/annual-meeting/2026/2026AnnualMeetingProspectus.pdf",
+    "accessed": "2026-09-09",
+    "note": "2026 meeting May 15 to 16, 2026, Hyatt Centric Fisherman's Wharf San Francisco"
+   }
+  ],
+  "confidence": "low",
+  "notes": "The annual meeting is typically paired with a one day ECT certificate course. Contact for meeting questions is events@isen-ect.org.",
+  "region_name": "New York",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

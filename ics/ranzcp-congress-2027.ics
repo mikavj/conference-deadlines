@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RANZCP 2027 Congress
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ranzcp-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270521
+SUMMARY:RANZCP 2027 Congress
+DESCRIPTION:The RANZCP 2027 Congress is held at Te Pae Christchurch Conve
+ ntion Centre under the theme Resilience\, Recovery and Growth: Kia Manaw
+ anui\, Kia Manawaroa. The programme combines clinical practice\, researc
+ h\, cultural perspectives and lived experience contributions.\n\nDeadlin
+ es\nAbstract submission opens: 2026-07-27\nPre-congress workshop abstrac
+ t submission: 2026-09-04\nRegistration opens: 2026-10-12\nAbstract submi
+ ssion (congress sessions): 2026-10-16\nEarly registration: 2027-02-26\n\
+ nhttps://www.congress.ranzcp.org/2027-congress
+LOCATION:Christchurch\, Canterbury\, NZ\, Te Pae Christchurch Convention 
+ Centre
+URL:https://www.congress.ranzcp.org/2027-congress
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RANZCP 2027 Congress
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ranzcp-congress-2027-20260904-pre-congress-workshop-abstract-submissi
+ on@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Deadline: RANZCP 2027 pre-congress workshop abstract submission
+DESCRIPTION:Meeting: RANZCP 2027 Congress\, May 16 to 20\, 2027\, Christc
+ hurch\, Canterbury\, NZ\, Te Pae Christchurch Convention Centre\nhttps:/
+ /www.congress.ranzcp.org/keydates
+LOCATION:Christchurch\, Canterbury\, NZ\, Te Pae Christchurch Convention 
+ Centre
+URL:https://www.congress.ranzcp.org/keydates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RANZCP 2027 pre-congress workshop abstract submissi
+ on
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RANZCP 2027 pre-congress workshop abstract submissi
+ on
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RANZCP 2027 pre-congress workshop abstract submissi
+ on
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ranzcp-congress-2027-20261016-abstract-submission-congress-sessions-@
+ conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Deadline: RANZCP 2027 abstract submission (congress sessions)
+DESCRIPTION:Meeting: RANZCP 2027 Congress\, May 16 to 20\, 2027\, Christc
+ hurch\, Canterbury\, NZ\, Te Pae Christchurch Convention Centre\nhttps:/
+ /www.congress.ranzcp.org/keydates
+LOCATION:Christchurch\, Canterbury\, NZ\, Te Pae Christchurch Convention 
+ Centre
+URL:https://www.congress.ranzcp.org/keydates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RANZCP 2027 abstract submission (congress sessions)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RANZCP 2027 abstract submission (congress sessions)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RANZCP 2027 abstract submission (congress sessions)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ranzcp-congress-2027-20270226-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Deadline: RANZCP 2027 early registration
+DESCRIPTION:Meeting: RANZCP 2027 Congress\, May 16 to 20\, 2027\, Christc
+ hurch\, Canterbury\, NZ\, Te Pae Christchurch Convention Centre\nhttps:/
+ /www.congress.ranzcp.org/keydates
+LOCATION:Christchurch\, Canterbury\, NZ\, Te Pae Christchurch Convention 
+ Centre
+URL:https://www.congress.ranzcp.org/keydates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RANZCP 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RANZCP 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RANZCP 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

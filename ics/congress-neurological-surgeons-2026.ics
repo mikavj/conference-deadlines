@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:76th Congress of Neurological Surgeons Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:congress-neurological-surgeons-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261105
+SUMMARY:76th Congress of Neurological Surgeons Annual Meeting
+DESCRIPTION:Annual scientific meeting of the Congress of Neurological Sur
+ geons covering the full range of neurosurgical subspecialties. It is the
+  76th edition of the meeting\, themed Evolution.\n\nDeadlines\nAbstract 
+ submission: 2026-05-26\nEarly registration: 2026-05-31\nAdvanced registr
+ ation deadline: 2026-09-30\n\nhttps://www.cns.org/annualmeeting
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.cns.org/annualmeeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:76th Congress of Neurological Surgeons Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:congress-neurological-surgeons-2026-20260526-abstract-submission@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Deadline: CNS Neurosurgery 2026 abstract submission
+DESCRIPTION:8:00 pm CT\; deadline was extended once to this date\nMeeting
+ : 76th Congress of Neurological Surgeons Annual Meeting\, Oct 31 to Nov 
+ 04\, 2026\, Washington\, District of Columbia\, Walter E. Washington Con
+ vention Center\nhttps://www.cns.org/annualmeeting/program/abstracts
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.cns.org/annualmeeting/program/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:congress-neurological-surgeons-2026-20260531-early-registration@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Deadline: CNS Neurosurgery 2026 early registration
+DESCRIPTION:Meeting: 76th Congress of Neurological Surgeons Annual Meetin
+ g\, Oct 31 to Nov 04\, 2026\, Washington\, District of Columbia\, Walter
+  E. Washington Convention Center\nhttps://www.cns.org/annualmeeting/over
+ view
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.cns.org/annualmeeting/overview
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:congress-neurological-surgeons-2026-20260930-advanced-registration-de
+ adline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: CNS Neurosurgery 2026 advanced registration deadline
+DESCRIPTION:cutoff between Advanced and Regular registration pricing tier
+ s\nMeeting: 76th Congress of Neurological Surgeons Annual Meeting\, Oct 
+ 31 to Nov 04\, 2026\, Washington\, District of Columbia\, Walter E. Wash
+ ington Convention Center\nhttps://www.cns.org/annualmeeting/overview
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.cns.org/annualmeeting/overview
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 advanced registration deadlin
+ e
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 advanced registration deadlin
+ e
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS Neurosurgery 2026 advanced registration deadlin
+ e
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

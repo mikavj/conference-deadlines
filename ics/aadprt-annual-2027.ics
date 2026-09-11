@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AADPRT Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aadprt-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270305
+SUMMARY:AADPRT Annual Meeting 2027
+DESCRIPTION:The annual meeting of psychiatry residency and fellowship tra
+ ining directors and program administrators. Presentation formats are wor
+ kshops\, posters\, Innovations Showcase presentations and a new Arts in 
+ Action session on March 3\, 2027.\n\nDeadlines\nEarly registration close
+ s: 2026-08-31\nAbstract submission deadline (workshops\, posters\, Innov
+ ations Showcase\, Arts in Action): 2026-09-22\nHotel room block opens: 2
+ 026-10-01\nAbstract selection announcement: 2026-11-02\nRegular registra
+ tion opens: 2026-12-04\nPoster contest submissions open: 2026-12-04\nReg
+ ular registration closes: 2027-01-07\nPoster contest submissions close: 
+ 2027-01-14\nLate registration closes: 2027-02-02\n\nhttps://www.aadprt.o
+ rg/annual-meeting/2027-annual-meeting
+LOCATION:Nashville\, Tennessee\, Gaylord Opryland Resort and Convention C
+ enter
+URL:https://www.aadprt.org/annual-meeting/2027-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AADPRT Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aadprt-annual-2027-20260831-early-registration-closes@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Deadline: AADPRT 2027 early registration closes
+DESCRIPTION:Early (discounted) registration window June 8 to August 31\, 
+ 2026.\nMeeting: AADPRT Annual Meeting 2027\, Feb 28 to Mar 04\, 2027\, N
+ ashville\, Tennessee\, Gaylord Opryland Resort and Convention Center\nht
+ tps://www.aadprt.org/annual-meeting/2027-annual-meeting
+LOCATION:Nashville\, Tennessee\, Gaylord Opryland Resort and Convention C
+ enter
+URL:https://www.aadprt.org/annual-meeting/2027-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 early registration closes
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 early registration closes
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 early registration closes
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aadprt-annual-2027-20260922-abstract-submission-deadline-workshops-po
+ sters-innovations-showcase-arts-in-action-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Deadline: AADPRT 2027 abstract submission deadline (workshops\, p
+ osters\, innovations showcase\, arts in action)
+DESCRIPTION:11:59 p.m. CT. Awards nominations and program administrator s
+ ymposium proposals close the same day.\nMeeting: AADPRT Annual Meeting 2
+ 027\, Feb 28 to Mar 04\, 2027\, Nashville\, Tennessee\, Gaylord Opryland
+  Resort and Convention Center\nhttps://www.aadprt.org/annual-meeting/wor
+ kshops-posters
+LOCATION:Nashville\, Tennessee\, Gaylord Opryland Resort and Convention C
+ enter
+URL:https://www.aadprt.org/annual-meeting/workshops-posters
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 abstract submission deadline (workshops
+ \, posters\, innovations showcase\, arts in action)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 abstract submission deadline (workshops
+ \, posters\, innovations showcase\, arts in action)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 abstract submission deadline (workshops
+ \, posters\, innovations showcase\, arts in action)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aadprt-annual-2027-20261102-abstract-selection-announcement@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Deadline: AADPRT 2027 abstract selection announcement
+DESCRIPTION:Review committee meets September 24 to October 22\, 2026.\nMe
+ eting: AADPRT Annual Meeting 2027\, Feb 28 to Mar 04\, 2027\, Nashville\
+ , Tennessee\, Gaylord Opryland Resort and Convention Center\nhttps://www
+ .aadprt.org/annual-meeting/workshops-posters
+LOCATION:Nashville\, Tennessee\, Gaylord Opryland Resort and Convention C
+ enter
+URL:https://www.aadprt.org/annual-meeting/workshops-posters
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 abstract selection announcement
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 abstract selection announcement
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 abstract selection announcement
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aadprt-annual-2027-20270107-regular-registration-closes@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Deadline: AADPRT 2027 regular registration closes
+DESCRIPTION:Meeting: AADPRT Annual Meeting 2027\, Feb 28 to Mar 04\, 2027
+ \, Nashville\, Tennessee\, Gaylord Opryland Resort and Convention Center
+ \nhttps://www.aadprt.org/annual-meeting/2027-annual-meeting
+LOCATION:Nashville\, Tennessee\, Gaylord Opryland Resort and Convention C
+ enter
+URL:https://www.aadprt.org/annual-meeting/2027-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 regular registration closes
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 regular registration closes
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 regular registration closes
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aadprt-annual-2027-20270114-poster-contest-submissions-close@conferen
+ ce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Deadline: AADPRT 2027 poster contest submissions close
+DESCRIPTION:Meeting: AADPRT Annual Meeting 2027\, Feb 28 to Mar 04\, 2027
+ \, Nashville\, Tennessee\, Gaylord Opryland Resort and Convention Center
+ \nhttps://www.aadprt.org/annual-meeting/workshops-posters
+LOCATION:Nashville\, Tennessee\, Gaylord Opryland Resort and Convention C
+ enter
+URL:https://www.aadprt.org/annual-meeting/workshops-posters
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 poster contest submissions close
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 poster contest submissions close
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 poster contest submissions close
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aadprt-annual-2027-20270202-late-registration-closes@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:Deadline: AADPRT 2027 late registration closes
+DESCRIPTION:11:59 p.m. CT.\nMeeting: AADPRT Annual Meeting 2027\, Feb 28 
+ to Mar 04\, 2027\, Nashville\, Tennessee\, Gaylord Opryland Resort and C
+ onvention Center\nhttps://www.aadprt.org/annual-meeting/2027-annual-meet
+ ing
+LOCATION:Nashville\, Tennessee\, Gaylord Opryland Resort and Convention C
+ enter
+URL:https://www.aadprt.org/annual-meeting/2027-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 late registration closes
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 late registration closes
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AADPRT 2027 late registration closes
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Digestive Disease Week 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ddw-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270519
+SUMMARY:Digestive Disease Week 2027
+DESCRIPTION:Digestive Disease Week is an annual meeting for physicians an
+ d researchers in gastroenterology\, hepatology and related fields\, join
+ tly sponsored by four gastroenterology societies. The 2027 meeting is he
+ ld in Washington\, D.C. with an online component.\n\nDeadlines\nLate-bre
+ aking abstract submission: 2027-03-18\nEarly registration: 2027-04-29\n\
+ nhttps://www.ddw.org
+LOCATION:Washington\, District of Columbia
+URL:https://www.ddw.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Digestive Disease Week 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddw-2027-20270318-late-breaking-abstract-submission@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Deadline: DDW 2027 late-breaking abstract submission
+DESCRIPTION:5:00 p.m. Eastern time\nMeeting: Digestive Disease Week 2027\
+ , May 15 to 18\, 2027\, Washington\, District of Columbia\nhttps://www.d
+ dw.org
+LOCATION:Washington\, District of Columbia
+URL:https://www.ddw.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: DDW 2027 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: DDW 2027 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: DDW 2027 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddw-2027-20270429-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:Deadline: DDW 2027 early registration
+DESCRIPTION:Discounted registration rate deadline\nMeeting: Digestive Dis
+ ease Week 2027\, May 15 to 18\, 2027\, Washington\, District of Columbia
+ \nhttps://www.ddw.org
+LOCATION:Washington\, District of Columbia
+URL:https://www.ddw.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: DDW 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: DDW 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: DDW 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

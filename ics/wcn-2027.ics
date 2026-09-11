@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:XXVIII World Congress of Neurology
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:wcn-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271026
+SUMMARY:XXVIII World Congress of Neurology
+DESCRIPTION:The World Federation of Neurology holds its biennial World Co
+ ngress of Neurology in Cape Town\, South Africa\, from 23 to 25 October 
+ 2027. The congress is organized by the Kenes Group on behalf of the fede
+ ration and covers general and subspecialty neurology topics.\n\nhttps://
+ wcn-neurology.com/
+LOCATION:Cape Town\, Western Cape\, ZA
+URL:https://wcn-neurology.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:XXVIII World Congress of Neurology
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,59 @@
+[
+ {
+  "id": "ean-congress-2027",
+  "name": "13th Congress of the European Academy of Neurology",
+  "short_name": "EAN Congress 2027",
+  "organizer": "European Academy of Neurology",
+  "organizer_url": "https://www.ean.org",
+  "edition_url": "https://www.ean.org/congress2027",
+  "areas": [
+   "neurology",
+   "neuroscience"
+  ],
+  "tags": [
+   "international",
+   "epilepsy",
+   "stroke",
+   "multiple-sclerosis",
+   "movement-disorders",
+   "dementia",
+   "headache"
+  ],
+  "start_date": "2027-06-12",
+  "end_date": "2027-06-15",
+  "city": "Gothenburg",
+  "region_name": "Vastra Gotaland County",
+  "country": "SE",
+  "venue": "Gothia Towers",
+  "lat": 57.6968,
+  "lon": 11.9866,
+  "format": null,
+  "description": "The European Academy of Neurology holds its 2027 congress at Gothia Towers in Gothenburg, Sweden, from 12 to 15 June 2027. The congress theme is Transforming Neurology, Embracing Every Brain, and the program spans general and subspecialty neurology.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2027-01-14",
+    "url": "https://www.ean.org/congress2027",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-04-14",
+    "url": "https://www.ean.org/congress2027",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.ean.org/congress2027",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, venue, city, theme, abstract deadline, and early registration deadline."
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

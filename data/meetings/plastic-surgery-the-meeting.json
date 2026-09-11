@@ -1,0 +1,81 @@
+[
+ {
+  "id": "plastic-surgery-the-meeting-2026",
+  "name": "Plastic Surgery The Meeting 2026",
+  "short_name": "PSTM 2026",
+  "organizer": "American Society of Plastic Surgeons",
+  "organizer_url": "https://www.plasticsurgery.org",
+  "edition_url": "https://www.plasticsurgerythemeeting.com/",
+  "areas": [
+   "surgery"
+  ],
+  "tags": [
+   "plastic-surgery"
+  ],
+  "start_date": "2026-10-15",
+  "end_date": "2026-10-18",
+  "city": "Houston",
+  "region_name": "Texas",
+  "country": "US",
+  "venue": "George R. Brown Convention Center",
+  "lat": 29.7601,
+  "lon": -95.3535,
+  "format": "in-person",
+  "description": "Plastic Surgery The Meeting is the annual scientific and clinical conference of the American Society of Plastic Surgeons, held jointly with partner societies including the American Society for Maxillofacial Surgery and The Rhinoplasty Society. The 2026 edition takes place at the George R. Brown Convention Center in Houston.",
+  "deadlines": [
+   {
+    "label": "Resident abstract submission opens",
+    "date": "2026-03-04",
+    "url": "https://ww6.aievolution.com/asps/index.cfm?do=cnt.page&pg=1013",
+    "estimated": false,
+    "note": "resident-specific submission track on the official abstract management system"
+   },
+   {
+    "label": "Resident abstract submission deadline",
+    "date": "2026-04-30",
+    "url": "https://ww6.aievolution.com/asps/index.cfm?do=cnt.page&pg=1013",
+    "estimated": false,
+    "note": "11:59 pm US Pacific time; resident-specific submission track"
+   },
+   {
+    "label": "General call abstract submission deadline",
+    "date": "2026-02-26",
+    "url": null,
+    "estimated": true,
+    "note": "the general call and global partner invitation windows had already closed by the access date on the official abstract system; this date is from a secondary academic conference tracker (University of Pittsburgh Department of Plastic Surgery) and could not be independently confirmed on an ASPS-operated page"
+   },
+   {
+    "label": "Advance registration deadline",
+    "date": "2026-09-24",
+    "url": "https://www.plasticsurgerythemeeting.com/registration",
+    "estimated": false,
+    "note": "advance registration window runs August 14 to September 24, 2026; late registration follows from September 25"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.plasticsurgerythemeeting.com/programming",
+    "accessed": "2026-09-10",
+    "note": "confirms dates 'Oct. 15 - 18, 2026 in Houston'"
+   },
+   {
+    "url": "https://www.plasticsurgerythemeeting.com/events",
+    "accessed": "2026-09-10",
+    "note": "confirms venue as George R. Brown Convention Center, Houston, Texas"
+   },
+   {
+    "url": "https://www.plasticsurgerythemeeting.com/registration",
+    "accessed": "2026-09-10",
+    "note": "confirms advance and late registration windows"
+   },
+   {
+    "url": "https://ww6.aievolution.com/asps/index.cfm?do=cnt.page&pg=1013",
+    "accessed": "2026-09-10",
+    "note": "official abstract management system; confirms resident abstract track dates and that the general call had already closed"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "One secondary source (do713.com) listed the meeting as starting October 14, 2026, likely reflecting a pre-conference event rather than the main program; the official programming page's explicit 'Oct. 15 - 18, 2026' range was used. The general call abstract deadline is estimated from a non-ASPS academic tracker since the official system no longer displayed it as open."
+ }
+]

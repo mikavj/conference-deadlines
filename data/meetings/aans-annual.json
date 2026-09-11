@@ -1,0 +1,78 @@
+[
+ {
+  "id": "aans-annual-2027",
+  "name": "AANS Annual Scientific Meeting 2027",
+  "short_name": "AANS 2027",
+  "organizer": "American Association of Neurological Surgeons",
+  "organizer_url": "https://www.aans.org",
+  "edition_url": "https://annualmeeting.aans.org/",
+  "areas": [
+   "neurology",
+   "surgery"
+  ],
+  "tags": [
+   "neurosurgery",
+   "student-resident-research"
+  ],
+  "start_date": "2027-04-09",
+  "end_date": "2027-04-12",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "San Diego Convention Center",
+  "lat": 32.7069,
+  "lon": -117.1611,
+  "format": "in-person",
+  "description": "Annual scientific meeting of the American Association of Neurological Surgeons, themed Navigating the Impossible.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-07-22",
+    "url": "https://annualmeeting.aans.org/abstract-center/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-10-01",
+    "url": "https://annualmeeting.aans.org/abstract-center/",
+    "estimated": false,
+    "note": "11:59 pm ET"
+   },
+   {
+    "label": "Abstract notification",
+    "date": "2027-01-15",
+    "url": "https://annualmeeting.aans.org/abstract-center/",
+    "estimated": true,
+    "note": "only month published (January 2027); exact day not yet announced, mid-month used as placeholder"
+   },
+   {
+    "label": "Registration deadline (presenting authors)",
+    "date": "2027-03-05",
+    "url": "https://annualmeeting.aans.org/abstract-center/",
+    "estimated": false,
+    "note": "accepted abstracts are declined if the presenting author has not registered by this date"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://annualmeeting.aans.org/",
+    "accessed": "2026-09-10",
+    "note": "confirms dates, city, theme"
+   },
+   {
+    "url": "https://annualmeeting.aans.org/abstract-center/",
+    "accessed": "2026-09-10",
+    "note": "abstract and registration deadlines"
+   },
+   {
+    "url": "https://visitsandiego.com/calendar/2208999-american-association-of-neurological-surgeons-aans-2027",
+    "accessed": "2026-09-10",
+    "note": "confirms San Diego Convention Center as venue"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

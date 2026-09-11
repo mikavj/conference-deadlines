@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 AAD Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aad-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270324
+SUMMARY:2027 AAD Annual Meeting
+DESCRIPTION:The 2027 AAD Annual Meeting is the American Academy of Dermat
+ ology's main scientific and educational conference\, held in San Francis
+ co\, California from March 19 to 23\, 2027.\n\nDeadlines\nAbstract submi
+ ssion: 2026-09-02\n\nhttps://www.aad.org/member/meetings-education/am27
+LOCATION:San Francisco\, California\, Moscone Center
+URL:https://www.aad.org/member/meetings-education/am27
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 AAD Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aad-annual-2027-20260902-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Deadline: AAD 2027 abstract submission
+DESCRIPTION:Listed as 11:59 a.m. CST on the official page\; unusual time 
+ of day was stated as written and not altered\nMeeting: 2027 AAD Annual M
+ eeting\, Mar 19 to 23\, 2027\, San Francisco\, California\, Moscone Cent
+ er\nhttps://www.aad.org/member/meetings-education/am27
+LOCATION:San Francisco\, California\, Moscone Center
+URL:https://www.aad.org/member/meetings-education/am27
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAD 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAD 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAD 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

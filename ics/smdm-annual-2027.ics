@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SMDM 49th Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:smdm-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270610
+SUMMARY:SMDM 49th Annual Meeting
+DESCRIPTION:The Society for Medical Decision Making holds its 49th Annual
+  Meeting in Toronto\, Ontario. The meeting covers methods and applicatio
+ ns in medical decision science.\n\nDeadlines\nAbstract submission: 2027-
+ 01-14\nAbstract notification: 2027-03-12\nEarly registration: 2027-05-30
+ \n\nhttps://smdm.org/annual-meeting
+LOCATION:Toronto\, Ontario\, CA
+URL:https://smdm.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SMDM 49th Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smdm-annual-2027-20270114-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Deadline: SMDM 2027 abstract submission
+DESCRIPTION:Meeting: SMDM 49th Annual Meeting\, Jun 06 to 09\, 2027\, Tor
+ onto\, Ontario\, CA\nhttps://smdm.org/civicrm/event/info
+LOCATION:Toronto\, Ontario\, CA
+URL:https://smdm.org/civicrm/event/info
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMDM 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMDM 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMDM 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:smdm-annual-2027-20270530-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Deadline: SMDM 2027 early registration
+DESCRIPTION:Early registration closes and regular rates apply afterward\n
+ Meeting: SMDM 49th Annual Meeting\, Jun 06 to 09\, 2027\, Toronto\, Onta
+ rio\, CA\nhttps://smdm.org/registration-information
+LOCATION:Toronto\, Ontario\, CA
+URL:https://smdm.org/registration-information
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMDM 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMDM 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SMDM 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

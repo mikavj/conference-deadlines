@@ -1,0 +1,49 @@
+[
+ {
+  "id": "uiuc-uic-womens-health-research-day-2027",
+  "name": "Women's Health Research Day 2027",
+  "short_name": "UIC Women's Health Research Day 2027",
+  "organizer": "University of Illinois College of Medicine Chicago",
+  "organizer_url": "https://chicago.medicine.uic.edu",
+  "edition_url": "https://chicago.medicine.uic.edu/news-stories/8th-annual-womens-health-research-day/",
+  "areas": [
+   "obstetrics-gynecology",
+   "medical-education"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "obstetrics",
+   "gynecology",
+   "reproductive",
+   "student-resident-research"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "University of Illinois College of Medicine Chicago",
+  "lat": 41.8708,
+  "lon": -87.6505,
+  "format": "in-person",
+  "description": "Women's Health Research Day is an annual research symposium at the University of Illinois College of Medicine Chicago with a call for abstracts open to students, fellows, faculty, and staff, judged oral abstract presentations, and a poster symposium. The eighth annual edition was held April 29, 2026, with ninety two poster submissions; the ninth edition had not been scheduled as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-29",
+   "end_date": "2026-04-29",
+   "city": "Chicago",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://chicago.medicine.uic.edu/news-stories/8th-annual-womens-health-research-day/",
+    "accessed": "2026-09-10",
+    "note": "8th annual Women's Health Research Day held April 29, 2026, keynote Dr. George Saade, 92 poster submissions, call for abstracts confirmed"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The 2027 date was not yet published; based on only one confirmed prior year, no day-level estimate is given for the next edition."
+ }
+]

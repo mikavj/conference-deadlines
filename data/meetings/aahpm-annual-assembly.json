@@ -1,0 +1,56 @@
+[
+ {
+  "id": "aahpm-annual-assembly-2027",
+  "name": "2027 Annual Assembly of Hospice and Palliative Care",
+  "short_name": "AAHPM/HPNA Assembly 2027",
+  "organizer": "American Academy of Hospice and Palliative Medicine and Hospice and Palliative Nurses Association",
+  "organizer_url": "https://aahpm.org",
+  "edition_url": "https://aahpm.org/education-events/annual-assembly/",
+  "areas": [
+   "palliative-care"
+  ],
+  "tags": [
+   "palliative-care",
+   "nursing"
+  ],
+  "start_date": "2027-03-17",
+  "end_date": "2027-03-20",
+  "city": "Pittsburgh",
+  "region_name": "Pennsylvania",
+  "country": "US",
+  "venue": "David L. Lawrence Convention Center",
+  "lat": 40.4508,
+  "lon": -79.9934,
+  "format": "in-person",
+  "description": "The 2027 Annual Assembly of Hospice and Palliative Care is the joint annual conference of the American Academy of Hospice and Palliative Medicine and the Hospice and Palliative Nurses Association, held at the David L. Lawrence Convention Center in Pittsburgh, Pennsylvania. The program covers clinical research, education, and practice guidance in hospice and palliative care.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-07-13",
+    "url": "https://aahpm.org/wp-content/uploads/2024/10/v2_2025_Subsequent_Call_Abstract_Submission_Guide.pdf",
+    "estimated": false,
+    "note": "11:59 PM CT; abstracts limited to 400 words, blinded review"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.nationalcoalitionhpc.org/event/annual-assembly-2027/",
+    "accessed": "2026-09-10",
+    "note": "dates March 17-20 2027 and David L. Lawrence Convention Center Pittsburgh venue, from a partner coalition listing"
+   },
+   {
+    "url": "https://aahpm.org/education-events/annual-assembly/",
+    "accessed": "2026-09-10",
+    "note": "official AAHPM annual assembly landing page; registration reported to open mid-October 2026 per search snippet"
+   },
+   {
+    "url": "https://aahpm.org/wp-content/uploads/2024/10/v2_2025_Subsequent_Call_Abstract_Submission_Guide.pdf",
+    "accessed": "2026-09-10",
+    "note": "abstract submission deadline of July 13 2026, 11:59 PM CT, for the 2027 Annual Assembly, via search snippet of official AAHPM document"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Dates and venue confirmed through a partner coalition listing rather than a directly fetched AAHPM page; the official aahpm.org annual assembly page did not return full readable content on direct fetch."
+ }
+]

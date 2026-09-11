@@ -1,0 +1,107 @@
+[
+ {
+  "id": "epa-congress-2027",
+  "name": "35th European Congress of Psychiatry (EPA 2027)",
+  "short_name": "EPA 2027",
+  "organizer": "European Psychiatric Association",
+  "organizer_url": "https://www.europsy.net/",
+  "edition_url": "https://epa-congress.org/",
+  "tags": [
+   "general-psychiatry",
+   "international"
+  ],
+  "start_date": "2027-04-03",
+  "end_date": "2027-04-06",
+  "city": "Florence",
+  "country": "IT",
+  "venue": "Fortezza da Basso (Firenze Fiera Congress Centre)",
+  "lat": 43.7816,
+  "lon": 11.2489,
+  "format": "hybrid",
+  "description": "The 35th European Congress of Psychiatry, organized by the European Psychiatric Association, takes place in Florence under the motto Innovating Mental Health: Towards Personalised and Integrated Care. The programme includes a dedicated track for early career psychiatrists and educational courses.",
+  "deadlines": [
+   {
+    "label": "Session proposal submission",
+    "date": "2026-05-13",
+    "url": "https://epa-congress.org/abstract-submission/",
+    "estimated": false,
+    "note": "Extended deadline 2 June 2026."
+   },
+   {
+    "label": "Abstract submission opens",
+    "date": null,
+    "url": "https://epa-congress.org/abstract-submission/",
+    "estimated": false,
+    "note": "Site states July 2026 without a specific day."
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-09-21",
+    "url": "https://epa-congress.org/abstract-submission/",
+    "estimated": false,
+    "note": "No late-breaking abstract track for EPA 2027."
+   },
+   {
+    "label": "Abstract acceptance notification",
+    "date": null,
+    "url": "https://epa-congress.org/abstract-submission/",
+    "estimated": false,
+    "note": "Site states mid December 2026."
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-01-27",
+    "url": "https://epa-congress.org/abstract-submission/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Presenter confirmation and registration",
+    "date": "2027-02-01",
+    "url": "https://epa-congress.org/abstract-submission/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-03-28",
+   "end_date": "2026-03-31",
+   "city": "Prague",
+   "deadlines": [
+    {
+     "label": "Late-breaking abstract submission",
+     "date": "2025-11-05"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://epa-congress.org/abstract-submission/",
+    "accessed": "2026-09-09",
+    "note": "Congress dates, all submission and registration deadlines, statement that late-breaking abstracts are not offered."
+   },
+   {
+    "url": "https://www.europsy.net/epa-2027/",
+    "accessed": "2026-09-09",
+    "note": "Dates, city, motto, early career programme."
+   },
+   {
+    "url": "https://www.europsy.net/past-future-congresses/",
+    "accessed": "2026-09-09",
+    "note": "2025 Madrid, 2026 Prague and 2027 Florence dates."
+   },
+   {
+    "url": "https://2026.epa-congress.org/abstract-submission/",
+    "accessed": "2026-09-09",
+    "note": "EPA 2026 late-breaking deadline and notification timing (prior edition)."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Format recorded as hybrid because the congress site references online access to key sessions and EPA 2026 offered virtual registration; confirm before publishing. Venue name from Firenze Fiera and aggregator listings, not stated on the congress home page.",
+  "region_name": "Tuscany",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

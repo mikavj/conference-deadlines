@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ESC Congress 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:esc-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270831
+SUMMARY:ESC Congress 2027
+DESCRIPTION:ESC Congress is the European Society of Cardiology's annual m
+ eeting covering cardiovascular science and clinical practice. The 2027 c
+ ongress is scheduled to take place in Milan\, Italy.\n\nDeadlines\nAbstr
+ act submission: 2027-03-01 (estimated)\n\nhttps://www.escardio.org/event
+ s/congresses/esc-congress/future-destinations/
+LOCATION:Milan\, Lombardy\, IT
+URL:https://www.escardio.org/events/congresses/esc-congress/future-destin
+ ations/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ESC Congress 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:esc-congress-2027-20270301-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Deadline: ESC Congress 2027 abstract submission (estimated)
+DESCRIPTION:Official ESC Congress 2027 abstract deadline not yet publishe
+ d as of access date\; estimated from the ESC Congress 2026 deadline patt
+ ern (abstracts closed Sunday March 1\, 2026\, noon CET).\nMeeting: ESC C
+ ongress 2027\, Aug 27 to 30\, 2027\, Milan\, Lombardy\, IT\nhttps://www.
+ escardio.org/events/congresses/esc-congress/future-destinations/
+LOCATION:Milan\, Lombardy\, IT
+URL:https://www.escardio.org/events/congresses/esc-congress/future-destin
+ ations/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESC Congress 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESC Congress 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESC Congress 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

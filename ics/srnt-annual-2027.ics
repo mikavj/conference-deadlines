@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SRNT Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:srnt-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270307
+SUMMARY:SRNT Annual Meeting 2027
+DESCRIPTION:The Society for Research on Nicotine and Tobacco holds its an
+ nual meeting in San Francisco\, California from March 3 to 6\, 2027. The
+  meeting covers nicotine and tobacco research spanning addiction medicin
+ e\, psychiatry\, and psychology.\n\nDeadlines\nAbstract submission opens
+ : 2026-06-15\nAbstract submission deadline: 2026-07-31\n\nhttps://srnt.o
+ rg/future-annual-meetings/
+LOCATION:San Francisco\, California
+URL:https://srnt.org/future-annual-meetings/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SRNT Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:srnt-annual-2027-20260731-abstract-submission-deadline@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Deadline: SRNT 2027 abstract submission deadline
+DESCRIPTION:Meeting: SRNT Annual Meeting 2027\, Mar 03 to 06\, 2027\, San
+  Francisco\, California\nhttps://srnt.org/future-annual-meetings/
+LOCATION:San Francisco\, California
+URL:https://srnt.org/future-annual-meetings/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRNT 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRNT 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRNT 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

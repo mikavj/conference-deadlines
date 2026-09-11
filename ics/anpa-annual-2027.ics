@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Neuropsychiatric Association 37th Annual Meeting 20
+ 27
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:anpa-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270321
+SUMMARY:American Neuropsychiatric Association 37th Annual Meeting 2027
+DESCRIPTION:The 37th ANPA Annual Meeting takes place March 17 to 20\, 202
+ 7\, at Hotel Albuquerque at Old Town in Albuquerque\, New Mexico. Abstra
+ cts are due October 2\, 2026 and accepted abstracts are published in The
+  Journal of Neuropsychiatry and Clinical Neurosciences.\n\nDeadlines\nAb
+ stract submission: 2026-10-02\nHotel block reservation: 2027-02-22\n\nht
+ tps://anpaonline.org/events/anpa-meeting-2027
+LOCATION:Albuquerque\, New Mexico\, Hotel Albuquerque at Old Town
+URL:https://anpaonline.org/events/anpa-meeting-2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Neuropsychiatric Association 37th Annual Meeting 202
+ 7
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:anpa-annual-2027-20261002-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Deadline: ANPA 2027 abstract submission
+DESCRIPTION:11:59 pm Pacific\; presenters must attend in person\nMeeting:
+  American Neuropsychiatric Association 37th Annual Meeting 2027\, Mar 17
+  to 20\, 2027\, Albuquerque\, New Mexico\, Hotel Albuquerque at Old Town
+ \nhttps://anpaonline.org/resources/call-for-abstracts
+LOCATION:Albuquerque\, New Mexico\, Hotel Albuquerque at Old Town
+URL:https://anpaonline.org/resources/call-for-abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANPA 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANPA 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANPA 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:anpa-annual-2027-20270222-hotel-block-reservation@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270223
+SUMMARY:Deadline: ANPA 2027 hotel block reservation
+DESCRIPTION:$189 plus $15 resort fee\; block availability limited\nMeetin
+ g: American Neuropsychiatric Association 37th Annual Meeting 2027\, Mar 
+ 17 to 20\, 2027\, Albuquerque\, New Mexico\, Hotel Albuquerque at Old To
+ wn\nhttps://anpaonline.org/events/anpa-meeting-2027
+LOCATION:Albuquerque\, New Mexico\, Hotel Albuquerque at Old Town
+URL:https://anpaonline.org/events/anpa-meeting-2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANPA 2027 hotel block reservation
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANPA 2027 hotel block reservation
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANPA 2027 hotel block reservation
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

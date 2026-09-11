@@ -1,0 +1,88 @@
+[
+ {
+  "id": "iacapap-world-congress-2028",
+  "name": "28th World Congress of IACAPAP 2028",
+  "short_name": "IACAPAP 2028",
+  "organizer": "International Association for Child and Adolescent Psychiatry and Allied Professions",
+  "organizer_url": "https://www.iacapap.org/",
+  "edition_url": "https://www.iacapap-congress.com/information/iacapap-2028.html",
+  "tags": [
+   "child-adolescent",
+   "international",
+   "global"
+  ],
+  "start_date": "2028-09-19",
+  "end_date": "2028-09-22",
+  "city": "Auckland",
+  "country": "NZ",
+  "venue": "New Zealand International Convention Centre (NZICC)",
+  "lat": -36.8491,
+  "lon": 174.7603,
+  "format": null,
+  "description": "The 28th World Congress of IACAPAP is scheduled for the New Zealand International Convention Centre in Auckland with Dr Hinemoa Elder as congress president. The 27th congress took place in Hamburg from 1 to 4 July 2026 and the 29th is planned for Kyoto in 2030.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2028-04-15",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (abstracts accepted 26 January to 16 February 2026 for a July congress, about four and a half months ahead). Not published."
+   },
+   {
+    "label": "Early registration",
+    "date": null,
+    "url": "https://www.iacapap-congress.com/information/iacapap-2028.html",
+    "estimated": false,
+    "note": "Registration has not opened; newsletter subscribers are promised early access."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-07-01",
+   "end_date": "2026-07-04",
+   "city": "Hamburg",
+   "deadlines": [
+    {
+     "label": "Early registration",
+     "date": "2026-01-20"
+    },
+    {
+     "label": "Abstract submission opens",
+     "date": "2026-01-26"
+    },
+    {
+     "label": "Abstract submission",
+     "date": "2026-02-16"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.iacapap-congress.com/information/iacapap-2028.html",
+    "accessed": "2026-09-09",
+    "note": "Dates 19 to 22 September 2028, NZICC Auckland, registration not yet open."
+   },
+   {
+    "url": "https://www.iacapap.org/events/world-congresses.html",
+    "accessed": "2026-09-09",
+    "note": "2026 Hamburg, 2028 Auckland and 2030 Kyoto congresses."
+   },
+   {
+    "url": "https://www.iacapap-congress.com/",
+    "accessed": "2026-09-09",
+    "note": "27th congress held 1 to 4 July 2026 at CCH Hamburg with over 2,000 participants."
+   },
+   {
+    "url": "https://www.iacapap-congress.com/abstract-submission/abstract-submission-guidelines.html",
+    "accessed": "2026-09-09",
+    "note": "2026 abstract window, notification end of February 2026, early bird ended 20 January 2026."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The 2026 edition has ended, so the next edition is 2028. Organizer for 2028 is CPO Hanser Service GmbH.",
+  "region_name": "Auckland",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

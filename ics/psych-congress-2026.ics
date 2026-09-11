@@ -1,0 +1,98 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Psych Congress 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:psych-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260920
+SUMMARY:Psych Congress 2026
+DESCRIPTION:A clinical psychopharmacology conference for psychiatrists\, 
+ nurse practitioners and other prescribers\, organized by HMP Global. Pos
+ ter sessions take place in the exhibit hall on September 17 and 18\, 202
+ 6.\n\nDeadlines\nPoster abstract submission opens: 2026-03-26\nPoster su
+ bmission for Latest Discoveries and Emerging Trends sessions: 2026-07-27
+ \nPoster abstract submission deadline: 2026-08-07\n\nhttps://www.hmpglob
+ alevents.com/psych-congress
+LOCATION:New Orleans\, Louisiana\, New Orleans Ernest N. Morial Conventio
+ n Center
+URL:https://www.hmpglobalevents.com/psych-congress
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Psych Congress 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psych-congress-2026-20260727-poster-submission-for-latest-discoveries
+ -and-emerging-trends-sessions@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:Deadline: Psych Congress 2026 poster submission for latest discov
+ eries and emerging trends sessions
+DESCRIPTION:9:00 AM ET. Topics: MDD\, psychotic disorders\, neurodevelopm
+ ental disorders.\nMeeting: Psych Congress 2026\, Sep 15 to 19\, 2026\, N
+ ew Orleans\, Louisiana\, New Orleans Ernest N. Morial Convention Center\
+ nhttps://www.hmpglobalevents.com/psych-congress/poster-abstracts
+LOCATION:New Orleans\, Louisiana\, New Orleans Ernest N. Morial Conventio
+ n Center
+URL:https://www.hmpglobalevents.com/psych-congress/poster-abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Psych Congress 2026 poster submission for latest di
+ scoveries and emerging trends sessions
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Psych Congress 2026 poster submission for latest di
+ scoveries and emerging trends sessions
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Psych Congress 2026 poster submission for latest di
+ scoveries and emerging trends sessions
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psych-congress-2026-20260807-poster-abstract-submission-deadline@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Deadline: Psych Congress 2026 poster abstract submission deadline
+DESCRIPTION:11:59 PM ET. Decisions sent on a rolling basis in the first w
+ eek of April through August.\nMeeting: Psych Congress 2026\, Sep 15 to 1
+ 9\, 2026\, New Orleans\, Louisiana\, New Orleans Ernest N. Morial Conven
+ tion Center\nhttps://www.hmpglobalevents.com/psych-congress/poster-abstr
+ acts
+LOCATION:New Orleans\, Louisiana\, New Orleans Ernest N. Morial Conventio
+ n Center
+URL:https://www.hmpglobalevents.com/psych-congress/poster-abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Psych Congress 2026 poster abstract submission dead
+ line
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Psych Congress 2026 poster abstract submission dead
+ line
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Psych Congress 2026 poster abstract submission dead
+ line
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

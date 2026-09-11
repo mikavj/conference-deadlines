@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:World Congress of Psychiatric Genetics 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:wcpg-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261004
+SUMMARY:World Congress of Psychiatric Genetics 2026
+DESCRIPTION:WCPG 2026 takes place September 29 to October 3\, 2026\, at t
+ he Scottish Event Campus in Glasgow under the theme Understanding Today\
+ , Translating Tomorrow. Abstract and early career award deadlines passed
+  in spring 2026\; registration is open.\n\nDeadlines\nSymposium chair su
+ bmission: 2026-03-19\nSymposium participant submission: 2026-03-26\nOral
+  and poster abstract submission: 2026-05-14\nEarly Career Investigator P
+ rogram award application: 2026-05-14\nAccepted speaker registration: 202
+ 6-07-01\n\nhttps://ispg.net/wcpg-2026/
+LOCATION:Glasgow\, Scotland\, GB\, Scottish Event Campus (SEC)
+URL:https://ispg.net/wcpg-2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:World Congress of Psychiatric Genetics 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcpg-2026-20260319-symposium-chair-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:Deadline: WCPG 2026 symposium chair submission
+DESCRIPTION:closed\nMeeting: World Congress of Psychiatric Genetics 2026\
+ , Sep 29 to Oct 03\, 2026\, Glasgow\, Scotland\, GB\, Scottish Event Cam
+ pus (SEC)\nhttps://ispg.net/wcpg-2026/
+LOCATION:Glasgow\, Scotland\, GB\, Scottish Event Campus (SEC)
+URL:https://ispg.net/wcpg-2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 symposium chair submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 symposium chair submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 symposium chair submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcpg-2026-20260326-symposium-participant-submission@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:Deadline: WCPG 2026 symposium participant submission
+DESCRIPTION:closed\nMeeting: World Congress of Psychiatric Genetics 2026\
+ , Sep 29 to Oct 03\, 2026\, Glasgow\, Scotland\, GB\, Scottish Event Cam
+ pus (SEC)\nhttps://ispg.net/wcpg-2026/
+LOCATION:Glasgow\, Scotland\, GB\, Scottish Event Campus (SEC)
+URL:https://ispg.net/wcpg-2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 symposium participant submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 symposium participant submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 symposium participant submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcpg-2026-20260514-oral-and-poster-abstract-submission@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Deadline: WCPG 2026 oral and poster abstract submission
+DESCRIPTION:closed\nMeeting: World Congress of Psychiatric Genetics 2026\
+ , Sep 29 to Oct 03\, 2026\, Glasgow\, Scotland\, GB\, Scottish Event Cam
+ pus (SEC)\nhttps://ispg.net/wcpg-2026/
+LOCATION:Glasgow\, Scotland\, GB\, Scottish Event Campus (SEC)
+URL:https://ispg.net/wcpg-2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 oral and poster abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 oral and poster abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 oral and poster abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wcpg-2026-20260514-early-career-investigator-program-award-applicatio
+ n@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:Deadline: WCPG 2026 early career investigator program award appli
+ cation
+DESCRIPTION:closed\nMeeting: World Congress of Psychiatric Genetics 2026\
+ , Sep 29 to Oct 03\, 2026\, Glasgow\, Scotland\, GB\, Scottish Event Cam
+ pus (SEC)\nhttps://ispg.net/wcpg-2026/
+LOCATION:Glasgow\, Scotland\, GB\, Scottish Event Campus (SEC)
+URL:https://ispg.net/wcpg-2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 early career investigator program award a
+ pplication
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 early career investigator program award a
+ pplication
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WCPG 2026 early career investigator program award a
+ pplication
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

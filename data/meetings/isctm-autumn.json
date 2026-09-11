@@ -1,0 +1,137 @@
+[
+ {
+  "id": "isctm-autumn-2026",
+  "name": "ISCTM 2026 Autumn Conference",
+  "short_name": "ISCTM Autumn 2026",
+  "organizer": "International Society for CNS Clinical Trials and Methodology",
+  "organizer_url": "https://isctm.org/",
+  "edition_url": "https://isctm.org/meeting/2026-autumn-conference/",
+  "tags": [
+   "clinical-trials",
+   "psychopharmacology"
+  ],
+  "start_date": "2026-09-16",
+  "end_date": "2026-09-17",
+  "city": "Philadelphia",
+  "country": "US",
+  "venue": "The Westin Philadelphia",
+  "lat": 39.952,
+  "lon": -75.1684,
+  "format": "in-person",
+  "description": "The ISCTM 2026 Autumn Conference meets September 16 to 17, 2026, at the Westin Philadelphia. Sessions cover biomarkers, novel endpoints in mood and psychosis trials, neuromodulation and digital health technologies; poster submissions closed June 18, 2026.",
+  "deadlines": [
+   {
+    "label": "Registration opens",
+    "date": null,
+    "url": "https://isctm.org/2026-autumn-conference-speakers-corner/",
+    "estimated": false,
+    "note": "late April 2026"
+   },
+   {
+    "label": "Poster submission",
+    "date": "2026-06-18",
+    "url": "https://isctm.org/upcoming-at-isctm/",
+    "estimated": false,
+    "note": "closed"
+   },
+   {
+    "label": "Speaker abstract submission",
+    "date": "2026-07-01",
+    "url": "https://isctm.org/2026-autumn-conference-speakers-corner/",
+    "estimated": false,
+    "note": "for invited session speakers"
+   },
+   {
+    "label": "Speaker slide submission",
+    "date": "2026-09-03",
+    "url": "https://isctm.org/2026-autumn-conference-speakers-corner/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://isctm.org/upcoming-at-isctm/",
+    "accessed": "2026-09-09",
+    "note": "Dates September 16 to 17, 2026, Philadelphia, poster deadline June 18, 2026"
+   },
+   {
+    "url": "https://isctm.org/2026-autumn-conference-speakers-corner/",
+    "accessed": "2026-09-09",
+    "note": "Venue The Westin Philadelphia, 99 South 17th Street; speaker deadlines"
+   },
+   {
+    "url": "https://isctm.org/",
+    "accessed": "2026-09-09",
+    "note": "Home page listing of upcoming meetings and award deadlines"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The meeting registration site (isctmautumn.societyconference.com) is JavaScript rendered; registration deadlines were not visible.",
+  "region_name": "Pennsylvania",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "isctm-autumn-2027",
+  "name": "ISCTM 2027 Autumn Conference (joint day with ECNP)",
+  "short_name": "ISCTM Autumn 2027",
+  "organizer": "International Society for CNS Clinical Trials and Methodology",
+  "organizer_url": "https://isctm.org/",
+  "edition_url": "https://isctm.org/meeting/2027-autumn-conference-includes-joint-day-with-ecnp/",
+  "tags": [
+   "clinical-trials",
+   "psychopharmacology"
+  ],
+  "start_date": "2027-09-23",
+  "end_date": "2027-09-25",
+  "city": "Barcelona",
+  "country": "ES",
+  "venue": null,
+  "lat": 41.3874,
+  "lon": 2.1686,
+  "format": "in-person",
+  "description": "ISCTM lists a 2027 Autumn Conference for September 23 to 25, 2027, in Barcelona, including a joint day with ECNP ahead of the 40th ECNP Congress. No deadlines have been published.",
+  "deadlines": [
+   {
+    "label": "Poster submission",
+    "date": "2027-06-24",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 Autumn Conference (June 18, 2026, three months before the meeting); not published"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-09-16",
+   "end_date": "2026-09-17",
+   "city": "Philadelphia",
+   "deadlines": [
+    {
+     "label": "Poster submission",
+     "date": "2026-06-18"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://isctm.org/upcoming-at-isctm/",
+    "accessed": "2026-09-09",
+    "note": "September 23 to 25, 2027, Barcelona, joint day with ECNP"
+   },
+   {
+    "url": "https://isctm.org/meetings/upcoming-meetings-sessions/",
+    "accessed": "2026-09-09",
+    "note": "Confirms dates and joint ECNP/ISCTM meeting"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "One ISCTM page gives the month as October 2027 with dates to be confirmed; the calendar page and upcoming meetings page both give September 23 to 25, 2027.",
+  "region_name": "Catalonia",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

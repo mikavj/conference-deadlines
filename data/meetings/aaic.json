@@ -1,0 +1,91 @@
+[
+ {
+  "id": "aaic-2027",
+  "name": "Alzheimer's Association International Conference 2027",
+  "short_name": "AAIC 2027",
+  "organizer": "Alzheimer's Association",
+  "organizer_url": "https://www.alz.org/",
+  "edition_url": "https://aaic.alz.org/",
+  "areas": [
+   "neurology",
+   "psychiatry",
+   "geriatrics"
+  ],
+  "tags": [
+   "dementia",
+   "geriatric",
+   "neuroscience"
+  ],
+  "start_date": "2027-07-18",
+  "end_date": "2027-07-21",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "McCormick Place",
+  "lat": 41.8514,
+  "lon": -87.6152,
+  "format": "hybrid",
+  "description": "The Alzheimer's Association International Conference brings together dementia researchers and clinicians in Chicago at McCormick Place, with an online component. The program covers Alzheimer's disease and dementia science spanning neurology, psychiatry and geriatrics, and is followed by the AAIC For All public event on July 22.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2027-01-18",
+    "url": "https://aaic.alz.org/registration.asp",
+    "estimated": true,
+    "note": "Official site states only that abstract submission opens 'fall 2026' without an exact date; this estimate applies the same roughly six month lead time observed between the AAIC 2026 abstract deadline (January 12, 2026) and the AAIC 2026 conference start (July 12, 2026)."
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-03-15",
+    "url": "https://aaic.alz.org/registration.asp",
+    "estimated": true,
+    "note": "Official site states only that registration opens 'spring 2027' without an exact date; mid March used as a placeholder estimate."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-07-12",
+   "end_date": "2026-07-15",
+   "city": "London",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-01-12"
+    },
+    {
+     "label": "Abstract submission deadline extended (ISTAART members)",
+     "date": "2026-01-16"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://aaic.alz.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms AAIC 2027 dates July 18-21, 2027, in Chicago at McCormick Place, with an online component and the AAIC For All event on July 22."
+   },
+   {
+    "url": "https://aaic.alz.org/registration.asp",
+    "accessed": "2026-09-10",
+    "note": "States abstract submissions open fall 2026 and registration opens spring 2027, without exact dates."
+   },
+   {
+    "url": "https://aaic.alz.org/abstracts/abstr-aaic.asp",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract submissions closed for AAIC 2026 and no AAIC 2027 abstract dates published yet."
+   },
+   {
+    "url": "https://www.alz.org/getmedia/27b37724-0f4c-407e-8ac6-019fd8ecc646/aaic-2026-abstract-submission-guide.pdf",
+    "accessed": "2026-09-10",
+    "note": "AAIC 2026 abstract submission guide; referenced for the 2026 cycle but text could not be fully extracted (binary PDF)."
+   },
+   {
+    "url": "https://istaart.alz.org/events/item/23/516",
+    "accessed": "2026-09-10",
+    "note": "ISTAART community listing confirming AAIC 2026 dates July 12-16, 2026 in London (used to corroborate prior_edition dates; official site page for the 2026 edition was no longer available)."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "AAIC 2027 dates, city and venue are confirmed directly on the official site. Exact 2027 abstract and registration deadlines are not yet published (official site gives only 'fall 2026' and 'spring 2027'); the two deadline entries above are estimates and are flagged estimated:true. The AAIC 2026 abstract deadline (Jan 12/16, 2026) and exact end date (July 15 vs 16) show minor discrepancies between the abstract guide PDF, search snippets and the ISTAART listing; recorded prior_edition values use the more consistently cited figures."
+ }
+]

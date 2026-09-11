@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society of Behavioral Medicine 48th Annual Meeting and Scien
+ tific Sessions 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sbm-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270418
+SUMMARY:Society of Behavioral Medicine 48th Annual Meeting and Scientific
+  Sessions 2027
+DESCRIPTION:The SBM 2027 Annual Meeting takes place April 14 to 17\, 2027
+  at the Hilton Atlanta under the theme Partnerships that Produce: Real W
+ orld Applications of Our Science. Accepted abstracts are published in a 
+ supplement of Annals of Behavioral Medicine.\n\nDeadlines\nAbstract subm
+ ission opens: 2026-07-16\nAbstract submission: 2026-09-04\nEarly registr
+ ation: 2027-02-17\n\nhttps://www.sbm.org/events/annual-meeting
+LOCATION:Atlanta\, Georgia\, Hilton Atlanta
+URL:https://www.sbm.org/events/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society of Behavioral Medicine 48th Annual Meeting and Scient
+ ific Sessions 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sbm-2027-20260904-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Deadline: SBM 2027 abstract submission
+DESCRIPTION:Extended deadline\, 11:59 p.m. ET\; applies to courses\, symp
+ osia\, panels\, papers\, research spotlights and posters\nMeeting: Socie
+ ty of Behavioral Medicine 48th Annual Meeting and Scientific Sessions 20
+ 27\, Apr 14 to 17\, 2027\, Atlanta\, Georgia\, Hilton Atlanta\nhttps://w
+ ww.sbm.org/events/annual-meeting/program/abstracts
+LOCATION:Atlanta\, Georgia\, Hilton Atlanta
+URL:https://www.sbm.org/events/annual-meeting/program/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SBM 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SBM 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SBM 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sbm-2027-20270217-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Deadline: SBM 2027 early registration
+DESCRIPTION:11:59 p.m. ET\nMeeting: Society of Behavioral Medicine 48th A
+ nnual Meeting and Scientific Sessions 2027\, Apr 14 to 17\, 2027\, Atlan
+ ta\, Georgia\, Hilton Atlanta\nhttps://www.sbm.org/events/annual-meeting
+LOCATION:Atlanta\, Georgia\, Hilton Atlanta
+URL:https://www.sbm.org/events/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SBM 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SBM 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SBM 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

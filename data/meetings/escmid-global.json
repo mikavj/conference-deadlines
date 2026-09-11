@@ -1,0 +1,76 @@
+[
+ {
+  "id": "escmid-global-2027",
+  "name": "ESCMID Global 2027",
+  "short_name": "ESCMID Global 2027",
+  "organizer": "European Society of Clinical Microbiology and Infectious Diseases",
+  "organizer_url": "https://www.escmid.org",
+  "edition_url": "https://www.escmid.org/escmid-global/",
+  "areas": [
+   "infectious-disease"
+  ],
+  "tags": [
+   "infectious-disease",
+   "clinical-trials",
+   "international",
+   "global"
+  ],
+  "start_date": "2027-04-09",
+  "end_date": "2027-04-13",
+  "city": "Stockholm",
+  "region_name": "Stockholm County",
+  "country": "SE",
+  "venue": null,
+  "lat": 59.3293,
+  "lon": 18.0686,
+  "format": null,
+  "description": "ESCMID Global is the annual congress of the European Society of Clinical Microbiology and Infectious Diseases, covering clinical microbiology, infectious diseases, and related research. The 2027 congress is held in Stockholm, Sweden.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-10-07",
+    "url": "https://www.escmid.org/escmid-global/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-11-18",
+    "url": "https://www.escmid.org/escmid-global/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Registration opens",
+    "date": "2026-10-28",
+    "url": "https://www.escmid.org/escmid-global/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-02-10",
+    "url": "https://www.escmid.org/escmid-global/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Regular registration",
+    "date": "2027-03-10",
+    "url": "https://www.escmid.org/escmid-global/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.escmid.org/escmid-global/",
+    "accessed": "2026-09-10",
+    "note": "confirms meeting dates April 9 to 13 2027, Stockholm location, abstract submission window Oct 7 to Nov 18 2026, registration opening Oct 28 2026, early registration deadline Feb 10 2027, and regular registration deadline March 10 2027"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Venue name was not stated on the fetched page."
+ }
+]

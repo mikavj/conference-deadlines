@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACC.27 Together with WCC (ACC Annual Scientific Session 2027
+ )
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acc-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270413
+SUMMARY:ACC.27 Together with WCC (ACC Annual Scientific Session 2027)
+DESCRIPTION:ACC.27 Together with WCC is the American College of Cardiolog
+ y's annual scientific session\, held jointly with the World Heart Federa
+ tion's World Congress of Cardiology. The meeting presents cardiovascular
+  research across more than 60 topic areas including cardio oncology\, di
+ gital health\, and sports cardiology.\n\nDeadlines\nAbstract submission 
+ opens: 2026-08-25\nAbstract submission: 2026-10-06\nYoung Investigator A
+ ward submission: 2026-08-14\n\nhttps://accscientificsession.acc.org/
+LOCATION:Houston\, Texas
+URL:https://accscientificsession.acc.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACC.27 Together with WCC (ACC Annual Scientific Session 2027)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acc-annual-2027-20261006-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Deadline: ACC.27 abstract submission
+DESCRIPTION:1 p.m. ET deadline\; covers abstracts\, complex clinical case
+ s\, CV Team abstracts and cases\nMeeting: ACC.27 Together with WCC (ACC 
+ Annual Scientific Session 2027)\, Apr 10 to 12\, 2027\, Houston\, Texas\
+ nhttps://accscientificsession.acc.org/Submit-Your-Science/Abstracts
+LOCATION:Houston\, Texas
+URL:https://accscientificsession.acc.org/Submit-Your-Science/Abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACC.27 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACC.27 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACC.27 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acc-annual-2027-20260814-young-investigator-award-submission@conferen
+ ce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Deadline: ACC.27 young investigator award submission
+DESCRIPTION:1 p.m. ET deadline\nMeeting: ACC.27 Together with WCC (ACC An
+ nual Scientific Session 2027)\, Apr 10 to 12\, 2027\, Houston\, Texas\nh
+ ttps://cdn.prod.website-files.com/675390e883317e3259aa3c62/683704dfc887c
+ c3743af12ed_97278362663.pdf
+LOCATION:Houston\, Texas
+URL:https://cdn.prod.website-files.com/675390e883317e3259aa3c62/683704dfc
+ 887cc3743af12ed_97278362663.pdf
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACC.27 young investigator award submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACC.27 young investigator award submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACC.27 young investigator award submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

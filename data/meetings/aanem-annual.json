@@ -1,0 +1,155 @@
+[
+ {
+  "id": "aanem-annual-2026",
+  "name": "2026 AANEM Annual Meeting",
+  "short_name": "AANEM 2026",
+  "organizer": "American Association of Neuromuscular and Electrodiagnostic Medicine",
+  "organizer_url": "https://www.aanem.org/",
+  "edition_url": "https://www.aanem.org/meetings/annual-meeting",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "neuromuscular"
+  ],
+  "start_date": "2026-09-29",
+  "end_date": "2026-10-02",
+  "city": "Orlando",
+  "region_name": "Florida",
+  "country": "US",
+  "venue": "Signia by Hilton Orlando Bonnet Creek",
+  "lat": 28.3843,
+  "lon": -81.5563,
+  "format": "in-person",
+  "description": "The American Association of Neuromuscular and Electrodiagnostic Medicine holds its annual meeting in Orlando, Florida, with sessions on electrodiagnostic medicine and neuromuscular disease. The program includes the Myasthenia Gravis Foundation of America scientific session on September 29.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-01-01",
+    "url": "https://www.aanem.org/meetings/annual-meeting/abstract-information-submission",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-03-15",
+    "url": "https://www.aanem.org/meetings/annual-meeting/abstract-information-submission",
+    "estimated": false,
+    "note": "General AANEM abstract submission deadline for the 2026 Annual Meeting; notification of acceptance by June 1, 2026."
+   },
+   {
+    "label": "MGFA Scientific Session abstract submission opens",
+    "date": "2026-03-09",
+    "url": "https://www.aanem.org/meetings/annual-meeting/abstract-information-submission",
+    "estimated": false,
+    "note": "Myasthenia Gravis Foundation of America scientific session held within the 2026 Annual Meeting."
+   },
+   {
+    "label": "MGFA Scientific Session abstract submission",
+    "date": "2026-05-01",
+    "url": "https://www.aanem.org/meetings/annual-meeting/abstract-information-submission",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-07-14",
+    "url": "https://www.aanem.org/meetings/annual-meeting/registration-information",
+    "estimated": false,
+    "note": "Early bird registration window is June 1 to July 14, 2026; date shown is the close of the early bird window."
+   },
+   {
+    "label": "Regular registration",
+    "date": "2026-08-31",
+    "url": "https://www.aanem.org/meetings/annual-meeting/registration-information",
+    "estimated": false,
+    "note": "Regular registration window is July 15 to August 31, 2026; late registration fees apply September 1 through October 2, 2026."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aanem.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2026 Annual Meeting dates and Orlando location."
+   },
+   {
+    "url": "https://www.aanem.org/meetings/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Confirms venue, registration opening June 1, 2026, and late registration window."
+   },
+   {
+    "url": "https://www.aanem.org/meetings/annual-meeting/abstract-information-submission",
+    "accessed": "2026-09-10",
+    "note": "Confirms MGFA Scientific Session abstract window; general 2026 track already closed at time of access."
+   },
+   {
+    "url": "https://www.aanem.org/meetings/annual-meeting/registration-information",
+    "accessed": "2026-09-10",
+    "note": "Confirms early bird, regular, and late registration windows."
+   },
+   {
+    "url": "https://r.jina.ai/https://www.newswise.com/articles/abstract-submission-open-for-2026-aanem-annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Fetched via r.jina.ai proxy after direct fetch was blocked (403); confirms general abstract opening January 1, 2026, deadline March 15, 2026, and notification June 1, 2026."
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "id": "aanem-annual-2027",
+  "name": "2027 AANEM Annual Meeting",
+  "short_name": "AANEM 2027",
+  "organizer": "American Association of Neuromuscular and Electrodiagnostic Medicine",
+  "organizer_url": "https://www.aanem.org/",
+  "edition_url": "https://www.aanem.org/meetings/future-annual-meetings",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "neuromuscular"
+  ],
+  "start_date": "2027-10-27",
+  "end_date": "2027-10-30",
+  "city": "San Antonio",
+  "region_name": "Texas",
+  "country": "US",
+  "venue": null,
+  "lat": 29.4241,
+  "lon": -98.4936,
+  "format": "in-person",
+  "description": "The American Association of Neuromuscular and Electrodiagnostic Medicine holds its annual meeting in San Antonio, Texas. The program covers electrodiagnostic medicine and neuromuscular disease research and practice.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2027-01-01",
+    "url": "https://www.aanem.org/meetings/annual-meeting/abstract-information-submission",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2027-03-15",
+    "url": "https://www.aanem.org/meetings/annual-meeting/abstract-information-submission",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aanem.org/meetings/future-annual-meetings",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 Annual Meeting dates October 27-30, 2027, in San Antonio, Texas."
+   },
+   {
+    "url": "https://www.aanem.org/meetings/annual-meeting/abstract-information-submission",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 abstract submission window January 1 to March 15, 2027 (the officially displayed current cycle)."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Venue not yet published; coordinates are for San Antonio city center. No registration deadlines published yet for this edition."
+ }
+]

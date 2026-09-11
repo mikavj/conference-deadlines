@@ -1,0 +1,85 @@
+[
+ {
+  "id": "rcpsych-international-congress-2027",
+  "name": "RCPsych International Congress 2027",
+  "short_name": "RCPsych 2027",
+  "organizer": "Royal College of Psychiatrists",
+  "organizer_url": "https://www.rcpsych.ac.uk/",
+  "edition_url": "https://www.rcpsych.ac.uk/events/congress",
+  "tags": [
+   "general-psychiatry",
+   "international",
+   "education",
+   "psychopharmacology"
+  ],
+  "start_date": "2027-06-14",
+  "end_date": "2027-06-17",
+  "city": "Glasgow",
+  "country": "GB",
+  "venue": "Scottish Event Campus (SEC)",
+  "lat": 55.8607,
+  "lon": -4.288,
+  "format": "in-person",
+  "description": "The Royal College of Psychiatrists holds its International Congress in Glasgow from Monday 14 to Thursday 17 June 2027. The main programme is built from submitted 75 minute session proposals across streams including clinical practice, new science, psychopharmacology, education and training, and policy.",
+  "deadlines": [
+   {
+    "label": "Session proposal submission",
+    "date": "2026-10-25",
+    "url": "https://www.rcpsych.ac.uk/events/congress/international-congress-2027-submissions",
+    "estimated": false,
+    "note": "Midnight BST, Sunday 25 October 2026; main programme sessions only."
+   },
+   {
+    "label": "Proposal outcome notification",
+    "date": null,
+    "url": "https://www.rcpsych.ac.uk/events/congress/international-congress-2027-submissions",
+    "estimated": false,
+    "note": "Site states no later than mid January 2027."
+   },
+   {
+    "label": "Poster abstract submission",
+    "date": null,
+    "url": "https://www.rcpsych.ac.uk/events/congress/international-congress-2027-submissions",
+    "estimated": false,
+    "note": "Separate call for posters and the Cultural Fringe opens later in the year; date not published."
+   },
+   {
+    "label": "Early registration",
+    "date": null,
+    "url": null,
+    "estimated": false,
+    "note": "Not yet published."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-15",
+   "end_date": "2026-06-18",
+   "city": "Liverpool",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.rcpsych.ac.uk/events/congress",
+    "accessed": "2026-09-09",
+    "note": "Save the date text: 14 to 17 June 2027 at the Scottish Exhibition Centre, Glasgow; proposal deadline 25 October 2026."
+   },
+   {
+    "url": "https://www.rcpsych.ac.uk/events/congress/international-congress-2027-submissions",
+    "accessed": "2026-09-09",
+    "note": "Submission guidance, in person format, deadline midnight BST 25 October, outcome by mid January 2027."
+   },
+   {
+    "url": "https://www.visitliverpool.com/event/rcpsych-international-congress-2026/71886101/",
+    "accessed": "2026-09-09",
+    "note": "2026 edition at ACC Liverpool, 15 to 18 June 2026 (prior edition, third party listing)."
+   }
+  ],
+  "confidence": "high",
+  "notes": "The College refers to the venue as the Scottish Exhibition Centre; the site is branded Scottish Event Campus. Speakers from outside the UK may be considered for prerecorded presentations.",
+  "region_name": "Scotland",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

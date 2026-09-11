@@ -1,0 +1,72 @@
+[
+ {
+  "id": "nida-international-forum-2027",
+  "name": "2027 NIDA International Forum",
+  "short_name": "NIDA International Forum 2027",
+  "organizer": "National Institute on Drug Abuse, International Program",
+  "organizer_url": "https://nida.nih.gov/international",
+  "edition_url": "https://nida.nih.gov/international/international-forum",
+  "tags": [
+   "addiction",
+   "international",
+   "global"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "The NIDA International Forum is an annual June meeting for substance use researchers, traditionally held alongside the College on Problems of Drug Dependence annual scientific meeting, with a poster session and no registration fee. The 2026 Forum was held virtually on 3 to 4 June 2026; the 2027 Forum has not been announced.",
+  "deadlines": [
+   {
+    "label": "Poster abstract submission",
+    "date": "2027-03-22",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 deadline (22 March 2026 for a 3 to 4 June forum). Not published."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-03",
+   "end_date": "2026-06-04",
+   "city": "Virtual",
+   "deadlines": [
+    {
+     "label": "Registration opens",
+     "date": "2026-01-27"
+    },
+    {
+     "label": "Poster abstract submission",
+     "date": "2026-03-22"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.issup.net/events/calendar/2026-06/2026-nida-international-forum",
+    "accessed": "2026-09-09",
+    "note": "2026 Forum 3 to 4 June 2026, online, abstract deadline 22 March 2026, registration opened 27 January 2026."
+   },
+   {
+    "url": "https://cpdd.org/event/2026-nida-international-forum-building-international-collaborative-research-in-drug-use-and-addiction/",
+    "accessed": "2026-09-09",
+    "note": "2026 Forum virtual, no registration fee, link to 2026nidaintlforum.vfairs.com."
+   },
+   {
+    "url": "https://nida.nih.gov/international/international-forum",
+    "accessed": "2026-09-09",
+    "note": "NIDA International Forum page (returned no readable content during research)."
+   }
+  ],
+  "confidence": "low",
+  "notes": "CPDD's 89th Annual Scientific Meeting is scheduled for 26 to 30 June 2027 in Toronto; if the Forum returns to an in person format it would likely be held alongside it, but no announcement exists.",
+  "region_name": null,
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

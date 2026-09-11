@@ -1,0 +1,167 @@
+[
+ {
+  "id": "isam-annual-2026",
+  "name": "28th Annual Global ISAM Congress (ISAM 2026)",
+  "short_name": "ISAM 2026",
+  "organizer": "International Society of Addiction Medicine (ISAM)",
+  "organizer_url": "https://isamweb.org/",
+  "edition_url": "https://www.isam2026rotterdam.org/",
+  "areas": [
+   "addiction-medicine",
+   "psychiatry"
+  ],
+  "tags": [
+   "addiction",
+   "general-psychiatry",
+   "international",
+   "global"
+  ],
+  "start_date": "2026-10-01",
+  "end_date": "2026-10-03",
+  "city": "Rotterdam",
+  "region_name": "South Holland",
+  "country": "NL",
+  "venue": "De Doelen",
+  "lat": 51.9198,
+  "lon": 4.4736,
+  "format": "in-person",
+  "description": "The International Society of Addiction Medicine holds its 28th annual global congress in Rotterdam, Netherlands, from October 1 to 3, 2026, at the De Doelen venue. The program is organized around the theme of improving addiction treatment outcomes by addressing established and emerging challenges in the field.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2025-10-01",
+    "url": "https://isamweb.org/annual/",
+    "estimated": true,
+    "note": "isamweb.org states only that submission opened in October 2025 without a specific day; day of month is an estimate."
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-03-31",
+    "url": "https://www.isam2026rotterdam.org/abstract-information/",
+    "estimated": false,
+    "note": "Stated on the official congress site as Tuesday, 31 March 2026, applying to symposium, workshop, oral presentation and poster submissions. isamweb.org/annual/ lists a conflicting close date of March 21, 2026 for the same deadline; the official congress site (isam2026rotterdam.org) is treated as authoritative since its stated weekday matches the calendar date."
+   },
+   {
+    "label": "Abstract notification of review outcomes",
+    "date": "2026-06-01",
+    "url": "https://www.isam2026rotterdam.org/abstract-information/",
+    "estimated": true,
+    "note": "Page states notifications go out early June 2026 without a specific day; date shown is an estimate."
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-06-30",
+    "url": "https://www.isam2026rotterdam.org/registration/",
+    "estimated": false,
+    "note": "Early registration rate available until 30 June 2026."
+   },
+   {
+    "label": "Travel award application",
+    "date": "2026-06-01",
+    "url": "https://isamweb.org/annual/",
+    "estimated": false,
+    "note": "Grants-in-Aid travel award application deadline per isamweb.org."
+   },
+   {
+    "label": "Registration deadline for presenting authors",
+    "date": "2026-07-01",
+    "url": "https://www.isam2026rotterdam.org/registration/",
+    "estimated": false,
+    "note": "Presenting authors must be registered by Tuesday, 1 July 2026 for their abstract to remain in the program."
+   },
+   {
+    "label": "Late-breaking poster submission opens",
+    "date": "2026-07-01",
+    "url": "https://www.isam2026rotterdam.org/abstract-information/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-09-01",
+    "url": "https://www.isam2026rotterdam.org/abstract-information/",
+    "estimated": false,
+    "note": "Late-breaking poster submission deadline, Tuesday, 1 September 2026."
+   },
+   {
+    "label": "Late-breaking presenter registration deadline",
+    "date": "2026-09-20",
+    "url": "https://www.isam2026rotterdam.org/registration/",
+    "estimated": false,
+    "note": "Sunday, 20 September 2026."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.isam2026rotterdam.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms conference dates, city, venue, country and in-person format."
+   },
+   {
+    "url": "https://www.isam2026rotterdam.org/abstract-information/",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract submission deadline, notification timing, and late-breaking poster submission window."
+   },
+   {
+    "url": "https://www.isam2026rotterdam.org/registration/",
+    "accessed": "2026-09-10",
+    "note": "Confirms early registration deadline, presenter registration deadlines, and late registration start date."
+   },
+   {
+    "url": "https://isamweb.org/annual/",
+    "accessed": "2026-09-10",
+    "note": "Organizer overview page; confirms abstract opening month and Grants-in-Aid travel deadline, but lists a conflicting abstract close date of March 21, 2026."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Minor discrepancy between the official congress site (isam2026rotterdam.org, abstract deadline 31 March 2026, weekday-consistent) and the parent society page (isamweb.org/annual/, which states 21 March 2026). The 31 March 2026 date was used as primary. Maintainer should periodically recheck isam2026rotterdam.org for corrections."
+ },
+ {
+  "id": "isam-annual-2027",
+  "name": "Annual Global ISAM Congress 2027",
+  "short_name": "ISAM 2027",
+  "organizer": "International Society of Addiction Medicine (ISAM)",
+  "organizer_url": "https://isamweb.org/",
+  "edition_url": "https://isamweb.org/annual/",
+  "areas": [
+   "addiction-medicine",
+   "psychiatry"
+  ],
+  "tags": [
+   "addiction",
+   "general-psychiatry",
+   "international",
+   "global"
+  ],
+  "start_date": "2027-08-26",
+  "end_date": "2027-08-28",
+  "city": "Seattle",
+  "region_name": "Washington",
+  "country": "US",
+  "venue": null,
+  "lat": 47.6062,
+  "lon": -122.3321,
+  "format": "in-person",
+  "description": "The International Society of Addiction Medicine plans its next annual global congress in Seattle, United States, from August 26 to 28, 2027. Related events listed on the same schedule include an Innovation Day and a Women and Addiction Day on August 25, 2027, and a board meeting on August 24, 2027.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2027-02-26",
+    "url": "https://isamweb.org/annual/",
+    "estimated": true,
+    "note": "No 2027 submission deadline has been published as of the access date. This date projects the 2026 cycle's interval (abstract deadline fell approximately six months before the congress start) onto the 2027 congress date and should be treated as a rough placeholder only."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://isamweb.org/annual/",
+    "accessed": "2026-09-10",
+    "note": "Only source found with 2027 Seattle congress dates (Aug 26 to 28, 2027, plus satellite Innovation Day, Women and Addiction Day, and Board meeting dates); no dedicated 2027 congress website exists yet and no submission or registration deadlines are listed."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Event dates and city are published on the parent isamweb.org site but there is not yet a dedicated ISAM 2027 congress website (unlike the 2026 edition, which has isam2026rotterdam.org). Venue is not yet announced, so lat/lon use the Seattle city center. All deadline information is an estimate pending an official call for abstracts; maintainer should watch isamweb.org/annual/ for a dedicated 2027 site and real deadlines, expected to be announced roughly a year in advance based on the 2026 pattern."
+ }
+]

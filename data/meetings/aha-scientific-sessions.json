@@ -1,0 +1,82 @@
+[
+ {
+  "id": "aha-scientific-sessions-2026",
+  "name": "American Heart Association Scientific Sessions 2026",
+  "short_name": "AHA Scientific Sessions 2026",
+  "organizer": "American Heart Association",
+  "organizer_url": "https://www.heart.org",
+  "edition_url": "https://professional.heart.org/en/meetings/scientific-sessions",
+  "areas": [
+   "cardiology"
+  ],
+  "tags": [
+   "cardiovascular",
+   "clinical-trials"
+  ],
+  "start_date": "2026-11-06",
+  "end_date": "2026-11-09",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "McCormick Place Convention Center",
+  "lat": 41.8517,
+  "lon": -87.6167,
+  "format": null,
+  "description": "Scientific Sessions is the American Heart Association's flagship annual meeting for cardiovascular research and clinical science. The 2026 meeting is held at McCormick Place Convention Center in Chicago.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-06-08",
+    "url": "https://professional.heart.org/en/meetings/scientific-sessions/submit-science",
+    "estimated": false,
+    "note": "6 p.m. CT deadline"
+   },
+   {
+    "label": "Late-breaking science submission opens",
+    "date": "2026-06-22",
+    "url": "https://professional.heart.org/en/meetings/scientific-sessions/programming/late-breaking-science",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking science submission",
+    "date": "2026-08-24",
+    "url": "https://professional.heart.org/en/meetings/scientific-sessions/programming/late-breaking-science",
+    "estimated": false,
+    "note": "6 p.m. CT deadline"
+   },
+   {
+    "label": "Travel award application",
+    "date": "2026-08-21",
+    "url": "https://professional.heart.org/en/meetings/scientific-sessions/awards",
+    "estimated": false,
+    "note": "6 p.m. CT deadline; requires active AHA professional membership by Aug 19, 2026"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://professional.heart.org/en/meetings/scientific-sessions/submit-science",
+    "accessed": "2026-09-10",
+    "note": "General abstract deadline of June 8, 2026, 6pm CT"
+   },
+   {
+    "url": "https://sessions.hub.heart.org/daily-coverage/article/22954779/save-the-date-and-meet-us-in-chicago",
+    "accessed": "2026-09-10",
+    "note": "Confirms Nov 6-9, 2026 dates and Chicago location"
+   },
+   {
+    "url": "https://exhibitatsessions.org/scientific-sessions/dates-deadlines-forms/",
+    "accessed": "2026-09-10",
+    "note": "Exhibit hall schedule (Nov 7-9 hall open) within the Nov 6-9 conference window"
+   },
+   {
+    "url": "https://professional.heart.org/en/meetings/scientific-sessions/programming/late-breaking-science",
+    "accessed": "2026-09-10",
+    "note": "Late-breaking science submission window"
+   }
+  ],
+  "confidence": "high",
+  "notes": "professional.heart.org returned HTTP 403 on some direct fetches; dates and deadlines were corroborated across multiple official AHA subpages and search snippets. 2027 edition not included: no official AHA date or city has been published, only an unverified aggregator claim of 'November 2027, location TBD.'"
+ }
+]

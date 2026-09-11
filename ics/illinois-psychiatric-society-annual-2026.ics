@@ -1,0 +1,133 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Illinois Psychiatric Society Annual Meeting 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:illinois-psychiatric-society-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Illinois Psychiatric Society Annual Meeting 2026
+DESCRIPTION:One day scientific meeting of the APA district branch for Ill
+ inois\, held in the Chicago suburbs with a themed program\, a trainee po
+ ster competition and an awards dinner. The 2026 theme is The Elephant in
+  the Waiting Room: Confronting Today's Psychiatric Challenges.\n\nDeadli
+ nes\nEarly bird registration: 2026-08-28\nRegistration cancellation dead
+ line: 2026-09-15\nStandard registration deadline: 2026-09-18\n\nhttps://
+ www.illinoispsychiatricsociety.org/events-awardsupcoming-events-1/annual
+ -meeting-2026
+LOCATION:Countryside\, Illinois\, William Tell Hotel (formerly Holiday In
+ n Countryside)
+URL:https://www.illinoispsychiatricsociety.org/events-awardsupcoming-even
+ ts-1/annual-meeting-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Illinois Psychiatric Society Annual Meeting 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:illinois-psychiatric-society-annual-2026-20260828-early-bird-registra
+ tion@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Deadline: IPS Annual Meeting 2026 early bird registration
+DESCRIPTION:Meeting: Illinois Psychiatric Society Annual Meeting 2026\, O
+ ct 3\, 2026\, Countryside\, Illinois\, William Tell Hotel (formerly Holi
+ day Inn Countryside)\nhttps://www.illinoispsychiatricsociety.org/events-
+ awardsupcoming-events-1/annual-meeting-2026
+LOCATION:Countryside\, Illinois\, William Tell Hotel (formerly Holiday In
+ n Countryside)
+URL:https://www.illinoispsychiatricsociety.org/events-awardsupcoming-even
+ ts-1/annual-meeting-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IPS Annual Meeting 2026 early bird registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IPS Annual Meeting 2026 early bird registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IPS Annual Meeting 2026 early bird registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:illinois-psychiatric-society-annual-2026-20260915-registration-cancel
+ lation-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Deadline: IPS Annual Meeting 2026 registration cancellation deadl
+ ine
+DESCRIPTION:Meeting: Illinois Psychiatric Society Annual Meeting 2026\, O
+ ct 3\, 2026\, Countryside\, Illinois\, William Tell Hotel (formerly Holi
+ day Inn Countryside)\nhttps://www.illinoispsychiatricsociety.org/events-
+ awardsupcoming-events-1/annual-meeting-2026
+LOCATION:Countryside\, Illinois\, William Tell Hotel (formerly Holiday In
+ n Countryside)
+URL:https://www.illinoispsychiatricsociety.org/events-awardsupcoming-even
+ ts-1/annual-meeting-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IPS Annual Meeting 2026 registration cancellation d
+ eadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IPS Annual Meeting 2026 registration cancellation d
+ eadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IPS Annual Meeting 2026 registration cancellation d
+ eadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:illinois-psychiatric-society-annual-2026-20260918-standard-registrati
+ on-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Deadline: IPS Annual Meeting 2026 standard registration deadline
+DESCRIPTION:Poster presenters must be registered by the final deadline or
+  their poster is disqualified.\nMeeting: Illinois Psychiatric Society An
+ nual Meeting 2026\, Oct 3\, 2026\, Countryside\, Illinois\, William Tell
+  Hotel (formerly Holiday Inn Countryside)\nhttps://www.illinoispsychiatr
+ icsociety.org/events-awardsupcoming-events-1/annual-meeting-2026
+LOCATION:Countryside\, Illinois\, William Tell Hotel (formerly Holiday In
+ n Countryside)
+URL:https://www.illinoispsychiatricsociety.org/events-awardsupcoming-even
+ ts-1/annual-meeting-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IPS Annual Meeting 2026 standard registration deadl
+ ine
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IPS Annual Meeting 2026 standard registration deadl
+ ine
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IPS Annual Meeting 2026 standard registration deadl
+ ine
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

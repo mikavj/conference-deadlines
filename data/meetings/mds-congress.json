@@ -1,0 +1,122 @@
+[
+ {
+  "id": "mds-congress-2026",
+  "name": "MDS International Congress of Parkinson's Disease and Movement Disorders 2026",
+  "short_name": "MDS Congress 2026",
+  "organizer": "International Parkinson and Movement Disorder Society (MDS)",
+  "organizer_url": "https://www.movementdisorders.org",
+  "edition_url": "https://www.mdscongress.org/",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "movement-disorders"
+  ],
+  "start_date": "2026-10-04",
+  "end_date": "2026-10-08",
+  "city": "Seoul",
+  "region_name": null,
+  "country": "KR",
+  "venue": "COEX Convention and Exhibition Center",
+  "lat": 37.5115,
+  "lon": 127.0595,
+  "format": "in-person",
+  "description": "The International Congress of Parkinson's Disease and Movement Disorders is the annual scientific meeting of the International Parkinson and Movement Disorder Society, covering research and clinical care in Parkinson's disease and other movement disorders. The 2026 congress is scheduled for October 4 to 8, 2026, at the COEX Convention and Exhibition Center in Seoul, South Korea, and has not yet concluded as of September 10, 2026.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2025-12-15",
+    "url": "https://www.mdscongress.org/Abstracts/Submissions",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-03-15",
+    "url": "https://www.mdscongress.org/Abstracts/Submissions",
+    "estimated": false,
+    "note": "Already past as of the 2026-09-10 research date; recorded for completeness since the congress edition itself has not yet concluded."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.mdscongress.org/About/Past-future",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2026 Seoul dates (October 4-8, 2026) and 2027 Amsterdam dates."
+   },
+   {
+    "url": "https://www.mdscongress.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms COEX Convention and Exhibition Center venue and address for the 2026 Seoul congress."
+   },
+   {
+    "url": "https://www.mdscongress.org/Abstracts/Submissions",
+    "accessed": "2026-09-10",
+    "note": "Confirms regular abstract submission opening (December 15, 2025) and deadline (March 15, 2026), and notes acceptance notifications go out in May 2026 without a specific day."
+   },
+   {
+    "url": "https://www.mdscongress.org/Abstracts/Late-breaking",
+    "accessed": "2026-09-10",
+    "note": "States that 2026 late-breaking abstract submissions are closed but does not give the original opening or deadline dates; only mentions a September 23, 2026 final-presentation upload deadline for accepted late-breaking speakers."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Congress dates and venue for 2026 are confirmed directly on official mdscongress.org pages. Notification date is stated only as 'May 2026' without a specific day, so it is not listed as a discrete deadline. Late-breaking abstract original submission window dates could not be found on the current site (only a closure notice and a later presentation-upload deadline were available) and are left out rather than guessed."
+ },
+ {
+  "id": "mds-congress-2027",
+  "name": "MDS International Congress of Parkinson's Disease and Movement Disorders 2027",
+  "short_name": "MDS Congress 2027",
+  "organizer": "International Parkinson and Movement Disorder Society (MDS)",
+  "organizer_url": "https://www.movementdisorders.org",
+  "edition_url": "https://www.mdscongress.org/About/Past-future",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "movement-disorders"
+  ],
+  "start_date": "2027-09-26",
+  "end_date": "2027-09-30",
+  "city": "Amsterdam",
+  "region_name": "North Holland",
+  "country": "NL",
+  "venue": null,
+  "lat": 52.3676,
+  "lon": 4.9041,
+  "format": "in-person",
+  "description": "The International Congress of Parkinson's Disease and Movement Disorders is the annual scientific meeting of the International Parkinson and Movement Disorder Society, covering research and clinical care in Parkinson's disease and other movement disorders. The 2027 congress is scheduled for September 26 to 30, 2027, in Amsterdam, Netherlands.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-12-08",
+    "url": "https://www.mdscongress.org/Abstracts/Submissions",
+    "estimated": true,
+    "note": "Estimated by applying the same day-offset before the congress start date used for the 2026 Seoul congress (abstracts opened December 15, 2025, 293 days before the October 4, 2026 start). Official 2027 abstract dates are not yet published."
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2027-03-07",
+    "url": "https://www.mdscongress.org/Abstracts/Submissions",
+    "estimated": true,
+    "note": "Estimated by applying the same day-offset before the congress start date used for the 2026 Seoul congress (abstract deadline was March 15, 2026, 203 days before the October 4, 2026 start). Official 2027 abstract dates are not yet published."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.mdscongress.org/About/Past-future",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 congress dates (September 26-30, 2027) and city (Amsterdam, Netherlands)."
+   },
+   {
+    "url": "https://www.mdscongress.org/Abstracts/Submissions",
+    "accessed": "2026-09-10",
+    "note": "Source of the 2026 abstract-opening and deadline pattern used to estimate 2027 abstract dates."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Congress dates and city for 2027 are confirmed directly on the official MDS Past & Future Congresses page (high confidence for those facts). No abstract submission deadlines for 2027 have been published yet; the two deadline entries above are estimated from the 2026 Seoul congress's day-offset pattern and marked estimated, which is why overall confidence is set to medium. Venue name for the Amsterdam congress was not found on the pages consulted, so it is left null and coordinates default to the Amsterdam city center."
+ }
+]

@@ -1,0 +1,53 @@
+[
+ {
+  "id": "aasld-liver-meeting-2026",
+  "name": "AASLD The Liver Meeting 2026",
+  "short_name": "The Liver Meeting 2026",
+  "organizer": "American Association for the Study of Liver Diseases",
+  "organizer_url": "https://www.aasld.org",
+  "edition_url": "https://www.aasld.org/tlm-26/home",
+  "areas": [
+   "gastroenterology"
+  ],
+  "tags": [
+   "hepatology",
+   "clinical-trials"
+  ],
+  "start_date": "2026-11-05",
+  "end_date": "2026-11-09",
+  "city": "Denver",
+  "region_name": "Colorado",
+  "country": "US",
+  "venue": "Colorado Convention Center",
+  "lat": 39.7439,
+  "lon": -104.9942,
+  "format": null,
+  "description": "The Liver Meeting is the American Association for the Study of Liver Diseases' annual scientific meeting on hepatology. The 2026 meeting is held in Denver, Colorado, beginning one day earlier than usual to accommodate the Diwali holiday.",
+  "deadlines": [
+   {
+    "label": "Case report and academic debate submission",
+    "date": "2026-08-31",
+    "url": "https://www.aasld.org/tlm-26/home",
+    "estimated": false,
+    "note": "Deadline for case report and academic debate applications; the standard scientific abstract deadline was not confirmed on this page"
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-08-26",
+    "url": "https://www.aasld.org/tlm-26/home",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aasld.org/tlm-26/home",
+    "accessed": "2026-09-10",
+    "note": "confirms meeting dates Nov 5 to 9 2026, Denver location, Colorado Convention Center venue, case report/academic debate deadline Aug 31 2026, and early registration deadline Aug 26 2026"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The standard scientific abstract submission deadline, distinct from case reports and academic debate applications, was not found on the fetched page and should be verified directly with AASLD; it is typically earlier in the summer. No 2027 Liver Meeting information was found."
+ }
+]

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 AAAAI Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aaaai-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270223
+SUMMARY:2027 AAAAI Annual Meeting
+DESCRIPTION:The AAAAI Annual Meeting is the main scientific conference of
+  the American Academy of Allergy\, Asthma and Immunology. The 2027 editi
+ on is scheduled for February 19 to 22 in New Orleans\, Louisiana.\n\nhtt
+ ps://annualmeeting.aaaai.org/
+LOCATION:New Orleans\, Louisiana
+URL:https://annualmeeting.aaaai.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 AAAAI Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:35th European Congress of Psychiatry (EPA 2027)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:epa-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270407
+SUMMARY:35th European Congress of Psychiatry (EPA 2027)
+DESCRIPTION:The 35th European Congress of Psychiatry\, organized by the E
+ uropean Psychiatric Association\, takes place in Florence under the mott
+ o Innovating Mental Health: Towards Personalised and Integrated Care. Th
+ e programme includes a dedicated track for early career psychiatrists an
+ d educational courses.\n\nDeadlines\nSession proposal submission: 2026-0
+ 5-13\nAbstract submission: 2026-09-21\nEarly registration: 2027-01-27\nP
+ resenter confirmation and registration: 2027-02-01\n\nhttps://epa-congre
+ ss.org/
+LOCATION:Florence\, Tuscany\, IT\, Fortezza da Basso (Firenze Fiera Congr
+ ess Centre)
+URL:https://epa-congress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:35th European Congress of Psychiatry (EPA 2027)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:epa-congress-2027-20260513-session-proposal-submission@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:Deadline: EPA 2027 session proposal submission
+DESCRIPTION:Extended deadline 2 June 2026.\nMeeting: 35th European Congre
+ ss of Psychiatry (EPA 2027)\, Apr 03 to 06\, 2027\, Florence\, Tuscany\,
+  IT\, Fortezza da Basso (Firenze Fiera Congress Centre)\nhttps://epa-con
+ gress.org/abstract-submission/
+LOCATION:Florence\, Tuscany\, IT\, Fortezza da Basso (Firenze Fiera Congr
+ ess Centre)
+URL:https://epa-congress.org/abstract-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 session proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 session proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 session proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:epa-congress-2027-20260921-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Deadline: EPA 2027 abstract submission
+DESCRIPTION:No late-breaking abstract track for EPA 2027.\nMeeting: 35th 
+ European Congress of Psychiatry (EPA 2027)\, Apr 03 to 06\, 2027\, Flore
+ nce\, Tuscany\, IT\, Fortezza da Basso (Firenze Fiera Congress Centre)\n
+ https://epa-congress.org/abstract-submission/
+LOCATION:Florence\, Tuscany\, IT\, Fortezza da Basso (Firenze Fiera Congr
+ ess Centre)
+URL:https://epa-congress.org/abstract-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:epa-congress-2027-20270127-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Deadline: EPA 2027 early registration
+DESCRIPTION:Meeting: 35th European Congress of Psychiatry (EPA 2027)\, Ap
+ r 03 to 06\, 2027\, Florence\, Tuscany\, IT\, Fortezza da Basso (Firenze
+  Fiera Congress Centre)\nhttps://epa-congress.org/abstract-submission/
+LOCATION:Florence\, Tuscany\, IT\, Fortezza da Basso (Firenze Fiera Congr
+ ess Centre)
+URL:https://epa-congress.org/abstract-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:epa-congress-2027-20270201-presenter-confirmation-and-registration@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Deadline: EPA 2027 presenter confirmation and registration
+DESCRIPTION:Meeting: 35th European Congress of Psychiatry (EPA 2027)\, Ap
+ r 03 to 06\, 2027\, Florence\, Tuscany\, IT\, Fortezza da Basso (Firenze
+  Fiera Congress Centre)\nhttps://epa-congress.org/abstract-submission/
+LOCATION:Florence\, Tuscany\, IT\, Fortezza da Basso (Firenze Fiera Congr
+ ess Centre)
+URL:https://epa-congress.org/abstract-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 presenter confirmation and registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 presenter confirmation and registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: EPA 2027 presenter confirmation and registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

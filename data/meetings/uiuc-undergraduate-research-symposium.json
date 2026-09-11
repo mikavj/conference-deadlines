@@ -1,0 +1,62 @@
+[
+ {
+  "id": "uiuc-undergraduate-research-symposium-2027",
+  "name": "University of Illinois Undergraduate Research Symposium 2027",
+  "short_name": "URS 2027",
+  "organizer": "Office of Undergraduate Research, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://undergradresearch.illinois.edu",
+  "edition_url": "https://undergradresearch.illinois.edu/symposium.html",
+  "areas": [
+   "medical-education",
+   "public-health"
+  ],
+  "tags": [
+   "uiuc",
+   "education",
+   "student-resident-research",
+   "illinois"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Urbana",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "University of Illinois Urbana-Champaign campus (various locations)",
+  "lat": 40.102,
+  "lon": -88.2272,
+  "format": "in-person",
+  "description": "The Undergraduate Research Symposium is the signature poster and oral presentation event of Undergraduate Research Week, open to undergraduates across all disciplines including pre-health and biomedical research. The 2026 symposium was held April 30, 2026 with an application deadline in early March 2026, and 2027 dates had not been published as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-30",
+   "end_date": "2026-04-30",
+   "city": "Urbana",
+   "deadlines": [
+    {
+     "label": "Application deadline",
+     "date": "2026-03-13"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://undergradresearch.illinois.edu/symposium.html",
+    "accessed": "2026-09-10",
+    "note": "official symposium page"
+   },
+   {
+    "url": "https://calendars.illinois.edu/detail/6178?eventId=33549889",
+    "accessed": "2026-09-10",
+    "note": "confirms April 30, 2026 symposium date"
+   },
+   {
+    "url": "https://blogs.illinois.edu/view/6204/940674164",
+    "accessed": "2026-09-10",
+    "note": "search-indexed post referencing the 2026 application deadline"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Two different application deadline dates were found across search snippets for the 2026 symposium (March 1 and March 13); March 13 is used here as the more specific citation, but the maintainer should verify against the official application form at appserv7.admin.uillinois.edu before relying on it."
+ }
+]

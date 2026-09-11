@@ -1,0 +1,135 @@
+[
+ {
+  "id": "apa-annual-2027",
+  "name": "American Psychiatric Association Annual Meeting 2027",
+  "short_name": "APA 2027",
+  "organizer": "American Psychiatric Association",
+  "organizer_url": "https://www.psychiatry.org/",
+  "edition_url": "https://www.psychiatry.org/psychiatrists/meetings/annual-meeting",
+  "tags": [
+   "general-psychiatry",
+   "international"
+  ],
+  "start_date": "2027-05-01",
+  "end_date": "2027-05-05",
+  "city": "New York",
+  "country": "US",
+  "venue": null,
+  "lat": 40.758,
+  "lon": -73.9855,
+  "format": "hybrid",
+  "description": "The 180th annual meeting of the American Psychiatric Association, held in New York City with more than 400 scientific sessions and over 1,000 posters. The presidential theme is Our Future: End Stigma, Advance Science, Secure Parity.",
+  "deadlines": [
+   {
+    "label": "General session submission",
+    "date": "2026-09-10",
+    "url": "https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines",
+    "estimated": false,
+    "note": "Closes 5:00 p.m. ET. The site will not reopen. All presenter disclosures must be complete by this time."
+   },
+   {
+    "label": "Course submission",
+    "date": "2026-09-10",
+    "url": "https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines",
+    "estimated": false,
+    "note": "Closes 5:00 p.m. ET, same site as general sessions."
+   },
+   {
+    "label": "Poster abstract submission",
+    "date": "2026-09-10",
+    "url": "https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines/frequently-asked-questions",
+    "estimated": false,
+    "note": "Closes 5:00 p.m. ET. Resident and medical student poster competition entries use this poster track; no separate resident deadline is published."
+   },
+   {
+    "label": "Mental Health Innovation Zone panel submission",
+    "date": "2026-09-10",
+    "url": "https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines",
+    "estimated": false,
+    "note": "Listed on the same submission site, which closes September 10, 2026 for all submissions."
+   },
+   {
+    "label": "Notification for September submissions",
+    "date": null,
+    "url": "https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines/frequently-asked-questions",
+    "estimated": false,
+    "note": "FAQ states results for September submissions are typically released in November 2026; no exact date published."
+   },
+   {
+    "label": "New Research poster submission opens",
+    "date": "2026-11-12",
+    "url": "https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines/frequently-asked-questions",
+    "estimated": false,
+    "note": "Late poster track for research not previously presented or published."
+   },
+   {
+    "label": "New Research poster submission deadline",
+    "date": "2027-01-08",
+    "url": "https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines/frequently-asked-questions",
+    "estimated": false,
+    "note": "Closes 5:00 p.m. ET. Results typically released in late February 2027."
+   },
+   {
+    "label": "Registration cancellation deadline (full refund)",
+    "date": "2027-02-11",
+    "url": "https://www.psychiatry.org/psychiatrists/meetings/annual-meeting/registration",
+    "estimated": false,
+    "note": "Registration page states advance registration for 2027 is open, although parts of that page still describe the 2026 San Francisco program."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-16",
+   "end_date": "2026-05-20",
+   "city": "San Francisco",
+   "deadlines": [
+    {
+     "label": "General session, course and poster submission",
+     "date": "2025-09-11"
+    },
+    {
+     "label": "Registration opens",
+     "date": "2025-11-12"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.psychiatry.org/psychiatrists/meetings/annual-meeting",
+    "accessed": "2026-09-09",
+    "note": "Confirms 2027 meeting in New York and submission site closing September 10, 2026 at 5:00 p.m. ET."
+   },
+   {
+    "url": "https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines",
+    "accessed": "2026-09-09",
+    "note": "Confirms May 1 to 5, 2027, New York City, presidential theme, and submission formats (general session, poster, course, MHIZ)."
+   },
+   {
+    "url": "https://www.psychiatry.org/psychiatrists/education/meeting-submission-and-guidelines/annual-meeting-submission-guidelines/frequently-asked-questions",
+    "accessed": "2026-09-09",
+    "note": "Confirms New Research poster window (opens November 12, 2026, closes January 8, 2027 at 5:00 p.m. ET) and notification timing."
+   },
+   {
+    "url": "https://www.psychiatry.org/psychiatrists/meetings",
+    "accessed": "2026-09-09",
+    "note": "Meetings listing shows 2027 Annual Meeting May 1 to 5, 2027 in New York City; 2028 Chicago May 6 to 10; 2029 San Francisco May 5 to 9."
+   },
+   {
+    "url": "https://www.psychiatry.org/psychiatrists/meetings/annual-meeting/about",
+    "accessed": "2026-09-09",
+    "note": "Confirms the 2026 meeting was at the Moscone Convention Center, San Francisco."
+   },
+   {
+    "url": "https://www.psychiatry.org/psychiatrists/meetings/annual-meeting/registration",
+    "accessed": "2026-09-09",
+    "note": "2027 cancellation policy dates (February 11, March 12, 2027)."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Venue not yet published on psychiatry.org; prior New York meetings used the Jacob K. Javits Convention Center, so coordinates point to Midtown Manhattan. The 2026 general submission deadline (September 11, 2025) comes from a search engine snippet of the psychiatry.org FAQ. 2026 registration opened November 12, 2025, the same calendar day the 2027 New Research poster site opens, so 2027 registration may follow a similar pattern; not confirmed.",
+  "region_name": "New York",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

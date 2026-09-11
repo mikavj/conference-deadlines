@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 APS Annual Convention (Association for Psychological Sc
+ ience)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aps-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270531
+SUMMARY:2027 APS Annual Convention (Association for Psychological Science
+ )
+DESCRIPTION:The 2027 APS Annual Convention is held May 27 to 30\, 2027 at
+  the Hyatt Regency Seattle. APS is changing the call for submissions str
+ ucture for 2027\; presenters must present on site.\n\nDeadlines\nCall fo
+ r submissions opens: 2026-10-15\nFinancial assistance application opens:
+  2026-10-15\nRegistration opens: 2026-11-02\nSubmission deadline: 2026-1
+ 2-01\nFinancial assistance deadline: 2026-12-12\nEarly registration: 202
+ 7-04-15\nPresenter registration deadline: 2027-05-06\n\nhttps://www.psyc
+ hologicalscience.org/conventions/2027-aps-annual-convention
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.psychologicalscience.org/conventions/2027-aps-annual-conv
+ ention
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 APS Annual Convention (Association for Psychological Sci
+ ence)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aps-2027-20261201-submission-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Deadline: APS 2027 submission deadline
+DESCRIPTION:5:00 PM ET\; symposia\, submitted talks\, flash talks and pos
+ ters\nMeeting: 2027 APS Annual Convention (Association for Psychological
+  Science)\, May 27 to 30\, 2027\, Seattle\, Washington\, Hyatt Regency S
+ eattle\nhttps://www.psychologicalscience.org/conventions/2027-aps-annual
+ -convention/call-for-submissions
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.psychologicalscience.org/conventions/2027-aps-annual-conv
+ ention/call-for-submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aps-2027-20261212-financial-assistance-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Deadline: APS 2027 financial assistance deadline
+DESCRIPTION:5:00 PM ET\nMeeting: 2027 APS Annual Convention (Association 
+ for Psychological Science)\, May 27 to 30\, 2027\, Seattle\, Washington\
+ , Hyatt Regency Seattle\nhttps://www.psychologicalscience.org/convention
+ s/2027-aps-annual-convention/call-for-submissions
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.psychologicalscience.org/conventions/2027-aps-annual-conv
+ ention/call-for-submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 financial assistance deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 financial assistance deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 financial assistance deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aps-2027-20270415-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:Deadline: APS 2027 early registration
+DESCRIPTION:5:00 PM ET\nMeeting: 2027 APS Annual Convention (Association 
+ for Psychological Science)\, May 27 to 30\, 2027\, Seattle\, Washington\
+ , Hyatt Regency Seattle\nhttps://www.psychologicalscience.org/convention
+ s/2027-aps-annual-convention/call-for-submissions
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.psychologicalscience.org/conventions/2027-aps-annual-conv
+ ention/call-for-submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aps-2027-20270506-presenter-registration-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:Deadline: APS 2027 presenter registration deadline
+DESCRIPTION:Meeting: 2027 APS Annual Convention (Association for Psycholo
+ gical Science)\, May 27 to 30\, 2027\, Seattle\, Washington\, Hyatt Rege
+ ncy Seattle\nhttps://www.psychologicalscience.org/conventions/2027-aps-a
+ nnual-convention/call-for-submissions
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.psychologicalscience.org/conventions/2027-aps-annual-conv
+ ention/call-for-submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 presenter registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 presenter registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APS 2027 presenter registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

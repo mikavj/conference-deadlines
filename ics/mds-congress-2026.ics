@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MDS International Congress of Parkinson's Disease and Moveme
+ nt Disorders 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:mds-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261009
+SUMMARY:MDS International Congress of Parkinson's Disease and Movement Di
+ sorders 2026
+DESCRIPTION:The International Congress of Parkinson's Disease and Movemen
+ t Disorders is the annual scientific meeting of the International Parkin
+ son and Movement Disorder Society\, covering research and clinical care 
+ in Parkinson's disease and other movement disorders. The 2026 congress i
+ s scheduled for October 4 to 8\, 2026\, at the COEX Convention and Exhib
+ ition Center in Seoul\, South Korea\, and has not yet concluded as of Se
+ ptember 10\, 2026.\n\nDeadlines\nAbstract submission opens: 2025-12-15\n
+ Abstract submission deadline: 2026-03-15\n\nhttps://www.mdscongress.org/
+LOCATION:Seoul\, KR\, COEX Convention and Exhibition Center
+URL:https://www.mdscongress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MDS International Congress of Parkinson's Disease and Movemen
+ t Disorders 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mds-congress-2026-20260315-abstract-submission-deadline@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Deadline: MDS Congress 2026 abstract submission deadline
+DESCRIPTION:Already past as of the 2026-09-10 research date\; recorded fo
+ r completeness since the congress edition itself has not yet concluded.\
+ nMeeting: MDS International Congress of Parkinson's Disease and Movement
+  Disorders 2026\, Oct 04 to 08\, 2026\, Seoul\, KR\, COEX Convention and
+  Exhibition Center\nhttps://www.mdscongress.org/Abstracts/Submissions
+LOCATION:Seoul\, KR\, COEX Convention and Exhibition Center
+URL:https://www.mdscongress.org/Abstracts/Submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2026 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2026 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2026 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

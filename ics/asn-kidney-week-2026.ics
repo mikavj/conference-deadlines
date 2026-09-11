@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASN Kidney Week 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:asn-kidney-week-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261026
+SUMMARY:ASN Kidney Week 2026
+DESCRIPTION:ASN Kidney Week is the American Society of Nephrology's annua
+ l meeting for nephrology clinicians and researchers. The 2026 meeting is
+  held in Denver\, Colorado\, with no virtual or hybrid attendance option
+ \, preceded by a day of Early Programs.\n\nDeadlines\nLate-breaking abst
+ ract submission: 2026-09-02\nEarly registration: 2026-09-09\n\nhttps://w
+ ww.asn-online.org/education/kidneyweek/
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://www.asn-online.org/education/kidneyweek/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASN Kidney Week 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asn-kidney-week-2026-20260902-late-breaking-abstract-submission@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Deadline: Kidney Week 2026 late-breaking abstract submission
+DESCRIPTION:2:00 p.m. Eastern time\nMeeting: ASN Kidney Week 2026\, Oct 2
+ 1 to 25\, 2026\, Denver\, Colorado\, Colorado Convention Center\nhttps:/
+ /www.asn-online.org/education/kidneyweek/
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://www.asn-online.org/education/kidneyweek/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Kidney Week 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Kidney Week 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Kidney Week 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asn-kidney-week-2026-20260909-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Deadline: Kidney Week 2026 early registration
+DESCRIPTION:11:59 p.m. Eastern time\nMeeting: ASN Kidney Week 2026\, Oct 
+ 21 to 25\, 2026\, Denver\, Colorado\, Colorado Convention Center\nhttps:
+ //www.asn-online.org/education/kidneyweek/
+LOCATION:Denver\, Colorado\, Colorado Convention Center
+URL:https://www.asn-online.org/education/kidneyweek/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Kidney Week 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Kidney Week 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Kidney Week 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

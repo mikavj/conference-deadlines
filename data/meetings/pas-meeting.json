@@ -1,0 +1,116 @@
+[
+ {
+  "id": "pas-meeting-2027",
+  "name": "2027 Pediatric Academic Societies Meeting",
+  "short_name": "PAS 2027",
+  "organizer": "Pediatric Academic Societies (American Pediatric Society, Society for Pediatric Research, Academic Pediatric Association, American Academy of Pediatrics)",
+  "organizer_url": "https://www.pas-meeting.org/",
+  "edition_url": "https://www.pas-meeting.org/2027-key-dates/",
+  "areas": [
+   "pediatrics"
+  ],
+  "tags": [
+   "pediatrics",
+   "neonatology",
+   "student-resident-research",
+   "education"
+  ],
+  "start_date": "2027-04-30",
+  "end_date": "2027-05-03",
+  "city": "Minneapolis",
+  "region_name": "Minnesota",
+  "country": "US",
+  "venue": null,
+  "lat": 44.9778,
+  "lon": -93.265,
+  "format": null,
+  "description": "The Pediatric Academic Societies Meeting is the joint annual research meeting of the American Pediatric Society, the Society for Pediatric Research, the Academic Pediatric Association and the American Academy of Pediatrics. The 2027 meeting is held in Minneapolis and features scholarly sessions, workshops and abstract presentations in pediatric research.",
+  "deadlines": [
+   {
+    "label": "Scholarly session proposal submission opens",
+    "date": "2026-08-03",
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-08-12",
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Scholarly session proposal submission deadline",
+    "date": "2026-09-16",
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Workshop proposal submission deadline",
+    "date": "2026-09-16",
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "estimated": false,
+    "note": "Workshop call also opened 2026-08-03"
+   },
+   {
+    "label": "Late ancillary event proposal window opens",
+    "date": "2026-09-17",
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Scholarly session selection notification",
+    "date": "2026-11-11",
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "estimated": false,
+    "note": "Notifications sent over a window from 2026-11-11 through 2026-11-13"
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-11-02",
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late ancillary event proposal deadline",
+    "date": "2027-03-03",
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "estimated": false,
+    "note": "Submission window opened 2026-09-17"
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2027-03-16",
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission notification",
+    "date": "2027-01-19",
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.pas-meeting.org/",
+    "accessed": "2026-09-10",
+    "note": "Official homepage, fetched directly; identifies PAS as run by the four founding pediatric societies and links to the key dates page"
+   },
+   {
+    "url": "https://www.pas-meeting.org/2027-key-dates/",
+    "accessed": "2026-09-10",
+    "note": "Official key dates page, fetched directly; source for meeting dates, city, and all submission and notification deadlines"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The specific venue was not stated on the official pages fetched; coordinates given are for Minneapolis city center rather than a named venue. Some official date ranges are given as spans (for example the scholarly session and workshop calls both run 2026-08-03 to 2026-09-16); the opening date of the scholarly session call and the deadline of the workshop call are recorded above and cross referenced by note to avoid duplicate near-identical entries."
+ }
+]

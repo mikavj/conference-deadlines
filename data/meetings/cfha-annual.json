@@ -1,0 +1,47 @@
+[
+ {
+  "id": "cfha-annual-2026",
+  "name": "CFHA 2026 Annual Conference",
+  "short_name": "CFHA 2026",
+  "organizer": "Collaborative Family Healthcare Association",
+  "organizer_url": "https://www.cfha.net",
+  "edition_url": "https://www.integratedcareconference.com/our-2026-conference/",
+  "areas": [
+   "psychiatry",
+   "psychology",
+   "family-medicine"
+  ],
+  "tags": [
+   "integrated-care",
+   "behavioral",
+   "primary-care",
+   "health-services"
+  ],
+  "start_date": "2026-10-08",
+  "end_date": "2026-10-10",
+  "city": "St. Louis",
+  "region_name": "Missouri",
+  "country": "US",
+  "venue": null,
+  "lat": 38.627,
+  "lon": -90.1994,
+  "format": null,
+  "description": "The Collaborative Family Healthcare Association holds its annual Integrated Care Conference in St. Louis, Missouri. The program focuses on team based, whole person approaches that combine medicine and behavioral health.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.integratedcareconference.com/our-2026-conference/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates and city"
+   },
+   {
+    "url": "https://www.cfha.net/event/cfha-annual-conference/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, city and that registration is open"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Venue name and specific submission or registration deadlines were not found on the pages checked; only overall conference dates and city are confirmed. The registration portal at cfha.swoogo.com/2026_Annual_Conference should be checked directly for deadline specifics."
+ }
+]

@@ -1,0 +1,71 @@
+[
+ {
+  "id": "anpa-annual-2027",
+  "name": "American Neuropsychiatric Association 37th Annual Meeting 2027",
+  "short_name": "ANPA 2027",
+  "organizer": "American Neuropsychiatric Association",
+  "organizer_url": "https://anpaonline.org/",
+  "edition_url": "https://anpaonline.org/events/anpa-meeting-2027",
+  "tags": [
+   "neuroscience",
+   "biological-psychiatry",
+   "general-psychiatry"
+  ],
+  "start_date": "2027-03-17",
+  "end_date": "2027-03-20",
+  "city": "Albuquerque",
+  "country": "US",
+  "venue": "Hotel Albuquerque at Old Town",
+  "lat": 35.0966,
+  "lon": -106.669,
+  "format": "in-person",
+  "description": "The 37th ANPA Annual Meeting takes place March 17 to 20, 2027, at Hotel Albuquerque at Old Town in Albuquerque, New Mexico. Abstracts are due October 2, 2026 and accepted abstracts are published in The Journal of Neuropsychiatry and Clinical Neurosciences.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-10-02",
+    "url": "https://anpaonline.org/resources/call-for-abstracts",
+    "estimated": false,
+    "note": "11:59 pm Pacific; presenters must attend in person"
+   },
+   {
+    "label": "Hotel block reservation",
+    "date": "2027-02-22",
+    "url": "https://anpaonline.org/events/anpa-meeting-2027",
+    "estimated": false,
+    "note": "$189 plus $15 resort fee; block availability limited"
+   },
+   {
+    "label": "Registration opens",
+    "date": null,
+    "url": "https://anpaonline.org/events/anpa-meeting-2027",
+    "estimated": false,
+    "note": "page says registration opens in August; the year printed (2027) appears to be a typo for 2026"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://anpaonline.org/events/anpa-meeting-2027",
+    "accessed": "2026-09-09",
+    "note": "Dates March 17 to 20, 2027, hotels, hotel deadline February 22, 2027"
+   },
+   {
+    "url": "https://anpaonline.org/resources/call-for-abstracts",
+    "accessed": "2026-09-09",
+    "note": "Abstract deadline October 2, 2026"
+   },
+   {
+    "url": "https://anpaonline.org/",
+    "accessed": "2026-09-09",
+    "note": "Home page banner for the 2027 meeting in Albuquerque"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Hotel Chaco is listed as an alternative hotel. No early registration deadline is published.",
+  "region_name": "New Mexico",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

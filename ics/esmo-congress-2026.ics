@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ESMO Congress 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:esmo-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261028
+SUMMARY:ESMO Congress 2026
+DESCRIPTION:ESMO Congress is the flagship annual meeting of the European 
+ Society for Medical Oncology\, presenting new clinical research across s
+ olid tumor oncology. The 2026 congress is held in Madrid\, Spain.\n\nDea
+ dlines\nAbstract submission: 2026-05-12\nLate-breaking abstract submissi
+ on: 2026-09-08\n\nhttps://www.esmo.org/meeting-calendar/esmo-congress-20
+ 26
+LOCATION:Madrid\, Community of Madrid\, ES\, IFEMA Madrid
+URL:https://www.esmo.org/meeting-calendar/esmo-congress-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ESMO Congress 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:esmo-congress-2026-20260512-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:Deadline: ESMO 2026 abstract submission
+DESCRIPTION:deadline already passed as of the 2026-09-10 research date\nM
+ eeting: ESMO Congress 2026\, Oct 23 to 27\, 2026\, Madrid\, Community of
+  Madrid\, ES\, IFEMA Madrid\nhttps://www.esmo.org/meeting-calendar/esmo-
+ congress-2026/abstracts
+LOCATION:Madrid\, Community of Madrid\, ES\, IFEMA Madrid
+URL:https://www.esmo.org/meeting-calendar/esmo-congress-2026/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESMO 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESMO 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESMO 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:esmo-congress-2026-20260908-late-breaking-abstract-submission@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Deadline: ESMO 2026 late-breaking abstract submission
+DESCRIPTION:Meeting: ESMO Congress 2026\, Oct 23 to 27\, 2026\, Madrid\, 
+ Community of Madrid\, ES\, IFEMA Madrid\nhttps://www.esmo.org/meeting-ca
+ lendar/esmo-congress-2026/abstracts
+LOCATION:Madrid\, Community of Madrid\, ES\, IFEMA Madrid
+URL:https://www.esmo.org/meeting-calendar/esmo-congress-2026/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESMO 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESMO 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ESMO 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

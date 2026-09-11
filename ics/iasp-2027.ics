@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IASP 34th World Congress 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:iasp-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270612
+SUMMARY:IASP 34th World Congress 2027
+DESCRIPTION:The 34th IASP World Congress takes place in Colombo\, Sri Lan
+ ka from 7 to 11 June 2027. Abstract submission and bursary applications 
+ are open\; there will be no on site registration.\n\nDeadlines\nAbstract
+  submission opens: 2026-05-27\nSymposium and workshop abstract submissio
+ n: 2026-10-01\nOral and poster abstract submission: 2026-10-15\nEarly re
+ gistration opens: 2026-10-15\nEarly registration: 2027-02-18\nGeneral re
+ gistration closes: 2027-06-04\n\nhttps://www.iasp.info/colombo2027/
+LOCATION:Colombo\, Western Province\, LK\, Bandaranaike Memorial Internat
+ ional Conference Hall (BMICH)
+URL:https://www.iasp.info/colombo2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IASP 34th World Congress 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iasp-2027-20261001-symposium-and-workshop-abstract-submission@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Deadline: IASP 2027 symposium and workshop abstract submission
+DESCRIPTION:Meeting: IASP 34th World Congress 2027\, Jun 07 to 11\, 2027\
+ , Colombo\, Western Province\, LK\, Bandaranaike Memorial International 
+ Conference Hall (BMICH)\nhttps://www.iasp.info/colombo2027/abstractsubmi
+ ssion/
+LOCATION:Colombo\, Western Province\, LK\, Bandaranaike Memorial Internat
+ ional Conference Hall (BMICH)
+URL:https://www.iasp.info/colombo2027/abstractsubmission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 symposium and workshop abstract submissio
+ n
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 symposium and workshop abstract submissio
+ n
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 symposium and workshop abstract submissio
+ n
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iasp-2027-20261015-oral-and-poster-abstract-submission@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Deadline: IASP 2027 oral and poster abstract submission
+DESCRIPTION:Meeting: IASP 34th World Congress 2027\, Jun 07 to 11\, 2027\
+ , Colombo\, Western Province\, LK\, Bandaranaike Memorial International 
+ Conference Hall (BMICH)\nhttps://www.iasp.info/colombo2027/abstractsubmi
+ ssion/
+LOCATION:Colombo\, Western Province\, LK\, Bandaranaike Memorial Internat
+ ional Conference Hall (BMICH)
+URL:https://www.iasp.info/colombo2027/abstractsubmission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 oral and poster abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 oral and poster abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 oral and poster abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iasp-2027-20270218-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:Deadline: IASP 2027 early registration
+DESCRIPTION:Meeting: IASP 34th World Congress 2027\, Jun 07 to 11\, 2027\
+ , Colombo\, Western Province\, LK\, Bandaranaike Memorial International 
+ Conference Hall (BMICH)\nhttps://www.iasp.info/colombo2027/abstractsubmi
+ ssion/
+LOCATION:Colombo\, Western Province\, LK\, Bandaranaike Memorial Internat
+ ional Conference Hall (BMICH)
+URL:https://www.iasp.info/colombo2027/abstractsubmission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iasp-2027-20270604-general-registration-closes@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:Deadline: IASP 2027 general registration closes
+DESCRIPTION:No on site registration\nMeeting: IASP 34th World Congress 20
+ 27\, Jun 07 to 11\, 2027\, Colombo\, Western Province\, LK\, Bandaranaik
+ e Memorial International Conference Hall (BMICH)\nhttps://www.iasp.info/
+ colombo2027/abstractsubmission/
+LOCATION:Colombo\, Western Province\, LK\, Bandaranaike Memorial Internat
+ ional Conference Hall (BMICH)
+URL:https://www.iasp.info/colombo2027/abstractsubmission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 general registration closes
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 general registration closes
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IASP 2027 general registration closes
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

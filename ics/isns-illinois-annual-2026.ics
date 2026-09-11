@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:10th Annual Meeting of the Illinois State Neurological Socie
+ ty
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:isns-illinois-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:10th Annual Meeting of the Illinois State Neurological Society
+DESCRIPTION:The Illinois State Neurological Society holds its tenth annua
+ l meeting on 7 November 2026 at the DoubleTree by Hilton Chicago Magnifi
+ cent Mile. The one day educational program covers topics including acute
+  ischemic stroke management\, pediatric neuromuscular disease\, and narc
+ olepsy treatment.\n\nhttps://web.cvent.com/event/fc794745-1147-4f7b-9065
+ -5dbaad99f76a/summary
+LOCATION:Chicago\, Illinois\, DoubleTree by Hilton Chicago Magnificent Mi
+ le
+URL:https://web.cvent.com/event/fc794745-1147-4f7b-9065-5dbaad99f76a/summ
+ ary
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10th Annual Meeting of the Illinois State Neurological Societ
+ y
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

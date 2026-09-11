@@ -1,0 +1,27 @@
+{
+ "title": "Conference Deadlines",
+ "subtitle": "Research meetings and submission deadlines across medicine",
+ "profiles": {
+  "psychiatry": {
+   "label": "Psychiatry",
+   "subtitle": "Psychiatry research meetings and submission deadlines",
+   "areas": [
+    "psychiatry"
+   ],
+   "tags": [
+    "uiuc"
+   ]
+  },
+  "neurology": {
+   "label": "Neurology",
+   "subtitle": "Neurology research meetings and submission deadlines",
+   "areas": [
+    "neurology",
+    "neuroscience"
+   ],
+   "tags": [
+    "uiuc"
+   ]
+  }
+ }
+}

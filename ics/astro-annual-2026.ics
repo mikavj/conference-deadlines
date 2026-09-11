@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 ASTRO Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:astro-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20261001
+SUMMARY:2026 ASTRO Annual Meeting
+DESCRIPTION:The ASTRO Annual Meeting is the annual meeting of the America
+ n Society for Radiation Oncology for radiation oncology clinicians and r
+ esearchers. The 2026 meeting is held in Boston with a virtual attendance
+  option.\n\nDeadlines\nAbstract submission: 2026-02-24\nNotification of 
+ abstract acceptance: 2026-05-14\nRegistration opens: 2026-05-14\nEarly r
+ egistration: 2026-06-25\n\nhttps://www.astro.org/meetings-and-education/
+ micro-sites/2026/annual-meeting
+LOCATION:Boston\, Massachusetts\, Thomas M. Menino Convention and Exhibit
+ ion Center
+URL:https://www.astro.org/meetings-and-education/micro-sites/2026/annual-
+ meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 ASTRO Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-annual-2026-20260224-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:Deadline: ASTRO 2026 abstract submission
+DESCRIPTION:Meeting: 2026 ASTRO Annual Meeting\, Sep 26 to 30\, 2026\, Bo
+ ston\, Massachusetts\, Thomas M. Menino Convention and Exhibition Center
+ \nhttps://www.astro.org/meetings-and-education/micro-sites/2026/annual-m
+ eeting/learn/scientific-program/abstracts
+LOCATION:Boston\, Massachusetts\, Thomas M. Menino Convention and Exhibit
+ ion Center
+URL:https://www.astro.org/meetings-and-education/micro-sites/2026/annual-
+ meeting/learn/scientific-program/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASTRO 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASTRO 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASTRO 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:astro-annual-2026-20260625-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Deadline: ASTRO 2026 early registration
+DESCRIPTION:11:59 p.m. ET\, early bird rate deadline\nMeeting: 2026 ASTRO
+  Annual Meeting\, Sep 26 to 30\, 2026\, Boston\, Massachusetts\, Thomas 
+ M. Menino Convention and Exhibition Center\nhttps://www.astro.org/meetin
+ gs-and-education/micro-sites/2026/annual-meeting/attend/registration
+LOCATION:Boston\, Massachusetts\, Thomas M. Menino Convention and Exhibit
+ ion Center
+URL:https://www.astro.org/meetings-and-education/micro-sites/2026/annual-
+ meeting/attend/registration
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASTRO 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASTRO 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASTRO 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,44 @@
+[
+ {
+  "id": "esoc-2027",
+  "name": "13th European Stroke Organisation Conference",
+  "short_name": "ESOC 2027",
+  "organizer": "European Stroke Organisation",
+  "organizer_url": "https://eso-stroke.org",
+  "edition_url": "https://eso-stroke.org/esoc2027/",
+  "areas": [
+   "neurology",
+   "surgery"
+  ],
+  "tags": [
+   "stroke",
+   "international"
+  ],
+  "start_date": "2027-05-19",
+  "end_date": "2027-05-21",
+  "city": "Vienna",
+  "region_name": "Vienna",
+  "country": "AT",
+  "venue": null,
+  "lat": 48.2082,
+  "lon": 16.3738,
+  "format": "in-person",
+  "description": "The European Stroke Organisation plans its 13th conference in Vienna, Austria, from 19 to 21 May 2027, marking the organisation's twentieth anniversary. The conference is planned as an onsite only event without a virtual attendance option.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://eso-stroke.org/esoc2027/",
+    "accessed": "2026-09-10",
+    "note": "Confirms city, onsite-only format, and the 20th anniversary theme; the specific day range appeared only in an image on this page and could not be extracted as text."
+   },
+   {
+    "url": "https://eso-stroke.org/esoc2027/abstracts/",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract submission for ESOC 2027 opens autumn 2026 with no exact deadline yet published."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The exact date range (19 to 21 May 2027) is drawn from consistent secondary sources (cmeandchill.com, showsbee.com, clocate.com) since the official eso-stroke.org page embeds its dates in an image rather than extractable text; this is a lower-confidence source than a directly readable official page. Venue name and abstract deadlines are not yet published."
+ }
+]

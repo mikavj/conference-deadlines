@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACR Convergence 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acr-convergence-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261112
+SUMMARY:ACR Convergence 2026
+DESCRIPTION:ACR Convergence is the American College of Rheumatology's ann
+ ual scientific meeting covering rheumatology research and clinical care.
+  The 2026 meeting is held in Orlando\, Florida.\n\nDeadlines\nLate-break
+ ing abstract submission: 2026-09-22\n\nhttps://www.rheumatology.org/annu
+ al-meeting
+LOCATION:Orlando\, Florida
+URL:https://www.rheumatology.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACR Convergence 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acr-convergence-2026-20260922-late-breaking-abstract-submission@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Deadline: ACR Convergence 2026 late-breaking abstract submission
+DESCRIPTION:12:00 p.m. (noon) Eastern time\nMeeting: ACR Convergence 2026
+ \, Nov 06 to 11\, 2026\, Orlando\, Florida\nhttps://www.rheumatology.org
+ /annual-meeting
+LOCATION:Orlando\, Florida
+URL:https://www.rheumatology.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACR Convergence 2026 late-breaking abstract submiss
+ ion
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACR Convergence 2026 late-breaking abstract submiss
+ ion
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACR Convergence 2026 late-breaking abstract submiss
+ ion
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

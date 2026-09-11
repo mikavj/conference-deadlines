@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ESMO Congress 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:esmo-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270922
+SUMMARY:ESMO Congress 2027
+DESCRIPTION:ESMO Congress is the flagship annual meeting of the European 
+ Society for Medical Oncology\, presenting new clinical research across s
+ olid tumor oncology. The 2027 congress will be held in Barcelona\, Spain
+ .\n\nhttps://www.esmo.org/meeting-calendar/esmo-congress-2027
+LOCATION:Barcelona\, Catalonia\, ES
+URL:https://www.esmo.org/meeting-calendar/esmo-congress-2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ESMO Congress 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

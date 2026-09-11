@@ -1,0 +1,92 @@
+[
+ {
+  "id": "wcpg-2026",
+  "name": "World Congress of Psychiatric Genetics 2026",
+  "short_name": "WCPG 2026",
+  "organizer": "International Society of Psychiatric Genetics",
+  "organizer_url": "https://ispg.net/",
+  "edition_url": "https://ispg.net/wcpg-2026/",
+  "tags": [
+   "genetics",
+   "biological-psychiatry",
+   "international"
+  ],
+  "start_date": "2026-09-29",
+  "end_date": "2026-10-03",
+  "city": "Glasgow",
+  "country": "GB",
+  "venue": "Scottish Event Campus (SEC)",
+  "lat": 55.8607,
+  "lon": -4.288,
+  "format": "in-person",
+  "description": "WCPG 2026 takes place September 29 to October 3, 2026, at the Scottish Event Campus in Glasgow under the theme Understanding Today, Translating Tomorrow. Abstract and early career award deadlines passed in spring 2026; registration is open.",
+  "deadlines": [
+   {
+    "label": "Symposium chair submission",
+    "date": "2026-03-19",
+    "url": "https://ispg.net/wcpg-2026/",
+    "estimated": false,
+    "note": "closed"
+   },
+   {
+    "label": "Symposium participant submission",
+    "date": "2026-03-26",
+    "url": "https://ispg.net/wcpg-2026/",
+    "estimated": false,
+    "note": "closed"
+   },
+   {
+    "label": "Oral and poster abstract submission",
+    "date": "2026-05-14",
+    "url": "https://ispg.net/wcpg-2026/",
+    "estimated": false,
+    "note": "closed"
+   },
+   {
+    "label": "Early Career Investigator Program award application",
+    "date": "2026-05-14",
+    "url": "https://ispg.net/wcpg-2026/",
+    "estimated": false,
+    "note": "closed"
+   },
+   {
+    "label": "Accepted speaker registration",
+    "date": "2026-07-01",
+    "url": "https://ispg.net/wcpg-2026/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": null,
+    "url": null,
+    "estimated": false,
+    "note": "no early bird deadline visible on the pages reviewed"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://ispg.net/wcpg-2026/",
+    "accessed": "2026-09-09",
+    "note": "Dates, theme, symposium and abstract deadlines, speaker registration deadline"
+   },
+   {
+    "url": "https://ispg.net/",
+    "accessed": "2026-09-09",
+    "note": "Confirms Glasgow dates September 29 to October 3"
+   },
+   {
+    "url": "https://www.emedevents.com/c/medical-conferences-2026/world-congress-of-psychiatric-genetics-wcpg-2026",
+    "accessed": "2026-09-09",
+    "note": "Venue Scottish Event Campus (aggregator)"
+   }
+  ],
+  "confidence": "high",
+  "notes": "No location or dates for WCPG 2027 are published on ispg.net as of September 2026, so no 2027 entry is included.",
+  "region_name": "Scotland",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

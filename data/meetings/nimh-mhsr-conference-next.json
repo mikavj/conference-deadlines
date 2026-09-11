@@ -1,0 +1,60 @@
+[
+ {
+  "id": "nimh-mhsr-conference-next",
+  "name": "NIMH Mental Health Services Research Conference (26th MHSR, next edition unannounced)",
+  "short_name": "NIMH MHSR",
+  "organizer": "National Institute of Mental Health",
+  "organizer_url": "https://www.nimh.nih.gov/",
+  "edition_url": "https://www.nimh.nih.gov/news/events",
+  "tags": [
+   "health-services",
+   "community",
+   "epidemiology"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": "US",
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "The NIMH Mental Health Services Research Conference (MHSR) is a periodic meeting with an associated New Investigator Workshop for early career researchers. The 26th MHSR scheduled for 28 to 31 July 2025 in Gaithersburg, Maryland was postponed, and no 2026 or 2027 date has been announced on the NIMH events page as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2022,
+   "start_date": "2022-08-02",
+   "end_date": "2022-08-03",
+   "city": "Virtual",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.nimh.nih.gov/news/events/announcements",
+    "accessed": "2026-09-09",
+    "note": "NIMH upcoming events page lists no upcoming events."
+   },
+   {
+    "url": "https://www.nimh.nih.gov/news/events/services-research-index",
+    "accessed": "2026-09-09",
+    "note": "Past NIMH services research events; no 2026 or 2027 MHSR listed."
+   },
+   {
+    "url": "https://content.govdelivery.com/accounts/USNIMH/bulletins/3d35949",
+    "accessed": "2026-09-09",
+    "note": "Postponement notice for the July 2025 conference (from search index text; bulletin now returns 404)."
+   },
+   {
+    "url": "https://www.labroots.com/virtual-event/25th-nimh-conference-mental-health-services-research-mhsr",
+    "accessed": "2026-09-09",
+    "note": "25th MHSR held virtually 2 to 3 August 2022 (prior edition)."
+   }
+  ],
+  "confidence": "low",
+  "notes": "The 2025 edition (26th) was postponed with no new date. The most recent completed edition was the 25th in August 2022.",
+  "region_name": null,
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

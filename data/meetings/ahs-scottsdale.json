@@ -1,0 +1,46 @@
+[
+ {
+  "id": "ahs-scottsdale-2026",
+  "name": "2026 Scottsdale Headache Symposium",
+  "short_name": "AHS Scottsdale 2026",
+  "organizer": "American Headache Society",
+  "organizer_url": "https://americanheadachesociety.org",
+  "edition_url": "https://americanheadachesociety.org/events/2026-scottsdale-headache-symposium",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "headache",
+   "education"
+  ],
+  "start_date": "2026-12-03",
+  "end_date": "2026-12-06",
+  "city": "Scottsdale",
+  "region_name": "Arizona",
+  "country": "US",
+  "venue": "The Westin Kierland Resort and Spa",
+  "lat": 33.6193,
+  "lon": -111.9257,
+  "format": null,
+  "description": "The American Headache Society holds its Scottsdale Headache Symposium at the Westin Kierland Resort and Spa in Scottsdale, Arizona, from 3 to 6 December 2026. The symposium offers continuing medical education on the diagnosis and treatment of headache disorders.",
+  "deadlines": [
+   {
+    "label": "Registration cancellation deadline",
+    "date": "2026-11-11",
+    "url": "https://americanheadachesociety.org/events/2026-scottsdale-headache-symposium",
+    "estimated": false,
+    "note": "Also the hotel room block cutoff date for the discounted group rate; cancellations after this date forfeit a 100 dollar processing fee."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://americanheadachesociety.org/events/2026-scottsdale-headache-symposium",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, venue, hotel cutoff and cancellation deadline."
+   }
+  ],
+  "confidence": "high",
+  "notes": "No open call for abstracts was found for this symposium; the program appears to be faculty organized rather than abstract driven."
+ }
+]

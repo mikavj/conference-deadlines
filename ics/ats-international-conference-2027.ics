@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ATS 2027 International Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ats-international-conference-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270520
+SUMMARY:ATS 2027 International Conference
+DESCRIPTION:The ATS International Conference is the American Thoracic Soc
+ iety's annual meeting on pulmonary\, critical care\, and sleep medicine 
+ research. The 2027 conference is scheduled for New Orleans\, Louisiana.\
+ n\nDeadlines\nAbstract submission: 2026-11-04\nLearning Studio proposal 
+ submission: 2026-10-14\n\nhttps://site.thoracic.org/conference
+LOCATION:New Orleans\, Louisiana
+URL:https://site.thoracic.org/conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ATS 2027 International Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ats-international-conference-2027-20261104-abstract-submission@confer
+ ence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Deadline: ATS 2027 abstract submission
+DESCRIPTION:5 p.m. ET deadline\nMeeting: ATS 2027 International Conferenc
+ e\, May 14 to 19\, 2027\, New Orleans\, Louisiana\nhttps://site.thoracic
+ .org/conference
+LOCATION:New Orleans\, Louisiana
+URL:https://site.thoracic.org/conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ATS 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ATS 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ATS 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ats-international-conference-2027-20261014-learning-studio-proposal-s
+ ubmission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Deadline: ATS 2027 learning studio proposal submission
+DESCRIPTION:Meeting: ATS 2027 International Conference\, May 14 to 19\, 2
+ 027\, New Orleans\, Louisiana\nhttps://site.thoracic.org/conference
+LOCATION:New Orleans\, Louisiana
+URL:https://site.thoracic.org/conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ATS 2027 learning studio proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ATS 2027 learning studio proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ATS 2027 learning studio proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

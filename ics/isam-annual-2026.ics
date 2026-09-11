@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:28th Annual Global ISAM Congress (ISAM 2026)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:isam-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261004
+SUMMARY:28th Annual Global ISAM Congress (ISAM 2026)
+DESCRIPTION:The International Society of Addiction Medicine holds its 28t
+ h annual global congress in Rotterdam\, Netherlands\, from October 1 to 
+ 3\, 2026\, at the De Doelen venue. The program is organized around the t
+ heme of improving addiction treatment outcomes by addressing established
+  and emerging challenges in the field.\n\nDeadlines\nAbstract submission
+  opens: 2025-10-01 (estimated)\nAbstract submission: 2026-03-31\nAbstrac
+ t notification of review outcomes: 2026-06-01 (estimated)\nEarly registr
+ ation: 2026-06-30\nTravel award application: 2026-06-01\nRegistration de
+ adline for presenting authors: 2026-07-01\nLate-breaking poster submissi
+ on opens: 2026-07-01\nLate-breaking abstract submission: 2026-09-01\nLat
+ e-breaking presenter registration deadline: 2026-09-20\n\nhttps://www.is
+ am2026rotterdam.org/
+LOCATION:Rotterdam\, South Holland\, NL\, De Doelen
+URL:https://www.isam2026rotterdam.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:28th Annual Global ISAM Congress (ISAM 2026)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isam-annual-2026-20260331-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:Deadline: ISAM 2026 abstract submission
+DESCRIPTION:Stated on the official congress site as Tuesday\, 31 March 20
+ 26\, applying to symposium\, workshop\, oral presentation and poster sub
+ missions. isamweb.org/annual/ lists a conflicting close date of March 21
+ \, 2026 for the same deadline\; the official congress site (isam2026rott
+ erdam.org) is treated as authoritative since its stated weekday matches 
+ the calendar date.\nMeeting: 28th Annual Global ISAM Congress (ISAM 2026
+ )\, Oct 01 to 03\, 2026\, Rotterdam\, South Holland\, NL\, De Doelen\nht
+ tps://www.isam2026rotterdam.org/abstract-information/
+LOCATION:Rotterdam\, South Holland\, NL\, De Doelen
+URL:https://www.isam2026rotterdam.org/abstract-information/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isam-annual-2026-20260630-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Deadline: ISAM 2026 early registration
+DESCRIPTION:Early registration rate available until 30 June 2026.\nMeetin
+ g: 28th Annual Global ISAM Congress (ISAM 2026)\, Oct 01 to 03\, 2026\, 
+ Rotterdam\, South Holland\, NL\, De Doelen\nhttps://www.isam2026rotterda
+ m.org/registration/
+LOCATION:Rotterdam\, South Holland\, NL\, De Doelen
+URL:https://www.isam2026rotterdam.org/registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isam-annual-2026-20260601-travel-award-application@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Deadline: ISAM 2026 travel award application
+DESCRIPTION:Grants-in-Aid travel award application deadline per isamweb.o
+ rg.\nMeeting: 28th Annual Global ISAM Congress (ISAM 2026)\, Oct 01 to 0
+ 3\, 2026\, Rotterdam\, South Holland\, NL\, De Doelen\nhttps://isamweb.o
+ rg/annual/
+LOCATION:Rotterdam\, South Holland\, NL\, De Doelen
+URL:https://isamweb.org/annual/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 travel award application
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 travel award application
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 travel award application
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isam-annual-2026-20260701-registration-deadline-for-presenting-author
+ s@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Deadline: ISAM 2026 registration deadline for presenting authors
+DESCRIPTION:Presenting authors must be registered by Tuesday\, 1 July 202
+ 6 for their abstract to remain in the program.\nMeeting: 28th Annual Glo
+ bal ISAM Congress (ISAM 2026)\, Oct 01 to 03\, 2026\, Rotterdam\, South 
+ Holland\, NL\, De Doelen\nhttps://www.isam2026rotterdam.org/registration
+ /
+LOCATION:Rotterdam\, South Holland\, NL\, De Doelen
+URL:https://www.isam2026rotterdam.org/registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 registration deadline for presenting auth
+ ors
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 registration deadline for presenting auth
+ ors
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 registration deadline for presenting auth
+ ors
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isam-annual-2026-20260901-late-breaking-abstract-submission@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Deadline: ISAM 2026 late-breaking abstract submission
+DESCRIPTION:Late-breaking poster submission deadline\, Tuesday\, 1 Septem
+ ber 2026.\nMeeting: 28th Annual Global ISAM Congress (ISAM 2026)\, Oct 0
+ 1 to 03\, 2026\, Rotterdam\, South Holland\, NL\, De Doelen\nhttps://www
+ .isam2026rotterdam.org/abstract-information/
+LOCATION:Rotterdam\, South Holland\, NL\, De Doelen
+URL:https://www.isam2026rotterdam.org/abstract-information/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isam-annual-2026-20260920-late-breaking-presenter-registration-deadli
+ ne@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Deadline: ISAM 2026 late-breaking presenter registration deadline
+DESCRIPTION:Sunday\, 20 September 2026.\nMeeting: 28th Annual Global ISAM
+  Congress (ISAM 2026)\, Oct 01 to 03\, 2026\, Rotterdam\, South Holland\
+ , NL\, De Doelen\nhttps://www.isam2026rotterdam.org/registration/
+LOCATION:Rotterdam\, South Holland\, NL\, De Doelen
+URL:https://www.isam2026rotterdam.org/registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 late-breaking presenter registration dead
+ line
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 late-breaking presenter registration dead
+ line
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISAM 2026 late-breaking presenter registration dead
+ line
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

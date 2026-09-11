@@ -1,0 +1,49 @@
+[
+ {
+  "id": "uiuc-igb-fellows-symposium-2027",
+  "name": "IGB Fellows Symposium 2027",
+  "short_name": "IGB Fellows Symposium 2027",
+  "organizer": "Carl R. Woese Institute for Genomic Biology, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://www.igb.illinois.edu",
+  "edition_url": "https://fellows.igb.illinois.edu/",
+  "areas": [
+   "oncology",
+   "neuroscience",
+   "informatics"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "genetics",
+   "translational",
+   "student-resident-research"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Urbana",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "612 Conference Center, Institute for Genomic Biology",
+  "lat": 40.102,
+  "lon": -88.2272,
+  "format": "in-person",
+  "description": "The IGB Fellows Symposium is an annual event hosted by the Carl R. Woese Institute for Genomic Biology bringing together campus researchers for keynote talks and a poster session with travel voucher awards. The 2027 edition had not been scheduled as of September 2026; the 2026 edition was held in early May.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-07",
+   "end_date": "2026-05-07",
+   "city": "Urbana",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.igb.illinois.edu/igb-calendar/igb-fellows-symposium-2026",
+    "accessed": "2026-09-10",
+    "note": "2026 IGB Fellows Symposium held May 7, 2026 at the 612 Conference Center, IGB, with keynote talks and a poster session offering three $500 travel vouchers"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "This symposium spans genomic biology broadly rather than clinical medicine specifically; included because it is a UIUC research symposium with a competitive poster session relevant to biomedical trainees. The 2027 date was not yet published as of September 2026."
+ }
+]

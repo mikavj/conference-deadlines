@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:University of Illinois College of Medicine Peoria Research D
+ ay 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uiuc-uicomp-peoria-research-day-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:University of Illinois College of Medicine Peoria Research Day 20
+ 27
+DESCRIPTION:Research Day is the annual showcase of the research enterpris
+ e on the Peoria regional campus of the University of Illinois College of
+  Medicine\, open to faculty\, students\, residents\, and fellows\, with 
+ abstract submission and poster and oral presentations\, limited to two f
+ irst author submissions per person. The 2027 edition is scheduled for Ma
+ y 5\, 2027\, though 2027 abstract and poster printing deadlines had not 
+ been published as of September 2026.\n\nhttps://peoria.medicine.uic.edu/
+ uicomp-research/research-day/
+LOCATION:Peoria\, Illinois\, University of Illinois College of Medicine P
+ eoria campus
+URL:https://peoria.medicine.uic.edu/uicomp-research/research-day/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:University of Illinois College of Medicine Peoria Research Da
+ y 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

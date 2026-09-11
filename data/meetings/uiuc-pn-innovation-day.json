@@ -1,0 +1,61 @@
+[
+ {
+  "id": "uiuc-pn-innovation-day-2026",
+  "name": "Personalized Nutrition Initiative Innovation Day 2026",
+  "short_name": "PN Innovation Day 2026",
+  "organizer": "Personalized Nutrition Initiative, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://personalizednutrition.research.illinois.edu",
+  "edition_url": "https://personalizednutrition.research.illinois.edu/2026-pn-innovation-day/",
+  "areas": [
+   "public-health",
+   "endocrinology"
+  ],
+  "tags": [
+   "uiuc",
+   "obesity",
+   "endocrine",
+   "health-services",
+   "illinois"
+  ],
+  "start_date": "2026-09-28",
+  "end_date": "2026-09-30",
+  "city": "Urbana",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "Illini Union, University of Illinois Urbana-Champaign",
+  "lat": 40.1092,
+  "lon": -88.2276,
+  "format": "in-person",
+  "description": "PN Innovation Day is the Personalized Nutrition Initiative's annual meeting bringing together university researchers and external partners around personalized nutrition research, with a call for abstracts. The 2026 edition runs September 28 to 30, 2026 at the Illini Union, including a clinical research facility tour and welcome dinner, the main programming day, and an external partners program meeting.",
+  "deadlines": [
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-08-24",
+    "url": "https://personalizednutrition.research.illinois.edu/2026-pn-innovation-day/",
+    "estimated": false,
+    "note": "Already past as of the September 10, 2026 research date; included for completeness and to anchor the annual pattern. The main event on September 28 to 30, 2026 has not yet occurred."
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-10-28",
+   "end_date": "2025-10-28",
+   "city": "Urbana",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://personalizednutrition.research.illinois.edu/2026-pn-innovation-day/",
+    "accessed": "2026-09-10",
+    "note": "confirms 2026 dates, Illini Union location, and August 24 abstract deadline"
+   },
+   {
+    "url": "https://personalizednutrition.research.illinois.edu/events/past-events/",
+    "accessed": "2026-09-10",
+    "note": "lists past Innovation Day dates from 2022 through 2025"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The event was formerly a one day symposium (for example in 2021) and has since expanded into a multi-day Innovation Day. The abstract deadline has already passed relative to the September 10, 2026 access date, but the event itself is still upcoming."
+ }
+]

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ENDO 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:endo-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270609
+SUMMARY:ENDO 2027
+DESCRIPTION:ENDO 2027 is the annual meeting of the Endocrine Society\, sc
+ heduled to be held in Toronto\, Ontario. The meeting is currently in its
+  save the date phase\, and abstract submission and other program details
+  had not yet been published as of access date.\n\nhttps://www.endocrine.
+ org/meetings-and-events/endo-future-meetings
+LOCATION:Toronto\, Ontario\, CA
+URL:https://www.endocrine.org/meetings-and-events/endo-future-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ENDO 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

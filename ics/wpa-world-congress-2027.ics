@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:27th World Congress of Psychiatry (WCP 2027)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:wpa-world-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271108
+SUMMARY:27th World Congress of Psychiatry (WCP 2027)
+DESCRIPTION:The 27th World Congress of Psychiatry is scheduled by the Wor
+ ld Psychiatric Association for Cartagena\, Colombia. Only the dates and 
+ city have been published\; a dedicated congress website has not yet been
+  launched.\n\nDeadlines\nSession proposal submission: 2027-03-15 (estima
+ ted)\nAbstract submission: 2027-05-01 (estimated)\nEarly registration: 2
+ 027-07-15 (estimated)\n\nhttps://www.wpanet.org/upcoming-congresses-even
+ ts/
+LOCATION:Cartagena\, Bolívar\, CO
+URL:https://www.wpanet.org/upcoming-congresses-events/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:27th World Congress of Psychiatry (WCP 2027)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wpa-world-congress-2027-20270315-session-proposal-submission@conferen
+ ce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Deadline: WPA WCP 2027 session proposal submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (proposals closed 9 February 
+ 2026 for a late September congress\, about seven months ahead). Not publ
+ ished.\nMeeting: 27th World Congress of Psychiatry (WCP 2027)\, Nov 04 t
+ o 07\, 2027\, Cartagena\, Bolívar\, CO\nhttps://www.wpanet.org/upcoming
+ -congresses-events/
+LOCATION:Cartagena\, Bolívar\, CO
+URL:https://www.wpanet.org/upcoming-congresses-events/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2027 session proposal submission (estimated
+ )
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2027 session proposal submission (estimated
+ )
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2027 session proposal submission (estimated
+ )
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wpa-world-congress-2027-20270501-abstract-submission@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Deadline: WPA WCP 2027 abstract submission (estimated)
+DESCRIPTION:Estimated from prior editions (abstracts closed 2 April 2025 
+ for an October congress and 23 March 2026 for a September congress\, abo
+ ut six months ahead). Not published.\nMeeting: 27th World Congress of Ps
+ ychiatry (WCP 2027)\, Nov 04 to 07\, 2027\, Cartagena\, Bolívar\, CO\nh
+ ttps://www.wpanet.org/upcoming-congresses-events/
+LOCATION:Cartagena\, Bolívar\, CO
+URL:https://www.wpanet.org/upcoming-congresses-events/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wpa-world-congress-2027-20270715-early-registration@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:Deadline: WPA WCP 2027 early registration (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (early registration closed 2 
+ June 2026 for a late September congress). Not published.\nMeeting: 27th 
+ World Congress of Psychiatry (WCP 2027)\, Nov 04 to 07\, 2027\, Cartagen
+ a\, Bolívar\, CO\nhttps://www.wpanet.org/upcoming-congresses-events/
+LOCATION:Cartagena\, Bolívar\, CO
+URL:https://www.wpanet.org/upcoming-congresses-events/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2027 early registration (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2027 early registration (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WPA WCP 2027 early registration (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

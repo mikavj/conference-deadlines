@@ -1,0 +1,112 @@
+[
+ {
+  "id": "sleep-2027",
+  "name": "SLEEP 2027: 41st Annual Meeting of the Associated Professional Sleep Societies",
+  "short_name": "SLEEP 2027",
+  "organizer": "Associated Professional Sleep Societies (American Academy of Sleep Medicine and Sleep Research Society)",
+  "organizer_url": "https://www.sleepmeeting.org/",
+  "edition_url": "https://aasm.org/event/sleep-2027/",
+  "tags": [
+   "sleep",
+   "neuroscience"
+  ],
+  "start_date": "2027-06-06",
+  "end_date": "2027-06-09",
+  "city": "Denver",
+  "country": "US",
+  "venue": "Colorado Convention Center",
+  "lat": 39.7429,
+  "lon": -104.9958,
+  "format": null,
+  "description": "SLEEP 2027, the 41st APSS annual meeting, runs June 6 to 9, 2027 at the Colorado Convention Center in Denver, with postgraduate courses on June 5 and 6. Registration opens in January 2027.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-09-16",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (submissions opened September 17, 2025); the sleepmeeting.org call for abstracts still shows SLEEP 2026"
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-12-07",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (December 8, 2025 deadline)"
+   },
+   {
+    "label": "Registration opens",
+    "date": null,
+    "url": "https://aasm.org/event/sleep-2027/",
+    "estimated": false,
+    "note": "January 2027"
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2027-02-08",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (February 9, 2026)"
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2027-03-15",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (March 16, 2026)"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-14",
+   "end_date": "2026-06-17",
+   "city": "Baltimore",
+   "deadlines": [
+    {
+     "label": "Abstract submission opens",
+     "date": "2025-09-17"
+    },
+    {
+     "label": "Abstract submission",
+     "date": "2025-12-08"
+    },
+    {
+     "label": "Late-breaking abstract submission opens",
+     "date": "2026-02-09"
+    },
+    {
+     "label": "Late-breaking abstract submission",
+     "date": "2026-03-16"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://aasm.org/event/sleep-2027/",
+    "accessed": "2026-09-09",
+    "note": "Dates, postgraduate course days, venue address, registration opening"
+   },
+   {
+    "url": "https://www.sleepmeeting.org/about/",
+    "accessed": "2026-09-09",
+    "note": "Future meeting locations: 2027 June 6 to 9 Denver; 2028 June 11 to 14 Charlotte"
+   },
+   {
+    "url": "https://www.sleepmeeting.org/call-for-abstracts/",
+    "accessed": "2026-09-09",
+    "note": "2026 abstract timeline used for the estimates"
+   },
+   {
+    "url": "https://www.sleepmeeting.org/",
+    "accessed": "2026-09-09",
+    "note": "2026 meeting in Baltimore, June 14 to 17"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Official dates published; abstract deadlines are estimates until APSS posts the SLEEP 2027 call.",
+  "region_name": "Colorado",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

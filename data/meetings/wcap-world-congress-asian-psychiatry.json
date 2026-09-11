@@ -1,0 +1,117 @@
+[
+ {
+  "id": "wcap-world-congress-asian-psychiatry-2026",
+  "name": "11th World Congress of Asian Psychiatry (WCAP 2026)",
+  "short_name": "WCAP 2026",
+  "organizer": "Asian Federation of Psychiatric Associations",
+  "organizer_url": "https://www.afpa.asia/",
+  "edition_url": "https://www.wcap2026.jp/",
+  "tags": [
+   "general-psychiatry",
+   "international",
+   "cultural"
+  ],
+  "start_date": "2026-10-06",
+  "end_date": "2026-10-08",
+  "city": "Sapporo",
+  "country": "JP",
+  "venue": "Hokkaido University, Clark Memorial Student Center",
+  "lat": 43.0796,
+  "lon": 141.3373,
+  "format": null,
+  "description": "The 11th World Congress of Asian Psychiatry is organized by the Asian Federation of Psychiatric Associations in partnership with the World Psychiatric Association at Hokkaido University under the theme Harmonization between Urbanization and Nature in Future Mental Health. The programme includes keynote lectures, symposia, workshops and oral and poster presentations.",
+  "deadlines": [
+   {
+    "label": "Symposium and workshop proposal submission opens",
+    "date": "2025-11-05",
+    "url": "https://www.wcap2026.jp/submission.html",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Symposium and workshop proposal submission",
+    "date": "2026-02-28",
+    "url": "https://www.wcap2026.jp/submission.html",
+    "estimated": false,
+    "note": "Extended deadline, 23:59 JST."
+   },
+   {
+    "label": "Abstract submission opens",
+    "date": "2025-12-25",
+    "url": "https://www.wcap2026.jp/submission.html",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Oral abstract submission",
+    "date": "2026-04-06",
+    "url": "https://www.wcap2026.jp/submission.html",
+    "estimated": false,
+    "note": "23:59 JST."
+   },
+   {
+    "label": "Poster abstract submission",
+    "date": "2026-04-30",
+    "url": "https://www.wcap2026.jp/submission.html",
+    "estimated": false,
+    "note": "23:59 JST."
+   },
+   {
+    "label": "Presenter registration",
+    "date": "2026-07-31",
+    "url": "https://www.wcap2026.jp/registration.html",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-08-16",
+    "url": "https://www.wcap2026.jp/registration.html",
+    "estimated": false,
+    "note": "Early bird rate 17 June to 16 August 2026 JST."
+   },
+   {
+    "label": "Regular registration",
+    "date": "2026-09-15",
+    "url": "https://www.wcap2026.jp/registration.html",
+    "estimated": false,
+    "note": "Late and on site rate 16 September to 8 October 2026."
+   }
+  ],
+  "prior_edition": {
+   "year": 2024,
+   "start_date": "2024-12-05",
+   "end_date": "2024-12-07",
+   "city": "Bali",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.wcap2026.jp/",
+    "accessed": "2026-09-09",
+    "note": "Dates 6 to 8 October 2026, Hokkaido University, theme, organizer."
+   },
+   {
+    "url": "https://www.wcap2026.jp/submission.html",
+    "accessed": "2026-09-09",
+    "note": "Symposium and abstract submission windows and deadlines."
+   },
+   {
+    "url": "https://www.wcap2026.jp/registration.html",
+    "accessed": "2026-09-09",
+    "note": "Registration rate windows and presenter registration deadline."
+   },
+   {
+    "url": "http://afpa.asia/en/activity.html",
+    "accessed": "2026-09-09",
+    "note": "AFPA meeting history including the 10th WCAP, Bali, 5 to 7 December 2024."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Submission deadlines have passed; regular registration closes 15 September 2026. The 12th WCAP has not been announced.",
+  "region_name": "Hokkaido",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

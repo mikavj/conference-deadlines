@@ -1,0 +1,48 @@
+[
+ {
+  "id": "uiuc-beckman-institute-open-house-2027",
+  "name": "Beckman Institute Open House 2027",
+  "short_name": "Beckman Open House 2027",
+  "organizer": "Beckman Institute for Advanced Science and Technology, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://beckman.illinois.edu",
+  "edition_url": "https://beckman.illinois.edu/outreach/beckman-institute-open-house",
+  "areas": [
+   "neuroscience",
+   "medical-education"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "neuroscience",
+   "education",
+   "community"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Urbana",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "Beckman Institute for Advanced Science and Technology",
+  "lat": 40.102,
+  "lon": -88.2272,
+  "format": "in-person",
+  "description": "The Beckman Institute Open House is an annual public science outreach event held alongside Engineering Open House, with interactive demonstrations from research groups including neuroscience and imaging labs. The 2027 dates had not been announced as of September 2026; the 2026 open house ran April 10 to 11.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-10",
+   "end_date": "2026-04-11",
+   "city": "Urbana",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://beckman.illinois.edu/news/article/2026/03/24/beckman-institute-open-house-happening-april-10-11",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2026 open house ran 9am to 4pm Friday April 10 and 9am to 3pm Saturday April 11, held concurrently with Engineering Open House"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "This is a public science outreach event without a call for abstracts, not a research conference; included because it is a clearly annual UIUC event with neuroscience and health related lab demonstrations, per the task instructions. The 2027 dates were not yet published as of September 2026."
+ }
+]

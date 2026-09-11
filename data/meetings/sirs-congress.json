@@ -1,0 +1,98 @@
+[
+ {
+  "id": "sirs-congress-2027",
+  "name": "SIRS 2027 Congress",
+  "short_name": "SIRS 2027",
+  "organizer": "Schizophrenia International Research Society",
+  "organizer_url": "https://schizophreniaresearchsociety.org/",
+  "edition_url": "https://sirs.societyconference.com/v2/",
+  "tags": [
+   "schizophrenia",
+   "international",
+   "biological-psychiatry"
+  ],
+  "start_date": "2027-04-10",
+  "end_date": "2027-04-14",
+  "city": "Montreal",
+  "country": "CA",
+  "venue": "Palais des congres de Montreal",
+  "lat": 45.5037,
+  "lon": -73.5609,
+  "format": "in-person",
+  "description": "The SIRS 2027 Congress will be held April 10 to 14, 2027, at the Palais des congres de Montreal. Early career award applications, which require a submitted abstract, opened August 6, 2026 and close December 1, 2026.",
+  "deadlines": [
+   {
+    "label": "Early career award application opens",
+    "date": "2026-08-06",
+    "url": "https://schizophreniaresearchsociety.org/meetings/early-career-award-program/",
+    "estimated": false,
+    "note": "application requires a submitted congress abstract, so abstract submission is open"
+   },
+   {
+    "label": "Early career award application",
+    "date": "2026-12-01",
+    "url": "https://schizophreniaresearchsociety.org/meetings/early-career-award-program/",
+    "estimated": false,
+    "note": "11:59 pm CST"
+   },
+   {
+    "label": "Abstract submission (oral and poster)",
+    "date": "2026-12-01",
+    "url": null,
+    "estimated": true,
+    "note": "estimated: not stated on the pages reviewed; the 2026 cycle closed December 4, 2025 and the 2027 award deadline is December 1, 2026"
+   },
+   {
+    "label": "Late breaking poster submission",
+    "date": "2027-02-10",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the historical pattern (about two months before the congress); not published"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-03-25",
+   "end_date": "2026-03-29",
+   "city": "Florence",
+   "deadlines": [
+    {
+     "label": "Submissions open",
+     "date": "2025-08-07"
+    },
+    {
+     "label": "Abstract submission",
+     "date": "2025-12-04"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://schizophreniaresearchsociety.org/",
+    "accessed": "2026-09-09",
+    "note": "Dates April 10 to 14, 2027, Palais des congres de Montreal, registration coming soon, congress site link"
+   },
+   {
+    "url": "https://schizophreniaresearchsociety.org/meetings/past-and-future-meetings/",
+    "accessed": "2026-09-09",
+    "note": "2027 Montreal and 2026 Florence dates"
+   },
+   {
+    "url": "https://schizophreniaresearchsociety.org/meetings/early-career-award-program/",
+    "accessed": "2026-09-09",
+    "note": "Award opens August 6, 2026, closes December 1, 2026"
+   },
+   {
+    "url": "https://schizophreniaresearchsociety.org/meetings/abstract-submissions/",
+    "accessed": "2026-09-09",
+    "note": "Abstract page not yet updated for 2027 (shows 2023 deadlines)"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The congress portal (sirs.societyconference.com) is JavaScript rendered and could not be read; verify the abstract deadline there. The 2026 submission window (opened August 7, 2025, closed December 4, 2025) came from the society site via search.",
+  "region_name": "Quebec",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

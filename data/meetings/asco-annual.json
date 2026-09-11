@@ -1,0 +1,78 @@
+[
+ {
+  "id": "asco-annual-2027",
+  "name": "ASCO Annual Meeting 2027",
+  "short_name": "ASCO 2027",
+  "organizer": "American Society of Clinical Oncology",
+  "organizer_url": "https://www.asco.org",
+  "edition_url": "https://www.asco.org/annual-meeting",
+  "areas": [
+   "oncology"
+  ],
+  "tags": [
+   "oncology",
+   "cancer-research",
+   "clinical-trials"
+  ],
+  "start_date": "2027-06-04",
+  "end_date": "2027-06-08",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "McCormick Place",
+  "lat": 41.8519,
+  "lon": -87.6165,
+  "format": "hybrid",
+  "description": "The ASCO Annual Meeting is the annual clinical oncology meeting of the American Society of Clinical Oncology. The 2027 edition is scheduled for June 4 to 8, 2027 at McCormick Place in Chicago, Illinois, with in person and online attendance options.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2027-01-26",
+    "url": "https://www.asco.org/annual-meeting/dates-know",
+    "estimated": false,
+    "note": "Regular abstract submission deadline, typically 11:59 PM ET; time not independently confirmed."
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2027-03-08",
+    "url": "https://www.asco.org/annual-meeting/abstracts-presentations/submission-details/late-breaking-data-submission-guidelines",
+    "estimated": false,
+    "note": "12:00 PM (noon) ET."
+   },
+   {
+    "label": "Abstract notification",
+    "date": "2027-03-31",
+    "url": "https://www.asco.org/annual-meeting/dates-know",
+    "estimated": false,
+    "note": "Notification sent to first authors."
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-12-02",
+    "url": "https://www.asco.org/annual-meeting/dates-know",
+    "estimated": false,
+    "note": "Early registration deadline."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.asco.org/annual-meeting/dates-know",
+    "accessed": "2026-09-10",
+    "note": "Search-engine snippet of this official page confirms regular abstract deadline (Jan 26, 2027), notification (Mar 31, 2027), and early registration deadline (Dec 2, 2026); direct fetch returned HTTP 403."
+   },
+   {
+    "url": "https://www.asco.org/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Search-engine snippet confirms meeting dates June 4-8, 2027, venue McCormick Place, Chicago, and hybrid format; direct fetch returned HTTP 403."
+   },
+   {
+    "url": "https://www.asco.org/annual-meeting/abstracts-presentations/submission-details/late-breaking-data-submission-guidelines",
+    "accessed": "2026-09-10",
+    "note": "Search-engine snippet confirms late-breaking abstract deadline of March 8, 2027, 12:00 PM ET."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "asco.org blocked direct WebFetch with HTTP 403 for both /annual-meeting and /annual-meeting/dates-know; all dates above were recovered from search-engine snippets of those official pages rather than a direct fetch, hence medium confidence. Abstract submission opening date was not found and is omitted rather than guessed."
+ }
+]

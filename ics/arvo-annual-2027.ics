@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ARVO 2027 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:arvo-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270507
+SUMMARY:ARVO 2027 Annual Meeting
+DESCRIPTION:ARVO 2027 is the annual meeting of the Association for Resear
+ ch in Vision and Ophthalmology\, scheduled for May 2 to 6\, 2027 in San 
+ Diego\, California.\n\nDeadlines\nAbstract submission opens: 2026-10-16\
+ nAbstract submission deadline: 2026-12-04\nAbstract received notificatio
+ n: 2026-12-09\nAbstract acceptance/rejection notification: 2027-01-14\nA
+ bstract scheduling and presentation type notification: 2027-02-11\n\nhtt
+ ps://www.arvo.org/annual-meeting
+LOCATION:San Diego\, California
+URL:https://www.arvo.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ARVO 2027 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arvo-annual-2027-20261204-abstract-submission-deadline@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Deadline: ARVO 2027 abstract submission deadline
+DESCRIPTION:5:00 PM U.S. EST\; 2027 ARVO membership is required for submi
+ ssion and membership payment is due by this same date for online submitt
+ ers\nMeeting: ARVO 2027 Annual Meeting\, May 02 to 06\, 2027\, San Diego
+ \, California\nhttps://www.arvo.org/annual-meeting/abstracts
+LOCATION:San Diego\, California
+URL:https://www.arvo.org/annual-meeting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ARVO 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ARVO 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ARVO 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

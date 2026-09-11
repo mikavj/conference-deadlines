@@ -1,0 +1,47 @@
+[
+ {
+  "id": "uiuc-illinois-summer-research-symposium-2027",
+  "name": "Illinois Summer Research Symposium 2027",
+  "short_name": "ISRS 2027",
+  "organizer": "Graduate College, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://grad.illinois.edu",
+  "edition_url": "https://grad.illinois.edu/engagement/access-engagement/illinois-summer-research-symposium",
+  "areas": [
+   "medical-education",
+   "public-health"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "student-resident-research",
+   "education"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Champaign",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "Illinois Conference Center",
+  "lat": 40.102,
+  "lon": -88.2272,
+  "format": "in-person",
+  "description": "The Illinois Summer Research Symposium is the Graduate College's culminating poster and presentation event for over one hundred undergraduate summer scholars from programs including the REACH pathway to Carle Illinois College of Medicine, held each July. The 2027 date had not been published as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-07-20",
+   "end_date": "2026-07-20",
+   "city": "Champaign",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://grad.illinois.edu/engagement/access-engagement/illinois-summer-research-symposium",
+    "accessed": "2026-09-10",
+    "note": "2026 symposium held July 20, 2026 at the Illinois Conference Center; feeding programs include REACH, AREES, McNair, and others"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "General multidisciplinary summer research symposium, not health specific, but explicitly requested in the task instructions and includes the REACH pathway to Carle Illinois College of Medicine. The 2027 date was not yet published."
+ }
+]

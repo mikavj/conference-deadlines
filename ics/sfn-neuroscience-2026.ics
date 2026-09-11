@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society for Neuroscience Neuroscience 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sfn-neuroscience-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261119
+SUMMARY:Society for Neuroscience Neuroscience 2026
+DESCRIPTION:Neuroscience 2026 runs November 14 to 18\, 2026\, at the Walt
+ er E. Washington Convention Center in Washington\, DC\, with in person a
+ nd virtual presentation options. Regular abstracts closed June 11\, 2026
+ \; late breaking abstracts are accepted September 8 to 15\, 2026 or unti
+ l a 2\,500 submission cap is reached.\n\nDeadlines\nSymposium and sessio
+ n proposals (extended): 2026-01-26\nAbstract submission opens: 2026-05-2
+ 7\nAbstract submission (extended): 2026-06-11\nAdvance member registrati
+ on opens: 2026-07-15\nLate breaking abstract submission opens: 2026-09-0
+ 8\nDeadline to switch from virtual only to in person presentation: 2026-
+ 09-10\nLate breaking abstract submission: 2026-09-15\nRegistration cance
+ llation for refund: 2026-10-05\nHousing reservations close: 2026-11-03\n
+ \nhttps://www.sfn.org/meetings/neuroscience-2026
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.sfn.org/meetings/neuroscience-2026
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society for Neuroscience Neuroscience 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sfn-neuroscience-2026-20260126-symposium-and-session-proposals-extend
+ ed-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:Deadline: SfN 2026 symposium and session proposals (extended)
+DESCRIPTION:5:00 pm EST\; closed\nMeeting: Society for Neuroscience Neuro
+ science 2026\, Nov 14 to 18\, 2026\, Washington\, District of Columbia\,
+  Walter E. Washington Convention Center\nhttps://www.sfn.org/meetings/ne
+ uroscience-2026/general-information/dates-and-deadlines
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.sfn.org/meetings/neuroscience-2026/general-information/da
+ tes-and-deadlines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 symposium and session proposals (extended)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 symposium and session proposals (extended)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 symposium and session proposals (extended)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sfn-neuroscience-2026-20260611-abstract-submission-extended-@conferen
+ ce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:Deadline: SfN 2026 abstract submission (extended)
+DESCRIPTION:2:00 pm EDT\; original deadline June 10\; edits due June 12\;
+  closed\nMeeting: Society for Neuroscience Neuroscience 2026\, Nov 14 to
+  18\, 2026\, Washington\, District of Columbia\, Walter E. Washington Co
+ nvention Center\nhttps://www.sfn.org/meetings/neuroscience-2026/call-for
+ -abstracts
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.sfn.org/meetings/neuroscience-2026/call-for-abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 abstract submission (extended)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 abstract submission (extended)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 abstract submission (extended)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sfn-neuroscience-2026-20260910-deadline-to-switch-from-virtual-only-t
+ o-in-person-presentation@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Deadline: SfN 2026 deadline to switch from virtual only to in per
+ son presentation
+DESCRIPTION:Meeting: Society for Neuroscience Neuroscience 2026\, Nov 14 
+ to 18\, 2026\, Washington\, District of Columbia\, Walter E. Washington 
+ Convention Center\nhttps://www.sfn.org/meetings/neuroscience-2026/genera
+ l-information/dates-and-deadlines
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.sfn.org/meetings/neuroscience-2026/general-information/da
+ tes-and-deadlines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 deadline to switch from virtual only to in
+  person presentation
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 deadline to switch from virtual only to in
+  person presentation
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 deadline to switch from virtual only to in
+  person presentation
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sfn-neuroscience-2026-20260915-late-breaking-abstract-submission@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Deadline: SfN 2026 late breaking abstract submission
+DESCRIPTION:5:00 pm EDT or when the 2\,500 cap is reached\nMeeting: Socie
+ ty for Neuroscience Neuroscience 2026\, Nov 14 to 18\, 2026\, Washington
+ \, District of Columbia\, Walter E. Washington Convention Center\nhttps:
+ //www.sfn.org/meetings/neuroscience-2026/late-breaking-abstracts
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.sfn.org/meetings/neuroscience-2026/late-breaking-abstract
+ s
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 late breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 late breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 late breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sfn-neuroscience-2026-20261005-registration-cancellation-for-refund@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Deadline: SfN 2026 registration cancellation for refund
+DESCRIPTION:regular (higher) registration rates begin October 6\nMeeting:
+  Society for Neuroscience Neuroscience 2026\, Nov 14 to 18\, 2026\, Wash
+ ington\, District of Columbia\, Walter E. Washington Convention Center\n
+ https://www.sfn.org/meetings/neuroscience-2026/general-information/dates
+ -and-deadlines
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.sfn.org/meetings/neuroscience-2026/general-information/da
+ tes-and-deadlines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 registration cancellation for refund
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 registration cancellation for refund
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 registration cancellation for refund
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sfn-neuroscience-2026-20261103-housing-reservations-close@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Deadline: SfN 2026 housing reservations close
+DESCRIPTION:penalty free cancellation until October 16\nMeeting: Society 
+ for Neuroscience Neuroscience 2026\, Nov 14 to 18\, 2026\, Washington\, 
+ District of Columbia\, Walter E. Washington Convention Center\nhttps://w
+ ww.sfn.org/meetings/neuroscience-2026/general-information/dates-and-dead
+ lines
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.sfn.org/meetings/neuroscience-2026/general-information/da
+ tes-and-deadlines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 housing reservations close
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 housing reservations close
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SfN 2026 housing reservations close
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Heart Association Scientific Sessions 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aha-scientific-sessions-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261110
+SUMMARY:American Heart Association Scientific Sessions 2026
+DESCRIPTION:Scientific Sessions is the American Heart Association's flags
+ hip annual meeting for cardiovascular research and clinical science. The
+  2026 meeting is held at McCormick Place Convention Center in Chicago.\n
+ \nDeadlines\nAbstract submission: 2026-06-08\nLate-breaking science subm
+ ission opens: 2026-06-22\nLate-breaking science submission: 2026-08-24\n
+ Travel award application: 2026-08-21\n\nhttps://professional.heart.org/e
+ n/meetings/scientific-sessions
+LOCATION:Chicago\, Illinois\, McCormick Place Convention Center
+URL:https://professional.heart.org/en/meetings/scientific-sessions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Heart Association Scientific Sessions 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aha-scientific-sessions-2026-20260608-abstract-submission@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:Deadline: AHA Scientific Sessions 2026 abstract submission
+DESCRIPTION:6 p.m. CT deadline\nMeeting: American Heart Association Scien
+ tific Sessions 2026\, Nov 06 to 09\, 2026\, Chicago\, Illinois\, McCormi
+ ck Place Convention Center\nhttps://professional.heart.org/en/meetings/s
+ cientific-sessions/submit-science
+LOCATION:Chicago\, Illinois\, McCormick Place Convention Center
+URL:https://professional.heart.org/en/meetings/scientific-sessions/submit
+ -science
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHA Scientific Sessions 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHA Scientific Sessions 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHA Scientific Sessions 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aha-scientific-sessions-2026-20260824-late-breaking-science-submissio
+ n@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Deadline: AHA Scientific Sessions 2026 late-breaking science subm
+ ission
+DESCRIPTION:6 p.m. CT deadline\nMeeting: American Heart Association Scien
+ tific Sessions 2026\, Nov 06 to 09\, 2026\, Chicago\, Illinois\, McCormi
+ ck Place Convention Center\nhttps://professional.heart.org/en/meetings/s
+ cientific-sessions/programming/late-breaking-science
+LOCATION:Chicago\, Illinois\, McCormick Place Convention Center
+URL:https://professional.heart.org/en/meetings/scientific-sessions/progra
+ mming/late-breaking-science
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHA Scientific Sessions 2026 late-breaking science 
+ submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHA Scientific Sessions 2026 late-breaking science 
+ submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHA Scientific Sessions 2026 late-breaking science 
+ submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aha-scientific-sessions-2026-20260821-travel-award-application@confer
+ ence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Deadline: AHA Scientific Sessions 2026 travel award application
+DESCRIPTION:6 p.m. CT deadline\; requires active AHA professional members
+ hip by Aug 19\, 2026\nMeeting: American Heart Association Scientific Ses
+ sions 2026\, Nov 06 to 09\, 2026\, Chicago\, Illinois\, McCormick Place 
+ Convention Center\nhttps://professional.heart.org/en/meetings/scientific
+ -sessions/awards
+LOCATION:Chicago\, Illinois\, McCormick Place Convention Center
+URL:https://professional.heart.org/en/meetings/scientific-sessions/awards
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHA Scientific Sessions 2026 travel award applicati
+ on
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHA Scientific Sessions 2026 travel award applicati
+ on
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHA Scientific Sessions 2026 travel award applicati
+ on
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

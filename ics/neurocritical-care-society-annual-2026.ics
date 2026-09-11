@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCS 24th Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:neurocritical-care-society-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261024
+SUMMARY:NCS 24th Annual Meeting
+DESCRIPTION:The Neurocritical Care Society holds its 24th annual meeting 
+ in Seattle\, Washington\, for physicians\, nurses\, advanced practice pr
+ oviders\, pharmacists and trainees in neurocritical care. The program in
+ cludes late breaking science and research abstract presentations under t
+ he theme Reaching New Heights.\n\nDeadlines\nAbstract submission: 2026-0
+ 5-03\nAbstract notification: 2026-06-01 (estimated)\nAbstract withdrawal
+  deadline (if accepted elsewhere): 2026-07-17\nEarly registration: 2026-
+ 08-05\nDiscounted housing deadline: 2026-09-21\n\nhttps://www.neurocriti
+ calcare.org/Events/Annual-Meeting/Future-Annual-Meetings
+LOCATION:Seattle\, Washington\, Seattle Convention Center
+URL:https://www.neurocriticalcare.org/Events/Annual-Meeting/Future-Annual
+ -Meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NCS 24th Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurocritical-care-society-annual-2026-20260503-abstract-submission@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:Deadline: Neurocritical Care Society 2026 abstract submission
+DESCRIPTION:Deadline is 11:59 p.m. CT\; a $50 non-refundable fee applies 
+ per submission.\nMeeting: NCS 24th Annual Meeting\, Oct 20 to 23\, 2026\
+ , Seattle\, Washington\, Seattle Convention Center\nhttps://www.neurocri
+ ticalcare.org/Events/Annual-Meeting/Call-for-Research-Abstracts
+LOCATION:Seattle\, Washington\, Seattle Convention Center
+URL:https://www.neurocriticalcare.org/Events/Annual-Meeting/Call-for-Rese
+ arch-Abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurocritical-care-society-annual-2026-20260805-early-registration@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Deadline: Neurocritical Care Society 2026 early registration
+DESCRIPTION:Meeting: NCS 24th Annual Meeting\, Oct 20 to 23\, 2026\, Seat
+ tle\, Washington\, Seattle Convention Center\nhttps://www.neurocriticalc
+ are.org/Events/Annual-Meeting/Future-Annual-Meetings
+LOCATION:Seattle\, Washington\, Seattle Convention Center
+URL:https://www.neurocriticalcare.org/Events/Annual-Meeting/Future-Annual
+ -Meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:neurocritical-care-society-annual-2026-20260921-discounted-housing-de
+ adline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Deadline: Neurocritical Care Society 2026 discounted housing dead
+ line
+DESCRIPTION:Meeting: NCS 24th Annual Meeting\, Oct 20 to 23\, 2026\, Seat
+ tle\, Washington\, Seattle Convention Center\nhttps://www.neurocriticalc
+ are.org/Events/Annual-Meeting/Future-Annual-Meetings
+LOCATION:Seattle\, Washington\, Seattle Convention Center
+URL:https://www.neurocriticalcare.org/Events/Annual-Meeting/Future-Annual
+ -Meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 discounted housing 
+ deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 discounted housing 
+ deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Neurocritical Care Society 2026 discounted housing 
+ deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society of Critical Care Medicine 2027 Critical Care Congres
+ s
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sccm-critical-care-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270317
+SUMMARY:Society of Critical Care Medicine 2027 Critical Care Congress
+DESCRIPTION:The Critical Care Congress is the Society of Critical Care Me
+ dicine's annual meeting on critical care research and practice. The 2027
+  congress runs March 14 to 16 at the San Diego Convention Center\, prece
+ ded by precongress educational programming on March 12 and 13.\n\nDeadli
+ nes\nAbstract and case report submission opens: 2026-06-01\nAbstract and
+  case report submission: 2026-09-03\n\nhttps://sccm.org/annual-congress/
+ critical-care-conference
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://sccm.org/annual-congress/critical-care-conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society of Critical Care Medicine 2027 Critical Care Congress
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sccm-critical-care-congress-2027-20260903-abstract-and-case-report-su
+ bmission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Deadline: SCCM Critical Care Congress 2027 abstract and case repo
+ rt submission
+DESCRIPTION:11:59 p.m. Central Time deadline\nMeeting: Society of Critica
+ l Care Medicine 2027 Critical Care Congress\, Mar 14 to 16\, 2027\, San 
+ Diego\, California\, San Diego Convention Center\nhttps://sccm.org/annua
+ l-congress/abstracts-and-case-reports
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://sccm.org/annual-congress/abstracts-and-case-reports
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SCCM Critical Care Congress 2027 abstract and case 
+ report submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SCCM Critical Care Congress 2027 abstract and case 
+ report submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SCCM Critical Care Congress 2027 abstract and case 
+ report submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

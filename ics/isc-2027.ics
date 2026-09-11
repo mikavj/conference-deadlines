@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:International Stroke Conference 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:isc-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270213
+SUMMARY:International Stroke Conference 2027
+DESCRIPTION:The International Stroke Conference is the annual scientific 
+ meeting of the American Stroke Association\, a division of the American 
+ Heart Association\, focused on cerebrovascular disease research and clin
+ ical stroke care. The 2027 conference runs February 10 to 12\, 2027\, in
+  Houston\, Texas\, with pre-conference symposia held on February 9\, 202
+ 7.\n\nDeadlines\nAbstract submission deadline: 2026-08-18\nLate-breaking
+  science submission opens: 2026-09-30\nLate-breaking science submission 
+ deadline: 2026-10-28\n\nhttps://professional.heart.org/en/meetings/inter
+ national-stroke-conference
+LOCATION:Houston\, Texas\, George R. Brown Convention Center
+URL:https://professional.heart.org/en/meetings/international-stroke-confe
+ rence
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:International Stroke Conference 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isc-2027-20260818-abstract-submission-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Deadline: ISC 2027 abstract submission deadline
+DESCRIPTION:11:59 p.m. CDT\, per search snippet of the official submissio
+ n page.\nMeeting: International Stroke Conference 2027\, Feb 10 to 12\, 
+ 2027\, Houston\, Texas\, George R. Brown Convention Center\nhttps://prof
+ essional.heart.org/en/meetings/international-stroke-conference/submit-sc
+ ience
+LOCATION:Houston\, Texas\, George R. Brown Convention Center
+URL:https://professional.heart.org/en/meetings/international-stroke-confe
+ rence/submit-science
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isc-2027-20261028-late-breaking-science-submission-deadline@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Deadline: ISC 2027 late-breaking science submission deadline
+DESCRIPTION:Late-breaking science and ongoing clinical trials submission 
+ period close\, per search snippet of the official submission page.\nMeet
+ ing: International Stroke Conference 2027\, Feb 10 to 12\, 2027\, Housto
+ n\, Texas\, George R. Brown Convention Center\nhttps://professional.hear
+ t.org/en/meetings/international-stroke-conference/submit-science
+LOCATION:Houston\, Texas\, George R. Brown Convention Center
+URL:https://professional.heart.org/en/meetings/international-stroke-confe
+ rence/submit-science
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 late-breaking science submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 late-breaking science submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISC 2027 late-breaking science submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

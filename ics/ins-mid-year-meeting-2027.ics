@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:International Neuropsychological Society 2027 Mid-Year Meeti
+ ng (joint with the Japan Society for Higher Brain Function)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ins-mid-year-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270625
+SUMMARY:International Neuropsychological Society 2027 Mid-Year Meeting (j
+ oint with the Japan Society for Higher Brain Function)
+DESCRIPTION:The 2027 INS midyear meeting is a joint conference with the J
+ apan Society for Higher Brain Function\, the first INS meeting held in J
+ apan. About 1\,200 participants are expected at Makuhari Messe in Chiba 
+ City.\n\nhttps://the-ins.org/meetings/future-ins-meetings/
+LOCATION:Chiba\, Chiba Prefecture\, JP\, Makuhari Messe and Hotel New Ota
+ ni Makuhari
+URL:https://the-ins.org/meetings/future-ins-meetings/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:International Neuropsychological Society 2027 Mid-Year Meetin
+ g (joint with the Japan Society for Higher Brain Function)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

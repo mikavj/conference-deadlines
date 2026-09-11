@@ -1,0 +1,173 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AMERSA 50th Annual Conference 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:amersa-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261115
+SUMMARY:AMERSA 50th Annual Conference 2026
+DESCRIPTION:The 50th AMERSA Annual Conference is held November 12 to 14\,
+  2026 in Washington\, DC with preconference activities on November 11. T
+ he theme is Stronger Together: Transforming Challenge into Opportunity i
+ n Substance Use Care.\n\nDeadlines\nSubmission site opens: 2026-02-01\nA
+ bstract submission: 2026-04-01\nWorkshop proposal submission: 2026-04-01
+ \nDeadline to accept workshop invitation: 2026-05-15\nConference scholar
+ ship award application: 2026-05-17\nDeadline to accept abstract invitati
+ on: 2026-06-15\nEarly registration: 2026-08-31\nHotel room block: 2026-1
+ 0-01\n\nhttps://conference.amersa.org/
+LOCATION:Washington\, District of Columbia\, Omni Shoreham Hotel
+URL:https://conference.amersa.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMERSA 50th Annual Conference 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amersa-2026-20260401-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Deadline: AMERSA 2026 abstract submission
+DESCRIPTION:Research\, curricula and quality improvement\, and clinical c
+ ase categories\nMeeting: AMERSA 50th Annual Conference 2026\, Nov 12 to 
+ 14\, 2026\, Washington\, District of Columbia\, Omni Shoreham Hotel\nhtt
+ ps://conference.amersa.org/call-for-abstracts-and-workshops/
+LOCATION:Washington\, District of Columbia\, Omni Shoreham Hotel
+URL:https://conference.amersa.org/call-for-abstracts-and-workshops/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amersa-2026-20260401-workshop-proposal-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Deadline: AMERSA 2026 workshop proposal submission
+DESCRIPTION:Meeting: AMERSA 50th Annual Conference 2026\, Nov 12 to 14\, 
+ 2026\, Washington\, District of Columbia\, Omni Shoreham Hotel\nhttps://
+ conference.amersa.org/call-for-abstracts-and-workshops/
+LOCATION:Washington\, District of Columbia\, Omni Shoreham Hotel
+URL:https://conference.amersa.org/call-for-abstracts-and-workshops/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 workshop proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 workshop proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 workshop proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amersa-2026-20260517-conference-scholarship-award-application@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:Deadline: AMERSA 2026 conference scholarship award application
+DESCRIPTION:Meeting: AMERSA 50th Annual Conference 2026\, Nov 12 to 14\, 
+ 2026\, Washington\, District of Columbia\, Omni Shoreham Hotel\nhttps://
+ conference.amersa.org/call-for-abstracts-and-workshops/
+LOCATION:Washington\, District of Columbia\, Omni Shoreham Hotel
+URL:https://conference.amersa.org/call-for-abstracts-and-workshops/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 conference scholarship award applicatio
+ n
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 conference scholarship award applicatio
+ n
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 conference scholarship award applicatio
+ n
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amersa-2026-20260831-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Deadline: AMERSA 2026 early registration
+DESCRIPTION:Early bird prices end August 31\, 2026 at midnight ET\nMeetin
+ g: AMERSA 50th Annual Conference 2026\, Nov 12 to 14\, 2026\, Washington
+ \, District of Columbia\, Omni Shoreham Hotel\nhttps://conference.amersa
+ .org/attendees-information-page/
+LOCATION:Washington\, District of Columbia\, Omni Shoreham Hotel
+URL:https://conference.amersa.org/attendees-information-page/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amersa-2026-20261001-hotel-room-block@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Deadline: AMERSA 2026 hotel room block
+DESCRIPTION:Book by October 1\, 2026 for the AMERSA rate at the Omni Shor
+ eham\nMeeting: AMERSA 50th Annual Conference 2026\, Nov 12 to 14\, 2026\
+ , Washington\, District of Columbia\, Omni Shoreham Hotel\nhttps://confe
+ rence.amersa.org/attendees-information-page/
+LOCATION:Washington\, District of Columbia\, Omni Shoreham Hotel
+URL:https://conference.amersa.org/attendees-information-page/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 hotel room block
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 hotel room block
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMERSA 2026 hotel room block
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

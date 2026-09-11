@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NCS 25th Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:neurocritical-care-society-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20271001
+SUMMARY:NCS 25th Annual Meeting
+DESCRIPTION:The Neurocritical Care Society holds its 25th annual meeting 
+ in New Orleans\, Louisiana\, at the Hyatt Regency New Orleans. The meeti
+ ng covers multidisciplinary neurocritical care research and clinical pra
+ ctice.\n\nhttps://www.neurocriticalcare.org/Events/Annual-Meeting/Past-F
+ uture-Annual-Meetings
+LOCATION:New Orleans\, Louisiana\, Hyatt Regency New Orleans
+URL:https://www.neurocriticalcare.org/Events/Annual-Meeting/Past-Future-A
+ nnual-Meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NCS 25th Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

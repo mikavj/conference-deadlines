@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACP Internal Medicine Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acp-internal-medicine-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270418
+SUMMARY:ACP Internal Medicine Meeting 2027
+DESCRIPTION:The ACP Internal Medicine Meeting 2027 is the annual scientif
+ ic and educational conference of the American College of Physicians\, he
+ ld in Los Angeles\, California. It includes clinical education sessions\
+ , pre courses\, and the ACP National Abstract Competitions for medical s
+ tudents\, residents\, fellows\, and associates.\n\nDeadlines\nAbstract s
+ ubmission opens: 2026-10-01\nAbstract submission: 2026-11-12\nEarly regi
+ stration: 2027-01-31\n\nhttps://annualmeeting.acponline.org/
+LOCATION:Los Angeles\, California\, Los Angeles Convention Center
+URL:https://annualmeeting.acponline.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACP Internal Medicine Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acp-internal-medicine-meeting-2027-20261112-abstract-submission@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Deadline: ACP IM 2027 abstract submission
+DESCRIPTION:3:00 PM ET deadline\; 45 dollar submission fee per abstract\;
+  winner notification early February 2027\nMeeting: ACP Internal Medicine
+  Meeting 2027\, Apr 15 to 17\, 2027\, Los Angeles\, California\, Los Ang
+ eles Convention Center\nhttps://www.acponline.org/membership/residents/c
+ ompetitions-awards/acp-national-abstract-competitions
+LOCATION:Los Angeles\, California\, Los Angeles Convention Center
+URL:https://www.acponline.org/membership/residents/competitions-awards/ac
+ p-national-abstract-competitions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACP IM 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACP IM 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACP IM 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acp-internal-medicine-meeting-2027-20270131-early-registration@confer
+ ence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:Deadline: ACP IM 2027 early registration
+DESCRIPTION:early bird pricing expires for ACP members\nMeeting: ACP Inte
+ rnal Medicine Meeting 2027\, Apr 15 to 17\, 2027\, Los Angeles\, Califor
+ nia\, Los Angeles Convention Center\nhttps://annualmeeting.acponline.org
+ /about/internal-medicine-meeting-2027-frequently-asked-questions
+LOCATION:Los Angeles\, California\, Los Angeles Convention Center
+URL:https://annualmeeting.acponline.org/about/internal-medicine-meeting-2
+ 027-frequently-asked-questions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACP IM 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACP IM 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACP IM 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

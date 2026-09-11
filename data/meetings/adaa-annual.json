@@ -1,0 +1,90 @@
+[
+ {
+  "id": "adaa-annual-2027",
+  "name": "ADAA 2027 Annual Conference",
+  "short_name": "ADAA 2027",
+  "organizer": "Anxiety and Depression Association of America",
+  "organizer_url": "https://adaa.org/",
+  "edition_url": "https://adaa.org/adaa-conference",
+  "tags": [
+   "anxiety",
+   "mood-disorders",
+   "trauma",
+   "ocd",
+   "psychotherapy",
+   "psychology"
+  ],
+  "start_date": "2027-04-01",
+  "end_date": "2027-04-03",
+  "city": "Atlanta",
+  "country": "US",
+  "venue": "Atlanta Marriott Marquis",
+  "lat": 33.7617,
+  "lon": -84.3857,
+  "format": "in-person",
+  "description": "The ADAA 2027 Annual Conference is scheduled for April 1 to 3, 2027, in Atlanta with a theme on innovation and dissemination of effective treatment. ADAA opens submissions for symposia, workshops, roundtables, posters and awards after Labor Day each year; specific 2027 deadlines were not retrievable.",
+  "deadlines": [
+   {
+    "label": "Submissions open",
+    "date": null,
+    "url": "https://adaa.org/adaa-conference",
+    "estimated": false,
+    "note": "ADAA states submissions open each year after Labor Day (September 7, 2026)"
+   },
+   {
+    "label": "Symposia, workshops, roundtables and state of the art session proposals",
+    "date": "2026-10-16",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 cycle (October 17, 2025); not verified for 2027"
+   },
+   {
+    "label": "Poster abstract submission",
+    "date": null,
+    "url": null,
+    "estimated": true,
+    "note": "not published; the 2026 poster deadline could not be recovered"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-09",
+   "end_date": "2026-04-11",
+   "city": "Chicago",
+   "deadlines": [
+    {
+     "label": "Symposia, workshops, roundtables and state of the art session proposals",
+     "date": "2025-10-17"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://adaa.org/calendar/adaa-2027-conference-atlanta",
+    "accessed": "2026-09-09",
+    "note": "Search snippet: April 1 to 3, 2027, Atlanta; venue Atlanta Marriott Marquis (page itself blocks automated fetching)"
+   },
+   {
+    "url": "https://adaa.org/adaa-conference",
+    "accessed": "2026-09-09",
+    "note": "Search snippet: submissions open after Labor Day; 2027 theme"
+   },
+   {
+    "url": "https://x.com/ADAA_Anxiety/status/1970488669564817438",
+    "accessed": "2026-09-09",
+    "note": "2026 cycle proposal deadline October 17, 2025"
+   },
+   {
+    "url": "https://community.adaa.org/events/event-description?CalendarEventKey=f464ab5b-b75e-49f4-b262-019820ac7158&hlmlt=ED",
+    "accessed": "2026-09-09",
+    "note": "2026 conference at Sheraton Grand Chicago Riverwalk, April 9, 2026"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "adaa.org sits behind a bot challenge, so details came from search engine snippets of official pages and from the ADAA member community site. Venue should be re-verified. This is the only anxiety and depression conference in the set, so there is no duplication with SOBP.",
+  "region_name": "Georgia",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

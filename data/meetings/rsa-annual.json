@@ -1,0 +1,98 @@
+[
+ {
+  "id": "rsa-annual-2027",
+  "name": "Research Society on Alcohol Annual Scientific Meeting 2027",
+  "short_name": "RSA 2027",
+  "organizer": "Research Society on Alcohol",
+  "organizer_url": "https://researchsocietyonalcohol.org/",
+  "edition_url": "https://researchsocietyonalcohol.org/2026-meeting/",
+  "areas": [
+   "addiction-medicine",
+   "psychiatry",
+   "neuroscience"
+  ],
+  "tags": [
+   "alcohol",
+   "addiction",
+   "neuroscience",
+   "clinical-trials"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "region_name": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "The Research Society on Alcohol, formerly the Research Society on Alcoholism, holds an annual scientific meeting on alcohol research, addiction medicine, and neuroscience. Exact dates, city, and venue for the 2027 meeting have not yet been published by the organizer as of September 2026.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-10-14",
+    "url": "https://researchsocietyonalcohol.org/2026-meeting/",
+    "estimated": false,
+    "note": "Page is headed 2027 General Information and gives day and month (October 14) without a year; 2026 is inferred because that is the next October 14 before a 2027 meeting. Submission close date not yet published."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-20",
+   "end_date": "2026-06-24",
+   "city": "San Antonio, TX",
+   "venue": "Grand Hyatt San Antonio",
+   "country": "US",
+   "deadlines": [
+    {
+     "label": "Abstract submission opens (estimated, typical pattern)",
+     "date": "2025-10-15",
+     "estimated": true,
+     "note": "Exact 2025 date not confirmed. RSA's general (non year specific) timeline page states the call for abstracts typically opens mid October of the year before the meeting."
+    },
+    {
+     "label": "Program and speaker proposal deadline (estimated, typical pattern)",
+     "date": "2025-12-15",
+     "estimated": true,
+     "note": "Exact date not confirmed. General timeline page states program proposals, speaker abstracts, and satellite meeting proposals are typically due mid December."
+    },
+    {
+     "label": "Poster abstract and travel award deadline (estimated, typical pattern)",
+     "date": "2026-01-30",
+     "estimated": true,
+     "note": "Exact date not confirmed. General timeline page states poster abstracts and student or travel award applications are typically due late January."
+    },
+    {
+     "label": "Registration opens (estimated, typical pattern)",
+     "date": "2026-03-15",
+     "estimated": true,
+     "note": "Exact date not confirmed. General timeline page states meeting registration and lodging typically opens mid March."
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://researchsocietyonalcohol.org/2026-meeting/",
+    "accessed": "2026-09-10",
+    "note": "Live page for the upcoming meeting, headed 2027 General Information; states submissions open October 14 and registration opens December 2026, but does not give exact 2027 meeting dates, city, or venue. Banner graphic on the page still reads 49th Annual RSA Scientific Meeting, which conflicts with the archive based numbering below."
+   },
+   {
+    "url": "https://researchsocietyonalcohol.org/annual-meeting/meetings-archive/",
+    "accessed": "2026-09-10",
+    "note": "Confirms the 2025 meeting (New Orleans, June 21 to 25) was the 48th Annual Scientific Meeting, establishing that the 2026 meeting is the 49th and the 2027 meeting would logically be the 50th."
+   },
+   {
+    "url": "https://researchsocietyonalcohol.org/annual-meeting/general-information-and-timelines/",
+    "accessed": "2026-09-10",
+    "note": "General, explicitly non year specific overview of the recurring annual deadline cycle (abstracts mid October, program proposals mid December, poster and award deadlines late January, registration opens mid March), used only to build the estimated prior_edition deadline pattern."
+   },
+   {
+    "url": "https://www.addiction.rutgers.edu/event/46th-annual-research-society-on-alcoholism-rsa-annual-scientific-meeting/",
+    "accessed": "2026-09-10",
+    "note": "Third party event listing (search result snippet only, not independently fetched) corroborating that the 2026 RSA meeting runs June 20 to 24, 2026 at the Grand Hyatt San Antonio, San Antonio, Texas."
+   }
+  ],
+  "confidence": "low",
+  "notes": "As of 2026-09-10 the organizer has not published exact dates, city, or venue for the 2027 meeting; only an abstract submission open date (October 14, year inferred as 2026) and a registration opening month (December 2026, exact day not given) appear on the official site. The page's banner still labels the meeting the 49th Annual RSA Scientific Meeting even though the meetings archive implies 2027 should be the 50th; a maintainer should recheck this page nearer the date. Registration opening (December 2026) was not added as a deadline entry because only the month is given, not a specific day."
+ }
+]

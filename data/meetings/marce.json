@@ -1,0 +1,97 @@
+[
+ {
+  "id": "marce-2026",
+  "name": "International Marcé Society Biennial Conference 2026",
+  "short_name": "Marcé 2026",
+  "organizer": "International Marcé Society for Perinatal Mental Health",
+  "organizer_url": "https://marcesociety.com/",
+  "edition_url": "https://marceconference2026.com/",
+  "tags": [
+   "perinatal",
+   "international",
+   "global"
+  ],
+  "start_date": "2026-09-06",
+  "end_date": "2026-09-09",
+  "city": "Cape Town",
+  "country": "ZA",
+  "venue": "Century City Conference Centre",
+  "lat": -33.8912,
+  "lon": 18.5108,
+  "format": "in-person",
+  "description": "The International Marcé Society biennial conference is held September 6 to 9, 2026 at the Century City Conference Centre in Cape Town, the society's first meeting in Africa. The theme is Ubuntu and the event is exclusively in person.",
+  "deadlines": [
+   {
+    "label": "Preconference workshop abstract submission",
+    "date": "2025-11-30",
+    "url": "https://marceconference2026.com/call-for-abstracts/",
+    "estimated": false,
+    "note": "Extended deadline"
+   },
+   {
+    "label": "Oral and poster abstract submission",
+    "date": "2026-03-15",
+    "url": "https://marceconference2026.com/call-for-abstracts/",
+    "estimated": false,
+    "note": "Extended deadline"
+   },
+   {
+    "label": "Symposium abstract submission",
+    "date": "2026-03-15",
+    "url": "https://marceconference2026.com/call-for-abstracts/",
+    "estimated": false,
+    "note": "Extended deadline"
+   },
+   {
+    "label": "Acceptance notifications",
+    "date": "2026-05-15",
+    "url": "https://marceconference2026.com/call-for-abstracts/",
+    "estimated": false,
+    "note": "Letters sent by this date"
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-06-30",
+    "url": "https://marceconference2026.com/registration-form/",
+    "estimated": false,
+    "note": "Late registration from July 1, 2026"
+   },
+   {
+    "label": "Presenter registration deadline",
+    "date": "2026-07-30",
+    "url": "https://marceconference2026.com/call-for-abstracts/",
+    "estimated": false,
+    "note": "Presenting authors must be registered delegates"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://marceconference2026.com/",
+    "accessed": "2026-09-09",
+    "note": "Dates, venue, in person format, theme"
+   },
+   {
+    "url": "https://marceconference2026.com/call-for-abstracts/",
+    "accessed": "2026-09-09",
+    "note": "Abstract deadlines and notification date"
+   },
+   {
+    "url": "https://marceconference2026.com/registration-form/",
+    "accessed": "2026-09-09",
+    "note": "Early bird cutoff"
+   },
+   {
+    "url": "https://marcesociety.com/meetings/marce-meetings/",
+    "accessed": "2026-09-09",
+    "note": "Listing of upcoming international and regional Marcé meetings"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The meeting ends on the access date. The next international biennial (2028) is not yet listed on marcesociety.com.",
+  "region_name": "Western Cape",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

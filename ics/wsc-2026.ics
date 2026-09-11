@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:18th World Stroke Congress
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:wsc-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:18th World Stroke Congress
+DESCRIPTION:The World Stroke Organization holds the 18th World Stroke Con
+ gress at the COEX Convention and Exhibition Center in Seoul\, South Kore
+ a\, from 21 to 23 October 2026. The congress is combined with the Intern
+ ational Conference Stroke Update.\n\nDeadlines\nAbstract submission: 202
+ 6-04-15\nLate-breaking abstract submission: 2026-05-25\n\nhttps://worlds
+ trokecongress.org/
+LOCATION:Seoul\, Seoul\, KR\, COEX Convention and Exhibition Center
+URL:https://worldstrokecongress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:18th World Stroke Congress
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wsc-2026-20260415-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:Deadline: WSC 2026 abstract submission
+DESCRIPTION:General abstract and proposal submission deadline.\nMeeting: 
+ 18th World Stroke Congress\, Oct 21 to 23\, 2026\, Seoul\, Seoul\, KR\, 
+ COEX Convention and Exhibition Center\nhttps://worldstrokecongress.org/a
+ bstract-guidelines-submission/
+LOCATION:Seoul\, Seoul\, KR\, COEX Convention and Exhibition Center
+URL:https://worldstrokecongress.org/abstract-guidelines-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wsc-2026-20260525-late-breaking-abstract-submission@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:Deadline: WSC 2026 late-breaking abstract submission
+DESCRIPTION:Late-breaking clinical trial submission deadline\, 23:59 CEST
+ .\nMeeting: 18th World Stroke Congress\, Oct 21 to 23\, 2026\, Seoul\, S
+ eoul\, KR\, COEX Convention and Exhibition Center\nhttps://worldstrokeco
+ ngress.org/abstract-guidelines-submission/
+LOCATION:Seoul\, Seoul\, KR\, COEX Convention and Exhibition Center
+URL:https://worldstrokecongress.org/abstract-guidelines-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: WSC 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

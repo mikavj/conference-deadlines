@@ -1,0 +1,123 @@
+[
+ {
+  "id": "wsc-2026",
+  "name": "18th World Stroke Congress",
+  "short_name": "WSC 2026",
+  "organizer": "World Stroke Organization",
+  "organizer_url": "https://www.world-stroke.org",
+  "edition_url": "https://worldstrokecongress.org/",
+  "areas": [
+   "neurology",
+   "surgery"
+  ],
+  "tags": [
+   "stroke",
+   "international",
+   "global"
+  ],
+  "start_date": "2026-10-21",
+  "end_date": "2026-10-23",
+  "city": "Seoul",
+  "region_name": "Seoul",
+  "country": "KR",
+  "venue": "COEX Convention and Exhibition Center",
+  "lat": 37.5115,
+  "lon": 127.0595,
+  "format": null,
+  "description": "The World Stroke Organization holds the 18th World Stroke Congress at the COEX Convention and Exhibition Center in Seoul, South Korea, from 21 to 23 October 2026. The congress is combined with the International Conference Stroke Update.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-04-15",
+    "url": "https://worldstrokecongress.org/abstract-guidelines-submission/",
+    "estimated": false,
+    "note": "General abstract and proposal submission deadline."
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-05-25",
+    "url": "https://worldstrokecongress.org/abstract-guidelines-submission/",
+    "estimated": false,
+    "note": "Late-breaking clinical trial submission deadline, 23:59 CEST."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://worldstrokecongress.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, city, and organizer."
+   },
+   {
+    "url": "https://worldstrokecongress.org/abstract-guidelines-submission/",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract and late-breaking submission deadlines."
+   },
+   {
+    "url": "https://www.world-stroke.org/news-and-blog/news/save-the-date-for-the-wsc-2026-october-2123-in-seoul-south-korea",
+    "accessed": "2026-09-10",
+    "note": "World Stroke Organization save the date announcement confirming dates and city."
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "id": "wsc-2027",
+  "name": "World Stroke Congress 2027",
+  "short_name": "WSC 2027",
+  "organizer": "World Stroke Organization",
+  "organizer_url": "https://www.world-stroke.org",
+  "edition_url": null,
+  "areas": [
+   "neurology",
+   "surgery"
+  ],
+  "tags": [
+   "stroke",
+   "international",
+   "global"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "region_name": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "The World Stroke Organization has not announced a host city or dates for the 2027 World Stroke Congress as of the access date. The congress has been held annually in recent years, most recently in Seoul in October 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-10-21",
+   "end_date": "2026-10-23",
+   "city": "Seoul, South Korea",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-04-15"
+    },
+    {
+     "label": "Late-breaking abstract submission",
+     "date": "2026-05-25"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.world-stroke.org/",
+    "accessed": "2026-09-10",
+    "note": "Main World Stroke Organization site; no 2027 congress announcement found."
+   },
+   {
+    "url": "https://www.world-stroke.org/what-we-do/uniting-the-stroke-community/world-stroke-congress",
+    "accessed": "2026-09-10",
+    "note": "World Stroke Congress series page; most recent announced edition is 2026 Seoul."
+   }
+  ],
+  "confidence": "low",
+  "notes": "This record is a placeholder created because the task instructions explicitly requested both the 2026 and 2027 editions; no 2027 host city, dates, or planning page could be found on the World Stroke Organization site as of 2026-09-10."
+ }
+]

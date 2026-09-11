@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:10th Joint ACTRIMS-ECTRIMS Meeting (MSToronto 2026)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ectrims-actrims-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:10th Joint ACTRIMS-ECTRIMS Meeting (MSToronto 2026)
+DESCRIPTION:ECTRIMS and ACTRIMS hold their tenth joint congress in Toront
+ o\, Canada\, from 21 to 23 October 2026 at the Metro Toronto Convention 
+ Centre. The meeting\, also known as MSToronto 2026\, covers multiple scl
+ erosis research and clinical care.\n\nDeadlines\nAbstract submission ope
+ ns: 2026-03-24\nAbstract submission: 2026-05-07\nLate-breaking abstract 
+ submission opens: 2026-05-12\nLate-breaking abstract submission: 2026-07
+ -16\nEarly registration: 2026-08-26\n\nhttps://mstoronto2026.org/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://mstoronto2026.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:10th Joint ACTRIMS-ECTRIMS Meeting (MSToronto 2026)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ectrims-actrims-2026-20260507-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:Deadline: ECTRIMS/ACTRIMS 2026 abstract submission
+DESCRIPTION:Regular abstract submission deadline.\nMeeting: 10th Joint AC
+ TRIMS-ECTRIMS Meeting (MSToronto 2026)\, Oct 21 to 23\, 2026\, Toronto\,
+  Ontario\, CA\, Metro Toronto Convention Centre\nhttps://mstoronto2026.o
+ rg/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://mstoronto2026.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ectrims-actrims-2026-20260716-late-breaking-abstract-submission@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Deadline: ECTRIMS/ACTRIMS 2026 late-breaking abstract submission
+DESCRIPTION:Late-breaking abstract submission deadline.\nMeeting: 10th Jo
+ int ACTRIMS-ECTRIMS Meeting (MSToronto 2026)\, Oct 21 to 23\, 2026\, Tor
+ onto\, Ontario\, CA\, Metro Toronto Convention Centre\nhttps://mstoronto
+ 2026.org/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://mstoronto2026.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 late-breaking abstract submiss
+ ion
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 late-breaking abstract submiss
+ ion
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 late-breaking abstract submiss
+ ion
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ectrims-actrims-2026-20260826-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Deadline: ECTRIMS/ACTRIMS 2026 early registration
+DESCRIPTION:Early bird registration savings end this date.\nMeeting: 10th
+  Joint ACTRIMS-ECTRIMS Meeting (MSToronto 2026)\, Oct 21 to 23\, 2026\, 
+ Toronto\, Ontario\, CA\, Metro Toronto Convention Centre\nhttps://mstoro
+ nto2026.org/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://mstoronto2026.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECTRIMS/ACTRIMS 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

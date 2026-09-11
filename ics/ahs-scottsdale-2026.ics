@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 Scottsdale Headache Symposium
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ahs-scottsdale-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:2026 Scottsdale Headache Symposium
+DESCRIPTION:The American Headache Society holds its Scottsdale Headache S
+ ymposium at the Westin Kierland Resort and Spa in Scottsdale\, Arizona\,
+  from 3 to 6 December 2026. The symposium offers continuing medical educ
+ ation on the diagnosis and treatment of headache disorders.\n\nDeadlines
+ \nRegistration cancellation deadline: 2026-11-11\n\nhttps://americanhead
+ achesociety.org/events/2026-scottsdale-headache-symposium
+LOCATION:Scottsdale\, Arizona\, The Westin Kierland Resort and Spa
+URL:https://americanheadachesociety.org/events/2026-scottsdale-headache-s
+ ymposium
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 Scottsdale Headache Symposium
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ahs-scottsdale-2026-20261111-registration-cancellation-deadline@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Deadline: AHS Scottsdale 2026 registration cancellation deadline
+DESCRIPTION:Also the hotel room block cutoff date for the discounted grou
+ p rate\; cancellations after this date forfeit a 100 dollar processing f
+ ee.\nMeeting: 2026 Scottsdale Headache Symposium\, Dec 03 to 06\, 2026\,
+  Scottsdale\, Arizona\, The Westin Kierland Resort and Spa\nhttps://amer
+ icanheadachesociety.org/events/2026-scottsdale-headache-symposium
+LOCATION:Scottsdale\, Arizona\, The Westin Kierland Resort and Spa
+URL:https://americanheadachesociety.org/events/2026-scottsdale-headache-s
+ ymposium
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS Scottsdale 2026 registration cancellation deadl
+ ine
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS Scottsdale 2026 registration cancellation deadl
+ ine
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AHS Scottsdale 2026 registration cancellation deadl
+ ine
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

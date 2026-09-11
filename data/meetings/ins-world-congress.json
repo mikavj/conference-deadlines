@@ -1,0 +1,57 @@
+[
+ {
+  "id": "ins-world-congress-2028",
+  "name": "18th World Congress of the International Neuromodulation Society",
+  "short_name": "INS 2028",
+  "organizer": "International Neuromodulation Society",
+  "organizer_url": "https://www.neuromodulation.com",
+  "edition_url": "https://ins-congress.com/",
+  "areas": [
+   "neurology",
+   "surgery",
+   "psychiatry"
+  ],
+  "tags": [
+   "neuromodulation",
+   "interventional",
+   "global"
+  ],
+  "start_date": "2028-05-21",
+  "end_date": "2028-05-25",
+  "city": "Dublin",
+  "region_name": null,
+  "country": "IE",
+  "venue": null,
+  "lat": 53.3498,
+  "lon": -6.2603,
+  "format": "in-person",
+  "description": "Biennial world congress of the International Neuromodulation Society, bringing together neurosurgeons, neurologists, psychiatrists, pain specialists and engineers working in neuromodulation.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-09",
+   "end_date": "2026-05-14",
+   "city": "Lisbon",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://ins-congress.com/",
+    "accessed": "2026-09-10",
+    "note": "confirms 2028 dates and Dublin location; important dates listed as coming soon"
+   },
+   {
+    "url": "https://ins-congress.com/prospectus/",
+    "accessed": "2026-09-10",
+    "note": "confirms important dates section is not yet published"
+   },
+   {
+    "url": "https://2026.ins-congress.com/",
+    "accessed": "2026-09-10",
+    "note": "confirms prior (17th, 2026) congress dates in Lisbon"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The INS World Congress is biennial; the 17th edition (INS 2026, Lisbon, May 9-14 2026) already occurred before today's date and is not included. Venue and all deadlines for INS 2028 are listed by the organizer as coming soon."
+ }
+]

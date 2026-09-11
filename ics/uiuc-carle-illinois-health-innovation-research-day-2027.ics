@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Health Innovation Research Day 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uiuc-carle-illinois-health-innovation-research-day-2027-20270306-abst
+ ract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:Deadline: HIRD 2027 abstract submission (estimated)
+DESCRIPTION:Estimated by repeating the 2026 date (deadline Friday\, March
+  6\, 2026\, 11:59 pm)\; the 2027 date was not yet published as of Septem
+ ber 2026.\nMeeting: Health Innovation Research Day 2027\, dates not yet 
+ published\, Urbana\, Illinois\, Illini Union\nhttps://medicine.illinois.
+ edu/about/global-consortium/health-innovation-research-day
+LOCATION:Urbana\, Illinois\, Illini Union
+URL:https://medicine.illinois.edu/about/global-consortium/health-innovati
+ on-research-day
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: HIRD 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: HIRD 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: HIRD 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

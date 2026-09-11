@@ -1,0 +1,5 @@
+.DS_Store
+.claude/
+docs/
+data/source-check.json
+__pycache__/

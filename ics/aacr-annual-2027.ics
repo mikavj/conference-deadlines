@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AACR Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aacr-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270408
+SUMMARY:AACR Annual Meeting 2027
+DESCRIPTION:The AACR Annual Meeting is a large multidisciplinary cancer r
+ esearch meeting organized by the American Association for Cancer Researc
+ h\, covering the full spectrum from basic and translational research to 
+ prevention and survivorship. The 2027 edition is scheduled for April 2 t
+ o 7\, 2027 at the Orange County Convention Center in Orlando\, Florida.\
+ n\nDeadlines\nAbstract submission opens: 2026-09-28\nAbstract submission
+ : 2026-11-10\nLate-breaking abstract submission opens: 2026-12-02\nLate-
+ breaking abstract submission: 2027-01-06\nAbstract notification: 2026-12
+ -21\nAbstract scheduling notification: 2027-01-21\nLate-breaking abstrac
+ t notification: 2027-02-03\nEarly registration: 2026-12-07\nAdvance regi
+ stration: 2027-02-12\nTravel award application: 2026-11-10\nTravel award
+  application\, Faculty Scholar: 2026-11-24\nTravel award application\, U
+ ndergraduate Scholar: 2026-12-04\n\nhttps://www.aacr.org/meeting/aacr-an
+ nual-meeting-2027/
+LOCATION:Orlando\, Florida\, Orange County Convention Center
+URL:https://www.aacr.org/meeting/aacr-annual-meeting-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AACR Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacr-annual-2027-20261110-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Deadline: AACR 2027 abstract submission
+DESCRIPTION:Regular abstract deadline\, 11:59 PM ET.\nMeeting: AACR Annua
+ l Meeting 2027\, Apr 02 to 07\, 2027\, Orlando\, Florida\, Orange County
+  Convention Center\nhttps://www.aacr.org/meeting/aacr-annual-meeting-202
+ 7/key-dates/
+LOCATION:Orlando\, Florida\, Orange County Convention Center
+URL:https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacr-annual-2027-20270106-late-breaking-abstract-submission@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Deadline: AACR 2027 late-breaking abstract submission
+DESCRIPTION:Late-breaking and clinical trials abstract deadline\, 11:59 P
+ M ET.\nMeeting: AACR Annual Meeting 2027\, Apr 02 to 07\, 2027\, Orlando
+ \, Florida\, Orange County Convention Center\nhttps://www.aacr.org/meeti
+ ng/aacr-annual-meeting-2027/key-dates/
+LOCATION:Orlando\, Florida\, Orange County Convention Center
+URL:https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacr-annual-2027-20261207-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Deadline: AACR 2027 early registration
+DESCRIPTION:Lowest registration rate deadline.\nMeeting: AACR Annual Meet
+ ing 2027\, Apr 02 to 07\, 2027\, Orlando\, Florida\, Orange County Conve
+ ntion Center\nhttps://www.aacr.org/meeting/aacr-annual-meeting-2027/key-
+ dates/
+LOCATION:Orlando\, Florida\, Orange County Convention Center
+URL:https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacr-annual-2027-20270212-advance-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Deadline: AACR 2027 advance registration
+DESCRIPTION:Discounted advance registration deadline.\nMeeting: AACR Annu
+ al Meeting 2027\, Apr 02 to 07\, 2027\, Orlando\, Florida\, Orange Count
+ y Convention Center\nhttps://www.aacr.org/meeting/aacr-annual-meeting-20
+ 27/key-dates/
+LOCATION:Orlando\, Florida\, Orange County Convention Center
+URL:https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 advance registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 advance registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 advance registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacr-annual-2027-20261110-travel-award-application@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Deadline: AACR 2027 travel award application
+DESCRIPTION:Deadline for most AACR travel award categories\; coincides wi
+ th the regular abstract deadline.\nMeeting: AACR Annual Meeting 2027\, A
+ pr 02 to 07\, 2027\, Orlando\, Florida\, Orange County Convention Center
+ \nhttps://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/
+LOCATION:Orlando\, Florida\, Orange County Convention Center
+URL:https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 travel award application
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 travel award application
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 travel award application
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacr-annual-2027-20261124-travel-award-application-faculty-scholar@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Deadline: AACR 2027 travel award application\, faculty scholar
+DESCRIPTION:Early/Faculty Scholar award deadline.\nMeeting: AACR Annual M
+ eeting 2027\, Apr 02 to 07\, 2027\, Orlando\, Florida\, Orange County Co
+ nvention Center\nhttps://www.aacr.org/meeting/aacr-annual-meeting-2027/k
+ ey-dates/
+LOCATION:Orlando\, Florida\, Orange County Convention Center
+URL:https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 travel award application\, faculty schola
+ r
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 travel award application\, faculty schola
+ r
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 travel award application\, faculty schola
+ r
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacr-annual-2027-20261204-travel-award-application-undergraduate-scho
+ lar@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Deadline: AACR 2027 travel award application\, undergraduate scho
+ lar
+DESCRIPTION:Undergraduate Scholar award deadline.\nMeeting: AACR Annual M
+ eeting 2027\, Apr 02 to 07\, 2027\, Orlando\, Florida\, Orange County Co
+ nvention Center\nhttps://www.aacr.org/meeting/aacr-annual-meeting-2027/k
+ ey-dates/
+LOCATION:Orlando\, Florida\, Orange County Convention Center
+URL:https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 travel award application\, undergraduate 
+ scholar
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 travel award application\, undergraduate 
+ scholar
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACR 2027 travel award application\, undergraduate 
+ scholar
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

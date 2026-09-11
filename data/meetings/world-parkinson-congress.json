@@ -1,0 +1,56 @@
+[
+ {
+  "id": "world-parkinson-congress-2029",
+  "name": "8th World Parkinson Congress 2029",
+  "short_name": "WPC 2029",
+  "organizer": "World Parkinson Coalition",
+  "organizer_url": "https://www.worldpdcoalition.org",
+  "edition_url": "https://www.worldpdcoalition.org",
+  "areas": [
+   "neurology",
+   "neuroscience",
+   "rehabilitation"
+  ],
+  "tags": [
+   "movement-disorders",
+   "global"
+  ],
+  "start_date": "2029-06-26",
+  "end_date": "2029-06-29",
+  "city": "Quebec City",
+  "region_name": "Quebec",
+  "country": "CA",
+  "venue": null,
+  "lat": 46.8139,
+  "lon": -71.208,
+  "format": null,
+  "description": "The World Parkinson Congress is a triennial multidisciplinary meeting for researchers, clinicians, allied health professionals, caregivers and people living with Parkinson's disease. The 8th edition was announced for Quebec City during the closing of the 7th Congress in Phoenix.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-24",
+   "end_date": "2026-05-27",
+   "city": "Phoenix, AZ, USA",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://parkinsonseurope.org/parkinsonslife/canada-confirmed-as-venue-for-next-world-parkinson-congress-in-2029/",
+    "accessed": "2026-09-10",
+    "note": "Confirms Quebec City as host and 2029 as the year"
+   },
+   {
+    "url": "https://www.levlab.ca/en/post/from-phoenix-to-quebec-looking-ahead-to-the-world-parkinson-congress-2029",
+    "accessed": "2026-09-10",
+    "note": "Confirms June 26-29, 2029 dates and that the announcement was made at the close of WPC 2026 in Phoenix"
+   },
+   {
+    "url": "https://wpc2026.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms the 7th Congress (Phoenix) dates of May 24-27, 2026"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The World Parkinson Congress meets triennially, so there is no 2027 edition. The 2026 edition (Phoenix) had already concluded before this data was compiled on 2026-09-10; the next confirmed edition is 2029 in Quebec City. Venue within Quebec City and deadlines are not yet announced. Dates and city are corroborated by two independent secondary sources reporting the same announcement; no dedicated official conference website for WPC 2029 was found yet."
+ }
+]

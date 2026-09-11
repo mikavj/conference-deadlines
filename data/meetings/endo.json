@@ -1,0 +1,37 @@
+[
+ {
+  "id": "endo-2027",
+  "name": "ENDO 2027",
+  "short_name": "ENDO 2027",
+  "organizer": "Endocrine Society",
+  "organizer_url": "https://www.endocrine.org",
+  "edition_url": "https://www.endocrine.org/meetings-and-events/endo-future-meetings",
+  "areas": [
+   "endocrinology"
+  ],
+  "tags": [
+   "endocrine"
+  ],
+  "start_date": "2027-06-05",
+  "end_date": "2027-06-08",
+  "city": "Toronto",
+  "region_name": "Ontario",
+  "country": "CA",
+  "venue": null,
+  "lat": 43.6532,
+  "lon": -79.3832,
+  "format": "in-person",
+  "description": "ENDO 2027 is the annual meeting of the Endocrine Society, scheduled to be held in Toronto, Ontario. The meeting is currently in its save the date phase, and abstract submission and other program details had not yet been published as of access date.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.endocrine.org/meetings-and-events/endo-future-meetings",
+    "accessed": "2026-09-10",
+    "note": "official page confirms dates June 5-8 2027 and Toronto location, listed as save the date"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Venue and abstract submission deadlines not yet announced as of access date."
+ }
+]

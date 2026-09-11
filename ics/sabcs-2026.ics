@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 San Antonio Breast Cancer Symposium
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sabcs-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261212
+SUMMARY:2026 San Antonio Breast Cancer Symposium
+DESCRIPTION:The San Antonio Breast Cancer Symposium is an annual meeting 
+ focused on breast cancer research\, prevention\, and treatment\, co-spon
+ sored by UT Health San Antonio\, the American Association for Cancer Res
+ earch\, and Baylor College of Medicine. The 2026 symposium is held in Sa
+ n Antonio\, Texas.\n\nDeadlines\nAbstract submission: 2026-07-13\nLate-b
+ reaking abstract submission: 2026-09-30\nEarly registration: 2026-09-25\
+ n\nhttps://www.sabcs.org
+LOCATION:San Antonio\, Texas
+URL:https://www.sabcs.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 San Antonio Breast Cancer Symposium
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sabcs-2026-20260713-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Deadline: SABCS 2026 abstract submission
+DESCRIPTION:11:59 p.m. Central time\nMeeting: 2026 San Antonio Breast Can
+ cer Symposium\, Dec 08 to 11\, 2026\, San Antonio\, Texas\nhttps://www.s
+ abcs.org/Abstracts
+LOCATION:San Antonio\, Texas
+URL:https://www.sabcs.org/Abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SABCS 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SABCS 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SABCS 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sabcs-2026-20260930-late-breaking-abstract-submission@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: SABCS 2026 late-breaking abstract submission
+DESCRIPTION:Submission window opens Sept 1\, 2026 and closes 11:59 p.m. C
+ entral time\; also serves as an editing window for earlier submissions\n
+ Meeting: 2026 San Antonio Breast Cancer Symposium\, Dec 08 to 11\, 2026\
+ , San Antonio\, Texas\nhttps://www.sabcs.org/Abstracts
+LOCATION:San Antonio\, Texas
+URL:https://www.sabcs.org/Abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SABCS 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SABCS 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SABCS 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sabcs-2026-20260925-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Deadline: SABCS 2026 early registration
+DESCRIPTION:Meeting: 2026 San Antonio Breast Cancer Symposium\, Dec 08 to
+  11\, 2026\, San Antonio\, Texas\nhttps://www.sabcs.org/Registration
+LOCATION:San Antonio\, Texas
+URL:https://www.sabcs.org/Registration
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SABCS 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SABCS 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SABCS 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

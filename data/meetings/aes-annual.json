@@ -1,0 +1,142 @@
+[
+ {
+  "id": "aes-annual-2026",
+  "name": "American Epilepsy Society Annual Meeting 2026",
+  "short_name": "AES 2026",
+  "organizer": "American Epilepsy Society",
+  "organizer_url": "https://aesnet.org",
+  "edition_url": "https://aesnet.org/AES-annual-meeting",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "epilepsy",
+   "student-resident-research"
+  ],
+  "start_date": "2026-12-04",
+  "end_date": "2026-12-08",
+  "city": "Denver",
+  "region_name": "Colorado",
+  "country": "US",
+  "venue": "Colorado Convention Center",
+  "lat": 39.7438,
+  "lon": -104.9973,
+  "format": "in-person",
+  "description": "The American Epilepsy Society holds its annual meeting in Denver, Colorado, from December 4 to 8, 2026. The meeting presents clinical and basic science research on epilepsy along with education programs for clinicians and trainees.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-04-13",
+    "url": "https://aesnet.org/AES-annual-meeting/abstracts/abstract-faqs",
+    "estimated": false,
+    "note": "Confirmed directly on the official abstract FAQ page."
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-06-08",
+    "url": "https://aesnet.org/AES-annual-meeting/abstracts/abstract-faqs",
+    "estimated": false,
+    "note": "11:59 PM EST deadline, confirmed directly on the official abstract FAQ page. Abstract submission fees are non refundable."
+   },
+   {
+    "label": "Travel award application",
+    "date": "2026-06-08",
+    "url": "https://aesnet.org/AES-annual-meeting/abstracts/abstract-awards",
+    "estimated": false,
+    "note": "Travel and scholarship awards (e.g. Eileen M. Murray First-Generation Travel Award, Jack M. Pellock Pediatric Travel Award) are requested as part of the abstract submission process, so the deadline is taken to align with the abstract submission deadline; the official abstract awards page does not publish a separate stand-alone date and states award notifications go out in late August 2026."
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2026-10-07",
+    "url": "https://aesnet.org/AES-annual-meeting/registration-information/registration-rates",
+    "estimated": false,
+    "note": "Early bird registration rate available through October 7, 2026, confirmed directly on the official registration rates page; standard rates apply afterward."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://aesnet.org/AES-annual-meeting/general-information/future-meetings",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch confirmed 2026 meeting dates (December 4-8) and Denver, Colorado as host city."
+   },
+   {
+    "url": "https://aesnet.org/AES-annual-meeting/abstracts/abstract-faqs",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch confirmed abstract submission opens April 13, 2026, closes June 8, 2026 at 11:59 PM EST, and that acceptances are announced in August 2026."
+   },
+   {
+    "url": "https://aesnet.org/AES-annual-meeting/registration-information/registration-rates",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch confirmed early bird registration deadline of October 7, 2026."
+   },
+   {
+    "url": "https://aesnet.org/AES-annual-meeting/abstracts/abstract-awards",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch confirmed the list of travel and scholarship award categories; no separate application deadline date is published on this page."
+   },
+   {
+    "url": "https://denverconvention.com/events/details/aes-2026-annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Third party Colorado Convention Center event listing confirming venue name and address (700 14th St, Denver, CO 80202); the official aesnet.org future-meetings page names the city but not the specific venue."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Core dates (meeting dates, abstract open/close, early registration) were confirmed by direct WebFetch of official aesnet.org pages. The exact venue name was confirmed only via the Colorado Convention Center's own event listing, not directly on an aesnet.org page, so treat the venue field with slightly lower confidence than the dates. The travel award deadline is inferred to match the abstract submission deadline based on the FAQ page's description of the process, not from an explicit stand-alone published date; format (in person) is inferred from the venue booking and historical pattern of this meeting rather than an explicit statement on aesnet.org."
+ },
+ {
+  "id": "aes-annual-2027",
+  "name": "American Epilepsy Society Annual Meeting 2027",
+  "short_name": "AES 2027",
+  "organizer": "American Epilepsy Society",
+  "organizer_url": "https://aesnet.org",
+  "edition_url": "https://aesnet.org/AES-annual-meeting/general-information/future-meetings",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "epilepsy",
+   "student-resident-research"
+  ],
+  "start_date": "2027-12-03",
+  "end_date": "2027-12-07",
+  "city": "Baltimore",
+  "region_name": "Maryland",
+  "country": "US",
+  "venue": null,
+  "lat": 39.2904,
+  "lon": -76.6122,
+  "format": null,
+  "description": "The American Epilepsy Society will hold its annual meeting in Baltimore, Maryland, from December 3 to 7, 2027. Abstract submission, registration, and travel award information had not yet been published as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-12-04",
+   "end_date": "2026-12-08",
+   "city": "Denver",
+   "deadlines": [
+    {
+     "label": "Abstract submission opens",
+     "date": "2026-04-13"
+    },
+    {
+     "label": "Abstract submission",
+     "date": "2026-06-08"
+    },
+    {
+     "label": "Early registration deadline",
+     "date": "2026-10-07"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://aesnet.org/AES-annual-meeting/general-information/future-meetings",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch confirmed 2027 meeting dates (December 3-7) and Baltimore, Maryland as host city; no venue or deadlines listed on this official page."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Only meeting dates and host city are published by AES for the 2027 edition as of 2026-09-10. Several aggregator and trade-show listing sites (e.g. 10times, showsbee, made-in-china trade show pages) name 'Baltimore Convention Center' as the venue, but this is not confirmed on aesnet.org, so venue is left null per the rule against relying on aggregator sites as a sole source. No abstract, registration, or travel award deadlines have been published yet; the prior (2026) edition's schedule is provided for reference only and none of its dates should be read as estimates for 2027."
+ }
+]

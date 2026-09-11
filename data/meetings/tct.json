@@ -1,0 +1,48 @@
+[
+ {
+  "id": "tct-2026",
+  "name": "Transcatheter Cardiovascular Therapeutics 2026",
+  "short_name": "TCT 2026",
+  "organizer": "Cardiovascular Research Foundation",
+  "organizer_url": "https://www.crf.org",
+  "edition_url": "https://www.tctconference.com/",
+  "areas": [
+   "cardiology"
+  ],
+  "tags": [
+   "cardiovascular",
+   "interventional"
+  ],
+  "start_date": "2026-10-31",
+  "end_date": "2026-11-03",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "San Diego Convention Center",
+  "lat": 32.7075,
+  "lon": -117.1605,
+  "format": "in-person",
+  "description": "Transcatheter Cardiovascular Therapeutics is the Cardiovascular Research Foundation's annual symposium on interventional cardiovascular medicine. TCT 2026 runs as an in person only meeting at the San Diego Convention Center with no virtual attendance option.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.eurekalert.org/news-releases/1121447",
+    "accessed": "2026-09-10",
+    "note": "CRF press release confirming Oct 31-Nov 3, 2026 dates and San Diego Convention Center location"
+   },
+   {
+    "url": "https://www.tctconference.com/topics-categories-guidelines",
+    "accessed": "2026-09-10",
+    "note": "Confirms in-person-only format and that all Call for Science submission categories (abstracts, late-breaking, challenging cases) are now closed"
+   },
+   {
+    "url": "https://www.crf.org/tct-post-2/call-for-science",
+    "accessed": "2026-09-10",
+    "note": "Confirms submissions closed but does not display original deadline dates"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Exact abstract/late-breaking submission deadline dates for TCT 2026 could not be located on accessible pages; the CRF Call for Science and tctconference.com pages state submissions are closed without listing the closing date, and an NCDR calendar listed the date as TBD. Conference dates and location are confirmed via an official CRF/EurekAlert press release."
+ }
+]

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RSNA 2027 Scientific Assembly and Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:rsna-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271119
+SUMMARY:RSNA 2027 Scientific Assembly and Annual Meeting
+DESCRIPTION:The Radiological Society of North America has scheduled its 2
+ 027 Scientific Assembly and Annual Meeting for November 14 to 18\, 2027\
+ , at McCormick Place in Chicago. This edition begins about two weeks ear
+ lier than the 2026 meeting\, and abstract submission and registration de
+ tails had not been published as of September 2026.\n\nhttps://www.rsna.o
+ rg/annual-meeting/future-and-past-meetings
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://www.rsna.org/annual-meeting/future-and-past-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSNA 2027 Scientific Assembly and Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

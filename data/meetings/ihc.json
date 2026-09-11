@@ -1,0 +1,43 @@
+[
+ {
+  "id": "ihc-2027",
+  "name": "23rd Congress of the International Headache Society (IHC 2027)",
+  "short_name": "IHC 2027",
+  "organizer": "International Headache Society",
+  "organizer_url": "https://ihs-headache.org",
+  "edition_url": "https://ihc2027.org/",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "headache",
+   "international"
+  ],
+  "start_date": "2027-09-09",
+  "end_date": "2027-09-11",
+  "city": "Athens",
+  "region_name": "Attica",
+  "country": "GR",
+  "venue": null,
+  "lat": 37.9838,
+  "lon": 23.7275,
+  "format": null,
+  "description": "The International Headache Society plans the 23rd International Headache Congress in Athens, Greece, from 9 to 11 September 2027. The congress covers clinical and scientific advances in headache disorders.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://ihc2027.org/",
+    "accessed": "2026-09-10",
+    "note": "Save the date holding page confirming dates and city; states the full official website is still in development."
+   },
+   {
+    "url": "https://ihs-headache.org/en/events/23rd-congress-of-the-international-headache-society-ihc-2026/",
+    "accessed": "2026-09-10",
+    "note": "IHS events listing for the same congress."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The ihc2027.org site is a save the date holding page, not the full congress site. One secondary aggregator listed the end date as 12 September 2027 instead of 11 September 2027; the ihc2027.org page (9 to 11 September) was used here. Abstract and registration deadlines are not yet announced."
+ }
+]

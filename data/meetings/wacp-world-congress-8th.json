@@ -1,0 +1,50 @@
+[
+ {
+  "id": "wacp-world-congress-8th",
+  "name": "8th World Congress of Cultural Psychiatry (next edition, unannounced)",
+  "short_name": "WACP 8th World Congress",
+  "organizer": "World Association of Cultural Psychiatry",
+  "organizer_url": "https://waculturalpsy.org/",
+  "edition_url": "https://waculturalpsy.org/events/",
+  "tags": [
+   "cultural",
+   "international",
+   "global"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "The World Association of Cultural Psychiatry holds a World Congress of Cultural Psychiatry about every three years. The 7th congress was held jointly with the Pacific Rim College of Psychiatrists in Tokyo in September 2025; the 8th congress has not been announced on the association website as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-09-25",
+   "end_date": "2025-09-28",
+   "city": "Tokyo",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://waculturalpsy.org/events/",
+    "accessed": "2026-09-09",
+    "note": "7th World Congress, Tokyo, 25 to 28 September 2025, joint with PRCP; earlier congresses 2022 Rotterdam, 2018 New York, 2015 Puerto Vallarta; no 8th congress listed."
+   },
+   {
+    "url": "https://www.prcp.org/leadership-messages",
+    "accessed": "2026-09-09",
+    "note": "Report on the 2025 Tokyo joint congress attendance and programme."
+   }
+  ],
+  "confidence": "low",
+  "notes": "Three year cycle suggests 2028, but nothing is published.",
+  "region_name": null,
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

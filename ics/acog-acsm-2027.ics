@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 ACOG Annual Clinical and Scientific Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acog-acsm-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270524
+SUMMARY:2027 ACOG Annual Clinical and Scientific Meeting
+DESCRIPTION:The American College of Obstetricians and Gynecologists holds
+  its Annual Clinical and Scientific Meeting for obstetrician gynecologis
+ ts and related clinicians. The 2027 meeting is held in Los Angeles\, Cal
+ ifornia.\n\nhttps://annualmeeting.acog.org/
+LOCATION:Los Angeles\, California
+URL:https://annualmeeting.acog.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 ACOG Annual Clinical and Scientific Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

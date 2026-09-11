@@ -1,0 +1,59 @@
+[
+ {
+  "id": "acgme-annual-educational-2027",
+  "name": "2027 ACGME Annual Educational Conference",
+  "short_name": "ACGME 2027",
+  "organizer": "Accreditation Council for Graduate Medical Education",
+  "organizer_url": "https://www.acgme.org",
+  "edition_url": "https://www.acgme.org/annual-educational-conference",
+  "areas": [
+   "medical-education"
+  ],
+  "tags": [
+   "medical-education",
+   "residency",
+   "quality-safety"
+  ],
+  "start_date": "2027-02-25",
+  "end_date": "2027-02-27",
+  "city": "San Antonio",
+  "region_name": "Texas",
+  "country": "US",
+  "venue": null,
+  "lat": 29.4241,
+  "lon": -98.4936,
+  "format": "in-person",
+  "description": "The Accreditation Council for Graduate Medical Education holds its 2027 Annual Educational Conference in San Antonio, Texas. The conference covers graduate medical education, accreditation, and residency program administration.",
+  "deadlines": [
+   {
+    "label": "Call for Abstracts opens",
+    "date": "2026-08-17",
+    "url": "https://www.acgme.org/annual-educational-conference",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-09-24",
+    "url": "https://www.acgme.org/annual-educational-conference",
+    "estimated": false,
+    "note": "5:00 pm Central time; one ACGME communication also mentioned August 26, which may refer to a different, earlier call, verify directly"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.acgme.org/annual-educational-conference",
+    "accessed": "2026-09-10",
+    "note": "Confirms Feb 25 to 27, 2027, San Antonio, Texas, across multiple page sections, via search engine cache"
+   },
+   {
+    "url": "https://www.acgme.org/newsroom/e-communication",
+    "accessed": "2026-09-10",
+    "note": "Confirms Call for Abstracts opened August 17, 2026 with a submission portal close date of September 24, 2026"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "One indexed ACGME e-communication snippet referenced Atlanta and the Georgia World Congress Center in the same context as a future Annual Educational Conference; at least seven independent official page snippets confirm San Antonio, Texas for the February 25 to 27, 2027 conference, so the Atlanta reference likely belongs to a different year (possibly 2028) and should be checked directly on acgme.org."
+ }
+]

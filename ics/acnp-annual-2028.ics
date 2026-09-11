@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACNP 66th Annual Meeting 2028
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acnp-annual-2028@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280114
+SUMMARY:ACNP 66th Annual Meeting 2028
+DESCRIPTION:ACNP lists its 66th Annual Meeting for January 10 to 13\, 202
+ 8\, at the Atlantis Paradise Island Resort in the Bahamas. Submission de
+ adlines for this edition have not been published.\n\nDeadlines\nTravel a
+ ward application: 2027-05-13 (estimated)\nPanel\, mini-panel and study g
+ roup final submission: 2027-06-03 (estimated)\nPoster abstract submissio
+ n: 2027-08-26 (estimated)\n\nhttps://acnp.org/annual-meeting/dates-locat
+ ions/
+LOCATION:Paradise Island\, New Providence\, BS\, Atlantis Paradise Island
+  Resort
+URL:https://acnp.org/annual-meeting/dates-locations/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACNP 66th Annual Meeting 2028
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acnp-annual-2028-20270513-travel-award-application@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Deadline: ACNP 2028 travel award application (estimated)
+DESCRIPTION:estimated from the 2027 cycle (May 14\, 2026)\; not published
+ \nMeeting: ACNP 66th Annual Meeting 2028\, Jan 10 to 13\, 2028\, Paradis
+ e Island\, New Providence\, BS\, Atlantis Paradise Island Resort\nhttps:
+ //acnp.org/annual-meeting/dates-locations/
+LOCATION:Paradise Island\, New Providence\, BS\, Atlantis Paradise Island
+  Resort
+URL:https://acnp.org/annual-meeting/dates-locations/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2028 travel award application (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2028 travel award application (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2028 travel award application (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acnp-annual-2028-20270603-panel-mini-panel-and-study-group-final-subm
+ ission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Deadline: ACNP 2028 panel\, mini-panel and study group final subm
+ ission (estimated)
+DESCRIPTION:estimated from the 2027 cycle (June 4\, 2026)\; not published
+ \nMeeting: ACNP 66th Annual Meeting 2028\, Jan 10 to 13\, 2028\, Paradis
+ e Island\, New Providence\, BS\, Atlantis Paradise Island Resort\nhttps:
+ //acnp.org/annual-meeting/dates-locations/
+LOCATION:Paradise Island\, New Providence\, BS\, Atlantis Paradise Island
+  Resort
+URL:https://acnp.org/annual-meeting/dates-locations/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2028 panel\, mini-panel and study group final 
+ submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2028 panel\, mini-panel and study group final 
+ submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2028 panel\, mini-panel and study group final 
+ submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acnp-annual-2028-20270826-poster-abstract-submission@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:Deadline: ACNP 2028 poster abstract submission (estimated)
+DESCRIPTION:estimated from the 2027 cycle (August 27\, 2026\, late August
+  in both recent cycles)\; not published\nMeeting: ACNP 66th Annual Meeti
+ ng 2028\, Jan 10 to 13\, 2028\, Paradise Island\, New Providence\, BS\, 
+ Atlantis Paradise Island Resort\nhttps://acnp.org/annual-meeting/dates-l
+ ocations/
+LOCATION:Paradise Island\, New Providence\, BS\, Atlantis Paradise Island
+  Resort
+URL:https://acnp.org/annual-meeting/dates-locations/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2028 poster abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2028 poster abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNP 2028 poster abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

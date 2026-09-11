@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NAPCRG 54th Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:napcrg-annual-meeting-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261125
+SUMMARY:NAPCRG 54th Annual Meeting
+DESCRIPTION:The NAPCRG 54th Annual Meeting is the yearly research confere
+ nce of the North American Primary Care Research Group\, held at the West
+ in Harbour Castle in Toronto\, Ontario. The program centers on primary c
+ are and family medicine research presentations\, workshops\, and network
+ ing sessions.\n\nDeadlines\nCall for papers: 2026-04-19\nStudent\, resid
+ ent\, and fellow poster submission opens: 2026-05-10\nStudent\, resident
+ \, and fellow poster submission: 2026-07-12\n\nhttps://napcrg.org/confer
+ ences/annual/annualmeeting/
+LOCATION:Toronto\, Ontario\, CA\, Westin Harbour Castle
+URL:https://napcrg.org/conferences/annual/annualmeeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NAPCRG 54th Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:napcrg-annual-meeting-2026-20260419-call-for-papers@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:Deadline: NAPCRG 2026 call for papers
+DESCRIPTION:11:59 PM CT deadline for the general call for papers\nMeeting
+ : NAPCRG 54th Annual Meeting\, Nov 20 to 24\, 2026\, Toronto\, Ontario\,
+  CA\, Westin Harbour Castle\nhttps://www.napcrg.org/conferences/annual/c
+ all-for-papers/
+LOCATION:Toronto\, Ontario\, CA\, Westin Harbour Castle
+URL:https://www.napcrg.org/conferences/annual/call-for-papers/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NAPCRG 2026 call for papers
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NAPCRG 2026 call for papers
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NAPCRG 2026 call for papers
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:napcrg-annual-meeting-2026-20260712-student-resident-and-fellow-poste
+ r-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:Deadline: NAPCRG 2026 student\, resident\, and fellow poster subm
+ ission
+DESCRIPTION:11:59 PM CT deadline\nMeeting: NAPCRG 54th Annual Meeting\, N
+ ov 20 to 24\, 2026\, Toronto\, Ontario\, CA\, Westin Harbour Castle\nhtt
+ ps://www.napcrg.org/conferences/annual/call-for-papers-srf/
+LOCATION:Toronto\, Ontario\, CA\, Westin Harbour Castle
+URL:https://www.napcrg.org/conferences/annual/call-for-papers-srf/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NAPCRG 2026 student\, resident\, and fellow poster 
+ submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NAPCRG 2026 student\, resident\, and fellow poster 
+ submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NAPCRG 2026 student\, resident\, and fellow poster 
+ submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

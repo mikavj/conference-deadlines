@@ -1,0 +1,86 @@
+[
+ {
+  "id": "iawmh-world-congress-2027",
+  "name": "11th World Congress on Women's Mental Health 2027",
+  "short_name": "IAWMH 2027",
+  "organizer": "International Association for Women's Mental Health",
+  "organizer_url": "https://iawmh.org/",
+  "edition_url": "https://iawmh2027.org/",
+  "tags": [
+   "womens-mental-health",
+   "perinatal",
+   "international"
+  ],
+  "start_date": "2027-03-14",
+  "end_date": "2027-03-17",
+  "city": "Sitges",
+  "country": "ES",
+  "venue": "Hotel Meliá Sitges",
+  "lat": 41.2368,
+  "lon": 1.8239,
+  "format": null,
+  "description": "The 11th World Congress on Women's Mental Health is organized by the International Association for Women's Mental Health and hosted by the Women and Mental Health working group of the Catalan Society of Psychiatry and Mental Health. The theme is integrating a biopsychosocial approach in women's mental health, with oral presentations, posters, symposia and workshops.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-02-15",
+    "url": "https://iawmh2027.org/",
+    "estimated": false,
+    "note": "Registration also opened 15 February 2026."
+   },
+   {
+    "label": "Symposium and workshop submission",
+    "date": "2026-09-30",
+    "url": "https://iawmh2027.org/",
+    "estimated": false,
+    "note": "Notification 5 October 2026."
+   },
+   {
+    "label": "Oral and poster abstract submission",
+    "date": "2026-10-30",
+    "url": "https://iawmh2027.org/",
+    "estimated": false,
+    "note": "Notification 30 November 2026."
+   },
+   {
+    "label": "Undergraduate student submission",
+    "date": "2026-12-23",
+    "url": "https://iawmh2027.org/",
+    "estimated": true,
+    "note": "Site prints 23 December 2027, which falls after the congress; 2026 assumed since notifications are dated 8 January 2027."
+   },
+   {
+    "label": "Early registration",
+    "date": null,
+    "url": "https://iawmh2027.org/",
+    "estimated": false,
+    "note": "Not stated on the site."
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-03-06",
+   "end_date": "2025-03-07",
+   "city": "Bengaluru",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://iawmh2027.org/",
+    "accessed": "2026-09-09",
+    "note": "Dates 14 to 17 March 2027, Hotel Meliá Sitges, all submission and notification dates."
+   },
+   {
+    "url": "https://iawmh.org/congress/",
+    "accessed": "2026-09-09",
+    "note": "IAWMH congress listing; 10th congress at NIMHANS Convention Centre, Bengaluru, 6 to 7 March 2025."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Symposium deadline is three weeks away as of the research date.",
+  "region_name": "Catalonia",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ANESTHESIOLOGY 2026 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:anesthesiology-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261021
+SUMMARY:ANESTHESIOLOGY 2026 Annual Meeting
+DESCRIPTION:ANESTHESIOLOGY is the American Society of Anesthesiologists' 
+ annual meeting covering clinical and scientific developments in anesthes
+ ia care. The 2026 meeting takes place at the San Diego Convention Center
+ .\n\nDeadlines\nGeneral Session submission: 2025-11-13\nProblem-Based Le
+ arning Discussion submission opens: 2025-12-02\nProblem-Based Learning D
+ iscussion submission: 2026-02-03\n\nhttps://www.asahq.org/meetings/anest
+ hesiology-annual-meeting
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://www.asahq.org/meetings/anesthesiology-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ANESTHESIOLOGY 2026 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:anesthesiology-2026-20251113-general-session-submission@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20251113
+DTEND;VALUE=DATE:20251114
+SUMMARY:Deadline: ANESTHESIOLOGY 2026 general session submission
+DESCRIPTION:Sourced from search engine snippet\; official submissions pag
+ e returned HTTP 403 on direct fetch\nMeeting: ANESTHESIOLOGY 2026 Annual
+  Meeting\, Oct 16 to 20\, 2026\, San Diego\, California\, San Diego Conv
+ ention Center\nhttps://www.asahq.org/annualmeeting/education/submissions
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://www.asahq.org/annualmeeting/education/submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANESTHESIOLOGY 2026 general session submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANESTHESIOLOGY 2026 general session submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANESTHESIOLOGY 2026 general session submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:anesthesiology-2026-20260203-problem-based-learning-discussion-submis
+ sion@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:Deadline: ANESTHESIOLOGY 2026 problem-based learning discussion s
+ ubmission
+DESCRIPTION:Sourced from search engine snippet\nMeeting: ANESTHESIOLOGY 2
+ 026 Annual Meeting\, Oct 16 to 20\, 2026\, San Diego\, California\, San 
+ Diego Convention Center\nhttps://www.asahq.org/annualmeeting/education/s
+ ubmissions
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://www.asahq.org/annualmeeting/education/submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANESTHESIOLOGY 2026 problem-based learning discussi
+ on submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANESTHESIOLOGY 2026 problem-based learning discussi
+ on submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ANESTHESIOLOGY 2026 problem-based learning discussi
+ on submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

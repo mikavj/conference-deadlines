@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ISCTM 23rd Annual Scientific Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:isctm-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270226
+SUMMARY:ISCTM 23rd Annual Scientific Meeting 2027
+DESCRIPTION:The ISCTM 23rd Annual Scientific Meeting is scheduled for Feb
+ ruary 23 to 25\, 2027\, in Washington\, DC\, with preliminary events on 
+ February 22. Poster submissions close November 16\, 2026 and New Investi
+ gator Award submissions close November 3\, 2026.\n\nDeadlines\nLewis A. 
+ Opler Prize recommendation: 2026-10-15\nNew Investigator Award submissio
+ n: 2026-11-03\nPoster submission: 2026-11-16\nSession proposals for the 
+ 2028 Annual Meeting: 2027-01-07\n\nhttps://isctm.org/meeting/23rd-annual
+ -scientific-meeting/
+LOCATION:Washington\, District of Columbia
+URL:https://isctm.org/meeting/23rd-annual-scientific-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISCTM 23rd Annual Scientific Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isctm-annual-2027-20261015-lewis-a-opler-prize-recommendation@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Deadline: ISCTM 2027 lewis a. opler prize recommendation
+DESCRIPTION:Meeting: ISCTM 23rd Annual Scientific Meeting 2027\, Feb 23 t
+ o 25\, 2027\, Washington\, District of Columbia\nhttps://isctm.org/
+LOCATION:Washington\, District of Columbia
+URL:https://isctm.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 lewis a. opler prize recommendation
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 lewis a. opler prize recommendation
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 lewis a. opler prize recommendation
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isctm-annual-2027-20261103-new-investigator-award-submission@conferen
+ ce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Deadline: ISCTM 2027 new investigator award submission
+DESCRIPTION:Meeting: ISCTM 23rd Annual Scientific Meeting 2027\, Feb 23 t
+ o 25\, 2027\, Washington\, District of Columbia\nhttps://isctm.org/upcom
+ ing-at-isctm/
+LOCATION:Washington\, District of Columbia
+URL:https://isctm.org/upcoming-at-isctm/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 new investigator award submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 new investigator award submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 new investigator award submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isctm-annual-2027-20261116-poster-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Deadline: ISCTM 2027 poster submission
+DESCRIPTION:Meeting: ISCTM 23rd Annual Scientific Meeting 2027\, Feb 23 t
+ o 25\, 2027\, Washington\, District of Columbia\nhttps://isctm.org/upcom
+ ing-at-isctm/
+LOCATION:Washington\, District of Columbia
+URL:https://isctm.org/upcoming-at-isctm/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 poster submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 poster submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 poster submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isctm-annual-2027-20270107-session-proposals-for-the-2028-annual-meet
+ ing@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:Deadline: ISCTM 2027 session proposals for the 2028 annual meetin
+ g
+DESCRIPTION:accepted October 1\, 2026 to January 7\, 2027\nMeeting: ISCTM
+  23rd Annual Scientific Meeting 2027\, Feb 23 to 25\, 2027\, Washington\
+ , District of Columbia\nhttps://isctm.org/
+LOCATION:Washington\, District of Columbia
+URL:https://isctm.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 session proposals for the 2028 annual me
+ eting
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 session proposals for the 2028 annual me
+ eting
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM 2027 session proposals for the 2028 annual me
+ eting
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

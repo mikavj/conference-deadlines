@@ -1,0 +1,131 @@
+[
+ {
+  "id": "sobp-annual-2027",
+  "name": "Society of Biological Psychiatry 82nd Annual Meeting 2027",
+  "short_name": "SOBP 2027",
+  "organizer": "Society of Biological Psychiatry",
+  "organizer_url": "https://sobp.org/",
+  "edition_url": "https://sobp.org/sobp-annual-meeting/",
+  "tags": [
+   "biological-psychiatry",
+   "neuroscience",
+   "genetics"
+  ],
+  "start_date": "2027-05-06",
+  "end_date": "2027-05-08",
+  "city": "Chicago",
+  "country": "US",
+  "venue": "Sheraton Grand Chicago Riverwalk",
+  "lat": 41.8894,
+  "lon": -87.62,
+  "format": "in-person",
+  "description": "The 2027 SOBP Annual Meeting takes place May 6 to 8, 2027, in Chicago under the theme The Metabolic Brain. Travel fellowship applications for the meeting close October 5, 2026; the oral and poster abstract deadline has not been posted on the society site as of September 2026.",
+  "deadlines": [
+   {
+    "label": "Travel fellowship application (predoctoral, early career North American, early career international)",
+    "date": "2026-10-05",
+    "url": "https://sobp.org/travel-fellowship-award-predoctoral-scholars/",
+    "estimated": false,
+    "note": "notification by early December 2026 (predoctoral by end of December); awardees then submit a late breaking abstract by mid December"
+   },
+   {
+    "label": "Symposium proposal submission",
+    "date": "2026-09-25",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2025 cycle (September 27, 2024, roughly seven months before the meeting); not published for 2027 and may already have passed"
+   },
+   {
+    "label": "Honorific award nominations",
+    "date": "2026-10-23",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2025 cycle (October 25, 2024); not published"
+   },
+   {
+    "label": "Oral and poster abstract submission",
+    "date": "2026-12-04",
+    "url": null,
+    "estimated": true,
+    "note": "estimated: the 2025 cycle closed November 22, 2024 and award pages for 2027 say abstracts are due by mid December; the site should verify against sobp.societyconference.com"
+   },
+   {
+    "label": "Late breaking poster abstract submission",
+    "date": "2027-02-12",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2025 cycle (February 7, 2025, opened January); not published"
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-04-24",
+   "end_date": "2025-04-26",
+   "city": "Chicago",
+   "deadlines": [
+    {
+     "label": "Submission dashboard opens",
+     "date": "2024-08-12"
+    },
+    {
+     "label": "Symposium proposal submission",
+     "date": "2024-09-27"
+    },
+    {
+     "label": "Travel fellowship application",
+     "date": "2024-10-07"
+    },
+    {
+     "label": "Honorific award nominations",
+     "date": "2024-10-25"
+    },
+    {
+     "label": "Oral and poster abstract submission",
+     "date": "2024-11-22"
+    },
+    {
+     "label": "Late breaking poster abstract submission",
+     "date": "2025-02-07"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://sobp.org/sobp-annual-meeting/",
+    "accessed": "2026-09-09",
+    "note": "Dates May 6 to 8, 2027, Chicago, theme; page still says submissions are closed for this year's meeting"
+   },
+   {
+    "url": "https://x.com/SOBP/status/2051738029602005020",
+    "accessed": "2026-09-09",
+    "note": "SOBP save the date post naming Sheraton Grand Chicago Riverwalk as venue"
+   },
+   {
+    "url": "https://sobp.org/travel-fellowship-award-predoctoral-scholars/",
+    "accessed": "2026-09-09",
+    "note": "Travel fellowship deadline October 5, 2026"
+   },
+   {
+    "url": "https://sobp.org/travel-fellowship-awards-early-career-investigator-international/",
+    "accessed": "2026-09-09",
+    "note": "Deadline October 5, 2026; abstracts by mid December; notification early December"
+   },
+   {
+    "url": "https://sobp.org/submission/",
+    "accessed": "2026-09-09",
+    "note": "Submission page still shows the 2025 cycle deadlines used for the prior edition pattern"
+   },
+   {
+    "url": "https://sobp.org/2026-sobp-annual-meeting/",
+    "accessed": "2026-09-09",
+    "note": "2026 meeting April 30 to May 2, 2026, New York Marriott Marquis"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The 2026 meeting (81st) was April 30 to May 2, 2026, at the New York Marriott Marquis; its deadlines were not recoverable, so the prior edition block uses the verified 2025 cycle. Only the travel fellowship deadline for 2027 is published; the abstract deadline should be checked on the conference portal (sobp.societyconference.com), which is JavaScript rendered.",
+  "region_name": "Illinois",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

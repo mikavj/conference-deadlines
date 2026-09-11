@@ -1,0 +1,99 @@
+[
+ {
+  "id": "nans-annual-2027",
+  "name": "North American Neuromodulation Society Annual Meeting 2027",
+  "short_name": "NANS 2027",
+  "organizer": "North American Neuromodulation Society",
+  "organizer_url": "https://www.neuromodulation.org",
+  "edition_url": "https://www.nans.org/annual-meeting",
+  "areas": [
+   "neurology",
+   "surgery"
+  ],
+  "tags": [
+   "neuromodulation",
+   "interventional"
+  ],
+  "start_date": "2027-01-21",
+  "end_date": "2027-01-24",
+  "city": "Las Vegas",
+  "region_name": "Nevada",
+  "country": "US",
+  "venue": "Caesars Palace",
+  "lat": 36.1162,
+  "lon": -115.1745,
+  "format": "in-person",
+  "description": "Annual meeting of the North American Neuromodulation Society, themed Neuromodulation Without Boundaries.",
+  "deadlines": [
+   {
+    "label": "Registration and housing open",
+    "date": "2026-09-10",
+    "url": "https://www.nans.org/annual-meeting",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-06-01",
+    "url": "https://www.nans.org/abstracts/",
+    "estimated": false,
+    "note": "regular abstract track"
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-08-17",
+    "url": "https://www.nans.org/abstracts/",
+    "estimated": false,
+    "note": "1:00 pm CDT; regular abstract track"
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-10-19",
+    "url": "https://www.nans.org/abstracts/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-10-27",
+    "url": "https://www.nans.org/annual-meeting",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-11-02",
+    "url": "https://www.nans.org/abstracts/",
+    "estimated": false,
+    "note": "1:00 pm CST"
+   },
+   {
+    "label": "Housing deadline",
+    "date": "2026-12-28",
+    "url": "https://www.nans.org/annual-meeting",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.nans.org/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "dates, venue, registration and housing deadlines (site redirected from neuromodulation.org)"
+   },
+   {
+    "url": "https://www.nans.org/callforproposals.html",
+    "accessed": "2026-09-10",
+    "note": "confirms session/course proposal cycle already closed for 2027"
+   },
+   {
+    "url": "https://www.nans.org/abstracts/",
+    "accessed": "2026-09-10",
+    "note": "regular and late-breaking abstract deadlines"
+   }
+  ],
+  "confidence": "high",
+  "notes": "neuromodulation.org 301-redirects to nans.org; used the redirected official pages as source."
+ }
+]

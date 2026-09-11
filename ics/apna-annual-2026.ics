@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:APNA 40th Annual Conference 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:apna-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261101
+SUMMARY:APNA 40th Annual Conference 2026
+DESCRIPTION:The American Psychiatric Nurses Association holds its 40th an
+ nual conference for psychiatric mental health nurses in Phoenix\, Arizon
+ a. The event offers in person attendance plus a virtual livestream optio
+ n and on demand session recordings.\n\nDeadlines\nAbstract submission: 2
+ 026-03-02\nEarly registration: 2026-09-14\n\nhttps://www.apna.org/apna-a
+ nnual-conference/
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.apna.org/apna-annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:APNA 40th Annual Conference 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apna-annual-2026-20260302-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Deadline: APNA 2026 abstract submission
+DESCRIPTION:Already closed as of the research date\nMeeting: APNA 40th An
+ nual Conference 2026\, Oct 28 to 31\, 2026\, Phoenix\, Arizona\, Phoenix
+  Convention Center\nhttps://www.apna.org/apna-annual-conference/call-for
+ -abstracts-2/
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.apna.org/apna-annual-conference/call-for-abstracts-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APNA 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APNA 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APNA 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apna-annual-2026-20260914-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Deadline: APNA 2026 early registration
+DESCRIPTION:Meeting: APNA 40th Annual Conference 2026\, Oct 28 to 31\, 20
+ 26\, Phoenix\, Arizona\, Phoenix Convention Center\nhttps://www.apna.org
+ /apna-annual-conference/
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.apna.org/apna-annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APNA 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APNA 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APNA 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,124 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SIRS 2027 Congress
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sirs-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270415
+SUMMARY:SIRS 2027 Congress
+DESCRIPTION:The SIRS 2027 Congress will be held April 10 to 14\, 2027\, a
+ t the Palais des congres de Montreal. Early career award applications\, 
+ which require a submitted abstract\, opened August 6\, 2026 and close De
+ cember 1\, 2026.\n\nDeadlines\nEarly career award application opens: 202
+ 6-08-06\nEarly career award application: 2026-12-01\nAbstract submission
+  (oral and poster): 2026-12-01 (estimated)\nLate breaking poster submiss
+ ion: 2027-02-10 (estimated)\n\nhttps://sirs.societyconference.com/v2/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://sirs.societyconference.com/v2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SIRS 2027 Congress
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sirs-congress-2027-20261201-early-career-award-application@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Deadline: SIRS 2027 early career award application
+DESCRIPTION:11:59 pm CST\nMeeting: SIRS 2027 Congress\, Apr 10 to 14\, 20
+ 27\, Montreal\, Quebec\, CA\, Palais des congres de Montreal\nhttps://sc
+ hizophreniaresearchsociety.org/meetings/early-career-award-program/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://schizophreniaresearchsociety.org/meetings/early-career-award-
+ program/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SIRS 2027 early career award application
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SIRS 2027 early career award application
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SIRS 2027 early career award application
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sirs-congress-2027-20261201-abstract-submission-oral-and-poster-@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Deadline: SIRS 2027 abstract submission (oral and poster) (estima
+ ted)
+DESCRIPTION:estimated: not stated on the pages reviewed\; the 2026 cycle 
+ closed December 4\, 2025 and the 2027 award deadline is December 1\, 202
+ 6\nMeeting: SIRS 2027 Congress\, Apr 10 to 14\, 2027\, Montreal\, Quebec
+ \, CA\, Palais des congres de Montreal\nhttps://sirs.societyconference.c
+ om/v2/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://sirs.societyconference.com/v2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SIRS 2027 abstract submission (oral and poster) (es
+ timated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SIRS 2027 abstract submission (oral and poster) (es
+ timated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SIRS 2027 abstract submission (oral and poster) (es
+ timated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sirs-congress-2027-20270210-late-breaking-poster-submission@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Deadline: SIRS 2027 late breaking poster submission (estimated)
+DESCRIPTION:estimated from the historical pattern (about two months befor
+ e the congress)\; not published\nMeeting: SIRS 2027 Congress\, Apr 10 to
+  14\, 2027\, Montreal\, Quebec\, CA\, Palais des congres de Montreal\nht
+ tps://sirs.societyconference.com/v2/
+LOCATION:Montreal\, Quebec\, CA\, Palais des congres de Montreal
+URL:https://sirs.societyconference.com/v2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SIRS 2027 late breaking poster submission (estimate
+ d)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SIRS 2027 late breaking poster submission (estimate
+ d)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SIRS 2027 late breaking poster submission (estimate
+ d)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

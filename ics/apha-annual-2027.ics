@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:APHA Annual Meeting and Expo 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:apha-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271111
+SUMMARY:APHA Annual Meeting and Expo 2027
+DESCRIPTION:The American Public Health Association plans its 2027 Annual 
+ Meeting and Expo for Philadelphia\, Pennsylvania. The organization notes
+  that future meeting dates and locations may change.\n\nhttps://www.apha
+ .org/events-and-meetings/annual/about/past-and-future-annual-meetings
+LOCATION:Philadelphia\, Pennsylvania
+URL:https://www.apha.org/events-and-meetings/annual/about/past-and-future
+ -annual-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:APHA Annual Meeting and Expo 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

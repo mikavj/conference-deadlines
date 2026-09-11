@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 AAP National Conference & Exhibition
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aap-nce-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271020
+SUMMARY:2027 AAP National Conference & Exhibition
+DESCRIPTION:The American Academy of Pediatrics will hold its 2027 Nationa
+ l Conference and Exhibition at McCormick Place in Chicago. This is the a
+ nnual gathering for pediatric clinicians\, researchers and trainees to p
+ resent research and attend educational programming.\n\nhttps://aapexperi
+ ence.org/future-dates/
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://aapexperience.org/future-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 AAP National Conference & Exhibition
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

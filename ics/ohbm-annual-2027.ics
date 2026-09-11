@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OHBM Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ohbm-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270701
+SUMMARY:OHBM Annual Meeting 2027
+DESCRIPTION:Annual meeting of the Organization for Human Brain Mapping\, 
+ covering neuroimaging methods and human brain mapping research.\n\nDeadl
+ ines\nContent submission site opens: 2026-11-01 (estimated)\nAbstract su
+ bmission: 2026-12-01 (estimated)\nRegistration opens: 2027-01-01 (estima
+ ted)\nAbstract notification: 2027-02-01 (estimated)\n\nhttps://www.human
+ brainmapping.org/ohbm-2027/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://www.humanbrainmapping.org/ohbm-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OHBM Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ohbm-annual-2027-20261201-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Deadline: OHBM 2027 abstract submission (estimated)
+DESCRIPTION:only month published (December 2026)\; exact day not yet anno
+ unced\, first of month used as placeholder\; volunteer applications shar
+ e this deadline\nMeeting: OHBM Annual Meeting 2027\, Jun 26 to 30\, 2027
+ \, Toronto\, Ontario\, CA\, Metro Toronto Convention Centre\nhttps://www
+ .humanbrainmapping.org/ohbm-2027/
+LOCATION:Toronto\, Ontario\, CA\, Metro Toronto Convention Centre
+URL:https://www.humanbrainmapping.org/ohbm-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: OHBM 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: OHBM 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: OHBM 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

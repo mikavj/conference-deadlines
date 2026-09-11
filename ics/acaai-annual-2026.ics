@@ -1,0 +1,180 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 ACAAI Annual Scientific Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acaai-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261117
+SUMMARY:2026 ACAAI Annual Scientific Meeting
+DESCRIPTION:The ACAAI Annual Scientific Meeting is the main scientific co
+ nference of the American College of Allergy\, Asthma and Immunology. The
+  2026 edition takes place in Phoenix\, Arizona from November 12 to 16\, 
+ with an in person program and a livestream option.\n\nDeadlines\nResearc
+ h abstract submission opens: 2026-04-01 (estimated)\nResearch abstract s
+ ubmission: 2026-07-13\nMedically challenging case abstract submission op
+ ens: 2026-04-01 (estimated)\nMedically challenging case abstract submiss
+ ion: 2026-08-03 (estimated)\nLate-breaking abstract submission opens: 20
+ 26-09-01 (estimated)\nLate-breaking abstract submission: 2026-10-06\nEar
+ ly registration deadline: 2026-09-14\nLivestream registration deadline: 
+ 2026-11-11\n\nhttps://annualmeeting.acaai.org/2026/
+LOCATION:Phoenix\, Arizona
+URL:https://annualmeeting.acaai.org/2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 ACAAI Annual Scientific Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acaai-annual-2026-20260713-research-abstract-submission@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Deadline: ACAAI 2026 research abstract submission
+DESCRIPTION:5:00 pm CT\; confirmed via direct fetch of the official page\
+ nMeeting: 2026 ACAAI Annual Scientific Meeting\, Nov 12 to 16\, 2026\, P
+ hoenix\, Arizona\nhttps://annualmeeting.acaai.org/2026/submit_abstract.c
+ fm
+LOCATION:Phoenix\, Arizona
+URL:https://annualmeeting.acaai.org/2026/submit_abstract.cfm
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 research abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 research abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 research abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acaai-annual-2026-20260803-medically-challenging-case-abstract-submis
+ sion@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:Deadline: ACAAI 2026 medically challenging case abstract submissi
+ on (estimated)
+DESCRIPTION:5:00 pm CT\; from an aggregated search snippet\, not independ
+ ently reconfirmed by direct fetch\nMeeting: 2026 ACAAI Annual Scientific
+  Meeting\, Nov 12 to 16\, 2026\, Phoenix\, Arizona\nhttps://annualmeetin
+ g.acaai.org/2026/submit_abstract.cfm
+LOCATION:Phoenix\, Arizona
+URL:https://annualmeeting.acaai.org/2026/submit_abstract.cfm
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 medically challenging case abstract subm
+ ission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 medically challenging case abstract subm
+ ission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 medically challenging case abstract subm
+ ission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acaai-annual-2026-20261006-late-breaking-abstract-submission@conferen
+ ce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Deadline: ACAAI 2026 late-breaking abstract submission
+DESCRIPTION:5:00 pm CT\; confirmed via direct fetch of the official page\
+ nMeeting: 2026 ACAAI Annual Scientific Meeting\, Nov 12 to 16\, 2026\, P
+ hoenix\, Arizona\nhttps://annualmeeting.acaai.org/2026/submit_abstract.c
+ fm
+LOCATION:Phoenix\, Arizona
+URL:https://annualmeeting.acaai.org/2026/submit_abstract.cfm
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acaai-annual-2026-20260914-early-registration-deadline@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Deadline: ACAAI 2026 early registration deadline
+DESCRIPTION:Confirmed via direct fetch of the official registration page\
+ nMeeting: 2026 ACAAI Annual Scientific Meeting\, Nov 12 to 16\, 2026\, P
+ hoenix\, Arizona\nhttps://annualmeeting.acaai.org/2026/registration.cfm
+LOCATION:Phoenix\, Arizona
+URL:https://annualmeeting.acaai.org/2026/registration.cfm
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acaai-annual-2026-20261111-livestream-registration-deadline@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Deadline: ACAAI 2026 livestream registration deadline
+DESCRIPTION:5:00 pm MT\nMeeting: 2026 ACAAI Annual Scientific Meeting\, N
+ ov 12 to 16\, 2026\, Phoenix\, Arizona\nhttps://annualmeeting.acaai.org/
+ 2026/registration.cfm
+LOCATION:Phoenix\, Arizona
+URL:https://annualmeeting.acaai.org/2026/registration.cfm
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 livestream registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 livestream registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACAAI 2026 livestream registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

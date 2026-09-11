@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:20th International Congress on Neuromuscular Diseases (ICNMD
+  2027)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:icnmd-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270710
+SUMMARY:20th International Congress on Neuromuscular Diseases (ICNMD 2027
+ )
+DESCRIPTION:ICNMD is a congress covering the full spectrum of neuromuscul
+ ar disease research and clinical care. The 20th edition\, in Chiba\, Jap
+ an\, is the first under the organizer's newly announced shift from a bie
+ nnial to an annual schedule.\n\nDeadlines\nRegistration and abstract sub
+ mission opens: 2026-10-07\nAbstract submission deadline: 2027-01-15\nEar
+ ly bird registration deadline: 2027-03-26\nStandard registration deadlin
+ e: 2027-05-28\n\nhttps://icnmd.org/
+LOCATION:Chiba\, Chiba Prefecture\, JP\, Makuhari Messe
+URL:https://icnmd.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:20th International Congress on Neuromuscular Diseases (ICNMD 
+ 2027)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icnmd-2027-20270115-abstract-submission-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Deadline: ICNMD 2027 abstract submission deadline
+DESCRIPTION:Meeting: 20th International Congress on Neuromuscular Disease
+ s (ICNMD 2027)\, Jul 05 to 09\, 2027\, Chiba\, Chiba Prefecture\, JP\, M
+ akuhari Messe\nhttps://icnmd.org/
+LOCATION:Chiba\, Chiba Prefecture\, JP\, Makuhari Messe
+URL:https://icnmd.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icnmd-2027-20270326-early-bird-registration-deadline@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:Deadline: ICNMD 2027 early bird registration deadline
+DESCRIPTION:Meeting: 20th International Congress on Neuromuscular Disease
+ s (ICNMD 2027)\, Jul 05 to 09\, 2027\, Chiba\, Chiba Prefecture\, JP\, M
+ akuhari Messe\nhttps://icnmd.org/
+LOCATION:Chiba\, Chiba Prefecture\, JP\, Makuhari Messe
+URL:https://icnmd.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 early bird registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 early bird registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 early bird registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:icnmd-2027-20270528-standard-registration-deadline@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Deadline: ICNMD 2027 standard registration deadline
+DESCRIPTION:Meeting: 20th International Congress on Neuromuscular Disease
+ s (ICNMD 2027)\, Jul 05 to 09\, 2027\, Chiba\, Chiba Prefecture\, JP\, M
+ akuhari Messe\nhttps://icnmd.org/
+LOCATION:Chiba\, Chiba Prefecture\, JP\, Makuhari Messe
+URL:https://icnmd.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 standard registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 standard registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ICNMD 2027 standard registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

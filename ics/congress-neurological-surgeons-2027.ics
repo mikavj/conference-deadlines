@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:77th Congress of Neurological Surgeons Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:congress-neurological-surgeons-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271028
+SUMMARY:77th Congress of Neurological Surgeons Annual Meeting
+DESCRIPTION:Annual scientific meeting of the Congress of Neurological Sur
+ geons covering the full range of neurosurgical subspecialties\, to be he
+ ld in Phoenix\, Arizona.\n\nhttps://www.cns.org/meetings/past-and-future
+ -annual-meetings
+LOCATION:Phoenix\, Arizona
+URL:https://www.cns.org/meetings/past-and-future-annual-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:77th Congress of Neurological Surgeons Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

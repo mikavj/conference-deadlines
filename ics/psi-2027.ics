@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Postpartum Support International 40th Annual Conference 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:psi-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270712
+SUMMARY:Postpartum Support International 40th Annual Conference 2027
+DESCRIPTION:The 40th PSI Annual Conference will be held in Chicago with p
+ reconference trainings July 7 to 8\, 2027 and the main conference July 8
+  to 11\, 2027. PSI expects more than 1\,400 attendees\; hotel and propos
+ al details are not yet posted.\n\nDeadlines\nPresentation proposal submi
+ ssion: 2027-01-06 (estimated)\n\nhttps://postpartum.net/professionals/ps
+ i-conference/
+LOCATION:Chicago\, Illinois
+URL:https://postpartum.net/professionals/psi-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Postpartum Support International 40th Annual Conference 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:psi-2027-20270106-presentation-proposal-submission@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Deadline: PSI 2027 presentation proposal submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (proposals for the June 2026 
+ conference closed January 6\, 2026)\; the 2027 call has not been posted 
+ with a date\nMeeting: Postpartum Support International 40th Annual Confe
+ rence 2027\, Jul 07 to 11\, 2027\, Chicago\, Illinois\nhttps://postpartu
+ m.net/professionals/psi-conference/
+LOCATION:Chicago\, Illinois
+URL:https://postpartum.net/professionals/psi-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSI 2027 presentation proposal submission (estimate
+ d)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSI 2027 presentation proposal submission (estimate
+ d)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSI 2027 presentation proposal submission (estimate
+ d)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ADAA 2027 Annual Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:adaa-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270404
+SUMMARY:ADAA 2027 Annual Conference
+DESCRIPTION:The ADAA 2027 Annual Conference is scheduled for April 1 to 3
+ \, 2027\, in Atlanta with a theme on innovation and dissemination of eff
+ ective treatment. ADAA opens submissions for symposia\, workshops\, roun
+ dtables\, posters and awards after Labor Day each year\; specific 2027 d
+ eadlines were not retrievable.\n\nDeadlines\nSymposia\, workshops\, roun
+ dtables and state of the art session proposals: 2026-10-16 (estimated)\n
+ \nhttps://adaa.org/adaa-conference
+LOCATION:Atlanta\, Georgia\, Atlanta Marriott Marquis
+URL:https://adaa.org/adaa-conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ADAA 2027 Annual Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adaa-annual-2027-20261016-symposia-workshops-roundtables-and-state-of
+ -the-art-session-proposals@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Deadline: ADAA 2027 symposia\, workshops\, roundtables and state 
+ of the art session proposals (estimated)
+DESCRIPTION:estimated from the 2026 cycle (October 17\, 2025)\; not verif
+ ied for 2027\nMeeting: ADAA 2027 Annual Conference\, Apr 01 to 03\, 2027
+ \, Atlanta\, Georgia\, Atlanta Marriott Marquis\nhttps://adaa.org/adaa-c
+ onference
+LOCATION:Atlanta\, Georgia\, Atlanta Marriott Marquis
+URL:https://adaa.org/adaa-conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADAA 2027 symposia\, workshops\, roundtables and st
+ ate of the art session proposals (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADAA 2027 symposia\, workshops\, roundtables and st
+ ate of the art session proposals (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADAA 2027 symposia\, workshops\, roundtables and st
+ ate of the art session proposals (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,68 @@
+[
+ {
+  "id": "ihi-forum-2026",
+  "name": "IHI Forum 2026",
+  "short_name": "IHI Forum 2026",
+  "organizer": "Institute for Healthcare Improvement",
+  "organizer_url": "https://www.ihi.org",
+  "edition_url": "https://events.ihi.org/forum",
+  "areas": [
+   "health-services"
+  ],
+  "tags": [
+   "quality-safety",
+   "health-services"
+  ],
+  "start_date": "2026-12-06",
+  "end_date": "2026-12-09",
+  "city": "Phoenix",
+  "region_name": "Arizona",
+  "country": "US",
+  "venue": "Phoenix Convention Center",
+  "lat": 33.4478,
+  "lon": -112.0728,
+  "format": "in-person",
+  "description": "The Institute for Healthcare Improvement holds its 2026 National Forum at the Phoenix Convention Center in Phoenix, Arizona. The Forum covers quality improvement and patient safety in healthcare.",
+  "deadlines": [
+   {
+    "label": "Poster submission",
+    "date": "2026-09-30",
+    "url": "https://events.ihi.org/forum/present",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-09-30",
+    "url": "https://events.ihi.org/forum/fees-and-scholarships",
+    "estimated": false,
+    "note": "General Conference (December 8 to 9) rate of $1,395 available until this date"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://events.ihi.org/forum",
+    "accessed": "2026-09-10",
+    "note": "Confirms December 6 to 9, 2026, Phoenix, Arizona"
+   },
+   {
+    "url": "https://events.ihi.org/forum/location",
+    "accessed": "2026-09-10",
+    "note": "Confirms Phoenix Convention Center address"
+   },
+   {
+    "url": "https://events.ihi.org/forum/present",
+    "accessed": "2026-09-10",
+    "note": "Confirms September 30, 2026 poster submission deadline"
+   },
+   {
+    "url": "https://events.ihi.org/forum/fees-and-scholarships",
+    "accessed": "2026-09-10",
+    "note": "Confirms registration rate deadline of September 30, 2026"
+   }
+  ],
+  "confidence": "high",
+  "notes": "One indexed page snippet referenced an Anaheim Convention Center in connection with the Forum, which appears to be a stale or mismatched cached fragment; all other sources consistently confirm Phoenix, Arizona for the 2026 Forum."
+ }
+]

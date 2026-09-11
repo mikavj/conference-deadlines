@@ -1,0 +1,87 @@
+[
+ {
+  "id": "iocdf-2027",
+  "name": "32nd Annual OCD Conference 2027 (International OCD Foundation)",
+  "short_name": "IOCDF 2027",
+  "organizer": "International OCD Foundation",
+  "organizer_url": "https://iocdf.org/",
+  "edition_url": "https://iocdf.org/programs/conferences/",
+  "tags": [
+   "ocd",
+   "anxiety",
+   "community",
+   "psychotherapy"
+  ],
+  "start_date": "2027-07-08",
+  "end_date": "2027-07-11",
+  "city": "New York",
+  "country": "US",
+  "venue": "New York Marriott Marquis",
+  "lat": 40.7586,
+  "lon": -73.986,
+  "format": null,
+  "description": "The 32nd Annual OCD Conference is scheduled for July 8 to 11, 2027 at the New York Marriott Marquis, with the IOCDF Research Symposium on July 8 as a hybrid event. The conference serves people with OCD and related disorders, families and clinicians.",
+  "deadlines": [
+   {
+    "label": "Conference presentation proposal submission",
+    "date": null,
+    "url": "https://iocdf.org/programs/conferences/",
+    "estimated": false,
+    "note": "Call for 2027 not yet posted; the 2026 call was issued in the fall and its deadline was not located"
+   },
+   {
+    "label": "Research Symposium proposal submission opens",
+    "date": "2027-01-04",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (January 5, 2026)"
+   },
+   {
+    "label": "Research Symposium proposal submission",
+    "date": "2027-02-08",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (February 9, 2026, decisions by April)"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-07-09",
+   "end_date": "2026-07-12",
+   "city": "Seattle",
+   "deadlines": [
+    {
+     "label": "Research Symposium proposal submission opens",
+     "date": "2026-01-05"
+    },
+    {
+     "label": "Research Symposium proposal submission",
+     "date": "2026-02-09"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://iocdf.org/programs/conferences/",
+    "accessed": "2026-09-09",
+    "note": "Upcoming conferences: 2027 New York July 8 to 11 Marriott Marquis; 2028 Indianapolis July 27 to 30; 2029 Anaheim July 12 to 15; Research Symposium July 8, 2027 hybrid"
+   },
+   {
+    "url": "https://events.iocdf.org/event/OCDCON26/summary",
+    "accessed": "2026-09-09",
+    "note": "31st conference July 9 to 12, 2026, Seattle and online"
+   },
+   {
+    "url": "https://iocdf.org/research/symposium/proposals/",
+    "accessed": "2026-09-09",
+    "note": "2026 Research Symposium proposal window"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The 2026 conference was hybrid (Seattle and online); the 2027 main conference format is not stated.",
+  "region_name": "New York",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

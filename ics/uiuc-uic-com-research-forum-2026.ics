@@ -1,0 +1,101 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:University of Illinois College of Medicine 2026 Research For
+ um
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uiuc-uic-com-research-forum-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:University of Illinois College of Medicine 2026 Research Forum
+DESCRIPTION:The University of Illinois College of Medicine Research Forum
+  is an annual poster and judging event in Chicago open to medical studen
+ ts\, graduate students\, postdoctoral fellows\, residents\, and research
+  faculty across the college. The 2026 forum runs two judging sessions fo
+ llowed by a reception at the Thompson Rooms in Student Center West.\n\nD
+ eadlines\nAbstract submission opens: 2026-09-01\nAbstract submission dea
+ dline: 2026-09-25\nPoster printing deadline: 2026-10-16\n\nhttps://medic
+ ine.uic.edu/com-research/research-forum/submission-information/
+LOCATION:Chicago\, Illinois\, Thompson Rooms\, Student Center West
+URL:https://medicine.uic.edu/com-research/research-forum/submission-infor
+ mation/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:University of Illinois College of Medicine 2026 Research Foru
+ m
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-uic-com-research-forum-2026-20260925-abstract-submission-deadlin
+ e@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Deadline: UIC COM Research Forum 2026 abstract submission deadlin
+ e
+DESCRIPTION:5:00 p.m. CST\nMeeting: University of Illinois College of Med
+ icine 2026 Research Forum\, Nov 6\, 2026\, Chicago\, Illinois\, Thompson
+  Rooms\, Student Center West\nhttps://medicine.uic.edu/com-research/rese
+ arch-forum/submission-information/
+LOCATION:Chicago\, Illinois\, Thompson Rooms\, Student Center West
+URL:https://medicine.uic.edu/com-research/research-forum/submission-infor
+ mation/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 abstract submission dea
+ dline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 abstract submission dea
+ dline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 abstract submission dea
+ dline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uiuc-uic-com-research-forum-2026-20261016-poster-printing-deadline@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Deadline: UIC COM Research Forum 2026 poster printing deadline
+DESCRIPTION:Only applies to presenters using CDS for poster printing\nMee
+ ting: University of Illinois College of Medicine 2026 Research Forum\, N
+ ov 6\, 2026\, Chicago\, Illinois\, Thompson Rooms\, Student Center West\
+ nhttps://medicine.uic.edu/com-research/research-forum/submission-informa
+ tion/
+LOCATION:Chicago\, Illinois\, Thompson Rooms\, Student Center West
+URL:https://medicine.uic.edu/com-research/research-forum/submission-infor
+ mation/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 poster printing deadlin
+ e
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 poster printing deadlin
+ e
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: UIC COM Research Forum 2026 poster printing deadlin
+ e
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

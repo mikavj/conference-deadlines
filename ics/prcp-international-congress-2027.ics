@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:22nd PRCP International Congress 2027 (with the 53rd Philipp
+ ine Psychiatric Association Annual Convention)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:prcp-international-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270124
+SUMMARY:22nd PRCP International Congress 2027 (with the 53rd Philippine P
+ sychiatric Association Annual Convention)
+DESCRIPTION:The 22nd International Congress of the Pacific Rim College of
+  Psychiatrists is held jointly with the 53rd Annual Convention of the Ph
+ ilippine Psychiatric Association under the theme Psychiatry Without Bord
+ ers: Building Collaborative Mental Health Systems Across the Pacific Rim
+ .\n\nhttps://philippinepsychiatricassociation.org/conventions/
+LOCATION:Manila\, Metro Manila\, PH\, Crowne Plaza Manila Galleria (Ortig
+ as Center\, Quezon City)
+URL:https://philippinepsychiatricassociation.org/conventions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:22nd PRCP International Congress 2027 (with the 53rd Philippi
+ ne Psychiatric Association Annual Convention)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

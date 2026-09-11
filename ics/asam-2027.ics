@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASAM 58th Annual Conference 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:asam-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+SUMMARY:ASAM 58th Annual Conference 2027
+DESCRIPTION:The ASAM 58th Annual Conference\, Innovations in Addiction Me
+ dicine and Science\, is scheduled for April 8 to 11\, 2027 in Minneapoli
+ s. The online schedule also lists region meetings and preconference acti
+ vity beginning April 6.\n\nDeadlines\nPoster abstract submission: 2027-0
+ 1-22 (estimated)\n\nhttps://annualconference.asam.org/
+LOCATION:Minneapolis\, Minnesota
+URL:https://annualconference.asam.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASAM 58th Annual Conference 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asam-2027-20270122-poster-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Deadline: ASAM 2027 poster abstract submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (57th conference deadline Fri
+ day\, January 23\, 2026\, notifications mid February)\; the 2027 call fo
+ r abstracts has not been posted\nMeeting: ASAM 58th Annual Conference 20
+ 27\, Apr 08 to 11\, 2027\, Minneapolis\, Minnesota\nhttps://annualconfer
+ ence.asam.org/
+LOCATION:Minneapolis\, Minnesota
+URL:https://annualconference.asam.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASAM 2027 poster abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASAM 2027 poster abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASAM 2027 poster abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

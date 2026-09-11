@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASCO Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:asco-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270609
+SUMMARY:ASCO Annual Meeting 2027
+DESCRIPTION:The ASCO Annual Meeting is the annual clinical oncology meeti
+ ng of the American Society of Clinical Oncology. The 2027 edition is sch
+ eduled for June 4 to 8\, 2027 at McCormick Place in Chicago\, Illinois\,
+  with in person and online attendance options.\n\nDeadlines\nAbstract su
+ bmission: 2027-01-26\nLate-breaking abstract submission: 2027-03-08\nAbs
+ tract notification: 2027-03-31\nEarly registration: 2026-12-02\n\nhttps:
+ //www.asco.org/annual-meeting
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://www.asco.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASCO Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asco-annual-2027-20270126-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Deadline: ASCO 2027 abstract submission
+DESCRIPTION:Regular abstract submission deadline\, typically 11:59 PM ET\
+ ; time not independently confirmed.\nMeeting: ASCO Annual Meeting 2027\,
+  Jun 04 to 08\, 2027\, Chicago\, Illinois\, McCormick Place\nhttps://www
+ .asco.org/annual-meeting/dates-know
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://www.asco.org/annual-meeting/dates-know
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCO 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCO 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCO 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asco-annual-2027-20270308-late-breaking-abstract-submission@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270308
+DTEND;VALUE=DATE:20270309
+SUMMARY:Deadline: ASCO 2027 late-breaking abstract submission
+DESCRIPTION:12:00 PM (noon) ET.\nMeeting: ASCO Annual Meeting 2027\, Jun 
+ 04 to 08\, 2027\, Chicago\, Illinois\, McCormick Place\nhttps://www.asco
+ .org/annual-meeting/abstracts-presentations/submission-details/late-brea
+ king-data-submission-guidelines
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://www.asco.org/annual-meeting/abstracts-presentations/submissio
+ n-details/late-breaking-data-submission-guidelines
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCO 2027 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCO 2027 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCO 2027 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:asco-annual-2027-20261202-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Deadline: ASCO 2027 early registration
+DESCRIPTION:Early registration deadline.\nMeeting: ASCO Annual Meeting 20
+ 27\, Jun 04 to 08\, 2027\, Chicago\, Illinois\, McCormick Place\nhttps:/
+ /www.asco.org/annual-meeting/dates-know
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://www.asco.org/annual-meeting/dates-know
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCO 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCO 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASCO 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

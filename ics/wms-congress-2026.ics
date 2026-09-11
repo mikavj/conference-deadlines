@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:World Muscle Society 31st International Annual Congress 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:wms-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261004
+SUMMARY:World Muscle Society 31st International Annual Congress 2026
+DESCRIPTION:The World Muscle Society Congress is the society's annual int
+ ernational meeting on neuromuscular disorders. The 2026 congress is the 
+ 31st edition and is being held in Hiroshima\, Japan.\n\nhttps://www.wms2
+ 026.com/
+LOCATION:Hiroshima\, Hiroshima Prefecture\, JP
+URL:https://www.wms2026.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:World Muscle Society 31st International Annual Congress 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

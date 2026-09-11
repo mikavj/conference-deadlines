@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:North American Neuromodulation Society Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:nans-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270125
+SUMMARY:North American Neuromodulation Society Annual Meeting 2027
+DESCRIPTION:Annual meeting of the North American Neuromodulation Society\
+ , themed Neuromodulation Without Boundaries.\n\nDeadlines\nRegistration 
+ and housing open: 2026-09-10\nAbstract submission opens: 2026-06-01\nAbs
+ tract submission: 2026-08-17\nLate-breaking abstract submission opens: 2
+ 026-10-19\nEarly registration: 2026-10-27\nLate-breaking abstract submis
+ sion: 2026-11-02\nHousing deadline: 2026-12-28\n\nhttps://www.nans.org/a
+ nnual-meeting
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.nans.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:North American Neuromodulation Society Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nans-annual-2027-20260817-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Deadline: NANS 2027 abstract submission
+DESCRIPTION:1:00 pm CDT\; regular abstract track\nMeeting: North American
+  Neuromodulation Society Annual Meeting 2027\, Jan 21 to 24\, 2027\, Las
+  Vegas\, Nevada\, Caesars Palace\nhttps://www.nans.org/abstracts/
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.nans.org/abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nans-annual-2027-20261027-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Deadline: NANS 2027 early registration
+DESCRIPTION:Meeting: North American Neuromodulation Society Annual Meetin
+ g 2027\, Jan 21 to 24\, 2027\, Las Vegas\, Nevada\, Caesars Palace\nhttp
+ s://www.nans.org/annual-meeting
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.nans.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nans-annual-2027-20261102-late-breaking-abstract-submission@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Deadline: NANS 2027 late-breaking abstract submission
+DESCRIPTION:1:00 pm CST\nMeeting: North American Neuromodulation Society 
+ Annual Meeting 2027\, Jan 21 to 24\, 2027\, Las Vegas\, Nevada\, Caesars
+  Palace\nhttps://www.nans.org/abstracts/
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.nans.org/abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nans-annual-2027-20261228-housing-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Deadline: NANS 2027 housing deadline
+DESCRIPTION:Meeting: North American Neuromodulation Society Annual Meetin
+ g 2027\, Jan 21 to 24\, 2027\, Las Vegas\, Nevada\, Caesars Palace\nhttp
+ s://www.nans.org/annual-meeting
+LOCATION:Las Vegas\, Nevada\, Caesars Palace
+URL:https://www.nans.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 housing deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 housing deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NANS 2027 housing deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

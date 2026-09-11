@@ -1,0 +1,70 @@
+[
+ {
+  "id": "asrm-scientific-congress-2026",
+  "name": "ASRM 2026 Scientific Congress and Expo",
+  "short_name": "ASRM 2026",
+  "organizer": "American Society for Reproductive Medicine",
+  "organizer_url": "https://www.asrm.org",
+  "edition_url": "https://asrmcongress.org/",
+  "areas": [
+   "obstetrics-gynecology"
+  ],
+  "tags": [
+   "reproductive",
+   "gynecology"
+  ],
+  "start_date": "2026-10-24",
+  "end_date": "2026-10-28",
+  "city": "Baltimore",
+  "region_name": "Maryland",
+  "country": "US",
+  "venue": "Baltimore Convention Center",
+  "lat": 39.2864,
+  "lon": -76.6205,
+  "format": "in-person",
+  "description": "The ASRM Scientific Congress and Expo is the annual meeting of the American Society for Reproductive Medicine, covering clinical and basic science research in reproductive medicine. The 2026 edition, themed Discovery, Innovation, and Advancement, takes place at the Baltimore Convention Center and introduces the ASRM Master Class Summit in place of traditional postgraduate courses.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-02-25",
+    "url": "https://www.asrm.org/globalassets/_asrm/news-events/asrm-scientific-congress/presenters/ASRM_2026_Abstract_Key_Dates.pdf",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-04-29",
+    "url": "https://www.asrm.org/globalassets/_asrm/news-events/asrm-scientific-congress/presenters/ASRM_2026_Abstract_Key_Dates.pdf",
+    "estimated": false,
+    "note": "4:00 pm ET"
+   },
+   {
+    "label": "Abstract withdrawal deadline",
+    "date": "2026-06-24",
+    "url": "https://www.asrm.org/globalassets/_asrm/news-events/asrm-scientific-congress/presenters/ASRM_2026_Abstract_Key_Dates.pdf",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://asrmcongress.org/",
+    "accessed": "2026-09-10",
+    "note": "confirms meeting dates and venue"
+   },
+   {
+    "url": "https://www.asrm.org/globalassets/_asrm/news-events/asrm-scientific-congress/presenters/ASRM_2026_Abstract_Key_Dates.pdf",
+    "accessed": "2026-09-10",
+    "note": "official abstract key dates document; PDF text could not be machine-extracted but is corroborated by search-indexed snippets of its own content"
+   },
+   {
+    "url": "https://asrmcongress.org/asrm-2026-abstract-deadline-approaching/",
+    "accessed": "2026-09-10",
+    "note": "secondary confirmation of April 29, 2026 submission deadline"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Abstract notification is stated only as mid-June 2026 in available materials with no exact day published, so it is omitted from the deadlines list rather than estimated. The official key-dates PDF could not be parsed directly by the fetch tool (binary content); dates were confirmed via consistent search-engine snippets quoting the same document plus a secondary ASRM congress news post."
+ }
+]

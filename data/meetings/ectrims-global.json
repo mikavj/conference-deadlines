@@ -1,0 +1,39 @@
+[
+ {
+  "id": "ectrims-global-2027",
+  "name": "ECTRIMS Global 2027",
+  "short_name": "ECTRIMS 2027",
+  "organizer": "European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS)",
+  "organizer_url": "https://ectrims.eu",
+  "edition_url": "https://ectrims.eu/events/ectrims-global-2027/",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "multiple-sclerosis",
+   "international",
+   "clinical-trials"
+  ],
+  "start_date": "2027-10-05",
+  "end_date": "2027-10-08",
+  "city": "Vienna",
+  "region_name": "Vienna",
+  "country": "AT",
+  "venue": null,
+  "lat": 48.2082,
+  "lon": 16.3738,
+  "format": null,
+  "description": "ECTRIMS holds ECTRIMS Global 2027 in Vienna, Austria, from 5 to 8 October 2027, including a pre day, the main annual congress, and a patient community day. The event focuses on multiple sclerosis research and treatment.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://ectrims.eu/events/ectrims-global-2027/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, city, and event structure (pre day, congress, patient community day)."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Venue name and abstract submission or registration deadlines are not yet published on the official site as of the access date."
+ }
+]

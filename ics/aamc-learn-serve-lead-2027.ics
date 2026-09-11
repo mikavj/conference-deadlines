@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Learn Serve Lead 2027: The AAMC Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aamc-learn-serve-lead-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271117
+SUMMARY:Learn Serve Lead 2027: The AAMC Annual Meeting
+DESCRIPTION:The Association of American Medical Colleges holds Learn Serv
+ e Lead\, its annual meeting\, in Washington\, DC in 2027.\n\nhttps://www
+ .aamc.org/learn-network/learn-serve-lead
+LOCATION:Washington\, District of Columbia
+URL:https://www.aamc.org/learn-network/learn-serve-lead
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Learn Serve Lead 2027: The AAMC Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

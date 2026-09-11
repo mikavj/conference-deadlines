@@ -1,0 +1,112 @@
+[
+ {
+  "id": "aapl-annual-2026",
+  "name": "AAPL 57th Annual Meeting 2026",
+  "short_name": "AAPL 2026",
+  "organizer": "American Academy of Psychiatry and the Law",
+  "organizer_url": "https://aapl.org/",
+  "edition_url": "https://aapl.org/57th-annual-meeting/",
+  "tags": [
+   "forensic",
+   "general-psychiatry"
+  ],
+  "start_date": "2026-10-29",
+  "end_date": "2026-11-01",
+  "city": "Tampa",
+  "country": "US",
+  "venue": "Tampa Marriott Water Street",
+  "lat": 27.9434,
+  "lon": -82.4522,
+  "format": "in-person",
+  "description": "The 57th annual meeting of the American Academy of Psychiatry and the Law, the main United States forensic psychiatry meeting, accredited for a maximum of 31.75 AMA PRA Category 1 credits. The Forensic Psychiatry Review Course is held in the days immediately before the meeting.",
+  "deadlines": [
+   {
+    "label": "Call for papers deadline",
+    "date": null,
+    "url": null,
+    "estimated": false,
+    "note": "The 2026 deadline could not be read because aapl.org blocks automated access. AAPL historically closes its call for papers around March 1 (for example March 1, 2024), and the 2026 call has already closed."
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-10-30",
+   "end_date": "2025-11-02",
+   "city": "Boston",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://aapl.org/57th-annual-meeting/",
+    "accessed": "2026-09-09",
+    "note": "Search engine snippet of this official page: 57th Annual Meeting October 29 to November 1, 2026 at Tampa Marriott Water Street, Tampa, Florida. Page itself returned a Cloudflare challenge."
+   },
+   {
+    "url": "https://aapl.org/annual-meeting/",
+    "accessed": "2026-09-09",
+    "note": "Search snippet: full span October 26 to November 1, 2026 including the Forensic Psychiatry Review Course before the meeting; 31.75 credits."
+   },
+   {
+    "url": "https://www.academicjobs.com/conferences/4819",
+    "accessed": "2026-09-09",
+    "note": "Aggregator listing consistent with Tampa dates (not directly readable)."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "aapl.org and psychiatryonline.org are behind bot protection; all AAPL data comes from search engine snippets of official pages. The combined span October 26 to November 1 suggests the review course runs October 26 to 28 (Monday to Wednesday), matching the 2025 pattern (Boston, October 27 to November 2, 2025 combined, meeting October 30 to November 2). The 2025 prior edition dates are inferred from that span and should be verified. Registration deadlines unknown.",
+  "region_name": "Florida",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "aapl-annual-2027",
+  "name": "AAPL 58th Annual Meeting 2027",
+  "short_name": "AAPL 2027",
+  "organizer": "American Academy of Psychiatry and the Law",
+  "organizer_url": "https://aapl.org/",
+  "edition_url": "https://aapl.org/58th-annual-meeting/",
+  "tags": [
+   "forensic",
+   "general-psychiatry"
+  ],
+  "start_date": "2027-10-28",
+  "end_date": "2027-10-31",
+  "city": "San Antonio",
+  "country": "US",
+  "venue": null,
+  "lat": 29.4241,
+  "lon": -98.4936,
+  "format": "in-person",
+  "description": "The 58th annual meeting of the American Academy of Psychiatry and the Law, scheduled for San Antonio, Texas.",
+  "deadlines": [
+   {
+    "label": "Call for papers deadline",
+    "date": "2027-03-01",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from AAPL's historical early March deadline (March 1, 2024 documented in a Call for Papers FAQ snippet). Not published for 2027."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-10-29",
+   "end_date": "2026-11-01",
+   "city": "Tampa",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://aapl.org/58th-annual-meeting/",
+    "accessed": "2026-09-09",
+    "note": "Search engine snippet of this official page: 58th Annual Meeting October 28 to 31, 2027, San Antonio, Texas. Page returned a Cloudflare challenge when opened."
+   }
+  ],
+  "confidence": "low",
+  "notes": "Dates and city come only from a search snippet of the official page; venue not captured. Verify once aapl.org is reachable.",
+  "region_name": "Texas",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

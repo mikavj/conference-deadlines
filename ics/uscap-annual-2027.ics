@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 USCAP Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uscap-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270319
+SUMMARY:2027 USCAP Annual Meeting
+DESCRIPTION:The USCAP Annual Meeting is the main scientific meeting of th
+ e United States and Canadian Academy of Pathology\, featuring platform a
+ nd poster presentations across anatomic and clinical pathology subspecia
+ lties. The 2027 edition\, the 116th annual meeting\, will be held in Van
+ couver\, British Columbia\, Canada\, with all presenters required to att
+ end in person.\n\nDeadlines\nAbstract submission: 2026-09-24\n\nhttps://
+ 2027am.uscap.org/
+LOCATION:Vancouver\, British Columbia\, CA
+URL:https://2027am.uscap.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 USCAP Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uscap-annual-2027-20260924-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Deadline: USCAP 2027 abstract submission
+DESCRIPTION:Deadline is 11:00 AM PDT / 2:00 PM EDT\; a 50 USD submission 
+ fee is required to complete submission.\nMeeting: 2027 USCAP Annual Meet
+ ing\, Mar 13 to 18\, 2027\, Vancouver\, British Columbia\, CA\nhttps://u
+ scap.org/abstracts/
+LOCATION:Vancouver\, British Columbia\, CA
+URL:https://uscap.org/abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: USCAP 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: USCAP 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: USCAP 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

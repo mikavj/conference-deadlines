@@ -1,0 +1,130 @@
+[
+ {
+  "id": "aao-hnsf-annual-2026",
+  "name": "AAO-HNSF 2026 Annual Meeting & OTO Experience",
+  "short_name": "AAO-HNSF 2026",
+  "organizer": "American Academy of Otolaryngology-Head and Neck Surgery Foundation",
+  "organizer_url": "https://www.entnet.org",
+  "edition_url": "https://www.entnet.org/events/annual-meeting/",
+  "areas": [
+   "otolaryngology"
+  ],
+  "tags": [
+   "otolaryngology",
+   "surgery"
+  ],
+  "start_date": "2026-10-17",
+  "end_date": "2026-10-20",
+  "city": "Los Angeles",
+  "region_name": "California",
+  "country": "US",
+  "venue": "Los Angeles Convention Center",
+  "lat": 34.0403,
+  "lon": -118.2695,
+  "format": "in-person",
+  "description": "The AAO-HNSF Annual Meeting and OTO Experience is the principal scientific and clinical conference of the American Academy of Otolaryngology, Head and Neck Surgery Foundation. The 2026 edition combines scientific sessions, instruction courses, and poster presentations with the OTO EXPO exhibit hall.",
+  "deadlines": [
+   {
+    "label": "Call for Science submission opens",
+    "date": "2025-12-01",
+    "url": "https://www.entnet.org/events/annual-meeting/call-for-science/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Call for Science submission deadline",
+    "date": "2026-01-26",
+    "url": "https://www.entnet.org/events/annual-meeting/call-for-science/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking science submission opens",
+    "date": "2026-05-19",
+    "url": "https://www.entnet.org/events/annual-meeting/program/late-breaking-science/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking science submission deadline",
+    "date": "2026-06-09",
+    "url": "https://www.entnet.org/events/annual-meeting/program/late-breaking-science/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2026-08-24",
+    "url": "https://www.entnet.org/events/annual-meeting/annual-meeting-faqs/",
+    "estimated": false,
+    "note": "described on the FAQ page as the early-bird discount deadline"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.entnet.org/events/annual-meeting/future-meeting-information/",
+    "accessed": "2026-09-10",
+    "note": "confirms 2026 and 2027 dates and cities"
+   },
+   {
+    "url": "https://www.entnet.org/events/annual-meeting/",
+    "accessed": "2026-09-10",
+    "note": "confirms 2026 dates and that registration is open"
+   },
+   {
+    "url": "https://www.entnet.org/events/annual-meeting/call-for-science/",
+    "accessed": "2026-09-10",
+    "note": "Call for Science and late-breaking science submission window dates"
+   },
+   {
+    "url": "https://www.entnet.org/events/annual-meeting/annual-meeting-faqs/",
+    "accessed": "2026-09-10",
+    "note": "early registration, hotel, and cancellation deadlines"
+   },
+   {
+    "url": "https://www.laconventioncenter.com/events/detail/american-academy-of-otolaryngology-2026-aao-oto-expo",
+    "accessed": "2026-09-10",
+    "note": "confirms venue as Los Angeles Convention Center"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Acceptance notification for the general Call for Science was stated only as 'mid-May 2026' without an exact day, so no notification deadline row was recorded. No travel award deadline was found on the official site."
+ },
+ {
+  "id": "aao-hnsf-annual-2027",
+  "name": "AAO-HNSF 2027 Annual Meeting & OTO Experience",
+  "short_name": "AAO-HNSF 2027",
+  "organizer": "American Academy of Otolaryngology-Head and Neck Surgery Foundation",
+  "organizer_url": "https://www.entnet.org",
+  "edition_url": "https://www.entnet.org/events/annual-meeting/future-meeting-information/",
+  "areas": [
+   "otolaryngology"
+  ],
+  "tags": [
+   "otolaryngology",
+   "surgery"
+  ],
+  "start_date": "2027-09-18",
+  "end_date": "2027-09-21",
+  "city": "New Orleans",
+  "region_name": "Louisiana",
+  "country": "US",
+  "venue": null,
+  "lat": 29.9511,
+  "lon": -90.0715,
+  "format": "in-person",
+  "description": "The AAO-HNSF Annual Meeting and OTO Experience is the principal scientific and clinical conference of the American Academy of Otolaryngology, Head and Neck Surgery Foundation. The 2027 edition is scheduled for New Orleans, Louisiana, though a specific venue and submission deadlines have not yet been published.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.entnet.org/events/annual-meeting/future-meeting-information/",
+    "accessed": "2026-09-10",
+    "note": "official future dates and locations table lists 2027 as September 18-21 in New Orleans, LA, marked subject to change; no venue or call-for-science dates given"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Only the dates and city are published for 2027; the official page explicitly notes future dates are subject to change. Venue, abstract deadlines, and registration deadlines are not yet announced."
+ }
+]

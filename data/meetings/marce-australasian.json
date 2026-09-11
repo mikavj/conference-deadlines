@@ -1,0 +1,38 @@
+[
+ {
+  "id": "marce-australasian-2027",
+  "name": "Australasian Marcé Society Biennial Conference 2027",
+  "short_name": "Australasian Marcé 2027",
+  "organizer": "Australasian Marcé Society for Perinatal Mental Health",
+  "organizer_url": "https://marcesociety.com/",
+  "edition_url": "https://marcesociety.com/meetings/marce-meetings/",
+  "tags": [
+   "perinatal",
+   "international"
+  ],
+  "start_date": "2027-09-02",
+  "end_date": "2027-09-04",
+  "city": "Manly",
+  "country": "AU",
+  "venue": null,
+  "lat": -33.7963,
+  "lon": 151.286,
+  "format": null,
+  "description": "The Australasian Marcé Society regional biennial conference is listed for September 2 to 4, 2027 in Manly, New South Wales. No venue or call for abstracts has been published.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://marcesociety.com/meetings/marce-meetings/",
+    "accessed": "2026-09-09",
+    "note": "Regional meeting listing with dates and city"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Only dates and city are listed on the International Marcé Society meetings page. The same page lists an Australasian Marcé research retreat on November 5 to 6, 2026 in Kingscliff, NSW.",
+  "region_name": "New South Wales",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

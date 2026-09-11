@@ -1,0 +1,93 @@
+[
+ {
+  "id": "apna-annual-2026",
+  "name": "APNA 40th Annual Conference 2026",
+  "short_name": "APNA 2026",
+  "organizer": "American Psychiatric Nurses Association",
+  "organizer_url": "https://www.apna.org",
+  "edition_url": "https://www.apna.org/apna-annual-conference/",
+  "areas": [
+   "psychiatry",
+   "nursing"
+  ],
+  "tags": [
+   "general-psychiatry",
+   "nursing",
+   "education"
+  ],
+  "start_date": "2026-10-28",
+  "end_date": "2026-10-31",
+  "city": "Phoenix",
+  "region_name": "Arizona",
+  "country": "US",
+  "venue": "Phoenix Convention Center",
+  "lat": 33.4484,
+  "lon": -112.0705,
+  "format": "hybrid",
+  "description": "The American Psychiatric Nurses Association holds its 40th annual conference for psychiatric mental health nurses in Phoenix, Arizona. The event offers in person attendance plus a virtual livestream option and on demand session recordings.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-03-02",
+    "url": "https://www.apna.org/apna-annual-conference/call-for-abstracts-2/",
+    "estimated": false,
+    "note": "Already closed as of the research date"
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-09-14",
+    "url": "https://www.apna.org/apna-annual-conference/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.apna.org/apna-annual-conference/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, city, venue, format, abstract deadline and early registration deadline"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "id": "apna-annual-2027",
+  "name": "APNA 41st Annual Conference 2027",
+  "short_name": "APNA 2027",
+  "organizer": "American Psychiatric Nurses Association",
+  "organizer_url": "https://www.apna.org",
+  "edition_url": "https://www.apna.org/apna-annual-conference/",
+  "areas": [
+   "psychiatry",
+   "nursing"
+  ],
+  "tags": [
+   "general-psychiatry",
+   "nursing",
+   "education"
+  ],
+  "start_date": "2027-10-27",
+  "end_date": "2027-10-30",
+  "city": "Minneapolis",
+  "region_name": "Minnesota",
+  "country": "US",
+  "venue": null,
+  "lat": 44.9778,
+  "lon": -93.265,
+  "format": null,
+  "description": "The American Psychiatric Nurses Association plans its 41st annual conference for psychiatric mental health nurses in Minneapolis, Minnesota.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.apna.org/apna-annual-conference/",
+    "accessed": "2026-09-10",
+    "note": "Same official page lists the 2027 dates and city as a forward mention; no dedicated 2027 page exists yet"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "No dedicated 2027 conference page or deadlines published yet; dates and city taken from a forward looking mention on the official 2026 conference page."
+ }
+]

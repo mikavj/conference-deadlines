@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CHEST 2026 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:chest-annual-meeting-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261022
+SUMMARY:CHEST 2026 Annual Meeting
+DESCRIPTION:The CHEST Annual Meeting is the American College of Chest Phy
+ sicians' annual conference on pulmonary\, critical care\, and sleep medi
+ cine. The 2026 meeting takes place in Phoenix\, Arizona\, preceded by pr
+ emeeting courses on October 17.\n\nDeadlines\nAbstract submission: 2026-
+ 02-26\nLate-breaking abstract submission opens: 2026-07-20\nLate-breakin
+ g abstract submission: 2026-08-12\nEarly registration: 2026-10-05\n\nhtt
+ ps://www.chestnet.org/learning-and-events/events/chest-annual-meeting
+LOCATION:Phoenix\, Arizona
+URL:https://www.chestnet.org/learning-and-events/events/chest-annual-meet
+ ing
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CHEST 2026 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chest-annual-meeting-2026-20260226-abstract-submission@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:Deadline: CHEST 2026 abstract submission
+DESCRIPTION:Date reported in third-party search summaries\; the official 
+ page confirms submissions are now closed but does not redisplay the orig
+ inal deadline\nMeeting: CHEST 2026 Annual Meeting\, Oct 18 to 21\, 2026\
+ , Phoenix\, Arizona\nhttps://info.chestnet.org/chest-call-for-abstracts
+LOCATION:Phoenix\, Arizona
+URL:https://info.chestnet.org/chest-call-for-abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CHEST 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CHEST 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CHEST 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chest-annual-meeting-2026-20260812-late-breaking-abstract-submission@
+ conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Deadline: CHEST 2026 late-breaking abstract submission
+DESCRIPTION:Meeting: CHEST 2026 Annual Meeting\, Oct 18 to 21\, 2026\, Ph
+ oenix\, Arizona\nhttps://info.chestnet.org/chest-2026-call-for-late-brea
+ king-abstracts
+LOCATION:Phoenix\, Arizona
+URL:https://info.chestnet.org/chest-2026-call-for-late-breaking-abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CHEST 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CHEST 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CHEST 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:chest-annual-meeting-2026-20261005-early-registration@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Deadline: CHEST 2026 early registration
+DESCRIPTION:Advance pricing deadline\nMeeting: CHEST 2026 Annual Meeting\
+ , Oct 18 to 21\, 2026\, Phoenix\, Arizona\nhttps://www.chestnet.org/lear
+ ning-and-events/events/chest-annual-meeting
+LOCATION:Phoenix\, Arizona
+URL:https://www.chestnet.org/learning-and-events/events/chest-annual-meet
+ ing
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CHEST 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CHEST 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CHEST 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

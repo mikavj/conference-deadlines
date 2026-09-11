@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:22nd Annual Academic Surgical Congress 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:academic-surgical-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270212
+SUMMARY:22nd Annual Academic Surgical Congress 2027
+DESCRIPTION:The Academic Surgical Congress is the joint annual meeting of
+  the Association for Academic Surgery and the Society of University Surg
+ eons for surgeon scientists. The 2027 edition is the 22nd annual meeting
+  and takes place in Washington\, D.C.\n\nDeadlines\nAbstract submission 
+ opens: 2026-06-20\nAbstract submission: 2026-08-07\nManuscript submissio
+ n for award consideration (Journal of Surgical Research): 2026-12-04\n\n
+ https://www.academicsurgicalcongress.org/
+LOCATION:Washington\, District of Columbia\, Washington Hilton
+URL:https://www.academicsurgicalcongress.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:22nd Annual Academic Surgical Congress 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:academic-surgical-congress-2027-20260807-abstract-submission@conferen
+ ce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Deadline: ASC 2027 abstract submission
+DESCRIPTION:11:59 PM ET\, no extensions\, per the organizer's official so
+ cial media reminders. The mirror site academicsurgicalcongress.us instea
+ d stated a close date of August 17\, 2026\; that discrepancy could not b
+ e resolved because the primary .org domain returned HTTP 403 to direct f
+ etches.\nMeeting: 22nd Annual Academic Surgical Congress 2027\, Feb 09 t
+ o 11\, 2027\, Washington\, District of Columbia\, Washington Hilton\nhtt
+ ps://www.academicsurgicalcongress.org/abstracts/
+LOCATION:Washington\, District of Columbia\, Washington Hilton
+URL:https://www.academicsurgicalcongress.org/abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASC 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASC 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASC 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:academic-surgical-congress-2027-20261204-manuscript-submission-for-aw
+ ard-consideration-journal-of-surgical-research-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Deadline: ASC 2027 manuscript submission for award consideration 
+ (journal of surgical research)
+DESCRIPTION:Deadline for manuscripts submitted to Journal of Surgical Res
+ earch to be eligible for ASC 2027 award consideration.\nMeeting: 22nd An
+ nual Academic Surgical Congress 2027\, Feb 09 to 11\, 2027\, Washington\
+ , District of Columbia\, Washington Hilton\nhttps://academicsurgicalcong
+ ress.us/
+LOCATION:Washington\, District of Columbia\, Washington Hilton
+URL:https://academicsurgicalcongress.us/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASC 2027 manuscript submission for award considerat
+ ion (journal of surgical research)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASC 2027 manuscript submission for award considerat
+ ion (journal of surgical research)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASC 2027 manuscript submission for award considerat
+ ion (journal of surgical research)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

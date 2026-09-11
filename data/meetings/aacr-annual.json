@@ -1,0 +1,130 @@
+[
+ {
+  "id": "aacr-annual-2027",
+  "name": "AACR Annual Meeting 2027",
+  "short_name": "AACR 2027",
+  "organizer": "American Association for Cancer Research",
+  "organizer_url": "https://www.aacr.org",
+  "edition_url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/",
+  "areas": [
+   "oncology"
+  ],
+  "tags": [
+   "oncology",
+   "cancer-research",
+   "translational",
+   "clinical-trials"
+  ],
+  "start_date": "2027-04-02",
+  "end_date": "2027-04-07",
+  "city": "Orlando",
+  "region_name": "Florida",
+  "country": "US",
+  "venue": "Orange County Convention Center",
+  "lat": 28.4258,
+  "lon": -81.4571,
+  "format": "in-person",
+  "description": "The AACR Annual Meeting is a large multidisciplinary cancer research meeting organized by the American Association for Cancer Research, covering the full spectrum from basic and translational research to prevention and survivorship. The 2027 edition is scheduled for April 2 to 7, 2027 at the Orange County Convention Center in Orlando, Florida.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-09-28",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Regular abstract submission opens."
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-11-10",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Regular abstract deadline, 11:59 PM ET."
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-12-02",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Late-breaking and clinical trials abstract submission opens."
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2027-01-06",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Late-breaking and clinical trials abstract deadline, 11:59 PM ET."
+   },
+   {
+    "label": "Abstract notification",
+    "date": "2026-12-21",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Regular abstract status notifications."
+   },
+   {
+    "label": "Abstract scheduling notification",
+    "date": "2027-01-21",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Regular abstract scheduling notification."
+   },
+   {
+    "label": "Late-breaking abstract notification",
+    "date": "2027-02-03",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Late-breaking and clinical trials abstract notification."
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-12-07",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Lowest registration rate deadline."
+   },
+   {
+    "label": "Advance registration",
+    "date": "2027-02-12",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Discounted advance registration deadline."
+   },
+   {
+    "label": "Travel award application",
+    "date": "2026-11-10",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Deadline for most AACR travel award categories; coincides with the regular abstract deadline."
+   },
+   {
+    "label": "Travel award application, Faculty Scholar",
+    "date": "2026-11-24",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Early/Faculty Scholar award deadline."
+   },
+   {
+    "label": "Travel award application, Undergraduate Scholar",
+    "date": "2026-12-04",
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "estimated": false,
+    "note": "Undergraduate Scholar award deadline."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/key-dates/",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch succeeded; confirms all abstract, registration, notification, and travel award dates listed above."
+   },
+   {
+    "url": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/",
+    "accessed": "2026-09-10",
+    "note": "Direct fetch succeeded; confirms meeting dates, city, venue, and in-person format."
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

@@ -1,0 +1,88 @@
+[
+ {
+  "id": "ctad-2026",
+  "name": "19th Clinical Trials on Alzheimer's Disease (CTAD) Conference 2026",
+  "short_name": "CTAD 2026",
+  "organizer": "CTAD Conference (Clinical Trials on Alzheimer's Disease)",
+  "organizer_url": "https://www.ctad-alzheimer.com",
+  "edition_url": "https://www.ctad-alzheimer.com/",
+  "areas": [
+   "neurology",
+   "geriatrics"
+  ],
+  "tags": [
+   "dementia",
+   "clinical-trials",
+   "geriatric"
+  ],
+  "start_date": "2026-11-16",
+  "end_date": "2026-11-19",
+  "city": "Boston",
+  "region_name": "Massachusetts",
+  "country": "US",
+  "venue": "Boston Park Plaza Hotel",
+  "lat": 42.351,
+  "lon": -71.0706,
+  "format": "in-person",
+  "description": "CTAD is an annual conference focused exclusively on clinical trials and drug development for Alzheimer's disease. All sessions are held in a single track, bringing together investigators, clinicians, industry scientists and regulators.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-04-15",
+    "url": "https://www.ctad-alzheimer.com/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-06-02",
+    "url": "https://www.ctad-alzheimer.com/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late call for abstracts opens",
+    "date": "2026-07-15",
+    "url": "https://www.ctad-alzheimer.com/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late call abstract submission deadline",
+    "date": "2026-09-03",
+    "url": "https://www.ctad-alzheimer.com/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Registration opens",
+    "date": "2026-04-01",
+    "url": "https://www.ctad-alzheimer.com/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2026-10-01",
+    "url": "https://www.ctad-alzheimer.com/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.ctad-alzheimer.com/",
+    "accessed": "2026-09-10",
+    "note": "Confirms conference dates, venue and abstract/registration deadlines"
+   },
+   {
+    "url": "https://www.ctad-alzheimer.com/about-us/important-dates",
+    "accessed": "2026-09-10",
+    "note": "Dedicated Important Dates page returned HTTP 503 during verification, could not be used to cross check"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The dedicated Important Dates page on the official site returned a 503 error during verification (and again via a text-proxy fetch), so deadline figures rely on the conference homepage only. Time zone for deadlines not specified. Venue confirmed as Boston Park Plaza Hotel via search snippet of the official site's practical-information page."
+ }
+]

@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 SGIM Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sgim-annual-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270509
+SUMMARY:2027 SGIM Annual Meeting
+DESCRIPTION:The 2027 SGIM Annual Meeting is the yearly scientific confere
+ nce of the Society of General Internal Medicine\, held in Seattle\, Wash
+ ington. The 2027 edition marks the fiftieth anniversary of the society a
+ nd includes scientific abstract sessions\, special symposia\, and worksh
+ ops on general internal medicine research\, education\, and clinical car
+ e.\n\nDeadlines\nSpecial symposia submission opens: 2026-07-14\nSpecial 
+ symposia submission: 2026-08-04\nScientific abstract submission: 2026-12
+ -11\n\nhttps://annualmeeting.sgim.org/
+LOCATION:Seattle\, Washington
+URL:https://annualmeeting.sgim.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 SGIM Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sgim-annual-meeting-2027-20260804-special-symposia-submission@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:Deadline: SGIM 2027 special symposia submission
+DESCRIPTION:submitted through sgim27.abstractcentral.com\nMeeting: 2027 S
+ GIM Annual Meeting\, May 05 to 08\, 2027\, Seattle\, Washington\nhttps:/
+ /annualmeeting.sgim.org/present/special-symposia/
+LOCATION:Seattle\, Washington
+URL:https://annualmeeting.sgim.org/present/special-symposia/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SGIM 2027 special symposia submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SGIM 2027 special symposia submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SGIM 2027 special symposia submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sgim-annual-meeting-2027-20261211-scientific-abstract-submission@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Deadline: SGIM 2027 scientific abstract submission
+DESCRIPTION:date reported by a third party citing the SGIM portal\; the S
+ GIM page itself could not be fetched directly\, confirm before relying o
+ n it\nMeeting: 2027 SGIM Annual Meeting\, May 05 to 08\, 2027\, Seattle\
+ , Washington\nhttps://annualmeeting.sgim.org/present/scientific-abstract
+ s/
+LOCATION:Seattle\, Washington
+URL:https://annualmeeting.sgim.org/present/scientific-abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SGIM 2027 scientific abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SGIM 2027 scientific abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SGIM 2027 scientific abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

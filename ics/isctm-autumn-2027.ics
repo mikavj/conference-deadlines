@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ISCTM 2027 Autumn Conference (joint day with ECNP)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:isctm-autumn-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270926
+SUMMARY:ISCTM 2027 Autumn Conference (joint day with ECNP)
+DESCRIPTION:ISCTM lists a 2027 Autumn Conference for September 23 to 25\,
+  2027\, in Barcelona\, including a joint day with ECNP ahead of the 40th
+  ECNP Congress. No deadlines have been published.\n\nDeadlines\nPoster s
+ ubmission: 2027-06-24 (estimated)\n\nhttps://isctm.org/meeting/2027-autu
+ mn-conference-includes-joint-day-with-ecnp/
+LOCATION:Barcelona\, Catalonia\, ES
+URL:https://isctm.org/meeting/2027-autumn-conference-includes-joint-day-w
+ ith-ecnp/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISCTM 2027 Autumn Conference (joint day with ECNP)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isctm-autumn-2027-20270624-poster-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Deadline: ISCTM Autumn 2027 poster submission (estimated)
+DESCRIPTION:estimated from the 2026 Autumn Conference (June 18\, 2026\, t
+ hree months before the meeting)\; not published\nMeeting: ISCTM 2027 Aut
+ umn Conference (joint day with ECNP)\, Sep 23 to 25\, 2027\, Barcelona\,
+  Catalonia\, ES\nhttps://isctm.org/meeting/2027-autumn-conference-includ
+ es-joint-day-with-ecnp/
+LOCATION:Barcelona\, Catalonia\, ES
+URL:https://isctm.org/meeting/2027-autumn-conference-includes-joint-day-w
+ ith-ecnp/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2027 poster submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2027 poster submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2027 poster submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACEP27 Scientific Assembly
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acep-scientific-assembly-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271029
+SUMMARY:ACEP27 Scientific Assembly
+DESCRIPTION:The ACEP Scientific Assembly is the American College of Emerg
+ ency Physicians' annual educational meeting for emergency medicine. ACEP
+ 27 is scheduled for Boston\, Massachusetts.\n\nhttps://www.acep.org/mast
+ er-calendar/acep27-scientific-assembly
+LOCATION:Boston\, Massachusetts
+URL:https://www.acep.org/master-calendar/acep27-scientific-assembly
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACEP27 Scientific Assembly
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

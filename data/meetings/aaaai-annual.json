@@ -1,0 +1,39 @@
+[
+ {
+  "id": "aaaai-annual-2027",
+  "name": "2027 AAAAI Annual Meeting",
+  "short_name": "AAAAI 2027",
+  "organizer": "American Academy of Allergy, Asthma and Immunology",
+  "organizer_url": "https://www.aaaai.org",
+  "edition_url": "https://annualmeeting.aaaai.org/",
+  "areas": [
+   "allergy-immunology"
+  ],
+  "tags": [
+   "allergy",
+   "immunology",
+   "education"
+  ],
+  "start_date": "2027-02-19",
+  "end_date": "2027-02-22",
+  "city": "New Orleans",
+  "region_name": "Louisiana",
+  "country": "US",
+  "venue": null,
+  "lat": 29.9511,
+  "lon": -90.0715,
+  "format": null,
+  "description": "The AAAAI Annual Meeting is the main scientific conference of the American Academy of Allergy, Asthma and Immunology. The 2027 edition is scheduled for February 19 to 22 in New Orleans, Louisiana.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://annualmeeting.aaaai.org/attendee/future-dates-locations",
+    "accessed": "2026-09-10",
+    "note": "Official page listing February 19-22, 2027 in New Orleans, LA as the confirmed future meeting date and city"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Venue name and abstract or registration deadlines for the 2027 meeting have not been published as of 2026-09-10; only dates and host city are confirmed."
+ }
+]

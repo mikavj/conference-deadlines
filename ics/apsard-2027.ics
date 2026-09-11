@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:APSARD 2027 Annual Conference (American Professional Society
+  of ADHD and Related Disorders)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:apsard-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270118
+SUMMARY:APSARD 2027 Annual Conference (American Professional Society of A
+ DHD and Related Disorders)
+DESCRIPTION:The APSARD 2027 Annual Conference takes place January 14 to 1
+ 7\, 2027 at the Grand Hyatt Washington. Poster and symposia submissions 
+ are accepted through the APSARD submission platform.\n\nDeadlines\nEmerg
+ ing Leader Travel Award application: 2026-10-29\n\nhttps://apsard.org/We
+ b/Events/Annual-Conference.aspx
+LOCATION:Washington\, District of Columbia\, Grand Hyatt Washington
+URL:https://apsard.org/Web/Events/Annual-Conference.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:APSARD 2027 Annual Conference (American Professional Society 
+ of ADHD and Related Disorders)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apsard-2027-20261029-emerging-leader-travel-award-application@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deadline: APSARD 2027 emerging leader travel award application
+DESCRIPTION:Stated as Deadline October 29 on the submission platform\nMee
+ ting: APSARD 2027 Annual Conference (American Professional Society of AD
+ HD and Related Disorders)\, Jan 14 to 17\, 2027\, Washington\, District 
+ of Columbia\, Grand Hyatt Washington\nhttps://apsard.secure-platform.com
+ /site/
+LOCATION:Washington\, District of Columbia\, Grand Hyatt Washington
+URL:https://apsard.secure-platform.com/site/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APSARD 2027 emerging leader travel award applicatio
+ n
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APSARD 2027 emerging leader travel award applicatio
+ n
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APSARD 2027 emerging leader travel award applicatio
+ n
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

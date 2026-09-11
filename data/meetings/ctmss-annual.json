@@ -1,0 +1,68 @@
+[
+ {
+  "id": "ctmss-annual-2027",
+  "name": "Clinical TMS Society 15th Annual Meeting 2027",
+  "short_name": "CTMSS 2027",
+  "organizer": "Clinical TMS Society",
+  "organizer_url": "https://clinicaltmssociety.org/",
+  "edition_url": "https://clinicaltmssociety.org/annual-meeting/",
+  "tags": [
+   "neuromodulation",
+   "mood-disorders"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Chicago",
+  "country": "US",
+  "venue": null,
+  "lat": 41.8781,
+  "lon": -87.6298,
+  "format": null,
+  "description": "The Clinical TMS Society has posted a save the date for its 2027 annual meeting in Chicago. Dates, venue and abstract deadlines have not been published.",
+  "deadlines": [
+   {
+    "label": "Poster abstract submission opens",
+    "date": "2026-12-01",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 cycle (December 1, 2025); not published"
+   },
+   {
+    "label": "Poster abstract submission",
+    "date": "2027-02-01",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 cycle (February 2, 2026); not published"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-04",
+   "end_date": "2026-06-06",
+   "city": "Boston",
+   "deadlines": [
+    {
+     "label": "Poster abstract submission opens",
+     "date": "2025-12-01"
+    },
+    {
+     "label": "Poster abstract submission",
+     "date": "2026-02-02"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://clinicaltmssociety.org/annual-meeting/",
+    "accessed": "2026-09-09",
+    "note": "2026 meeting June 4 to 6, 2026, Westin Copley Place Boston, poster window December 1 to February 2; 2027 save the date for Chicago"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Meeting number inferred from the 2026 meeting being the 14th; recent meetings have been held in early June. Related CTMSS events in 2026: PULSES course October 23 to 25 in Providence and a Pain Academy on October 15 in San Diego.",
+  "region_name": "Illinois",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

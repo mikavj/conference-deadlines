@@ -1,0 +1,113 @@
+[
+ {
+  "id": "child-neurology-society-annual-2026",
+  "name": "55th Child Neurology Society Annual Meeting",
+  "short_name": "Child Neurology Society 2026",
+  "organizer": "Child Neurology Society",
+  "organizer_url": "https://www.childneurologysociety.org/",
+  "edition_url": "https://www.childneurologysociety.org/colleagues/network/cns-annual-meeting/",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "pediatrics",
+   "child-adolescent",
+   "epilepsy"
+  ],
+  "start_date": "2026-10-14",
+  "end_date": "2026-10-17",
+  "city": "Montreal",
+  "region_name": "Quebec",
+  "country": "CA",
+  "venue": "Palais des congres de Montreal",
+  "lat": 45.5089,
+  "lon": -73.5617,
+  "format": "in-person",
+  "description": "The Child Neurology Society holds its 55th annual meeting in Montreal, Quebec, with scientific sessions and abstract presentations in pediatric neurology. A resident seminar on epilepsy precedes the main program on October 12 and 13.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-02-01",
+    "url": "https://www.childneurologysociety.org/colleagues/network/2026-abstracts-and-posters/",
+    "estimated": false,
+    "note": "Deadline confirmed via the Child Neurology Society official social media announcement; the abstracts page no longer displayed the date at time of access because submissions had closed."
+   },
+   {
+    "label": "Abstract withdrawal deadline",
+    "date": "2026-07-31",
+    "url": "https://www.childneurologysociety.org/colleagues/network/2026-abstracts-and-posters/",
+    "estimated": false,
+    "note": "No abstracts may be withdrawn after this date."
+   },
+   {
+    "label": "Encore abstract eligibility cutoff",
+    "date": "2026-05-03",
+    "url": "https://www.childneurologysociety.org/colleagues/network/2026-abstracts-and-posters/",
+    "estimated": false,
+    "note": "Abstracts presented elsewhere within 12 months of this date are not eligible as encore submissions."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.childneurologysociety.org/colleagues/network/cns-annual-meeting/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates October 14-17, 2026, venue Palais des congres de Montreal, and pre-meeting resident seminar dates."
+   },
+   {
+    "url": "https://www.childneurologysociety.org/colleagues/network/2026-abstracts-and-posters/",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract withdrawal deadline and encore abstract policy cutoff."
+   },
+   {
+    "url": "https://x.com/ChildNeuroSoc/status/2017976355586032107",
+    "accessed": "2026-09-10",
+    "note": "Official Child Neurology Society social media post stating the abstract submission deadline of February 1 for the 55th annual meeting."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Meeting dates and venue are confirmed directly on the official site. The abstract deadline (Feb 1, 2026) is confirmed only via an official social media post since the abstracts page had already closed submissions by the time of access; no early/standard registration deadline could be located on the official site."
+ },
+ {
+  "id": "child-neurology-society-annual-2027",
+  "name": "56th Child Neurology Society Annual Meeting",
+  "short_name": "Child Neurology Society 2027",
+  "organizer": "Child Neurology Society",
+  "organizer_url": "https://www.childneurologysociety.org/",
+  "edition_url": "https://www.childneurologysociety.org/event/56th-cns-annual-meeting/",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "pediatrics",
+   "child-adolescent",
+   "epilepsy"
+  ],
+  "start_date": "2027-11-10",
+  "end_date": "2027-11-13",
+  "city": "Milwaukee",
+  "region_name": "Wisconsin",
+  "country": "US",
+  "venue": null,
+  "lat": 43.0389,
+  "lon": -87.9065,
+  "format": "in-person",
+  "description": "The Child Neurology Society holds its 56th annual meeting in Milwaukee, Wisconsin. The program covers research and clinical practice in pediatric neurology.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.childneurologysociety.org/event/56th-cns-annual-meeting/",
+    "accessed": "2026-09-10",
+    "note": "Official event page states dates November 10-13, 2027, in Milwaukee, Wisconsin."
+   },
+   {
+    "url": "https://www.childneurologysociety.org/destination-milwaukee-announcing-the-56th-cns-annual-meeting-in-the-heart-of-wisconsin/",
+    "accessed": "2026-09-10",
+    "note": "Earlier official announcement (2024) confirms Milwaukee as the host city, stating only 'November 2027' without exact dates."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Exact dates (Nov 10-13, 2027) appear only on the single official event page found; the original 2024 host-city announcement gave only the month. Venue and abstract/registration deadlines are not yet published. Coordinates are for Milwaukee city center since no venue is named."
+ }
+]

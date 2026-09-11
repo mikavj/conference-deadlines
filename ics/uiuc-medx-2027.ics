@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MEdX 2027: Medical Education Experience Conference and Facul
+ ty and Staff Awards
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uiuc-medx-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:MEdX 2027: Medical Education Experience Conference and Faculty an
+ d Staff Awards
+DESCRIPTION:MEdX is Carle Illinois College of Medicine's annual daylong m
+ edical education conference for faculty\, students and staff\, held toge
+ ther with the college's Faculty and Staff Awards. It covers best practic
+ es and scholarly work in medical education and is usually held in late J
+ anuary or early February at the I Hotel and Conference Center in Champai
+ gn.\n\nhttps://calendars.illinois.edu/list/5988
+LOCATION:Champaign\, Illinois\, I Hotel and Conference Center
+URL:https://calendars.illinois.edu/list/5988
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MEdX 2027: Medical Education Experience Conference and Facult
+ y and Staff Awards
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

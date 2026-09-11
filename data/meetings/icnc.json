@@ -1,0 +1,46 @@
+[
+ {
+  "id": "icnc-2028",
+  "name": "20th International Child Neurology Congress",
+  "short_name": "ICNC 2028",
+  "organizer": "International Child Neurology Association",
+  "organizer_url": "https://icnapedia.org",
+  "edition_url": "https://neurologiapediatrica.mx/congreso",
+  "areas": [
+   "neurology",
+   "pediatrics"
+  ],
+  "tags": [
+   "pediatrics",
+   "epilepsy",
+   "genetics",
+   "global"
+  ],
+  "start_date": "2028-05-15",
+  "end_date": "2028-05-19",
+  "city": "Merida",
+  "region_name": "Yucatan",
+  "country": "MX",
+  "venue": "Yucatan International Congress Center",
+  "lat": 20.9674,
+  "lon": -89.5926,
+  "format": "in-person",
+  "description": "Congress of the International Child Neurology Association held jointly with the Sociedad Mexicana de Neurologia Pediatrica, themed Connecting minds, transforming lives.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://icnapedia.org/",
+    "accessed": "2026-09-10",
+    "note": "confirms 2028 dates, city, venue, and joint host society; abstract and registration details listed as to be announced"
+   },
+   {
+    "url": "https://neurologiapediatrica.mx/congreso",
+    "accessed": "2026-09-10",
+    "note": "confirms dates and city, states more information coming soon"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "ICNC does not run on a fixed annual or biennial cycle (17th edition was 2022 in Antalya); no ICNC edition falls in 2026 or 2027, so the next confirmed edition (20th, 2028) is recorded. Abstract submission and registration deadlines are not yet published."
+ }
+]

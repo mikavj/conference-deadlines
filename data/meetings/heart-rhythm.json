@@ -1,0 +1,43 @@
+[
+ {
+  "id": "heart-rhythm-2027",
+  "name": "Heart Rhythm 2027",
+  "short_name": "HRS 2027",
+  "organizer": "Heart Rhythm Society",
+  "organizer_url": "https://www.hrsonline.org",
+  "edition_url": "https://www.hrsonline.org/event/heart-rhythm-2027/",
+  "areas": [
+   "cardiology"
+  ],
+  "tags": [
+   "cardiovascular",
+   "electrophysiology"
+  ],
+  "start_date": "2027-05-13",
+  "end_date": "2027-05-16",
+  "city": "San Francisco",
+  "region_name": "California",
+  "country": "US",
+  "venue": "Moscone Center",
+  "lat": 37.784,
+  "lon": -122.4013,
+  "format": "hybrid",
+  "description": "Heart Rhythm is the Heart Rhythm Society's annual scientific meeting on cardiac electrophysiology and arrhythmia management. The 2027 meeting is scheduled for the Moscone Center in San Francisco with an online viewing option in addition to in person attendance.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.hrsonline.org/event/heart-rhythm-2027/",
+    "accessed": "2026-09-10",
+    "note": "Official event page; blocked direct fetch (HTTP 403), used search engine snippet only"
+   },
+   {
+    "url": "https://heartrhythm.com/attend/future-meetings",
+    "accessed": "2026-09-10",
+    "note": "Future meetings listing; blocked direct fetch (HTTP 403), used search engine snippet only"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "hrsonline.org and heartrhythm.com both returned HTTP 403 on direct fetch. Dates (May 13-16, 2027), city, venue, and hybrid/online format are taken from search engine snippets of the official pages rather than a direct fetch. Heart Rhythm 2027 abstract and late-breaking science submission deadlines have not yet been published; only Heart Rhythm 2026 (April 23-26, 2026, Chicago) deadlines were found, e.g. late-breaking science extended deadline Feb 8, 2026."
+ }
+]

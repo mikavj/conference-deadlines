@@ -1,0 +1,189 @@
+[
+ {
+  "id": "ecnp-congress-2026",
+  "name": "39th ECNP Congress 2026",
+  "short_name": "ECNP 2026",
+  "organizer": "European College of Neuropsychopharmacology",
+  "organizer_url": "https://www.ecnp.eu/",
+  "edition_url": "https://www.ecnp.eu/congress2026/",
+  "tags": [
+   "psychopharmacology",
+   "neuroscience",
+   "international"
+  ],
+  "start_date": "2026-10-10",
+  "end_date": "2026-10-13",
+  "city": "Munich",
+  "country": "DE",
+  "venue": "ICM International Congress Center Messe Muenchen",
+  "lat": 48.1355,
+  "lon": 11.6975,
+  "format": "hybrid",
+  "description": "The 39th ECNP Congress takes place October 10 to 13, 2026, at the ICM in Munich. Abstract submission closed May 7, 2026, with no late breaking track, and standard fee registration remains open until October 9, 2026.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-05-07",
+    "url": "https://www.ecnp.eu/congress2026/abstract/",
+    "estimated": false,
+    "note": "10:00 CEST; no late breaking abstracts; not extended; closed"
+   },
+   {
+    "label": "Early fee registration",
+    "date": "2026-05-20",
+    "url": "https://www.ecnp.eu/congress2026/registration/registration-fees/",
+    "estimated": false,
+    "note": "closed"
+   },
+   {
+    "label": "Abstract notification",
+    "date": "2026-07-15",
+    "url": "https://www.ecnp.eu/congress2026/abstract/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Presenter registration",
+    "date": "2026-07-22",
+    "url": "https://www.ecnp.eu/congress2026/abstract/",
+    "estimated": false,
+    "note": "23:59 CEST; required for poster presenters"
+   },
+   {
+    "label": "ePoster and poster upload",
+    "date": "2026-09-08",
+    "url": "https://www.ecnp.eu/congress2026/abstract/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Standard fee registration",
+    "date": "2026-10-09",
+    "url": "https://www.ecnp.eu/news/agenda-and-deadlines/",
+    "estimated": false,
+    "note": "23:59 CEST"
+   },
+   {
+    "label": "Onsite registration closes",
+    "date": "2026-10-13",
+    "url": "https://www.ecnp.eu/news/agenda-and-deadlines/",
+    "estimated": false,
+    "note": "13:00 CEST; virtual registration follows the same closing time"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.ecnp.eu/congress2026/abstract/",
+    "accessed": "2026-09-09",
+    "note": "Abstract deadline May 7, 2026, notification July 15, presenter registration July 22, poster upload September 8"
+   },
+   {
+    "url": "https://www.ecnp.eu/congress2026/registration/registration-fees/",
+    "accessed": "2026-09-09",
+    "note": "Early fee until May 20, standard until October 9, onsite until October 13, 2026"
+   },
+   {
+    "url": "https://www.ecnp.eu/meetings/ecnp-congresses/",
+    "accessed": "2026-09-09",
+    "note": "Dates, city and venue for 2026 and 2027 congresses"
+   },
+   {
+    "url": "https://www.ecnp.eu/news/agenda-and-deadlines/",
+    "accessed": "2026-09-09",
+    "note": "Registration deadlines and livestream availability"
+   }
+  ],
+  "confidence": "high",
+  "notes": "ECNP Excellence Awards exist for early career scientists but their deadline was not visible on the pages reviewed. Livestreamed sessions remain available to registrants until January 11, 2027.",
+  "region_name": "Bavaria",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "ecnp-congress-2027",
+  "name": "40th ECNP Congress 2027",
+  "short_name": "ECNP 2027",
+  "organizer": "European College of Neuropsychopharmacology",
+  "organizer_url": "https://www.ecnp.eu/",
+  "edition_url": "https://www.ecnp.eu/meetings/ecnp-congresses/",
+  "tags": [
+   "psychopharmacology",
+   "neuroscience",
+   "international"
+  ],
+  "start_date": "2027-09-25",
+  "end_date": "2027-09-28",
+  "city": "Barcelona",
+  "country": "ES",
+  "venue": "CCIB Barcelona International Convention Centre",
+  "lat": 41.412,
+  "lon": 2.2195,
+  "format": "hybrid",
+  "description": "The 40th ECNP Congress is scheduled for September 25 to 28, 2027, at the CCIB in Barcelona. No abstract or registration deadlines have been published; the 2027 congress website is a placeholder as of September 2026.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2027-04-22",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 cycle (May 7, 2026, about five months before the congress); the 2027 congress is two weeks earlier"
+   },
+   {
+    "label": "Early fee registration",
+    "date": "2027-05-05",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 cycle (May 20, 2026); not published"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-10-10",
+   "end_date": "2026-10-13",
+   "city": "Munich",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-05-07"
+    },
+    {
+     "label": "Early fee registration",
+     "date": "2026-05-20"
+    },
+    {
+     "label": "Abstract notification",
+     "date": "2026-07-15"
+    },
+    {
+     "label": "Standard fee registration",
+     "date": "2026-10-09"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.ecnp.eu/meetings/ecnp-congresses/",
+    "accessed": "2026-09-09",
+    "note": "40th ECNP Congress September 25 to 28, 2027, Barcelona, CCIB"
+   },
+   {
+    "url": "https://www.ecnp.eu/news/agenda-and-deadlines/",
+    "accessed": "2026-09-09",
+    "note": "Lists the 2027 congress dates without deadlines"
+   },
+   {
+    "url": "https://www.ecnp.eu/congress2027/",
+    "accessed": "2026-09-09",
+    "note": "Placeholder page stating the site is for testing purposes"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The ISCTM 2027 Autumn Conference (September 23 to 25, 2027, Barcelona) includes a joint day with ECNP immediately before this congress.",
+  "region_name": "Catalonia",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

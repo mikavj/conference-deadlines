@@ -1,0 +1,261 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cognitive Neuroscience Society Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:cns-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270324
+SUMMARY:Cognitive Neuroscience Society Annual Meeting 2027
+DESCRIPTION:The Cognitive Neuroscience Society holds its annual meeting o
+ n the biological basis of mind in Boston\, Massachusetts. The program in
+ cludes invited symposia\, poster sessions and the society's career and y
+ oung investigator award lectures.\n\nDeadlines\nSubmissions open: 2026-0
+ 9-01\nSymposium proposal submission: 2026-09-14\nAward nomination (Georg
+ e A. Miller and Distinguished Career Contributions): 2026-09-25\nAward n
+ omination (Young Investigator): 2026-10-02\nTravel award application ope
+ ns: 2026-10-05\nRegistration opens: 2026-10-23\nAbstract submission (pos
+ ter): 2026-11-03\nTravel award application deadline: 2026-11-03\nLate-br
+ eaking abstract submission: 2027-01-19\nEarly registration: 2027-01-05\n
+ Hotel reservation deadline: 2027-02-24\n\nhttps://www.cogneurosociety.or
+ g/annual-meeting/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Cognitive Neuroscience Society Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20260914-symposium-proposal-submission@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Deadline: CNS 2027 symposium proposal submission
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 symposium proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 symposium proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 symposium proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20260925-award-nomination-george-a-miller-and-disting
+ uished-career-contributions-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Deadline: CNS 2027 award nomination (george a. miller and disting
+ uished career contributions)
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (george a. miller and dis
+ tinguished career contributions)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (george a. miller and dis
+ tinguished career contributions)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (george a. miller and dis
+ tinguished career contributions)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20261002-award-nomination-young-investigator-@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Deadline: CNS 2027 award nomination (young investigator)
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (young investigator)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (young investigator)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 award nomination (young investigator)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20261103-abstract-submission-poster-@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Deadline: CNS 2027 abstract submission (poster)
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 abstract submission (poster)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 abstract submission (poster)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 abstract submission (poster)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20261103-travel-award-application-deadline@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Deadline: CNS 2027 travel award application deadline
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 travel award application deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 travel award application deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 travel award application deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20270119-late-breaking-abstract-submission@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Deadline: CNS 2027 late-breaking abstract submission
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20270105-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Deadline: CNS 2027 early registration
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cns-annual-2027-20270224-hotel-reservation-deadline@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Deadline: CNS 2027 hotel reservation deadline
+DESCRIPTION:Meeting: Cognitive Neuroscience Society Annual Meeting 2027\,
+  Mar 20 to 23\, 2027\, Boston\, Massachusetts\nhttps://www.cogneurosocie
+ ty.org/dates-and-deadlines/
+LOCATION:Boston\, Massachusetts
+URL:https://www.cogneurosociety.org/dates-and-deadlines/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 hotel reservation deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 hotel reservation deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CNS 2027 hotel reservation deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

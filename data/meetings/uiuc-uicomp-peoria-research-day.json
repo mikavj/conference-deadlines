@@ -1,0 +1,67 @@
+[
+ {
+  "id": "uiuc-uicomp-peoria-research-day-2027",
+  "name": "University of Illinois College of Medicine Peoria Research Day 2027",
+  "short_name": "UICOMP Research Day 2027",
+  "organizer": "University of Illinois College of Medicine Peoria",
+  "organizer_url": "https://peoria.medicine.uic.edu",
+  "edition_url": "https://peoria.medicine.uic.edu/uicomp-research/research-day/",
+  "areas": [
+   "internal-medicine",
+   "medical-education",
+   "public-health"
+  ],
+  "tags": [
+   "uiuc",
+   "student-resident-research",
+   "clinical-trials",
+   "education",
+   "illinois"
+  ],
+  "start_date": "2027-05-05",
+  "end_date": "2027-05-05",
+  "city": "Peoria",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "University of Illinois College of Medicine Peoria campus",
+  "lat": 40.6936,
+  "lon": -89.589,
+  "format": "in-person",
+  "description": "Research Day is the annual showcase of the research enterprise on the Peoria regional campus of the University of Illinois College of Medicine, open to faculty, students, residents, and fellows, with abstract submission and poster and oral presentations, limited to two first author submissions per person. The 2027 edition is scheduled for May 5, 2027, though 2027 abstract and poster printing deadlines had not been published as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-07",
+   "end_date": "2026-05-07",
+   "city": "Peoria",
+   "deadlines": [
+    {
+     "label": "Abstract submission opens",
+     "date": "2026-02-27"
+    },
+    {
+     "label": "Abstract submission deadline",
+     "date": "2026-03-01"
+    },
+    {
+     "label": "Poster printing submission deadline",
+     "date": "2026-04-06"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://peoria.medicine.uic.edu/events/research-day-2026/",
+    "accessed": "2026-09-10",
+    "note": "confirms 2026 date, keynote speaker, and poster printing deadline of April 6"
+   },
+   {
+    "url": "https://peoria.medicine.uic.edu/uicomp-research/research-day/",
+    "accessed": "2026-09-10",
+    "note": "confirms the May 5, 2027 date and the annual May recurrence pattern (2025 and 2026 both May 7)"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

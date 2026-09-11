@@ -1,0 +1,130 @@
+[
+ {
+  "id": "neurocritical-care-society-annual-2026",
+  "name": "NCS 24th Annual Meeting",
+  "short_name": "Neurocritical Care Society 2026",
+  "organizer": "Neurocritical Care Society",
+  "organizer_url": "https://www.neurocriticalcare.org/",
+  "edition_url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Future-Annual-Meetings",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "neurocritical-care",
+   "critical-care"
+  ],
+  "start_date": "2026-10-20",
+  "end_date": "2026-10-23",
+  "city": "Seattle",
+  "region_name": "Washington",
+  "country": "US",
+  "venue": "Seattle Convention Center",
+  "lat": 47.6114,
+  "lon": -122.332,
+  "format": "in-person",
+  "description": "The Neurocritical Care Society holds its 24th annual meeting in Seattle, Washington, for physicians, nurses, advanced practice providers, pharmacists and trainees in neurocritical care. The program includes late breaking science and research abstract presentations under the theme Reaching New Heights.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-05-03",
+    "url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Call-for-Research-Abstracts",
+    "estimated": false,
+    "note": "Deadline is 11:59 p.m. CT; a $50 non-refundable fee applies per submission."
+   },
+   {
+    "label": "Abstract notification",
+    "date": "2026-06-01",
+    "url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Call-for-Research-Abstracts",
+    "estimated": true,
+    "note": "Official page states notifications go out in 'early June 2026' without an exact date; June 1 used as a placeholder."
+   },
+   {
+    "label": "Abstract withdrawal deadline (if accepted elsewhere)",
+    "date": "2026-07-17",
+    "url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Call-for-Research-Abstracts",
+    "estimated": false,
+    "note": "Deadline for authors to withdraw an abstract accepted by another meeting."
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-08-05",
+    "url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Future-Annual-Meetings",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Discounted housing deadline",
+    "date": "2026-09-21",
+    "url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Future-Annual-Meetings",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.neurocriticalcare.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms the meeting is the 24th Annual Meeting."
+   },
+   {
+    "url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Future-Annual-Meetings",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, Seattle Convention Center venue, early registration and housing deadlines."
+   },
+   {
+    "url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Call-for-Research-Abstracts",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract submission, notification, and withdrawal deadlines."
+   },
+   {
+    "url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Past-Future-Annual-Meetings",
+    "accessed": "2026-09-10",
+    "note": "Confirms full date range October 20-23, 2026, and Seattle Convention Center venue."
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "id": "neurocritical-care-society-annual-2027",
+  "name": "NCS 25th Annual Meeting",
+  "short_name": "Neurocritical Care Society 2027",
+  "organizer": "Neurocritical Care Society",
+  "organizer_url": "https://www.neurocriticalcare.org/",
+  "edition_url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Past-Future-Annual-Meetings",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "neurocritical-care",
+   "critical-care"
+  ],
+  "start_date": "2027-09-27",
+  "end_date": "2027-09-30",
+  "city": "New Orleans",
+  "region_name": "Louisiana",
+  "country": "US",
+  "venue": "Hyatt Regency New Orleans",
+  "lat": 29.95,
+  "lon": -90.0755,
+  "format": "in-person",
+  "description": "The Neurocritical Care Society holds its 25th annual meeting in New Orleans, Louisiana, at the Hyatt Regency New Orleans. The meeting covers multidisciplinary neurocritical care research and clinical practice.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.neurocriticalcare.org/Events/Annual-Meeting/Past-Future-Annual-Meetings",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates September 27-30, 2027, and Hyatt Regency New Orleans venue."
+   },
+   {
+    "url": "https://www.neurocriticalcare.org/Events/Event-Calendar/Event-Details/ncs-25th-annual-meeting-2027",
+    "accessed": "2026-09-10",
+    "note": "Official event calendar entry corroborating the 25th Annual Meeting dates and venue; notes further details to be released in late 2026."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Abstract and registration deadlines are not yet published for this edition."
+ }
+]

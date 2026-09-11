@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACNS 2027 Annual Meeting and Courses
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acns-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270308
+SUMMARY:ACNS 2027 Annual Meeting and Courses
+DESCRIPTION:The American Clinical Neurophysiology Society holds its 2027 
+ Annual Meeting and Courses at the Hyatt Regency Seattle in Seattle\, Was
+ hington\, from 4 to 7 March 2027. The program covers clinical neurophysi
+ ology topics including EEG\, EMG\, and neurocritical care monitoring.\n\
+ nDeadlines\nScientific program and course submission opens: 2026-04-15\n
+ Scientific program and course submission: 2026-05-31\nPoster abstract su
+ bmission opens: 2026-10-01\nPoster abstract submission: 2026-11-15\nHous
+ ing block deadline: 2027-02-08\n\nhttps://www.acns.org/meetings/meetings
+ --programs-calendar/2027
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.acns.org/meetings/meetings--programs-calendar/2027
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACNS 2027 Annual Meeting and Courses
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acns-annual-2027-20260531-scientific-program-and-course-submission@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Deadline: ACNS 2027 scientific program and course submission
+DESCRIPTION:Closing date for scientific program and course proposals.\nMe
+ eting: ACNS 2027 Annual Meeting and Courses\, Mar 04 to 07\, 2027\, Seat
+ tle\, Washington\, Hyatt Regency Seattle\nhttps://www.acns.org/meetings/
+ annual-meeting-and-courses
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.acns.org/meetings/annual-meeting-and-courses
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 scientific program and course submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 scientific program and course submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 scientific program and course submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acns-annual-2027-20261115-poster-abstract-submission@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Deadline: ACNS 2027 poster abstract submission
+DESCRIPTION:Poster abstract submission deadline.\nMeeting: ACNS 2027 Annu
+ al Meeting and Courses\, Mar 04 to 07\, 2027\, Seattle\, Washington\, Hy
+ att Regency Seattle\nhttps://www.acns.org/meetings/annual-meeting-and-co
+ urses
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.acns.org/meetings/annual-meeting-and-courses
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 poster abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 poster abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 poster abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acns-annual-2027-20270208-housing-block-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Deadline: ACNS 2027 housing block deadline
+DESCRIPTION:Hotel room block cutoff\, not a program submission deadline.\
+ nMeeting: ACNS 2027 Annual Meeting and Courses\, Mar 04 to 07\, 2027\, S
+ eattle\, Washington\, Hyatt Regency Seattle\nhttps://www.acns.org/meetin
+ gs/annual-meeting-and-courses
+LOCATION:Seattle\, Washington\, Hyatt Regency Seattle
+URL:https://www.acns.org/meetings/annual-meeting-and-courses
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 housing block deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 housing block deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACNS 2027 housing block deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

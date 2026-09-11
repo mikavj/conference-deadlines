@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 AAPM&R Annual Assembly
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aapmr-annual-assembly-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261115
+SUMMARY:2026 AAPM&R Annual Assembly
+DESCRIPTION:The AAPM&R Annual Assembly is the annual scientific meeting o
+ f the American Academy of Physical Medicine and Rehabilitation. The 2026
+  edition takes place in Orlando\, Florida from November 11 to 14\, with 
+ in person and virtual attendance options.\n\nDeadlines\nLate-breaking re
+ search abstract submission opens: 2026-05-20 (estimated)\nLate-breaking 
+ research abstract submission: 2026-06-24 (estimated)\nRegistration deadl
+ ine (mail-in and fax\; refund cutoff): 2026-10-13\n\nhttps://www.aapmr.o
+ rg/education/annual-assembly
+LOCATION:Orlando\, Florida
+URL:https://www.aapmr.org/education/annual-assembly
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 AAPM&R Annual Assembly
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aapmr-annual-assembly-2026-20260624-late-breaking-research-abstract-s
+ ubmission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:Deadline: AAPM&R 2026 late-breaking research abstract submission 
+ (estimated)
+DESCRIPTION:Window reported in a search engine snippet of this page\; dir
+ ect fetch of the page returned HTTP 404\, so the exact date could not be
+  independently confirmed\nMeeting: 2026 AAPM&R Annual Assembly\, Nov 11 
+ to 14\, 2026\, Orlando\, Florida\nhttps://www.aapmr.org/education/annual
+ -assembly/2026/call-for-abstracts
+LOCATION:Orlando\, Florida
+URL:https://www.aapmr.org/education/annual-assembly/2026/call-for-abstrac
+ ts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPM&R 2026 late-breaking research abstract submiss
+ ion (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPM&R 2026 late-breaking research abstract submiss
+ ion (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPM&R 2026 late-breaking research abstract submiss
+ ion (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aapmr-annual-assembly-2026-20261013-registration-deadline-mail-in-and
+ -fax-refund-cutoff-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Deadline: AAPM&R 2026 registration deadline (mail-in and fax\; re
+ fund cutoff)
+DESCRIPTION:Mail postmark and fax (4:00 pm CT) cutoff\, and last date for
+  written cancellation to receive a refund minus a 150 USD fee. After thi
+ s date registration is online or onsite only.\nMeeting: 2026 AAPM&R Annu
+ al Assembly\, Nov 11 to 14\, 2026\, Orlando\, Florida\nhttps://www.aapmr
+ .org/education/annual-assembly/registration
+LOCATION:Orlando\, Florida
+URL:https://www.aapmr.org/education/annual-assembly/registration
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPM&R 2026 registration deadline (mail-in and fax\
+ ; refund cutoff)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPM&R 2026 registration deadline (mail-in and fax\
+ ; refund cutoff)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAPM&R 2026 registration deadline (mail-in and fax\
+ ; refund cutoff)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

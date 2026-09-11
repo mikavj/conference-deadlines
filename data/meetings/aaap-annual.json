@@ -1,0 +1,120 @@
+[
+ {
+  "id": "aaap-annual-2026",
+  "name": "AAAP 37th Annual Meeting and Scientific Symposium 2026",
+  "short_name": "AAAP 2026",
+  "organizer": "American Academy of Addiction Psychiatry",
+  "organizer_url": "https://www.aaap.org/",
+  "edition_url": "https://www.aaap.org/training-events/annual-meeting/2026-annual-meeting-and-scientific-symposium/",
+  "tags": [
+   "addiction",
+   "general-psychiatry"
+  ],
+  "start_date": "2026-11-12",
+  "end_date": "2026-11-15",
+  "city": "Memphis",
+  "country": "US",
+  "venue": "The Peabody Memphis",
+  "lat": 35.1425,
+  "lon": -90.0524,
+  "format": "in-person",
+  "description": "The annual scientific meeting of the American Academy of Addiction Psychiatry, covering substance use disorders and co occurring psychiatric disorders through symposia, workshops, paper sessions, posters and case conferences.",
+  "deadlines": [
+   {
+    "label": "Abstract submission (symposia, workshops, papers, posters, case conferences)",
+    "date": null,
+    "url": "https://www.aaap.org/training-events/annual-meeting/2026-annual-meeting-and-scientific-symposium/",
+    "estimated": false,
+    "note": "Official page states all applications closed; the specific 2026 deadline is no longer displayed."
+   },
+   {
+    "label": "Early bird registration deadline",
+    "date": "2026-10-01",
+    "url": "https://aaap.societyconference.com/conference/",
+    "estimated": false,
+    "note": "Early bird rates apply through October 1, 2026."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aaap.org/training-events/annual-meeting/2026-annual-meeting-and-scientific-symposium/",
+    "accessed": "2026-09-09",
+    "note": "Confirms November 12 to 15, 2026, The Peabody Memphis, 149 Union Ave, Memphis, TN 38103; applications closed; registration open."
+   },
+   {
+    "url": "https://aaap.societyconference.com/conference/",
+    "accessed": "2026-09-09",
+    "note": "Confirms early bird rates through October 1, 2026."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Abstract deadlines have passed and are no longer shown. All presenters must attend in person.",
+  "region_name": "Tennessee",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "aaap-annual-2027",
+  "name": "AAAP 38th Annual Meeting and Scientific Symposium 2027",
+  "short_name": "AAAP 2027",
+  "organizer": "American Academy of Addiction Psychiatry",
+  "organizer_url": "https://www.aaap.org/",
+  "edition_url": "https://www.aaap.org/training-events/annual-meeting/about-the-aaap-annual-meeting/",
+  "tags": [
+   "addiction",
+   "general-psychiatry"
+  ],
+  "start_date": "2027-11-11",
+  "end_date": "2027-11-14",
+  "city": "Washington",
+  "country": "US",
+  "venue": "JW Marriott Washington, DC",
+  "lat": 38.896,
+  "lon": -77.03,
+  "format": "in-person",
+  "description": "The 2027 annual scientific meeting of the American Academy of Addiction Psychiatry. AAAP states that more information will be released in early 2027.",
+  "deadlines": [
+   {
+    "label": "Abstract submission deadline",
+    "date": null,
+    "url": null,
+    "estimated": false,
+    "note": "Not published. The 2026 call closed before the meeting page was archived, so no prior year date could be verified for an estimate."
+   },
+   {
+    "label": "Early bird registration deadline",
+    "date": "2027-10-01",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (early bird rates through October 1, 2026)."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-11-12",
+   "end_date": "2026-11-15",
+   "city": "Memphis",
+   "deadlines": [
+    {
+     "label": "Early bird registration deadline",
+     "date": "2026-10-01"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.aaap.org/training-events/annual-meeting/about-the-aaap-annual-meeting/",
+    "accessed": "2026-09-09",
+    "note": "Lists the 38th Annual Meeting, November 11 to 14, 2027, Washington, DC at the JW Marriott, with more information coming in early 2027."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Dates and venue are official; no submission timeline is published.",
+  "region_name": "District of Columbia",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

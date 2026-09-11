@@ -1,0 +1,103 @@
+[
+ {
+  "id": "asn-kidney-week-2026",
+  "name": "ASN Kidney Week 2026",
+  "short_name": "Kidney Week 2026",
+  "organizer": "American Society of Nephrology",
+  "organizer_url": "https://www.asn-online.org",
+  "edition_url": "https://www.asn-online.org/education/kidneyweek/",
+  "areas": [
+   "nephrology"
+  ],
+  "tags": [
+   "nephrology",
+   "clinical-trials"
+  ],
+  "start_date": "2026-10-21",
+  "end_date": "2026-10-25",
+  "city": "Denver",
+  "region_name": "Colorado",
+  "country": "US",
+  "venue": "Colorado Convention Center",
+  "lat": 39.7439,
+  "lon": -104.9942,
+  "format": "in-person",
+  "description": "ASN Kidney Week is the American Society of Nephrology's annual meeting for nephrology clinicians and researchers. The 2026 meeting is held in Denver, Colorado, with no virtual or hybrid attendance option, preceded by a day of Early Programs.",
+  "deadlines": [
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-09-02",
+    "url": "https://www.asn-online.org/education/kidneyweek/",
+    "estimated": false,
+    "note": "2:00 p.m. Eastern time"
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-09-09",
+    "url": "https://www.asn-online.org/education/kidneyweek/",
+    "estimated": false,
+    "note": "11:59 p.m. Eastern time"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.asn-online.org/education/kidneyweek/",
+    "accessed": "2026-09-10",
+    "note": "confirms dates Oct 21 to 25 2026 (Early Programs Oct 21, Annual Meeting Oct 22 to 25), Denver location, Colorado Convention Center venue, late-breaking abstract deadline, early registration deadline, and in-person only format"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The regular, non-late-breaking abstract submission deadline was not found on this page and likely already passed earlier in 2026."
+ },
+ {
+  "id": "asn-kidney-week-2027",
+  "name": "ASN Kidney Week 2027",
+  "short_name": "Kidney Week 2027",
+  "organizer": "American Society of Nephrology",
+  "organizer_url": "https://www.asn-online.org",
+  "edition_url": "https://www.asn-online.org/education/kidneyweek/",
+  "areas": [
+   "nephrology"
+  ],
+  "tags": [
+   "nephrology"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "region_name": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "ASN Kidney Week is the American Society of Nephrology's annual meeting for nephrology clinicians and researchers. Dates and location for the 2027 meeting had not been published as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-10-21",
+   "end_date": "2026-10-25",
+   "city": "Denver",
+   "deadlines": [
+    {
+     "label": "Late-breaking abstract submission",
+     "date": "2026-09-02"
+    },
+    {
+     "label": "Early registration",
+     "date": "2026-09-09"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.asn-online.org/education/kidneyweek/",
+    "accessed": "2026-09-10",
+    "note": "official ASN Kidney Week page had no information about a 2027 edition as of this access; a dedicated 2027 subpage returned HTTP 403"
+   }
+  ],
+  "confidence": "low",
+  "notes": "No published dates were found for ASN Kidney Week 2027 as of 2026-09-10. This record should be revisited once ASN announces the edition."
+ }
+]

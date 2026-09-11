@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:40th ECNP Congress 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ecnp-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270929
+SUMMARY:40th ECNP Congress 2027
+DESCRIPTION:The 40th ECNP Congress is scheduled for September 25 to 28\, 
+ 2027\, at the CCIB in Barcelona. No abstract or registration deadlines h
+ ave been published\; the 2027 congress website is a placeholder as of Se
+ ptember 2026.\n\nDeadlines\nAbstract submission: 2027-04-22 (estimated)\
+ nEarly fee registration: 2027-05-05 (estimated)\n\nhttps://www.ecnp.eu/m
+ eetings/ecnp-congresses/
+LOCATION:Barcelona\, Catalonia\, ES\, CCIB Barcelona International Conven
+ tion Centre
+URL:https://www.ecnp.eu/meetings/ecnp-congresses/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:40th ECNP Congress 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnp-congress-2027-20270422-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Deadline: ECNP 2027 abstract submission (estimated)
+DESCRIPTION:estimated from the 2026 cycle (May 7\, 2026\, about five mont
+ hs before the congress)\; the 2027 congress is two weeks earlier\nMeetin
+ g: 40th ECNP Congress 2027\, Sep 25 to 28\, 2027\, Barcelona\, Catalonia
+ \, ES\, CCIB Barcelona International Convention Centre\nhttps://www.ecnp
+ .eu/meetings/ecnp-congresses/
+LOCATION:Barcelona\, Catalonia\, ES\, CCIB Barcelona International Conven
+ tion Centre
+URL:https://www.ecnp.eu/meetings/ecnp-congresses/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ecnp-congress-2027-20270505-early-fee-registration@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Deadline: ECNP 2027 early fee registration (estimated)
+DESCRIPTION:estimated from the 2026 cycle (May 20\, 2026)\; not published
+ \nMeeting: 40th ECNP Congress 2027\, Sep 25 to 28\, 2027\, Barcelona\, C
+ atalonia\, ES\, CCIB Barcelona International Convention Centre\nhttps://
+ www.ecnp.eu/meetings/ecnp-congresses/
+LOCATION:Barcelona\, Catalonia\, ES\, CCIB Barcelona International Conven
+ tion Centre
+URL:https://www.ecnp.eu/meetings/ecnp-congresses/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2027 early fee registration (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2027 early fee registration (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ECNP 2027 early fee registration (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

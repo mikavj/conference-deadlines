@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NANOS 53rd Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:nanos-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270324
+SUMMARY:NANOS 53rd Annual Meeting 2027
+DESCRIPTION:The NANOS Annual Meeting is the principal scientific meeting 
+ of the North American Neuro-Ophthalmology Society. The 53rd edition is s
+ cheduled for San Diego\, California.\n\nhttps://www.nanosweb.org/i4a/pag
+ es/index.cfm?pageid=4040
+LOCATION:San Diego\, California\, Sheraton San Diego Hotel & Marina
+URL:https://www.nanosweb.org/i4a/pages/index.cfm?pageid=4040
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:NANOS 53rd Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

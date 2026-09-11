@@ -1,0 +1,54 @@
+[
+ {
+  "id": "asnr-neurorehab-annual-2027",
+  "name": "American Society of Neurorehabilitation Annual Meeting 2027 (ASNR2027)",
+  "short_name": "ASNR2027",
+  "organizer": "American Society of Neurorehabilitation",
+  "organizer_url": "https://www.asnr.com",
+  "edition_url": "https://www.asnr.com/i4a/pages/index.cfm?pageid=3717",
+  "areas": [
+   "neurology",
+   "rehabilitation"
+  ],
+  "tags": [
+   "stroke"
+  ],
+  "start_date": "2027-03-16",
+  "end_date": "2027-03-18",
+  "city": "Durham",
+  "region_name": "North Carolina",
+  "country": "US",
+  "venue": "Durham Convention Center",
+  "lat": 35.9946,
+  "lon": -78.8987,
+  "format": null,
+  "description": "The American Society of Neurorehabilitation Annual Meeting brings together clinicians and researchers working on recovery of function after neurological injury, with a focus areas including stroke motor recovery and neuromodulation. The 2027 meeting is currently announced only as a save the date.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-03-25",
+   "end_date": "2026-03-27",
+   "city": "Long Beach, CA, USA (Hyatt Regency Long Beach)",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://x.com/ASNRehab/status/2039774878035742895",
+    "accessed": "2026-09-10",
+    "note": "Official ASNR account announcing March 16-18, 2027 dates and Durham Convention Center venue"
+   },
+   {
+    "url": "https://www.facebook.com/ASNRehabilitation/posts/-mark-your-calendar-our-2027-annual-meeting-will-be-march-16-18th-in-durham-nort/1442243110934417/",
+    "accessed": "2026-09-10",
+    "note": "Corroborates the same save-the-date announcement"
+   },
+   {
+    "url": "https://www.asnr.com/i4a/pages/index.cfm?pageID=3980&activateFull=true",
+    "accessed": "2026-09-10",
+    "note": "Official site homepage banner filename 'ASNR2027_save_the_date.png' corroborates a save the date exists, though the page text itself did not render the details"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Only a save-the-date has been announced, via ASNR's own official X/Twitter and Facebook accounts; the main asnr.com site does not yet have a full ASNR2027 program page with abstract or registration deadlines. This is the American Society of Neurorehabilitation, distinct from the similarly-abbreviated American Society of Neuroradiology (also ASNR), which was excluded."
+ }
+]

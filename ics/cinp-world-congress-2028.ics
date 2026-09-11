@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CINP 38th World Congress of Neuropsychopharmacology 2028
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:cinp-world-congress-2028@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20280621
+DTEND;VALUE=DATE:20280625
+SUMMARY:CINP 38th World Congress of Neuropsychopharmacology 2028
+DESCRIPTION:CINP announced its next World Congress for June 21 to 24\, 20
+ 28\, in Rio de Janeiro after cancelling the planned 2027 Abu Dhabi congr
+ ess. No venue or submission deadlines have been published.\n\nDeadlines\
+ nAbstract submission: 2028-01-10 (estimated)\n\nhttps://cinp.org/congres
+ s
+LOCATION:Rio de Janeiro\, Rio de Janeiro\, BR
+URL:https://cinp.org/congress
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CINP 38th World Congress of Neuropsychopharmacology 2028
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cinp-world-congress-2028-20280110-abstract-submission@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20280110
+DTEND;VALUE=DATE:20280111
+SUMMARY:Deadline: CINP 2028 abstract submission (estimated)
+DESCRIPTION:estimated from the 2026 cycle (extended deadline January 12\,
+  2026 for a late June congress)\; not published\nMeeting: CINP 38th Worl
+ d Congress of Neuropsychopharmacology 2028\, Jun 21 to 24\, 2028\, Rio d
+ e Janeiro\, Rio de Janeiro\, BR\nhttps://cinp.org/congress
+LOCATION:Rio de Janeiro\, Rio de Janeiro\, BR
+URL:https://cinp.org/congress
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CINP 2028 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CINP 2028 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CINP 2028 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

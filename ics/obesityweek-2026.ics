@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ObesityWeek 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:obesityweek-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261118
+SUMMARY:ObesityWeek 2026
+DESCRIPTION:ObesityWeek 2026 is the annual conference of The Obesity Soci
+ ety\, held at the Gaylord National Resort and Convention Center in Natio
+ nal Harbor\, Maryland\, near Washington\, D.C. The program presents clin
+ ical and basic science research on obesity and its treatment.\n\nDeadlin
+ es\nAbstract submission opens: 2026-03-16\nAbstract submission: 2026-04-
+ 27\nLate-breaking abstract submission opens: 2026-06-29\nLate-breaking a
+ bstract submission: 2026-07-22\nEarly registration: 2026-08-24\n\nhttps:
+ //obesityweek.org/
+LOCATION:National Harbor\, Maryland\, Gaylord National Resort and Convent
+ ion Center
+URL:https://obesityweek.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ObesityWeek 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:obesityweek-2026-20260427-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:Deadline: ObesityWeek 2026 abstract submission
+DESCRIPTION:Meeting: ObesityWeek 2026\, Nov 14 to 17\, 2026\, National Ha
+ rbor\, Maryland\, Gaylord National Resort and Convention Center\nhttps:/
+ /obesityweek.org/abstract-submissions/
+LOCATION:National Harbor\, Maryland\, Gaylord National Resort and Convent
+ ion Center
+URL:https://obesityweek.org/abstract-submissions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ObesityWeek 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ObesityWeek 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ObesityWeek 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:obesityweek-2026-20260722-late-breaking-abstract-submission@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:Deadline: ObesityWeek 2026 late-breaking abstract submission
+DESCRIPTION:Meeting: ObesityWeek 2026\, Nov 14 to 17\, 2026\, National Ha
+ rbor\, Maryland\, Gaylord National Resort and Convention Center\nhttps:/
+ /obesityweek.org/abstract-submissions/
+LOCATION:National Harbor\, Maryland\, Gaylord National Resort and Convent
+ ion Center
+URL:https://obesityweek.org/abstract-submissions/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ObesityWeek 2026 late-breaking abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ObesityWeek 2026 late-breaking abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ObesityWeek 2026 late-breaking abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:obesityweek-2026-20260824-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Deadline: ObesityWeek 2026 early registration
+DESCRIPTION:early bird registration deadline\, extended from the original
+  date\nMeeting: ObesityWeek 2026\, Nov 14 to 17\, 2026\, National Harbor
+ \, Maryland\, Gaylord National Resort and Convention Center\nhttps://obe
+ sityweek.org/key-dates/
+LOCATION:National Harbor\, Maryland\, Gaylord National Resort and Convent
+ ion Center
+URL:https://obesityweek.org/key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ObesityWeek 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ObesityWeek 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ObesityWeek 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

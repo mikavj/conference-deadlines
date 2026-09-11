@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAGP Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aagp-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270420
+SUMMARY:AAGP Annual Meeting 2027
+DESCRIPTION:The annual meeting of the American Association for Geriatric 
+ Psychiatry\, with general sessions\, clinical case presentations\, data 
+ blitz talks\, power symposia and poster sessions. The 2027 theme is Conn
+ ecting and Collaborating to Advance Geriatric Mental Health.\n\nDeadline
+ s\nSubmission opens (General Session\, Clinical Case Presentation\, Data
+  Blitz\, Power Symposia): 2026-06-15\nGeneral Session\, Clinical Case Pr
+ esentation\, Data Blitz and Power Symposia submission deadline: 2026-09-
+ 14\nPoster submission opens: 2026-08-17\nPoster abstract submission dead
+ line: 2026-09-25\nLate-breaking poster submission opens: 2026-11-30\nLat
+ e-breaking poster submission deadline: 2027-01-11\n\nhttps://aagponline.
+ org/event/2027-annual-meeting/
+LOCATION:San Diego\, California\, Sheraton San Diego Hotel & Marina
+URL:https://aagponline.org/event/2027-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAGP Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aagp-annual-2027-20260914-general-session-clinical-case-presentation-
+ data-blitz-and-power-symposia-submission-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Deadline: AAGP 2027 general session\, clinical case presentation\
+ , data blitz and power symposia submission deadline
+DESCRIPTION:Meeting: AAGP Annual Meeting 2027\, Apr 16 to 19\, 2027\, San
+  Diego\, California\, Sheraton San Diego Hotel & Marina\nhttps://aagponl
+ ine.org/meeting-hub/
+LOCATION:San Diego\, California\, Sheraton San Diego Hotel & Marina
+URL:https://aagponline.org/meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAGP 2027 general session\, clinical case presentat
+ ion\, data blitz and power symposia submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAGP 2027 general session\, clinical case presentat
+ ion\, data blitz and power symposia submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAGP 2027 general session\, clinical case presentat
+ ion\, data blitz and power symposia submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aagp-annual-2027-20260925-poster-abstract-submission-deadline@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Deadline: AAGP 2027 poster abstract submission deadline
+DESCRIPTION:Meeting: AAGP Annual Meeting 2027\, Apr 16 to 19\, 2027\, San
+  Diego\, California\, Sheraton San Diego Hotel & Marina\nhttps://aagponl
+ ine.org/meeting-hub/
+LOCATION:San Diego\, California\, Sheraton San Diego Hotel & Marina
+URL:https://aagponline.org/meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAGP 2027 poster abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAGP 2027 poster abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAGP 2027 poster abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aagp-annual-2027-20270111-late-breaking-poster-submission-deadline@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270112
+SUMMARY:Deadline: AAGP 2027 late-breaking poster submission deadline
+DESCRIPTION:Meeting: AAGP Annual Meeting 2027\, Apr 16 to 19\, 2027\, San
+  Diego\, California\, Sheraton San Diego Hotel & Marina\nhttps://aagponl
+ ine.org/meeting-hub/
+LOCATION:San Diego\, California\, Sheraton San Diego Hotel & Marina
+URL:https://aagponline.org/meeting-hub/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAGP 2027 late-breaking poster submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAGP 2027 late-breaking poster submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAGP 2027 late-breaking poster submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

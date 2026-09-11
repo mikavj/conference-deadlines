@@ -1,0 +1,53 @@
+[
+ {
+  "id": "asn-annual-2027",
+  "name": "50th American Society of Neuroimaging Annual Meeting",
+  "short_name": "ASN 2027",
+  "organizer": "American Society of Neuroimaging",
+  "organizer_url": "https://www.asnweb.org",
+  "edition_url": "https://www.asnweb.org/2027-annual-meeting",
+  "areas": [
+   "neurology",
+   "radiology"
+  ],
+  "tags": [
+   "neuroradiology",
+   "imaging",
+   "stroke"
+  ],
+  "start_date": "2027-01-15",
+  "end_date": "2027-01-17",
+  "city": "Hilton Head Island",
+  "region_name": "South Carolina",
+  "country": "US",
+  "venue": "Omni Hilton Head Oceanfront Resort",
+  "lat": 32.1503,
+  "lon": -80.7513,
+  "format": "in-person",
+  "description": "50th anniversary annual meeting of the American Society of Neuroimaging on clinical and research applications of neuroimaging.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-07-01",
+    "url": "https://www.asnweb.org/2027-annual-meeting",
+    "estimated": false,
+    "note": "deadline for presentation consideration"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.asnweb.org/2027-annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "confirms dates, venue, and abstract deadline"
+   },
+   {
+    "url": "https://www.asnweb.org/",
+    "accessed": "2026-09-10",
+    "note": "confirms 50th anniversary meeting dates and city"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Registration closing date is not specified; registration was open as of the access date."
+ }
+]

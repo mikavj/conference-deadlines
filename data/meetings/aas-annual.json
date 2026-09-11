@@ -1,0 +1,58 @@
+[
+ {
+  "id": "aas-annual-2026",
+  "name": "37th International Symposium on the Autonomic Nervous System (American Autonomic Society Annual Meeting 2026)",
+  "short_name": "AAS 2026",
+  "organizer": "American Autonomic Society",
+  "organizer_url": "https://americanautonomicsociety.org",
+  "edition_url": "https://americanautonomicsociety.org/meeting/",
+  "areas": [
+   "neurology",
+   "neuroscience"
+  ],
+  "tags": [
+   "autonomic-disorders"
+  ],
+  "start_date": "2026-11-10",
+  "end_date": "2026-11-14",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "Paradise Point Resort & Spa",
+  "lat": 32.776,
+  "lon": -117.231,
+  "format": null,
+  "description": "The American Autonomic Society Annual Meeting, held as the International Symposium on the Autonomic Nervous System, covers structure, function and disorders of the autonomic nervous system. The 2026 edition is the 37th symposium, featuring plenary lectures, symposium sessions and a poster competition.",
+  "deadlines": [
+   {
+    "label": "Late breaking abstract submission deadline",
+    "date": "2026-09-15",
+    "url": "https://americanautonomicsociety.org/abstract-submission/",
+    "estimated": false,
+    "note": "Reserved for high-impact data that becomes available after the general deadline, not a general deadline extension"
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2026-09-15",
+    "url": "https://americanautonomicsociety.org/conference-registration/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://americanautonomicsociety.org/meeting/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, venue and the September 15 late-breaking/early-registration deadlines"
+   },
+   {
+    "url": "https://americanautonomicsociety.org/abstract-submission/",
+    "accessed": "2026-09-10",
+    "note": "Confirms late breaking abstract policy and September 15 deadline"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The general (non-late-breaking) abstract submission deadline could not be located on the official site. No 2027 American Autonomic Society meeting information has been published yet, so no separate 2027 record was created."
+ }
+]

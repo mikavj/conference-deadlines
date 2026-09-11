@@ -1,0 +1,143 @@
+[
+ {
+  "id": "aacap-annual-2026",
+  "name": "AACAP 73rd Annual Meeting 2026",
+  "short_name": "AACAP 2026",
+  "organizer": "American Academy of Child and Adolescent Psychiatry",
+  "organizer_url": "https://www.aacap.org/",
+  "edition_url": "https://aacap.confex.com/aacap/2026/meetinginfo.cgi",
+  "tags": [
+   "child-adolescent",
+   "general-psychiatry"
+  ],
+  "start_date": "2026-10-26",
+  "end_date": "2026-10-31",
+  "city": "Atlanta",
+  "country": "US",
+  "venue": "Hyatt Regency Atlanta and Atlanta Marriott Marquis",
+  "lat": 33.7616,
+  "lon": -84.3868,
+  "format": "in-person",
+  "description": "The annual meeting of the American Academy of Child and Adolescent Psychiatry, with clinical perspectives, symposia, workshops, institutes, media theatre and new research poster sessions.",
+  "deadlines": [
+   {
+    "label": "General submission deadline (Clinical Perspectives, Symposia, Workshops, Institutes, Media Theatre, Posters, other formats)",
+    "date": "2026-02-12",
+    "url": "https://aacap.confex.com/aacap/2026/cfp.cgi",
+    "estimated": false,
+    "note": "11:59 PM ET. Covers Clinical Case Conferences, Clinical Consultation Breakfasts, Clinical Perspectives, Extended Workshops, Institutes, Media Theatre, Member Services Fora, Other Programs, Posters, Special Interest Study Groups, Symposia, Wellness and Workshops."
+   },
+   {
+    "label": "Notification for February submissions",
+    "date": null,
+    "url": "https://aacap.confex.com/aacap/2026/cfp.cgi",
+    "estimated": false,
+    "note": "Notification of acceptance given in May 2026 via email; no exact date published."
+   },
+   {
+    "label": "Late New Research Poster submission deadline",
+    "date": "2026-06-04",
+    "url": "https://aacap.confex.com/aacap/2026/cfp.cgi",
+    "estimated": false,
+    "note": "11:59 PM EDT. Notification in August 2026."
+   },
+   {
+    "label": "Registration opens to non members",
+    "date": "2026-08-11",
+    "url": "https://x.com/AACAP/status/2084703165031547369",
+    "estimated": false,
+    "note": "From an AACAP social media post reported in search results; members had earlier access. Early registration deadline not found."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://aacap.confex.com/aacap/2026/cfp.cgi",
+    "accessed": "2026-09-09",
+    "note": "Confirms all 2026 submission deadlines, notification months, meeting dates and city."
+   },
+   {
+    "url": "https://www.aacap.org/aacap/CME_and_Meetings/Future_Annual_Meetings.aspx",
+    "accessed": "2026-09-09",
+    "note": "Confirms October 26 to 31, 2026, Atlanta, Hyatt Regency Atlanta and Atlanta Marriott Marquis."
+   }
+  ],
+  "confidence": "high",
+  "notes": "All submission deadlines have passed. Coordinates point to the Hyatt Regency Atlanta.",
+  "region_name": "Georgia",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "aacap-annual-2027",
+  "name": "AACAP 74th Annual Meeting 2027",
+  "short_name": "AACAP 2027",
+  "organizer": "American Academy of Child and Adolescent Psychiatry",
+  "organizer_url": "https://www.aacap.org/",
+  "edition_url": "https://www.aacap.org/aacap/CME_and_Meetings/Future_Annual_Meetings.aspx",
+  "tags": [
+   "child-adolescent",
+   "general-psychiatry"
+  ],
+  "start_date": "2027-10-25",
+  "end_date": "2027-10-30",
+  "city": "New York",
+  "country": "US",
+  "venue": "New York Hilton Midtown and Sheraton New York Times Square Hotel",
+  "lat": 40.7625,
+  "lon": -73.979,
+  "format": "in-person",
+  "description": "The 2027 annual meeting of the American Academy of Child and Adolescent Psychiatry in New York City. The call for papers has not yet been published.",
+  "deadlines": [
+   {
+    "label": "General submission deadline (Clinical Perspectives, Symposia, Workshops, Institutes, Media Theatre, Posters)",
+    "date": "2027-02-11",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (deadline Thursday, February 12, 2026, 11:59 PM ET). The 2027 call for papers page (aacap.confex.com/aacap/2027/cfp.cgi) returned 404 on the access date."
+   },
+   {
+    "label": "Late New Research Poster submission deadline",
+    "date": "2027-06-03",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (Thursday, June 4, 2026, 11:59 PM EDT)."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-10-26",
+   "end_date": "2026-10-31",
+   "city": "Atlanta",
+   "deadlines": [
+    {
+     "label": "General submission deadline",
+     "date": "2026-02-12"
+    },
+    {
+     "label": "Late New Research Poster submission deadline",
+     "date": "2026-06-04"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.aacap.org/aacap/CME_and_Meetings/Future_Annual_Meetings.aspx",
+    "accessed": "2026-09-09",
+    "note": "Confirms October 25 to 30, 2027, New York, New York Hilton Midtown and Sheraton New York Times Square Hotel."
+   },
+   {
+    "url": "https://aacap.confex.com/aacap/2026/cfp.cgi",
+    "accessed": "2026-09-09",
+    "note": "Source of the 2026 deadline pattern used for estimates."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Meeting dates and hotels are published; all deadlines are estimates. AACAP usually opens the call for papers in December; check aacap.confex.com/aacap/2027/cfp.cgi from December 2026.",
+  "region_name": "New York",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

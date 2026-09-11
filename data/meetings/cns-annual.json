@@ -1,0 +1,123 @@
+[
+ {
+  "id": "cns-annual-2027",
+  "name": "Cognitive Neuroscience Society Annual Meeting 2027",
+  "short_name": "CNS 2027",
+  "organizer": "Cognitive Neuroscience Society",
+  "organizer_url": "https://www.cogneurosociety.org",
+  "edition_url": "https://www.cogneurosociety.org/annual-meeting/",
+  "areas": [
+   "neuroscience",
+   "psychology"
+  ],
+  "tags": [
+   "neuroscience",
+   "psychology",
+   "education"
+  ],
+  "start_date": "2027-03-20",
+  "end_date": "2027-03-23",
+  "city": "Boston",
+  "region_name": "Massachusetts",
+  "country": "US",
+  "venue": null,
+  "lat": 42.3601,
+  "lon": -71.0589,
+  "format": null,
+  "description": "The Cognitive Neuroscience Society holds its annual meeting on the biological basis of mind in Boston, Massachusetts. The program includes invited symposia, poster sessions and the society's career and young investigator award lectures.",
+  "deadlines": [
+   {
+    "label": "Submissions open",
+    "date": "2026-09-01",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Symposium proposal submission",
+    "date": "2026-09-14",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Award nomination (George A. Miller and Distinguished Career Contributions)",
+    "date": "2026-09-25",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Award nomination (Young Investigator)",
+    "date": "2026-10-02",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Travel award application opens",
+    "date": "2026-10-05",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Registration opens",
+    "date": "2026-10-23",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission (poster)",
+    "date": "2026-11-03",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Travel award application deadline",
+    "date": "2026-11-03",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2027-01-19",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-01-05",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Hotel reservation deadline",
+    "date": "2027-02-24",
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.cogneurosociety.org/dates-and-deadlines/",
+    "accessed": "2026-09-10",
+    "note": "Confirms all submission, award, registration and housing deadlines"
+   },
+   {
+    "url": "https://www.cogneurosociety.org/annual-meeting/",
+    "accessed": "2026-09-10",
+    "note": "Confirms meeting dates and Boston location by direct quote"
+   }
+  ],
+  "confidence": "high",
+  "notes": "An initial automated summary of the dates-and-deadlines page misstated the city as Davis, California; a direct quote from the official annual-meeting page and the society's own announcement confirm Boston, Massachusetts is correct."
+ }
+]

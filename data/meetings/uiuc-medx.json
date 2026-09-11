@@ -1,0 +1,52 @@
+[
+ {
+  "id": "uiuc-medx-2027",
+  "name": "MEdX 2027: Medical Education Experience Conference and Faculty and Staff Awards",
+  "short_name": "MEdX 2027",
+  "organizer": "Carle Illinois College of Medicine, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://medicine.illinois.edu",
+  "edition_url": "https://calendars.illinois.edu/list/5988",
+  "areas": [
+   "medical-education"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "medical-education",
+   "education",
+   "student-resident-research"
+  ],
+  "start_date": "2027-02-11",
+  "end_date": "2027-02-11",
+  "city": "Champaign",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "I Hotel and Conference Center",
+  "lat": 40.102,
+  "lon": -88.2272,
+  "format": "in-person",
+  "description": "MEdX is Carle Illinois College of Medicine's annual daylong medical education conference for faculty, students and staff, held together with the college's Faculty and Staff Awards. It covers best practices and scholarly work in medical education and is usually held in late January or early February at the I Hotel and Conference Center in Champaign.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-01-29",
+   "end_date": "2026-01-29",
+   "city": "Champaign",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://calendars.illinois.edu/list/5988",
+    "accessed": "2026-09-10",
+    "note": "Carle Illinois events calendar listing shows MEdX 2027 and Faculty and Staff Awards on Feb 11, 2027, 8:00 am at iHotel"
+   },
+   {
+    "url": "https://medicine.illinois.edu/about/events",
+    "accessed": "2026-09-10",
+    "note": "Carle Illinois events page; confirms recurring iTEAM and LDI sessions but the MEdX 2027 date itself came from the calendar list page"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The Feb 11, 2027 date was read from a WebFetch text summary of the calendar list page rather than the individual event detail page, so confidence is medium. No separate abstract or proposal deadline was found; MEdX appears to be a registration based conference rather than a call for abstracts."
+ }
+]

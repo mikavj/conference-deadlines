@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Association of Neuropathologists 103rd Annual Meeti
+ ng 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aanp-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270614
+SUMMARY:American Association of Neuropathologists 103rd Annual Meeting 20
+ 27
+DESCRIPTION:The AANP Annual Meeting is the yearly gathering of the only U
+ nited States association focused exclusively on the clinical and scienti
+ fic practice of neuropathology. The 2027 meeting is the 103rd edition an
+ d includes pre-meeting symposia the day before the main program.\n\nhttp
+ s://www.neuropath.org/upcoming-meetings
+LOCATION:Renton\, Washington\, Hyatt Regency Lake Washington
+URL:https://www.neuropath.org/upcoming-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Association of Neuropathologists 103rd Annual Meetin
+ g 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

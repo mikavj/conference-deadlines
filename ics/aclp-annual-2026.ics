@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACLP Annual Meeting 2026 (CLP 2026)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aclp-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261122
+SUMMARY:ACLP Annual Meeting 2026 (CLP 2026)
+DESCRIPTION:The annual meeting of the ACLP\, the academy for psychiatrist
+ s who care for medically ill patients. The 2026 theme is Expanding the V
+ ision of C L Psychiatry: New Roles\, New Settings\, New Pathways.\n\nDea
+ dlines\nAbstract submission deadline (all formats): 2026-04-01\n\nhttps:
+ //clpsychiatry.org/annual-meetings/
+LOCATION:San Diego\, California\, Town and Country Resort
+URL:https://clpsychiatry.org/annual-meetings/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACLP Annual Meeting 2026 (CLP 2026)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aclp-annual-2026-20260401-abstract-submission-deadline-all-formats-@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:Deadline: CLP 2026 abstract submission deadline (all formats)
+DESCRIPTION:Submissions closed. A February 24\, 2026 webinar covered the 
+ submission process.\nMeeting: ACLP Annual Meeting 2026 (CLP 2026)\, Nov 
+ 18 to 21\, 2026\, San Diego\, California\, Town and Country Resort\nhttp
+ s://clpsychiatry.org/annual-meetings/
+LOCATION:San Diego\, California\, Town and Country Resort
+URL:https://clpsychiatry.org/annual-meetings/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CLP 2026 abstract submission deadline (all formats)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CLP 2026 abstract submission deadline (all formats)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CLP 2026 abstract submission deadline (all formats)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

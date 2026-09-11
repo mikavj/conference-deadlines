@@ -1,0 +1,70 @@
+[
+ {
+  "id": "smdm-annual-2027",
+  "name": "SMDM 49th Annual Meeting",
+  "short_name": "SMDM 2027",
+  "organizer": "Society for Medical Decision Making",
+  "organizer_url": "https://smdm.org",
+  "edition_url": "https://smdm.org/annual-meeting",
+  "areas": [
+   "health-services"
+  ],
+  "tags": [
+   "decision-science",
+   "health-services"
+  ],
+  "start_date": "2027-06-06",
+  "end_date": "2027-06-09",
+  "city": "Toronto",
+  "region_name": "Ontario",
+  "country": "CA",
+  "venue": null,
+  "lat": 43.6532,
+  "lon": -79.3832,
+  "format": "in-person",
+  "description": "The Society for Medical Decision Making holds its 49th Annual Meeting in Toronto, Ontario. The meeting covers methods and applications in medical decision science.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2027-01-14",
+    "url": "https://smdm.org/civicrm/event/info",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract notification",
+    "date": "2027-03-12",
+    "url": "https://smdm.org/civicrm/event/info",
+    "estimated": false,
+    "note": "Date reconstructed from a concatenated page snippet listing several dates together; verify directly on smdm.org"
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-05-30",
+    "url": "https://smdm.org/registration-information",
+    "estimated": false,
+    "note": "Early registration closes and regular rates apply afterward"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://smdm.org/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Confirms June 6 to 9, 2027 in Toronto"
+   },
+   {
+    "url": "https://smdm.org/civicrm/event/info",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract submission close date of 14 January 2027 and related dates via search snippet"
+   },
+   {
+    "url": "https://smdm.org/registration-information",
+    "accessed": "2026-09-10",
+    "note": "Confirms early registration close date"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The 2026 SMDM Annual Meeting (48th, Oslo, Norway, June 28 to July 1, 2026) already concluded before today, so only the 2027 edition is included."
+ }
+]

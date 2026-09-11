@@ -1,0 +1,51 @@
+[
+ {
+  "id": "aad-annual-2027",
+  "name": "2027 AAD Annual Meeting",
+  "short_name": "AAD 2027",
+  "organizer": "American Academy of Dermatology",
+  "organizer_url": "https://www.aad.org",
+  "edition_url": "https://www.aad.org/member/meetings-education/am27",
+  "areas": [
+   "dermatology"
+  ],
+  "tags": [
+   "dermatology",
+   "education"
+  ],
+  "start_date": "2027-03-19",
+  "end_date": "2027-03-23",
+  "city": "San Francisco",
+  "region_name": "California",
+  "country": "US",
+  "venue": "Moscone Center",
+  "lat": 37.7841,
+  "lon": -122.4013,
+  "format": "in-person",
+  "description": "The 2027 AAD Annual Meeting is the American Academy of Dermatology's main scientific and educational conference, held in San Francisco, California from March 19 to 23, 2027.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-09-02",
+    "url": "https://www.aad.org/member/meetings-education/am27",
+    "estimated": false,
+    "note": "Listed as 11:59 a.m. CST on the official page; unusual time of day was stated as written and not altered"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aad.org/member/meetings-education/am27",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 AAD Annual Meeting dates (March 19-23, 2027), San Francisco location, and abstract submission deadline of September 2, 2026"
+   },
+   {
+    "url": "https://www.bing.com/search?q=%22AAD+2027%22+San+Francisco+Moscone+registration",
+    "accessed": "2026-09-10",
+    "note": "Search engine snippet of official aad.org content confirming Moscone Center as the venue; used because a direct fetch of the venue detail was not available"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Registration deadlines (early/regular) for AAD 2027 are not yet published; the official page states registration details are forthcoming. Abstract deadline time of day (11:59 a.m. CST) as extracted may actually be 11:59 p.m.; maintainer should verify time on the official page closer to the deadline."
+ }
+]

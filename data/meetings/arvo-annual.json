@@ -1,0 +1,84 @@
+[
+ {
+  "id": "arvo-annual-2027",
+  "name": "ARVO 2027 Annual Meeting",
+  "short_name": "ARVO 2027",
+  "organizer": "Association for Research in Vision and Ophthalmology",
+  "organizer_url": "https://www.arvo.org",
+  "edition_url": "https://www.arvo.org/annual-meeting",
+  "areas": [
+   "ophthalmology"
+  ],
+  "tags": [
+   "ophthalmology",
+   "vision-research"
+  ],
+  "start_date": "2027-05-02",
+  "end_date": "2027-05-06",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": null,
+  "lat": 32.7157,
+  "lon": -117.1611,
+  "format": "in-person",
+  "description": "ARVO 2027 is the annual meeting of the Association for Research in Vision and Ophthalmology, scheduled for May 2 to 6, 2027 in San Diego, California.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-10-16",
+    "url": "https://www.arvo.org/annual-meeting/abstracts",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-12-04",
+    "url": "https://www.arvo.org/annual-meeting/abstracts",
+    "estimated": false,
+    "note": "5:00 PM U.S. EST; 2027 ARVO membership is required for submission and membership payment is due by this same date for online submitters"
+   },
+   {
+    "label": "Abstract received notification",
+    "date": "2026-12-09",
+    "url": "https://www.arvo.org/annual-meeting/abstracts",
+    "estimated": false,
+    "note": "Confirmation that the abstract was completed and received, sent to the first author"
+   },
+   {
+    "label": "Abstract acceptance/rejection notification",
+    "date": "2027-01-14",
+    "url": "https://www.arvo.org/annual-meeting/abstracts",
+    "estimated": false,
+    "note": "Sent to first author"
+   },
+   {
+    "label": "Abstract scheduling and presentation type notification",
+    "date": "2027-02-11",
+    "url": "https://www.arvo.org/annual-meeting/abstracts",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.arvo.org/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Confirms ARVO 2027 will be in San Diego, May 2-6, 2027; direct WebFetch was blocked with HTTP 403, content retrieved via the r.jina.ai reader proxy mirroring the live page"
+   },
+   {
+    "url": "https://www.arvo.org/annual-meeting/abstracts",
+    "accessed": "2026-09-10",
+    "note": "Abstract submission window and notification dates for the 2027 meeting; direct fetch returned 403, retrieved via r.jina.ai reader proxy"
+   },
+   {
+    "url": "https://www.arvo.org/annual-meeting/about/future-meetings",
+    "accessed": "2026-09-10",
+    "note": "Cross-check confirming San Diego, May 2-6, 2027 and listing 2028-2031 future meeting cities; also retrieved via r.jina.ai proxy after a direct 404"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "arvo.org returns HTTP 403 to direct automated fetching (apparent bot protection) on every page tried; all ARVO data in this record was retrieved through the r.jina.ai reader proxy rather than a direct fetch, though the proxy mirrors the same live official content rather than a search snippet. Venue for ARVO 2027 in San Diego was not stated on the pages retrieved, so city-center coordinates are used instead of venue coordinates. The prior edition (ARVO 2026) was stated to be in Denver, Colorado, but exact 2026 dates were not confirmed and are omitted rather than guessed."
+ }
+]

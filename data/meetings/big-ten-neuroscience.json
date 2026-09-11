@@ -1,0 +1,49 @@
+[
+ {
+  "id": "big-ten-neuroscience-2027",
+  "name": "Big Ten Neuroscience Annual Meeting 2027",
+  "short_name": "Big Ten Neuroscience 2027",
+  "organizer": "Big Ten Academic Alliance Neuroscience Program (rotating host institution)",
+  "organizer_url": null,
+  "edition_url": null,
+  "areas": [
+   "neuroscience"
+  ],
+  "tags": [
+   "student-resident-research",
+   "education"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "region_name": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "The Big Ten Neuroscience Annual Meeting rotates among Big Ten Academic Alliance member universities and has not announced a host institution or dates for 2027 as of the access date. The 2026 meeting was hosted by the University of Nebraska Medical Center in Omaha on 16 July 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-07-16",
+   "end_date": "2026-07-16",
+   "city": "Omaha, Nebraska, USA",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.unmc.edu/newsroom/2026/05/06/unmc-to-host-big-ten-neuroscience-annual-meeting/",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2026 host institution, date, and venue; no mention of a 2027 host."
+   },
+   {
+    "url": "https://research.purdue.edu/big10conf/conference/",
+    "accessed": "2026-09-10",
+    "note": "General background on the rotating meeting series; retrieved content was specific to the 2024 edition and did not mention 2027."
+   }
+  ],
+  "confidence": "low",
+  "notes": "No permanent central website exists for this rotating multi-institution meeting; no source found announces a 2027 host. This record is a placeholder because task instructions allowed either the 2026 or 2027 edition, and the 2026 Omaha meeting had already concluded by the 2026-09-10 reference date."
+ }
+]

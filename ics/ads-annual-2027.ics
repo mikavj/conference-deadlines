@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Delirium Society 17th Annual Conference 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ads-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270630
+SUMMARY:American Delirium Society 17th Annual Conference 2027
+DESCRIPTION:The American Delirium Society Annual Conference covers basic 
+ science\, clinical research\, education\, quality improvement and advoca
+ cy on delirium care. The 2027 conference\, themed Imagine Better Deliriu
+ m Care\, is the society's 17th annual meeting.\n\nDeadlines\nSession pro
+ posal submission deadline: 2026-10-26 (estimated)\n\nhttps://americandel
+ iriumsociety.org/ADS-Annual-Conference
+LOCATION:Orlando\, Florida
+URL:https://americandeliriumsociety.org/ADS-Annual-Conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Delirium Society 17th Annual Conference 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ads-annual-2027-20261026-session-proposal-submission-deadline@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Deadline: ADS 2027 session proposal submission deadline (estimate
+ d)
+DESCRIPTION:Page states the day and month (October 26) for symposia\, wor
+ kshop and panel proposals but does not explicitly state the year\; 2026 
+ inferred as it precedes the June 2027 conference\nMeeting: American Deli
+ rium Society 17th Annual Conference 2027\, Jun 27 to 29\, 2027\, Orlando
+ \, Florida\nhttps://americandeliriumsociety.org/ADS-Annual-Conference
+LOCATION:Orlando\, Florida
+URL:https://americandeliriumsociety.org/ADS-Annual-Conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADS 2027 session proposal submission deadline (esti
+ mated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADS 2027 session proposal submission deadline (esti
+ mated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADS 2027 session proposal submission deadline (esti
+ mated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

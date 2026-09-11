@@ -1,0 +1,168 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IAMSE 31st Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:iamse-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270609
+SUMMARY:IAMSE 31st Annual Meeting
+DESCRIPTION:The International Association of Medical Science Educators ho
+ lds its 31st Annual Meeting in Bellevue\, Washington in 2027. The meetin
+ g focuses on the science of medical and health professions education.\n\
+ nDeadlines\nFocus Sessions submission: 2026-09-01\nPoster and Oral Abstr
+ act submission: 2026-12-01\nTravel Award application: 2026-12-15\nEarly 
+ Bird registration: 2027-04-01\nPresenter registration: 2027-04-01\n\nhtt
+ ps://www.iamse.org/annual-conference/
+LOCATION:Bellevue\, Washington\, Hyatt Regency Bellevue
+URL:https://www.iamse.org/annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IAMSE 31st Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iamse-annual-2027-20260901-focus-sessions-submission@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Deadline: IAMSE 2027 focus sessions submission
+DESCRIPTION:Meeting: IAMSE 31st Annual Meeting\, Jun 05 to 08\, 2027\, Be
+ llevue\, Washington\, Hyatt Regency Bellevue\nhttps://www.iamse.org/annu
+ al-conference/
+LOCATION:Bellevue\, Washington\, Hyatt Regency Bellevue
+URL:https://www.iamse.org/annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 focus sessions submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 focus sessions submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 focus sessions submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iamse-annual-2027-20261201-poster-and-oral-abstract-submission@confer
+ ence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Deadline: IAMSE 2027 poster and oral abstract submission
+DESCRIPTION:Meeting: IAMSE 31st Annual Meeting\, Jun 05 to 08\, 2027\, Be
+ llevue\, Washington\, Hyatt Regency Bellevue\nhttps://www.iamse.org/annu
+ al-conference/
+LOCATION:Bellevue\, Washington\, Hyatt Regency Bellevue
+URL:https://www.iamse.org/annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 poster and oral abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 poster and oral abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 poster and oral abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iamse-annual-2027-20261215-travel-award-application@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Deadline: IAMSE 2027 travel award application
+DESCRIPTION:Meeting: IAMSE 31st Annual Meeting\, Jun 05 to 08\, 2027\, Be
+ llevue\, Washington\, Hyatt Regency Bellevue\nhttps://www.iamse.org/annu
+ al-conference/
+LOCATION:Bellevue\, Washington\, Hyatt Regency Bellevue
+URL:https://www.iamse.org/annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 travel award application
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 travel award application
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 travel award application
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iamse-annual-2027-20270401-early-bird-registration@conference-calenda
+ r
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Deadline: IAMSE 2027 early bird registration
+DESCRIPTION:Meeting: IAMSE 31st Annual Meeting\, Jun 05 to 08\, 2027\, Be
+ llevue\, Washington\, Hyatt Regency Bellevue\nhttps://www.iamse.org/annu
+ al-conference/
+LOCATION:Bellevue\, Washington\, Hyatt Regency Bellevue
+URL:https://www.iamse.org/annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 early bird registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 early bird registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 early bird registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iamse-annual-2027-20270401-presenter-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:Deadline: IAMSE 2027 presenter registration
+DESCRIPTION:Meeting: IAMSE 31st Annual Meeting\, Jun 05 to 08\, 2027\, Be
+ llevue\, Washington\, Hyatt Regency Bellevue\nhttps://www.iamse.org/annu
+ al-conference/
+LOCATION:Bellevue\, Washington\, Hyatt Regency Bellevue
+URL:https://www.iamse.org/annual-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 presenter registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 presenter registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IAMSE 2027 presenter registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

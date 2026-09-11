@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AACAP 73rd Annual Meeting 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aacap-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261101
+SUMMARY:AACAP 73rd Annual Meeting 2026
+DESCRIPTION:The annual meeting of the American Academy of Child and Adole
+ scent Psychiatry\, with clinical perspectives\, symposia\, workshops\, i
+ nstitutes\, media theatre and new research poster sessions.\n\nDeadlines
+ \nGeneral submission deadline (Clinical Perspectives\, Symposia\, Worksh
+ ops\, Institutes\, Media Theatre\, Posters\, other formats): 2026-02-12\
+ nLate New Research Poster submission deadline: 2026-06-04\nRegistration 
+ opens to non members: 2026-08-11\n\nhttps://aacap.confex.com/aacap/2026/
+ meetinginfo.cgi
+LOCATION:Atlanta\, Georgia\, Hyatt Regency Atlanta and Atlanta Marriott M
+ arquis
+URL:https://aacap.confex.com/aacap/2026/meetinginfo.cgi
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AACAP 73rd Annual Meeting 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacap-annual-2026-20260212-general-submission-deadline-clinical-persp
+ ectives-symposia-workshops-institutes-media-theatre-posters-other-format
+ s-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:Deadline: AACAP 2026 general submission deadline (clinical perspe
+ ctives\, symposia\, workshops\, institutes\, media theatre\, posters\, o
+ ther formats)
+DESCRIPTION:11:59 PM ET. Covers Clinical Case Conferences\, Clinical Cons
+ ultation Breakfasts\, Clinical Perspectives\, Extended Workshops\, Insti
+ tutes\, Media Theatre\, Member Services Fora\, Other Programs\, Posters\
+ , Special Interest Study Groups\, Symposia\, Wellness and Workshops.\nMe
+ eting: AACAP 73rd Annual Meeting 2026\, Oct 26 to 31\, 2026\, Atlanta\, 
+ Georgia\, Hyatt Regency Atlanta and Atlanta Marriott Marquis\nhttps://aa
+ cap.confex.com/aacap/2026/cfp.cgi
+LOCATION:Atlanta\, Georgia\, Hyatt Regency Atlanta and Atlanta Marriott M
+ arquis
+URL:https://aacap.confex.com/aacap/2026/cfp.cgi
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2026 general submission deadline (clinical pe
+ rspectives\, symposia\, workshops\, institutes\, media theatre\, posters
+ \, other formats)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2026 general submission deadline (clinical pe
+ rspectives\, symposia\, workshops\, institutes\, media theatre\, posters
+ \, other formats)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2026 general submission deadline (clinical pe
+ rspectives\, symposia\, workshops\, institutes\, media theatre\, posters
+ \, other formats)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacap-annual-2026-20260604-late-new-research-poster-submission-deadli
+ ne@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:Deadline: AACAP 2026 late new research poster submission deadline
+DESCRIPTION:11:59 PM EDT. Notification in August 2026.\nMeeting: AACAP 73
+ rd Annual Meeting 2026\, Oct 26 to 31\, 2026\, Atlanta\, Georgia\, Hyatt
+  Regency Atlanta and Atlanta Marriott Marquis\nhttps://aacap.confex.com/
+ aacap/2026/cfp.cgi
+LOCATION:Atlanta\, Georgia\, Hyatt Regency Atlanta and Atlanta Marriott M
+ arquis
+URL:https://aacap.confex.com/aacap/2026/cfp.cgi
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2026 late new research poster submission dead
+ line
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2026 late new research poster submission dead
+ line
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2026 late new research poster submission dead
+ line
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,114 @@
+[
+ {
+  "id": "cpdd-2027",
+  "name": "CPDD 89th Annual Scientific Meeting 2027",
+  "short_name": "CPDD 2027",
+  "organizer": "College on Problems of Drug Dependence",
+  "organizer_url": "https://cpdd.org/",
+  "edition_url": "https://cpdd.org/meetings/current-meeting/",
+  "tags": [
+   "addiction",
+   "neuroscience",
+   "psychopharmacology",
+   "international"
+  ],
+  "start_date": "2027-06-26",
+  "end_date": "2027-06-30",
+  "city": "Toronto",
+  "country": "CA",
+  "venue": "Sheraton Centre Toronto Hotel",
+  "lat": 43.6516,
+  "lon": -79.3839,
+  "format": null,
+  "description": "The 89th CPDD Annual Scientific Meeting is scheduled for June 26 to 30, 2027 in Toronto, with roughly 1,300 attendees expected including participants in the NIDA International Forum. CPDD states that submissions for the 2027 program are open.",
+  "deadlines": [
+   {
+    "label": "Submission portal open",
+    "date": null,
+    "url": "https://cpdd.org/meetings/current-meeting/",
+    "estimated": false,
+    "note": "CPDD states Submissions Now Open for the 2027 meeting; the opening date and deadlines are not shown on the public site (portal is a login application)"
+   },
+   {
+    "label": "Symposium, workshop and forum proposal submission",
+    "date": "2026-10-29",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (opened August 25, closed October 30, 2025)"
+   },
+   {
+    "label": "Oral and poster abstract submission",
+    "date": "2026-12-10",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (closed December 11, 2025)"
+   },
+   {
+    "label": "Travel award application",
+    "date": "2026-12-15",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (closed December 16, 2025)"
+   },
+   {
+    "label": "Late-breaking research submission",
+    "date": "2027-03-18",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (February 9 to March 19, 2026)"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-13",
+   "end_date": "2026-06-17",
+   "city": "Portland",
+   "deadlines": [
+    {
+     "label": "Symposium, workshop and forum proposal submission",
+     "date": "2025-10-30"
+    },
+    {
+     "label": "Oral and poster abstract submission",
+     "date": "2025-12-11"
+    },
+    {
+     "label": "Travel award application",
+     "date": "2025-12-16"
+    },
+    {
+     "label": "Late-breaking research submission",
+     "date": "2026-03-19"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://cpdd.org/meetings/future-meetings/",
+    "accessed": "2026-09-09",
+    "note": "2027 meeting June 26 to 30, Toronto, Sheraton Toronto Centre; 2028 June 17 to 21, Milwaukee"
+   },
+   {
+    "url": "https://cpdd.org/meetings/current-meeting/",
+    "accessed": "2026-09-09",
+    "note": "2027 meeting in Toronto, submissions now open, expected attendance"
+   },
+   {
+    "url": "https://cpdd.org/meetings/current-meeting/submissions/",
+    "accessed": "2026-09-09",
+    "note": "2026 submission windows used for the estimates"
+   },
+   {
+    "url": "https://www.oregoncc.org/attend/events/2026/06/cpdd-88th-annual-scientific-meeting-2026",
+    "accessed": "2026-09-09",
+    "note": "2026 meeting dates and venue for the prior edition"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "CPDD lists the venue as Sheraton Toronto Centre. The current meeting page title still reads 88th although the content describes the 2027 Toronto meeting. Deadlines are estimates until the submissions page is updated.",
+  "region_name": "Ontario",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

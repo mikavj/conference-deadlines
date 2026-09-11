@@ -1,0 +1,38 @@
+[
+ {
+  "id": "nanos-annual-2027",
+  "name": "NANOS 53rd Annual Meeting 2027",
+  "short_name": "NANOS 2027",
+  "organizer": "North American Neuro-Ophthalmology Society",
+  "organizer_url": "https://www.nanosweb.org",
+  "edition_url": "https://www.nanosweb.org/i4a/pages/index.cfm?pageid=4040",
+  "areas": [
+   "neurology",
+   "ophthalmology"
+  ],
+  "tags": [
+   "vision-research"
+  ],
+  "start_date": "2027-03-19",
+  "end_date": "2027-03-23",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "Sheraton San Diego Hotel & Marina",
+  "lat": 32.7215,
+  "lon": -117.2137,
+  "format": null,
+  "description": "The NANOS Annual Meeting is the principal scientific meeting of the North American Neuro-Ophthalmology Society. The 53rd edition is scheduled for San Diego, California.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.nanosweb.org/i4a/pages/index.cfm?pageid=4040",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 dates, city and venue, and notes early-bird registration is expected to open fall 2026 without a specific date"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "No specific abstract submission or registration deadline dates were published on the official site at time of research; only a note that early-bird registration would open in fall 2026."
+ }
+]

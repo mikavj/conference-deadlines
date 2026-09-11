@@ -1,0 +1,106 @@
+[
+ {
+  "id": "smfm-pregnancy-meeting-2027",
+  "name": "2027 SMFM Pregnancy Meeting",
+  "short_name": "SMFM 2027",
+  "organizer": "Society for Maternal-Fetal Medicine",
+  "organizer_url": "https://www.smfm.org",
+  "edition_url": "https://www.smfm.org/events/2027-pregnancy-meeting",
+  "areas": [
+   "obstetrics-gynecology"
+  ],
+  "tags": [
+   "perinatal",
+   "maternal-fetal",
+   "obstetrics"
+  ],
+  "start_date": "2027-03-21",
+  "end_date": "2027-03-26",
+  "city": "National Harbor",
+  "region_name": "Maryland",
+  "country": "US",
+  "venue": "Gaylord National Resort and Convention Center",
+  "lat": 38.7895,
+  "lon": -77.0158,
+  "format": "in-person",
+  "description": "The Pregnancy Meeting is the annual scientific meeting of the Society for Maternal Fetal Medicine, featuring postgraduate courses, scientific forums, and oral and poster presentations on maternal fetal medicine. The 2027 edition takes place at the Gaylord National in National Harbor, Maryland.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-07-10",
+    "url": "https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDVAQWJzdHJhY3Rz",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-09-14",
+    "url": "https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDVAQWJzdHJhY3Rz",
+    "estimated": false,
+    "note": "9:00 pm ET"
+   },
+   {
+    "label": "Abstract notification",
+    "date": "2026-11-06",
+    "url": "https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDVAQWJzdHJhY3Rz",
+    "estimated": false,
+    "note": "oral and poster acceptance decisions announced"
+   },
+   {
+    "label": "Abstract withdrawal deadline",
+    "date": "2026-11-13",
+    "url": "https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDVAQWJzdHJhY3Rz",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Registration opens",
+    "date": "2026-10-05",
+    "url": "https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDVAQWJzdHJhY3Rz",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-11-16",
+    "url": "https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDVAQWJzdHJhY3Rz",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-12-21",
+    "url": "https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDVAQWJzdHJhY3Rz",
+    "estimated": false,
+    "note": "9:00 pm ET"
+   },
+   {
+    "label": "Late-breaking abstract notification",
+    "date": "2027-01-11",
+    "url": "https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDVAQWJzdHJhY3Rz",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.smfm.org/events/2027-pregnancy-meeting",
+    "accessed": "2026-09-10",
+    "note": "confirms meeting dates, venue, city, state"
+   },
+   {
+    "url": "https://smfm2027.eventscribe.net/aaStatic.asp?SFP=WUZHRU1WTUZAMjY1NDVAQWJzdHJhY3Rz",
+    "accessed": "2026-09-10",
+    "note": "official 2027 abstracts portal page listing full submission, notification, withdrawal, late-breaking, and registration-open dates"
+   },
+   {
+    "url": "https://fertility.news/opportunities/abstract-submission18843/",
+    "accessed": "2026-09-10",
+    "note": "secondary corroboration of September 14, 2026 abstract deadline and November notification dates"
+   }
+  ],
+  "confidence": "high",
+  "notes": "A separate fetch of smfm.org/abstracts returned content that appeared to describe the prior (2026, Las Vegas) meeting brochure rather than 2027; the dates used here come from the official smfm2027.eventscribe.net abstracts page, which is internally consistent and corroborated by an independent secondary source. Maintainer may want to re-check smfm.org/abstracts once it updates fully to the 2027 cycle."
+ }
+]

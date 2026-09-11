@@ -1,0 +1,82 @@
+[
+ {
+  "id": "apsard-2027",
+  "name": "APSARD 2027 Annual Conference (American Professional Society of ADHD and Related Disorders)",
+  "short_name": "APSARD 2027",
+  "organizer": "American Professional Society of ADHD and Related Disorders",
+  "organizer_url": "https://apsard.org/",
+  "edition_url": "https://apsard.org/Web/Events/Annual-Conference.aspx",
+  "tags": [
+   "adhd",
+   "child-adolescent",
+   "general-psychiatry"
+  ],
+  "start_date": "2027-01-14",
+  "end_date": "2027-01-17",
+  "city": "Washington",
+  "country": "US",
+  "venue": "Grand Hyatt Washington",
+  "lat": 38.899,
+  "lon": -77.0225,
+  "format": null,
+  "description": "The APSARD 2027 Annual Conference takes place January 14 to 17, 2027 at the Grand Hyatt Washington. Poster and symposia submissions are accepted through the APSARD submission platform.",
+  "deadlines": [
+   {
+    "label": "Poster submission",
+    "date": null,
+    "url": "https://apsard.secure-platform.com/site/",
+    "estimated": false,
+    "note": "Portal open; deadline not shown on public pages (guidelines PDF requires sign in)"
+   },
+   {
+    "label": "Symposia submission",
+    "date": null,
+    "url": "https://apsard.secure-platform.com/site/",
+    "estimated": false,
+    "note": "Portal open; deadline not shown on public pages"
+   },
+   {
+    "label": "Emerging Leader Travel Award application",
+    "date": "2026-10-29",
+    "url": "https://apsard.secure-platform.com/site/",
+    "estimated": false,
+    "note": "Stated as Deadline October 29 on the submission platform"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-01-15",
+   "end_date": "2026-01-18",
+   "city": "San Diego",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://apsard.org/",
+    "accessed": "2026-09-09",
+    "note": "Dates January 14 to 17, 2027, Washington, DC"
+   },
+   {
+    "url": "https://apsard.org/Web/Events/Annual-Conference.aspx",
+    "accessed": "2026-09-09",
+    "note": "Conference page with hotel room block at the Grand Hyatt Washington and submission links"
+   },
+   {
+    "url": "https://apsard.secure-platform.com/site/",
+    "accessed": "2026-09-09",
+    "note": "Poster and symposia submission portal, travel award deadline"
+   },
+   {
+    "url": "https://www.globenewswire.com/news-release/2026/01/15/3219495/34897/en/Collegium-to-Present-Four-Real-World-Data-Posters-at-APSARD-2026-Annual-Conference.html",
+    "accessed": "2026-09-09",
+    "note": "2026 conference dates and venue for the prior edition"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Abstract deadlines could not be verified; the 2027 submission guidelines link points to a SharePoint file that requires authentication.",
+  "region_name": "District of Columbia",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

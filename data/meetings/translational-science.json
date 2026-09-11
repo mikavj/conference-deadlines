@@ -1,0 +1,43 @@
+[
+ {
+  "id": "translational-science-2027",
+  "name": "Translational Science 2027",
+  "short_name": "TS27",
+  "organizer": "Association for Clinical and Translational Science",
+  "organizer_url": "https://www.actscience.org",
+  "edition_url": "https://www.actscience.org/Translational-Science",
+  "areas": [
+   "health-services"
+  ],
+  "tags": [
+   "translational",
+   "clinical-trials"
+  ],
+  "start_date": "2027-04-20",
+  "end_date": "2027-04-23",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": null,
+  "lat": 38.9072,
+  "lon": -77.0369,
+  "format": "in-person",
+  "description": "The Association for Clinical and Translational Science holds Translational Science 2027 in Washington, DC. The meeting is in person only and covers clinical and translational research methods and infrastructure.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.actscience.org/Translational-Science",
+    "accessed": "2026-09-10",
+    "note": "Confirms April 20 to 23, 2027, Washington DC, and that the meeting will be in person only"
+   },
+   {
+    "url": "https://www.actscience.org/Call-for-Proposals",
+    "accessed": "2026-09-10",
+    "note": "Confirms scientific session and poster proposals are open, but no closing date was visible in the accessible content"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Session and poster proposal submissions are open as of the research date but no specific closing date could be confirmed on accessible pages; check actscience.org/Call-for-Proposals directly for the current deadline."
+ }
+]

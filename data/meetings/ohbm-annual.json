@@ -1,0 +1,75 @@
+[
+ {
+  "id": "ohbm-annual-2027",
+  "name": "OHBM Annual Meeting 2027",
+  "short_name": "OHBM 2027",
+  "organizer": "Organization for Human Brain Mapping",
+  "organizer_url": "https://www.humanbrainmapping.org",
+  "edition_url": "https://www.humanbrainmapping.org/ohbm-2027/",
+  "areas": [
+   "neurology",
+   "neuroscience",
+   "radiology"
+  ],
+  "tags": [
+   "neuroscience",
+   "imaging",
+   "neuropsychology"
+  ],
+  "start_date": "2027-06-26",
+  "end_date": "2027-06-30",
+  "city": "Toronto",
+  "region_name": "Ontario",
+  "country": "CA",
+  "venue": "Metro Toronto Convention Centre",
+  "lat": 43.6426,
+  "lon": -79.3871,
+  "format": "in-person",
+  "description": "Annual meeting of the Organization for Human Brain Mapping, covering neuroimaging methods and human brain mapping research.",
+  "deadlines": [
+   {
+    "label": "Content submission site opens",
+    "date": "2026-11-01",
+    "url": "https://www.humanbrainmapping.org/ohbm-2027/",
+    "estimated": true,
+    "note": "only month published (November 2026); exact day not yet announced, first of month used as placeholder"
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-12-01",
+    "url": "https://www.humanbrainmapping.org/ohbm-2027/",
+    "estimated": true,
+    "note": "only month published (December 2026); exact day not yet announced, first of month used as placeholder; volunteer applications share this deadline"
+   },
+   {
+    "label": "Registration opens",
+    "date": "2027-01-01",
+    "url": "https://www.humanbrainmapping.org/ohbm-annual-meeting-faq/",
+    "estimated": true,
+    "note": "only month published (January 2027); exact day not yet announced"
+   },
+   {
+    "label": "Abstract notification",
+    "date": "2027-02-01",
+    "url": "https://www.humanbrainmapping.org/ohbm-2027/",
+    "estimated": true,
+    "note": "only month published (February 2027); exact day not yet announced"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.humanbrainmapping.org/ohbm-2027/",
+    "accessed": "2026-09-10",
+    "note": "dates, venue, city, and month-level deadline schedule"
+   },
+   {
+    "url": "https://www.humanbrainmapping.org/ohbm-annual-meeting-faq/",
+    "accessed": "2026-09-10",
+    "note": "confirms registration opens January 2027, no exact day given"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "OHBM 2026 (Bordeaux, France, June 14-18 2026) already occurred before today's date and is not included. All 2027 deadlines are published only to month precision; exact days are not yet announced."
+ }
+]

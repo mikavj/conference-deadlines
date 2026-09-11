@@ -1,0 +1,91 @@
+[
+ {
+  "id": "psych-congress-2026",
+  "name": "Psych Congress 2026",
+  "short_name": "Psych Congress 2026",
+  "organizer": "HMP Global",
+  "organizer_url": "https://www.hmpglobalevents.com/",
+  "edition_url": "https://www.hmpglobalevents.com/psych-congress",
+  "tags": [
+   "psychopharmacology",
+   "general-psychiatry"
+  ],
+  "start_date": "2026-09-15",
+  "end_date": "2026-09-19",
+  "city": "New Orleans",
+  "country": "US",
+  "venue": "New Orleans Ernest N. Morial Convention Center",
+  "lat": 29.9407,
+  "lon": -90.063,
+  "format": "in-person",
+  "description": "A clinical psychopharmacology conference for psychiatrists, nurse practitioners and other prescribers, organized by HMP Global. Poster sessions take place in the exhibit hall on September 17 and 18, 2026.",
+  "deadlines": [
+   {
+    "label": "Poster abstract submission opens",
+    "date": "2026-03-26",
+    "url": "https://www.hmpglobalevents.com/psych-congress/poster-abstracts",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Poster submission for Latest Discoveries and Emerging Trends sessions",
+    "date": "2026-07-27",
+    "url": "https://www.hmpglobalevents.com/psych-congress/poster-abstracts",
+    "estimated": false,
+    "note": "9:00 AM ET. Topics: MDD, psychotic disorders, neurodevelopmental disorders."
+   },
+   {
+    "label": "Poster abstract submission deadline",
+    "date": "2026-08-07",
+    "url": "https://www.hmpglobalevents.com/psych-congress/poster-abstracts",
+    "estimated": false,
+    "note": "11:59 PM ET. Decisions sent on a rolling basis in the first week of April through August."
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-09-17",
+   "end_date": "2025-09-21",
+   "city": "San Diego",
+   "deadlines": [
+    {
+     "label": "Poster abstract submission deadline",
+     "date": "2025-08-08"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.hmpglobalevents.com/psych-congress/poster-abstracts",
+    "accessed": "2026-09-09",
+    "note": "Confirms portal opening March 26, 2026, special session deadline July 27, 2026, final deadline August 7, 2026, meeting dates and poster session times."
+   },
+   {
+    "url": "https://www.hmpglobalevents.com/psych-congress",
+    "accessed": "2026-09-09",
+    "note": "Confirms September 15 to 19, 2026 in New Orleans."
+   },
+   {
+    "url": "https://hotels.hmpglobalevents.com/events/psych-congress",
+    "accessed": "2026-09-09",
+    "note": "Official HMP housing portal names the New Orleans Ernest N. Morial Convention Center, 900 Convention Center Blvd."
+   },
+   {
+    "url": "https://www.hmpglobalevents.com/psychcongressportfolio",
+    "accessed": "2026-09-09",
+    "note": "Portfolio page lists no 2027 Psych Congress date; sister events NP Institute (April 10 to 13, 2027, Boston) and Elevate (June 3 to 6, 2027, Las Vegas) are listed."
+   },
+   {
+    "url": "https://www.conferenceabstracts.com/uploads/documents/25073/PsychCongressPosters2025_SubmissionGuidelines.pdf",
+    "accessed": "2026-09-09",
+    "note": "2025 edition poster deadline August 8, 2025 (from search snippet)."
+   }
+  ],
+  "confidence": "high",
+  "notes": "All 2026 submission deadlines have passed as of September 9, 2026. Psych Congress 2027 dates and city are not yet published on HMP Global pages. Registration tier deadlines were not found (registration page returned 404).",
+  "region_name": "Louisiana",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

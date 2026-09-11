@@ -1,0 +1,121 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AD/PD 2027\, 21st International Conference on Alzheimer's an
+ d Parkinson's Diseases
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:adpd-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270321
+SUMMARY:AD/PD 2027\, 21st International Conference on Alzheimer's and Par
+ kinson's Diseases
+DESCRIPTION:AD/PD is a biennial hybrid conference covering advances in sc
+ ience and therapy for Alzheimer's disease\, Parkinson's disease and rela
+ ted neurodegenerative disorders. The 2027 edition is the 21st in the ser
+ ies and is expected to draw about 5000 delegates.\n\nDeadlines\nAbstract
+  submission deadline: 2026-09-01\nAbstract submission deadline (extended
+ ): 2026-09-08\nEarly registration deadline: 2026-12-09\n\nhttps://adpd.k
+ enes.com/
+LOCATION:Barcelona\, Catalonia\, ES\, Centre Convencions Internacional Ba
+ rcelona (CCIB)
+URL:https://adpd.kenes.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AD/PD 2027\, 21st International Conference on Alzheimer's and
+  Parkinson's Diseases
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adpd-2027-20260901-abstract-submission-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Deadline: AD/PD 2027 abstract submission deadline
+DESCRIPTION:Initial deadline\nMeeting: AD/PD 2027\, 21st International Co
+ nference on Alzheimer's and Parkinson's Diseases\, Mar 16 to 20\, 2027\,
+  Barcelona\, Catalonia\, ES\, Centre Convencions Internacional Barcelona
+  (CCIB)\nhttps://adpd.kenes.com/abstract-submission/
+LOCATION:Barcelona\, Catalonia\, ES\, Centre Convencions Internacional Ba
+ rcelona (CCIB)
+URL:https://adpd.kenes.com/abstract-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adpd-2027-20260908-abstract-submission-deadline-extended-@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Deadline: AD/PD 2027 abstract submission deadline (extended)
+DESCRIPTION:Extended deadline\, midnight CET\nMeeting: AD/PD 2027\, 21st 
+ International Conference on Alzheimer's and Parkinson's Diseases\, Mar 1
+ 6 to 20\, 2027\, Barcelona\, Catalonia\, ES\, Centre Convencions Interna
+ cional Barcelona (CCIB)\nhttps://adpd.kenes.com/abstract-submission/
+LOCATION:Barcelona\, Catalonia\, ES\, Centre Convencions Internacional Ba
+ rcelona (CCIB)
+URL:https://adpd.kenes.com/abstract-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline (extended)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline (extended)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 abstract submission deadline (extended)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:adpd-2027-20261209-early-registration-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Deadline: AD/PD 2027 early registration deadline
+DESCRIPTION:Meeting: AD/PD 2027\, 21st International Conference on Alzhei
+ mer's and Parkinson's Diseases\, Mar 16 to 20\, 2027\, Barcelona\, Catal
+ onia\, ES\, Centre Convencions Internacional Barcelona (CCIB)\nhttps://a
+ dpd.kenes.com/
+LOCATION:Barcelona\, Catalonia\, ES\, Centre Convencions Internacional Ba
+ rcelona (CCIB)
+URL:https://adpd.kenes.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AD/PD 2027 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

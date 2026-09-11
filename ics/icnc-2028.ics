@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:20th International Child Neurology Congress
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:icnc-2028@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20280515
+DTEND;VALUE=DATE:20280520
+SUMMARY:20th International Child Neurology Congress
+DESCRIPTION:Congress of the International Child Neurology Association hel
+ d jointly with the Sociedad Mexicana de Neurologia Pediatrica\, themed C
+ onnecting minds\, transforming lives.\n\nhttps://neurologiapediatrica.mx
+ /congreso
+LOCATION:Merida\, Yucatan\, MX\, Yucatan International Congress Center
+URL:https://neurologiapediatrica.mx/congreso
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:20th International Child Neurology Congress
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

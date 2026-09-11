@@ -1,0 +1,120 @@
+[
+ {
+  "id": "congress-neurological-surgeons-2026",
+  "name": "76th Congress of Neurological Surgeons Annual Meeting",
+  "short_name": "CNS Neurosurgery 2026",
+  "organizer": "Congress of Neurological Surgeons",
+  "organizer_url": "https://www.cns.org",
+  "edition_url": "https://www.cns.org/annualmeeting",
+  "areas": [
+   "neurology",
+   "surgery"
+  ],
+  "tags": [
+   "neurosurgery",
+   "neurocritical-care",
+   "student-resident-research"
+  ],
+  "start_date": "2026-10-31",
+  "end_date": "2026-11-04",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": "Walter E. Washington Convention Center",
+  "lat": 38.9042,
+  "lon": -77.0229,
+  "format": "in-person",
+  "description": "Annual scientific meeting of the Congress of Neurological Surgeons covering the full range of neurosurgical subspecialties. It is the 76th edition of the meeting, themed Evolution.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-05-26",
+    "url": "https://www.cns.org/annualmeeting/program/abstracts",
+    "estimated": false,
+    "note": "8:00 pm CT; deadline was extended once to this date"
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-05-31",
+    "url": "https://www.cns.org/annualmeeting/overview",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Advanced registration deadline",
+    "date": "2026-09-30",
+    "url": "https://www.cns.org/annualmeeting/overview",
+    "estimated": false,
+    "note": "cutoff between Advanced and Regular registration pricing tiers"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.cns.org/annualmeeting",
+    "accessed": "2026-09-10",
+    "note": "confirms 2026 dates and Washington DC location"
+   },
+   {
+    "url": "https://www.cns.org/meetings/past-and-future-annual-meetings",
+    "accessed": "2026-09-10",
+    "note": "confirms 2026-2032 dates and cities table"
+   },
+   {
+    "url": "https://www.cns.org/annualmeeting/overview",
+    "accessed": "2026-09-10",
+    "note": "registration pricing deadlines"
+   },
+   {
+    "url": "https://www.cns.org/annualmeeting/program/abstracts",
+    "accessed": "2026-09-10",
+    "note": "abstract submission deadline"
+   },
+   {
+    "url": "https://www.cns.org/annualmeeting/travel-hotel/location",
+    "accessed": "2026-09-10",
+    "note": "venue name and address"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Late-breaking abstract or poster deadline (if any) was not found on the official abstracts page."
+ },
+ {
+  "id": "congress-neurological-surgeons-2027",
+  "name": "77th Congress of Neurological Surgeons Annual Meeting",
+  "short_name": "CNS Neurosurgery 2027",
+  "organizer": "Congress of Neurological Surgeons",
+  "organizer_url": "https://www.cns.org",
+  "edition_url": "https://www.cns.org/meetings/past-and-future-annual-meetings",
+  "areas": [
+   "neurology",
+   "surgery"
+  ],
+  "tags": [
+   "neurosurgery",
+   "neurocritical-care",
+   "student-resident-research"
+  ],
+  "start_date": "2027-10-23",
+  "end_date": "2027-10-27",
+  "city": "Phoenix",
+  "region_name": "Arizona",
+  "country": "US",
+  "venue": null,
+  "lat": 33.4484,
+  "lon": -112.074,
+  "format": "in-person",
+  "description": "Annual scientific meeting of the Congress of Neurological Surgeons covering the full range of neurosurgical subspecialties, to be held in Phoenix, Arizona.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.cns.org/meetings/past-and-future-annual-meetings",
+    "accessed": "2026-09-10",
+    "note": "only official page confirming 2027 dates and city; no venue or deadlines published yet"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Only dates and city are published for 2027; venue and all submission and registration deadlines are not yet announced."
+ }
+]

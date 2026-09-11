@@ -1,0 +1,223 @@
+[
+ {
+  "id": "acnp-annual-2027",
+  "name": "ACNP 65th Annual Meeting 2027",
+  "short_name": "ACNP 2027",
+  "organizer": "American College of Neuropsychopharmacology",
+  "organizer_url": "https://acnp.org/",
+  "edition_url": "https://acnp.org/annual-meeting/",
+  "tags": [
+   "psychopharmacology",
+   "neuroscience",
+   "biological-psychiatry"
+  ],
+  "start_date": "2027-01-10",
+  "end_date": "2027-01-13",
+  "city": "San Diego",
+  "country": "US",
+  "venue": "Manchester Grand Hyatt San Diego",
+  "lat": 32.7116,
+  "lon": -117.1683,
+  "format": "in-person",
+  "description": "The 65th ACNP Annual Meeting runs Sunday through Wednesday, January 10 to 13, 2027, at the Manchester Grand Hyatt in San Diego. Attendance is by membership or invitation, and poster abstract submission requires prior meeting registration.",
+  "deadlines": [
+   {
+    "label": "Travel award application",
+    "date": "2026-05-14",
+    "url": "https://acnp.org/annual-meeting/travel-awards/",
+    "estimated": false,
+    "note": "5:00 pm Central; notifications by late July 2026; closed"
+   },
+   {
+    "label": "Panel, mini-panel and study group chair submission",
+    "date": "2026-05-19",
+    "url": "https://acnp.org/annual-meeting/submissions/",
+    "estimated": false,
+    "note": "5:00 pm Central; closed"
+   },
+   {
+    "label": "Panel presenter abstracts due",
+    "date": "2026-06-02",
+    "url": "https://acnp.org/annual-meeting/submissions/",
+    "estimated": false,
+    "note": "closed"
+   },
+   {
+    "label": "Panel, mini-panel and study group final submission",
+    "date": "2026-06-04",
+    "url": "https://acnp.org/annual-meeting/submissions/",
+    "estimated": false,
+    "note": "notifications August 2026; closed"
+   },
+   {
+    "label": "Poster abstract submission opens",
+    "date": null,
+    "url": "https://acnp.org/annual-meeting/",
+    "estimated": false,
+    "note": "opened in June 2026 together with registration; exact date not stated"
+   },
+   {
+    "label": "Member invited guest invitation requests",
+    "date": "2026-08-26",
+    "url": "https://acnp.org/annual-meeting/",
+    "estimated": false,
+    "note": "invitation bank capped at 400 guests for this meeting"
+   },
+   {
+    "label": "Poster abstract submission",
+    "date": "2026-08-27",
+    "url": "https://acnp.org/annual-meeting/submissions/",
+    "estimated": false,
+    "note": "5:00 pm Central; not extended; notifications October 2026; closed"
+   },
+   {
+    "label": "Promising Targets abstract submission opens",
+    "date": null,
+    "url": "https://acnp.org/annual-meeting/submissions/",
+    "estimated": false,
+    "note": "opens October 2026"
+   },
+   {
+    "label": "Promising Targets abstract submission",
+    "date": "2026-10-28",
+    "url": "https://acnp.org/annual-meeting/submissions/",
+    "estimated": false,
+    "note": "5:00 pm Central; notifications late November 2026"
+   },
+   {
+    "label": "Early registration",
+    "date": null,
+    "url": null,
+    "estimated": false,
+    "note": "registration opened June 2026; no early deadline published on the pages reviewed"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-01-12",
+   "end_date": "2026-01-15",
+   "city": "Nassau, Bahamas",
+   "deadlines": [
+    {
+     "label": "Poster abstract submission",
+     "date": "2025-08-28"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://acnp.org/annual-meeting/",
+    "accessed": "2026-09-09",
+    "note": "Dates January 10 to 13, 2027, Manchester Grand Hyatt San Diego, invitation cap, poster submissions open with registration in June"
+   },
+   {
+    "url": "https://acnp.org/annual-meeting/submissions/",
+    "accessed": "2026-09-09",
+    "note": "Poster deadline August 27, 2026; panel deadlines May 19, June 2, June 4, 2026; Promising Targets deadline October 28, 2026"
+   },
+   {
+    "url": "https://acnp.org/annual-meeting/travel-awards/",
+    "accessed": "2026-09-09",
+    "note": "Travel award deadline May 14, 2026"
+   },
+   {
+    "url": "https://acnp.org/annual-meeting/dates-locations/",
+    "accessed": "2026-09-09",
+    "note": "Future meeting list including 2027 San Diego and 2028 Bahamas; 2026 meeting January 12 to 15 in Nassau"
+   },
+   {
+    "url": "https://x.com/ACNPorg/status/1937163849871798301",
+    "accessed": "2026-09-09",
+    "note": "2026 meeting poster deadline August 28, 2025"
+   }
+  ],
+  "confidence": "high",
+  "notes": "ACNP moved from December to January meetings starting with the 64th meeting (January 2026), so there was no calendar 2025 meeting and the 2026 edition has already ended. Poster and panel deadlines for the January 2027 meeting have passed; only the Promising Targets track remains open.",
+  "region_name": "California",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "acnp-annual-2028",
+  "name": "ACNP 66th Annual Meeting 2028",
+  "short_name": "ACNP 2028",
+  "organizer": "American College of Neuropsychopharmacology",
+  "organizer_url": "https://acnp.org/",
+  "edition_url": "https://acnp.org/annual-meeting/dates-locations/",
+  "tags": [
+   "psychopharmacology",
+   "neuroscience",
+   "biological-psychiatry"
+  ],
+  "start_date": "2028-01-10",
+  "end_date": "2028-01-13",
+  "city": "Paradise Island",
+  "country": "BS",
+  "venue": "Atlantis Paradise Island Resort",
+  "lat": 25.0836,
+  "lon": -77.321,
+  "format": "in-person",
+  "description": "ACNP lists its 66th Annual Meeting for January 10 to 13, 2028, at the Atlantis Paradise Island Resort in the Bahamas. Submission deadlines for this edition have not been published.",
+  "deadlines": [
+   {
+    "label": "Travel award application",
+    "date": "2027-05-13",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2027 cycle (May 14, 2026); not published"
+   },
+   {
+    "label": "Panel, mini-panel and study group final submission",
+    "date": "2027-06-03",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2027 cycle (June 4, 2026); not published"
+   },
+   {
+    "label": "Poster abstract submission",
+    "date": "2027-08-26",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2027 cycle (August 27, 2026, late August in both recent cycles); not published"
+   }
+  ],
+  "prior_edition": {
+   "year": 2027,
+   "start_date": "2027-01-10",
+   "end_date": "2027-01-13",
+   "city": "San Diego",
+   "deadlines": [
+    {
+     "label": "Travel award application",
+     "date": "2026-05-14"
+    },
+    {
+     "label": "Panel final submission",
+     "date": "2026-06-04"
+    },
+    {
+     "label": "Poster abstract submission",
+     "date": "2026-08-27"
+    },
+    {
+     "label": "Promising Targets abstract submission",
+     "date": "2026-10-28"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://acnp.org/annual-meeting/dates-locations/",
+    "accessed": "2026-09-09",
+    "note": "January 10 to 13, 2028, Atlantis Paradise Island Resort, Bahamas; also lists December 4 to 7, 2028, Las Vegas"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Included because the January 2027 poster deadline has already passed and this is the next open cycle. The same page lists a second 2028 meeting on December 4 to 7, 2028, in Las Vegas, which suggests a return to December scheduling. All deadlines here are estimates.",
+  "region_name": "New Providence",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

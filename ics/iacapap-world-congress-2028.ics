@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:28th World Congress of IACAPAP 2028
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:iacapap-world-congress-2028@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20280919
+DTEND;VALUE=DATE:20280923
+SUMMARY:28th World Congress of IACAPAP 2028
+DESCRIPTION:The 28th World Congress of IACAPAP is scheduled for the New Z
+ ealand International Convention Centre in Auckland with Dr Hinemoa Elder
+  as congress president. The 27th congress took place in Hamburg from 1 t
+ o 4 July 2026 and the 29th is planned for Kyoto in 2030.\n\nDeadlines\nA
+ bstract submission: 2028-04-15 (estimated)\n\nhttps://www.iacapap-congre
+ ss.com/information/iacapap-2028.html
+LOCATION:Auckland\, Auckland\, NZ\, New Zealand International Convention 
+ Centre (NZICC)
+URL:https://www.iacapap-congress.com/information/iacapap-2028.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:28th World Congress of IACAPAP 2028
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iacapap-world-congress-2028-20280415-abstract-submission@conference-c
+ alendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20280415
+DTEND;VALUE=DATE:20280416
+SUMMARY:Deadline: IACAPAP 2028 abstract submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (abstracts accepted 26 Januar
+ y to 16 February 2026 for a July congress\, about four and a half months
+  ahead). Not published.\nMeeting: 28th World Congress of IACAPAP 2028\, 
+ Sep 19 to 22\, 2028\, Auckland\, Auckland\, NZ\, New Zealand Internation
+ al Convention Centre (NZICC)\nhttps://www.iacapap-congress.com/informati
+ on/iacapap-2028.html
+LOCATION:Auckland\, Auckland\, NZ\, New Zealand International Convention 
+ Centre (NZICC)
+URL:https://www.iacapap-congress.com/information/iacapap-2028.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IACAPAP 2028 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IACAPAP 2028 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IACAPAP 2028 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

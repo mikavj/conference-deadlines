@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAO 2027 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aao-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271116
+SUMMARY:AAO 2027 Annual Meeting
+DESCRIPTION:AAO 2027 is the American Academy of Ophthalmology's annual me
+ eting\, scheduled for November 12 to 15\, 2027 in Las Vegas\, Nevada at 
+ the Venetian Expo and Hotel.\n\nDeadlines\nInstruction course submission
+  opens: 2026-12-10\nInstruction course submission deadline: 2027-01-12\n
+ Paper/poster and video submission opens: 2027-03-11\nPaper/poster and vi
+ deo submission deadline: 2027-04-13\nInstruction course acceptance notif
+ ication: 2027-04-15 (estimated)\nInstruction course schedule notificatio
+ n: 2027-05-15 (estimated)\nPaper/poster and video notification: 2027-07-
+ 15 (estimated)\n\nhttps://www.aao.org/annual-meeting/past-and-future-mee
+ tings
+LOCATION:Las Vegas\, Nevada\, The Venetian Expo
+URL:https://www.aao.org/annual-meeting/past-and-future-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAO 2027 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aao-annual-2027-20270112-instruction-course-submission-deadline@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Deadline: AAO 2027 instruction course submission deadline
+DESCRIPTION:Meeting: AAO 2027 Annual Meeting\, Nov 12 to 15\, 2027\, Las 
+ Vegas\, Nevada\, The Venetian Expo\nhttps://www.aao.org/annual-meeting/p
+ resenter/dates
+LOCATION:Las Vegas\, Nevada\, The Venetian Expo
+URL:https://www.aao.org/annual-meeting/presenter/dates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2027 instruction course submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2027 instruction course submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2027 instruction course submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aao-annual-2027-20270413-paper-poster-and-video-submission-deadline@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:Deadline: AAO 2027 paper/poster and video submission deadline
+DESCRIPTION:Meeting: AAO 2027 Annual Meeting\, Nov 12 to 15\, 2027\, Las 
+ Vegas\, Nevada\, The Venetian Expo\nhttps://www.aao.org/annual-meeting/p
+ resenter/dates
+LOCATION:Las Vegas\, Nevada\, The Venetian Expo
+URL:https://www.aao.org/annual-meeting/presenter/dates
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2027 paper/poster and video submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2027 paper/poster and video submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAO 2027 paper/poster and video submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

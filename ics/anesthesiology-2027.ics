@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ANESTHESIOLOGY 2027 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:anesthesiology-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271020
+SUMMARY:ANESTHESIOLOGY 2027 Annual Meeting
+DESCRIPTION:ANESTHESIOLOGY is the American Society of Anesthesiologists' 
+ annual meeting covering clinical and scientific developments in anesthes
+ ia care. The 2027 meeting is scheduled for Boston\, Massachusetts.\n\nht
+ tps://www.asahq.org/meetings/anesthesiology-annual-meeting
+LOCATION:Boston\, Massachusetts
+URL:https://www.asahq.org/meetings/anesthesiology-annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ANESTHESIOLOGY 2027 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

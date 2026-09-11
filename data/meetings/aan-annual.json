@@ -1,0 +1,90 @@
+[
+ {
+  "id": "aan-annual-2027",
+  "name": "2027 AAN Annual Meeting",
+  "short_name": "AAN 2027",
+  "organizer": "American Academy of Neurology",
+  "organizer_url": "https://www.aan.com",
+  "edition_url": "https://www.aan.com/events/annual-meeting",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "stroke",
+   "epilepsy",
+   "headache",
+   "movement-disorders",
+   "dementia",
+   "multiple-sclerosis",
+   "neuromuscular",
+   "clinical-trials",
+   "student-resident-research"
+  ],
+  "start_date": "2027-05-01",
+  "end_date": "2027-05-05",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": null,
+  "lat": 38.9072,
+  "lon": -77.0369,
+  "format": "hybrid",
+  "description": "The AAN Annual Meeting is the flagship scientific and educational meeting of the American Academy of Neurology. The 2027 edition is held in Washington, D.C. and online, with plenary sessions, abstract presentations, and continuing medical education across neurology subspecialties.",
+  "deadlines": [
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-10-13",
+    "url": "https://www.aan.com/events/annual-meeting/abstracts",
+    "estimated": false,
+    "note": "11:59 p.m. Central Time. A non-refundable submission fee applies and accepted abstracts must be presented in person."
+   },
+   {
+    "label": "Abstract disclosure deadline",
+    "date": "2026-11-19",
+    "url": "https://www.aan.com/events/annual-meeting/abstracts",
+    "estimated": false,
+    "note": "11:59 p.m. Central Time, required for submitted abstracts."
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-12-01",
+    "url": "https://www.aan.com/events/annual-meeting/abstracts",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission deadline",
+    "date": "2027-02-10",
+    "url": "https://www.aan.com/events/annual-meeting/abstracts",
+    "estimated": false,
+    "note": "11:59 p.m. Central Time."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-18",
+   "end_date": "2026-04-22",
+   "city": "Chicago",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.aan.com/events/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Confirmed 2027 dates (May 1-5), Washington DC location, hybrid format, and that registration opens early November 2026."
+   },
+   {
+    "url": "https://www.aan.com/events/annual-meeting/abstracts",
+    "accessed": "2026-09-10",
+    "note": "Confirmed regular abstract deadline, disclosure deadline, and late-breaking abstract submission window and deadline."
+   },
+   {
+    "url": "https://www.aan.com/events/annual-meeting/registration",
+    "accessed": "2026-09-10",
+    "note": "Confirmed 2026 (prior edition) meeting was April 18-22 in Chicago; page did not yet list a 2027 registration deadline."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Registration deadlines and a specific Washington DC venue for 2027 are not yet published as of 2026-09-10; AAN states registration opens in early November 2026. Regular abstract notification is stated only as late January 2027 and late-breaking notification as mid-March 2027, with no exact date published, so these were omitted rather than invented. Venue not yet announced, so coordinates are the Washington DC city center."
+ }
+]

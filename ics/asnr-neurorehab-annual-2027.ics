@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Society of Neurorehabilitation Annual Meeting 2027 
+ (ASNR2027)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:asnr-neurorehab-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270319
+SUMMARY:American Society of Neurorehabilitation Annual Meeting 2027 (ASNR
+ 2027)
+DESCRIPTION:The American Society of Neurorehabilitation Annual Meeting br
+ ings together clinicians and researchers working on recovery of function
+  after neurological injury\, with a focus areas including stroke motor r
+ ecovery and neuromodulation. The 2027 meeting is currently announced onl
+ y as a save the date.\n\nhttps://www.asnr.com/i4a/pages/index.cfm?pageid
+ =3717
+LOCATION:Durham\, North Carolina\, Durham Convention Center
+URL:https://www.asnr.com/i4a/pages/index.cfm?pageid=3717
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Society of Neurorehabilitation Annual Meeting 2027 (
+ ASNR2027)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

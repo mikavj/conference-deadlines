@@ -1,0 +1,112 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ISCTM 2026 Autumn Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:isctm-autumn-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260918
+SUMMARY:ISCTM 2026 Autumn Conference
+DESCRIPTION:The ISCTM 2026 Autumn Conference meets September 16 to 17\, 2
+ 026\, at the Westin Philadelphia. Sessions cover biomarkers\, novel endp
+ oints in mood and psychosis trials\, neuromodulation and digital health 
+ technologies\; poster submissions closed June 18\, 2026.\n\nDeadlines\nP
+ oster submission: 2026-06-18\nSpeaker abstract submission: 2026-07-01\nS
+ peaker slide submission: 2026-09-03\n\nhttps://isctm.org/meeting/2026-au
+ tumn-conference/
+LOCATION:Philadelphia\, Pennsylvania\, The Westin Philadelphia
+URL:https://isctm.org/meeting/2026-autumn-conference/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ISCTM 2026 Autumn Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isctm-autumn-2026-20260618-poster-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:Deadline: ISCTM Autumn 2026 poster submission
+DESCRIPTION:closed\nMeeting: ISCTM 2026 Autumn Conference\, Sep 16 to 17\
+ , 2026\, Philadelphia\, Pennsylvania\, The Westin Philadelphia\nhttps://
+ isctm.org/upcoming-at-isctm/
+LOCATION:Philadelphia\, Pennsylvania\, The Westin Philadelphia
+URL:https://isctm.org/upcoming-at-isctm/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2026 poster submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2026 poster submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2026 poster submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isctm-autumn-2026-20260701-speaker-abstract-submission@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Deadline: ISCTM Autumn 2026 speaker abstract submission
+DESCRIPTION:for invited session speakers\nMeeting: ISCTM 2026 Autumn Conf
+ erence\, Sep 16 to 17\, 2026\, Philadelphia\, Pennsylvania\, The Westin 
+ Philadelphia\nhttps://isctm.org/2026-autumn-conference-speakers-corner/
+LOCATION:Philadelphia\, Pennsylvania\, The Westin Philadelphia
+URL:https://isctm.org/2026-autumn-conference-speakers-corner/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2026 speaker abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2026 speaker abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2026 speaker abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:isctm-autumn-2026-20260903-speaker-slide-submission@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Deadline: ISCTM Autumn 2026 speaker slide submission
+DESCRIPTION:Meeting: ISCTM 2026 Autumn Conference\, Sep 16 to 17\, 2026\,
+  Philadelphia\, Pennsylvania\, The Westin Philadelphia\nhttps://isctm.or
+ g/2026-autumn-conference-speakers-corner/
+LOCATION:Philadelphia\, Pennsylvania\, The Westin Philadelphia
+URL:https://isctm.org/2026-autumn-conference-speakers-corner/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2026 speaker slide submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2026 speaker slide submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ISCTM Autumn 2026 speaker slide submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

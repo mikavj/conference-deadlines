@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 AANEM Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aanem-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271031
+SUMMARY:2027 AANEM Annual Meeting
+DESCRIPTION:The American Association of Neuromuscular and Electrodiagnost
+ ic Medicine holds its annual meeting in San Antonio\, Texas. The program
+  covers electrodiagnostic medicine and neuromuscular disease research an
+ d practice.\n\nDeadlines\nAbstract submission opens: 2027-01-01\nAbstrac
+ t submission: 2027-03-15\n\nhttps://www.aanem.org/meetings/future-annual
+ -meetings
+LOCATION:San Antonio\, Texas
+URL:https://www.aanem.org/meetings/future-annual-meetings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 AANEM Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2027-20270315-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Deadline: AANEM 2027 abstract submission
+DESCRIPTION:Meeting: 2027 AANEM Annual Meeting\, Oct 27 to 30\, 2027\, Sa
+ n Antonio\, Texas\nhttps://www.aanem.org/meetings/annual-meeting/abstrac
+ t-information-submission
+LOCATION:San Antonio\, Texas
+URL:https://www.aanem.org/meetings/annual-meeting/abstract-information-su
+ bmission
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

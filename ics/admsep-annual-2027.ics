@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ADMSEP Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:admsep-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270620
+SUMMARY:ADMSEP Annual Meeting 2027
+DESCRIPTION:The annual meeting of directors of medical student psychiatry
+  education\, with workshops\, posters and curriculum sessions. Additiona
+ l details for 2027 have not been announced.\n\nDeadlines\nAbstract and p
+ roposal submission deadline: 2026-10-31 (estimated)\nEarly bird registra
+ tion deadline: 2027-05-01 (estimated)\n\nhttps://www.admsep.org/wcagmeet
+ ings.html
+LOCATION:Salt Lake City\, Utah
+URL:https://www.admsep.org/wcagmeetings.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ADMSEP Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admsep-annual-2027-20261031-abstract-and-proposal-submission-deadline
+ @conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Deadline: ADMSEP 2027 abstract and proposal submission deadline (
+ estimated)
+DESCRIPTION:Estimated from the 2026 meeting pattern (deadline October 31\
+ , 2025 for the June 2026 meeting). No 2027 call has been posted.\nMeetin
+ g: ADMSEP Annual Meeting 2027\, Jun 17 to 19\, 2027\, Salt Lake City\, U
+ tah\nhttps://www.admsep.org/wcagmeetings.html
+LOCATION:Salt Lake City\, Utah
+URL:https://www.admsep.org/wcagmeetings.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADMSEP 2027 abstract and proposal submission deadli
+ ne (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADMSEP 2027 abstract and proposal submission deadli
+ ne (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADMSEP 2027 abstract and proposal submission deadli
+ ne (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:admsep-annual-2027-20270501-early-bird-registration-deadline@conferen
+ ce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Deadline: ADMSEP 2027 early bird registration deadline (estimated
+ )
+DESCRIPTION:Estimated from the 2026 pattern (early bird pricing ended May
+  1\, 2026).\nMeeting: ADMSEP Annual Meeting 2027\, Jun 17 to 19\, 2027\,
+  Salt Lake City\, Utah\nhttps://www.admsep.org/wcagmeetings.html
+LOCATION:Salt Lake City\, Utah
+URL:https://www.admsep.org/wcagmeetings.html
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADMSEP 2027 early bird registration deadline (estim
+ ated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADMSEP 2027 early bird registration deadline (estim
+ ated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ADMSEP 2027 early bird registration deadline (estim
+ ated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

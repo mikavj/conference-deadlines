@@ -1,0 +1,105 @@
+[
+ {
+  "id": "napcrg-annual-meeting-2026",
+  "name": "NAPCRG 54th Annual Meeting",
+  "short_name": "NAPCRG 2026",
+  "organizer": "North American Primary Care Research Group",
+  "organizer_url": "https://www.napcrg.org",
+  "edition_url": "https://napcrg.org/conferences/annual/annualmeeting/",
+  "areas": [
+   "family-medicine",
+   "health-services"
+  ],
+  "tags": [
+   "primary-care",
+   "health-services",
+   "epidemiology"
+  ],
+  "start_date": "2026-11-20",
+  "end_date": "2026-11-24",
+  "city": "Toronto",
+  "region_name": "Ontario",
+  "country": "CA",
+  "venue": "Westin Harbour Castle",
+  "lat": 43.6409,
+  "lon": -79.3746,
+  "format": "in-person",
+  "description": "The NAPCRG 54th Annual Meeting is the yearly research conference of the North American Primary Care Research Group, held at the Westin Harbour Castle in Toronto, Ontario. The program centers on primary care and family medicine research presentations, workshops, and networking sessions.",
+  "deadlines": [
+   {
+    "label": "Call for papers",
+    "date": "2026-04-19",
+    "url": "https://www.napcrg.org/conferences/annual/call-for-papers/",
+    "estimated": false,
+    "note": "11:59 PM CT deadline for the general call for papers"
+   },
+   {
+    "label": "Student, resident, and fellow poster submission opens",
+    "date": "2026-05-10",
+    "url": "https://www.napcrg.org/conferences/annual/call-for-papers-srf/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Student, resident, and fellow poster submission",
+    "date": "2026-07-12",
+    "url": "https://www.napcrg.org/conferences/annual/call-for-papers-srf/",
+    "estimated": false,
+    "note": "11:59 PM CT deadline"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.napcrg.org/conferences/annual/call-for-papers/",
+    "accessed": "2026-09-10",
+    "note": "confirms general call for papers deadline of April 19 2026 and student/resident/fellow submission window"
+   },
+   {
+    "url": "https://www.napcrg.org/conferences/future-conferences/",
+    "accessed": "2026-09-10",
+    "note": "confirms dates November 20-24 2026 and Westin Harbour Castle Toronto venue"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ },
+ {
+  "id": "napcrg-annual-meeting-2027",
+  "name": "NAPCRG 55th Annual Meeting",
+  "short_name": "NAPCRG 2027",
+  "organizer": "North American Primary Care Research Group",
+  "organizer_url": "https://www.napcrg.org",
+  "edition_url": "https://www.napcrg.org/conferences/future-conferences/",
+  "areas": [
+   "family-medicine",
+   "health-services"
+  ],
+  "tags": [
+   "primary-care",
+   "health-services",
+   "epidemiology"
+  ],
+  "start_date": "2027-11-13",
+  "end_date": "2027-11-17",
+  "city": "Vancouver",
+  "region_name": "British Columbia",
+  "country": "CA",
+  "venue": "JW Marriott Parq Vancouver",
+  "lat": 49.2768,
+  "lon": -123.1191,
+  "format": "in-person",
+  "description": "The NAPCRG 55th Annual Meeting is the yearly research conference of the North American Primary Care Research Group, scheduled at the JW Marriott Parq Vancouver in Vancouver, British Columbia. The program centers on primary care and family medicine research presentations, workshops, and networking sessions.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.napcrg.org/conferences/future-conferences/",
+    "accessed": "2026-09-10",
+    "note": "confirms dates November 13-17 2027 and JW Marriott Parq Vancouver venue"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Call for papers and other submission deadlines for the 2027 meeting had not been published as of access date."
+ }
+]

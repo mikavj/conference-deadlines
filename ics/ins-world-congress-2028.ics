@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:18th World Congress of the International Neuromodulation Soc
+ iety
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ins-world-congress-2028@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20280521
+DTEND;VALUE=DATE:20280526
+SUMMARY:18th World Congress of the International Neuromodulation Society
+DESCRIPTION:Biennial world congress of the International Neuromodulation 
+ Society\, bringing together neurosurgeons\, neurologists\, psychiatrists
+ \, pain specialists and engineers working in neuromodulation.\n\nhttps:/
+ /ins-congress.com/
+LOCATION:Dublin\, IE
+URL:https://ins-congress.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:18th World Congress of the International Neuromodulation Soci
+ ety
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

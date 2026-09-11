@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:56th Child Neurology Society Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:child-neurology-society-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271114
+SUMMARY:56th Child Neurology Society Annual Meeting
+DESCRIPTION:The Child Neurology Society holds its 56th annual meeting in 
+ Milwaukee\, Wisconsin. The program covers research and clinical practice
+  in pediatric neurology.\n\nhttps://www.childneurologysociety.org/event/
+ 56th-cns-annual-meeting/
+LOCATION:Milwaukee\, Wisconsin
+URL:https://www.childneurologysociety.org/event/56th-cns-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:56th Child Neurology Society Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

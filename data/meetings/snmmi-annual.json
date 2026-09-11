@@ -1,0 +1,56 @@
+[
+ {
+  "id": "snmmi-annual-2027",
+  "name": "2027 SNMMI Annual Meeting",
+  "short_name": "SNMMI 2027",
+  "organizer": "Society of Nuclear Medicine and Molecular Imaging",
+  "organizer_url": "https://www.snmmi.org/",
+  "edition_url": "https://snmmi.org/AM/AM/Home.aspx",
+  "areas": [
+   "nuclear-medicine"
+  ],
+  "tags": [
+   "nuclear-medicine",
+   "imaging",
+   "oncology",
+   "education"
+  ],
+  "start_date": "2027-06-05",
+  "end_date": "2027-06-08",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": "Walter E. Washington Convention Center",
+  "lat": 38.9037,
+  "lon": -77.0227,
+  "format": null,
+  "description": "The SNMMI Annual Meeting is the main scientific and educational conference of the Society of Nuclear Medicine and Molecular Imaging, covering nuclear medicine, molecular imaging, and radiopharmaceutical therapy research. The 2027 edition is scheduled for Washington, DC.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-30",
+   "end_date": "2026-06-02",
+   "city": "Los Angeles",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://snmmi.org/AM/Web/Education-and-Meetings/Upcoming-Events.aspx",
+    "accessed": "2026-09-10",
+    "note": "Official SNMMI upcoming-events listing (retrieved via read-only proxy) confirming 2027 Annual Meeting dates June 5-8 in Washington, DC, alongside 2026 (Los Angeles) and 2028 Mid-Winter Meeting entries."
+   },
+   {
+    "url": "https://www.eurekalert.org/news-releases/1125386",
+    "accessed": "2026-09-10",
+    "note": "SNMMI press release confirming 2026 Annual Meeting dates and Los Angeles Convention Center venue; used for the prior edition."
+   },
+   {
+    "url": "https://www.urotoday.com/calendar-events/society-of-nuclear-medicine-and-molecular-imaging-snmmi-2027.html",
+    "accessed": "2026-09-10",
+    "note": "Aggregator cross-check for 2027 venue name (Walter E. Washington Convention Center), not independently confirmed on an official SNMMI page."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Dates and city for the 2027 edition are confirmed on an official SNMMI page (accessed through a read-only proxy after direct fetch difficulties). The specific venue name is sourced only from aggregator sites (10times, urotoday) as a last-resort cross-check and should be verified once SNMMI publishes its own 2027 meeting site. Abstract submission and registration deadlines for 2027 are not yet published (reported by aggregators as TBA); the 2026 edition's own deadlines could not be confirmed from sources accessed, so its deadlines array is left empty rather than guessed. Meeting format (in-person/hybrid) not confirmed for 2027, though the 2026 edition offered a virtual option."
+ }
+]

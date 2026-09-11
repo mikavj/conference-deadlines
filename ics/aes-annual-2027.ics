@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:American Epilepsy Society Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aes-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271208
+SUMMARY:American Epilepsy Society Annual Meeting 2027
+DESCRIPTION:The American Epilepsy Society will hold its annual meeting in
+  Baltimore\, Maryland\, from December 3 to 7\, 2027. Abstract submission
+ \, registration\, and travel award information had not yet been publishe
+ d as of September 2026.\n\nhttps://aesnet.org/AES-annual-meeting/general
+ -information/future-meetings
+LOCATION:Baltimore\, Maryland
+URL:https://aesnet.org/AES-annual-meeting/general-information/future-meet
+ ings
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:American Epilepsy Society Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

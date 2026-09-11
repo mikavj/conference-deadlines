@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Plastic Surgery The Meeting 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:plastic-surgery-the-meeting-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261019
+SUMMARY:Plastic Surgery The Meeting 2026
+DESCRIPTION:Plastic Surgery The Meeting is the annual scientific and clin
+ ical conference of the American Society of Plastic Surgeons\, held joint
+ ly with partner societies including the American Society for Maxillofaci
+ al Surgery and The Rhinoplasty Society. The 2026 edition takes place at 
+ the George R. Brown Convention Center in Houston.\n\nDeadlines\nResident
+  abstract submission opens: 2026-03-04\nResident abstract submission dea
+ dline: 2026-04-30\nGeneral call abstract submission deadline: 2026-02-26
+  (estimated)\nAdvance registration deadline: 2026-09-24\n\nhttps://www.p
+ lasticsurgerythemeeting.com/
+LOCATION:Houston\, Texas\, George R. Brown Convention Center
+URL:https://www.plasticsurgerythemeeting.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Plastic Surgery The Meeting 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:plastic-surgery-the-meeting-2026-20260430-resident-abstract-submissio
+ n-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:Deadline: PSTM 2026 resident abstract submission deadline
+DESCRIPTION:11:59 pm US Pacific time\; resident-specific submission track
+ \nMeeting: Plastic Surgery The Meeting 2026\, Oct 15 to 18\, 2026\, Hous
+ ton\, Texas\, George R. Brown Convention Center\nhttps://ww6.aievolution
+ .com/asps/index.cfm?do=cnt.page&pg=1013
+LOCATION:Houston\, Texas\, George R. Brown Convention Center
+URL:https://ww6.aievolution.com/asps/index.cfm?do=cnt.page&pg=1013
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSTM 2026 resident abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSTM 2026 resident abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSTM 2026 resident abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:plastic-surgery-the-meeting-2026-20260226-general-call-abstract-submi
+ ssion-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:Deadline: PSTM 2026 general call abstract submission deadline (es
+ timated)
+DESCRIPTION:the general call and global partner invitation windows had al
+ ready closed by the access date on the official abstract system\; this d
+ ate is from a secondary academic conference tracker (University of Pitts
+ burgh Department of Plastic Surgery) and could not be independently conf
+ irmed on an ASPS-operated page\nMeeting: Plastic Surgery The Meeting 202
+ 6\, Oct 15 to 18\, 2026\, Houston\, Texas\, George R. Brown Convention C
+ enter\nhttps://www.plasticsurgerythemeeting.com/
+LOCATION:Houston\, Texas\, George R. Brown Convention Center
+URL:https://www.plasticsurgerythemeeting.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSTM 2026 general call abstract submission deadline
+  (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSTM 2026 general call abstract submission deadline
+  (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSTM 2026 general call abstract submission deadline
+  (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:plastic-surgery-the-meeting-2026-20260924-advance-registration-deadli
+ ne@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Deadline: PSTM 2026 advance registration deadline
+DESCRIPTION:advance registration window runs August 14 to September 24\, 
+ 2026\; late registration follows from September 25\nMeeting: Plastic Sur
+ gery The Meeting 2026\, Oct 15 to 18\, 2026\, Houston\, Texas\, George R
+ . Brown Convention Center\nhttps://www.plasticsurgerythemeeting.com/regi
+ stration
+LOCATION:Houston\, Texas\, George R. Brown Convention Center
+URL:https://www.plasticsurgerythemeeting.com/registration
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSTM 2026 advance registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSTM 2026 advance registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PSTM 2026 advance registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society for Research in Psychopathology 2027 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:srp-annual-2027-20270419-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Deadline: SRP 2027 abstract submission (estimated)
+DESCRIPTION:estimated from the 2026 cycle (April 20\, 2026)\; not publish
+ ed\nMeeting: Society for Research in Psychopathology 2027 Annual Meeting
+ \, dates not yet published\, Detroit\, Michigan\nhttps://psychopathology
+ .org/annual-meeting/future-dates-and-locations/
+LOCATION:Detroit\, Michigan
+URL:https://psychopathology.org/annual-meeting/future-dates-and-locations
+ /
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRP 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRP 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SRP 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

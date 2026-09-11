@@ -1,0 +1,52 @@
+[
+ {
+  "id": "stfm-annual-spring-conference-2027",
+  "name": "2027 STFM Annual Spring Conference",
+  "short_name": "STFM 2027",
+  "organizer": "Society of Teachers of Family Medicine",
+  "organizer_url": "https://www.stfm.org",
+  "edition_url": "https://www.stfm.org/conferences/annual/overview/",
+  "areas": [
+   "family-medicine"
+  ],
+  "tags": [
+   "primary-care",
+   "medical-education",
+   "residency"
+  ],
+  "start_date": "2027-05-01",
+  "end_date": "2027-05-05",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "Sheraton Grand Chicago Riverwalk",
+  "lat": 41.8897,
+  "lon": -87.6249,
+  "format": "in-person",
+  "description": "The 2027 STFM Annual Spring Conference is the yearly meeting of the Society of Teachers of Family Medicine, held at the Sheraton Grand Chicago Riverwalk in Chicago, Illinois. The conference brings together family medicine educators for presentations on teaching, research, and clinical practice.",
+  "deadlines": [
+   {
+    "label": "Presentation proposal submission",
+    "date": "2026-09-04",
+    "url": "https://www.stfm.org/conferences/annual/call-for-presentations/",
+    "estimated": false,
+    "note": "call for presentations closed on this date; a separate call for fellow, resident, and student research posters was announced to open in late 2026 with no specific date yet published"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.stfm.org/conferences/annual/call-for-presentations/",
+    "accessed": "2026-09-10",
+    "note": "confirms the call for presentations for the 2027 conference is closed; September 4 2026 deadline date corroborated via search snippet"
+   },
+   {
+    "url": "https://www.stfm.org/conferences/generalinformation/future-dates/",
+    "accessed": "2026-09-10",
+    "note": "confirms dates May 1-5 2027 and venue Sheraton Grand Chicago Riverwalk"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Fellow, resident, and student research poster call deadline for 2027 not yet published as of access date."
+ }
+]

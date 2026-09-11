@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AMEE 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:amee-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270902
+SUMMARY:AMEE 2027
+DESCRIPTION:AMEE\, An International Association for Health Professions Ed
+ ucation\, holds its 2027 annual conference in Helsinki\, Finland. The co
+ nference covers research and practice in medical and health professions 
+ education.\n\nhttps://amee.org/events/amee-2027/
+LOCATION:Helsinki\, Uusimaa\, FI
+URL:https://amee.org/events/amee-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMEE 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

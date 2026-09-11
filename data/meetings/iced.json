@@ -1,0 +1,83 @@
+[
+ {
+  "id": "iced-2027",
+  "name": "International Conference on Eating Disorders (ICED) 2027",
+  "short_name": "ICED 2027",
+  "organizer": "Academy for Eating Disorders",
+  "organizer_url": "https://www.aedweb.org/",
+  "edition_url": "https://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summary",
+  "tags": [
+   "eating-disorders",
+   "international"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Phoenix",
+  "country": "US",
+  "venue": "Arizona Grand Resort & Spa",
+  "lat": 33.3735,
+  "lon": -111.99,
+  "format": null,
+  "description": "ICED 2027, hosted by the Academy for Eating Disorders, will be held at the Arizona Grand Resort & Spa in Phoenix under the theme Advancing Eating Disorders Science and Care: From Legacy to Cutting Edge. The call for abstracts is open.",
+  "deadlines": [
+   {
+    "label": "Abstract submission (first portal)",
+    "date": "2026-10-30",
+    "url": "https://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summary",
+    "estimated": false,
+    "note": "The page lists two submission portals under the call for abstracts without distinct labels; this is the earlier closing date"
+   },
+   {
+    "label": "Abstract submission (second portal)",
+    "date": "2026-11-17",
+    "url": "https://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summary",
+    "estimated": false,
+    "note": "Second submission portal closing date listed under the call for abstracts"
+   },
+   {
+    "label": "AED Fellows application",
+    "date": "2027-01-11",
+    "url": "https://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summary",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "AED Fellows nomination",
+    "date": "2027-01-31",
+    "url": "https://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summary",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-03",
+   "end_date": "2026-06-05",
+   "city": "The Hague",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://web.cvent.com/event/d17b9de3-6f72-4cf8-bd9b-37fadde6e67d/summary",
+    "accessed": "2026-09-09",
+    "note": "Official ICED 2027 site linked from aedweb.org: theme, hotel, submission portal closing dates"
+   },
+   {
+    "url": "https://www.aedweb.org/",
+    "accessed": "2026-09-09",
+    "note": "Navigation links ICED 2027 to the cvent site"
+   },
+   {
+    "url": "https://higherlogicdownload.s3.amazonaws.com/AEDWEB/27a3b69a-8aae-45b2-a04c-2a078d02145d/UploadedImages/ICED_2026_Sponsorship_Prospectus__12182025.pdf",
+    "accessed": "2026-09-09",
+    "note": "ICED 2026 June 3 to 5, World Forum, The Hague"
+   }
+  ],
+  "confidence": "low",
+  "notes": "Conference dates are not stated in the page text. The page's countdown script targets June 2, 2027, and ICED 2026 was June 3 to 5, so early June 2027 is likely; the hotel room block is not yet open. Aggregator listings for an ICED in Berlin or New York in May 2027 refer to unrelated commercial events.",
+  "region_name": "Arizona",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

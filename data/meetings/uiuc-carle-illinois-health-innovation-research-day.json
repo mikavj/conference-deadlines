@@ -1,0 +1,66 @@
+[
+ {
+  "id": "uiuc-carle-illinois-health-innovation-research-day-2027",
+  "name": "Health Innovation Research Day 2027",
+  "short_name": "HIRD 2027",
+  "organizer": "Carle Illinois College of Medicine, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://medicine.illinois.edu",
+  "edition_url": "https://medicine.illinois.edu/about/global-consortium/health-innovation-research-day",
+  "areas": [
+   "medical-education",
+   "informatics"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "medical-education",
+   "health-services",
+   "student-resident-research"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Urbana",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "Illini Union",
+  "lat": 40.102,
+  "lon": -88.2272,
+  "format": "in-person",
+  "description": "Health Innovation Research Day is Carle Illinois College of Medicine's annual research and innovation showcase, free to attend, with poster and oral presentation sessions for Carle Health residents and CI MED students. The 2027 edition had not been scheduled as of September 2026; the event typically falls in early April with an abstract deadline in early March.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2027-03-06",
+    "url": "https://medicine.illinois.edu/about/global-consortium/health-innovation-research-day",
+    "estimated": true,
+    "note": "Estimated by repeating the 2026 date (deadline Friday, March 6, 2026, 11:59 pm); the 2027 date was not yet published as of September 2026."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-03",
+   "end_date": "2026-04-03",
+   "city": "Urbana",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-03-06"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://medicine.illinois.edu/about/global-consortium/health-innovation-research-day",
+    "accessed": "2026-09-10",
+    "note": "2026 edition held April 3, 2026, 11am-5pm at Illini Union; abstract deadline Friday March 6, 11:59pm"
+   },
+   {
+    "url": "https://calendars.illinois.edu/detail/5988?eventId=33458540",
+    "accessed": "2026-09-10",
+    "note": "Confirms the 22nd annual edition was held April 5, 2024 at the I Hotel and Conference Center, establishing the event's annual numbering and venue history"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "2027 date and abstract deadline are estimated by repeating the confirmed 2026 dates, consistent with the known institutional pattern (early April event, early March abstract deadline); not yet officially published as of September 2026."
+ }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "id": "aua-annual-2027",
+  "name": "AUA 2027 Annual Meeting",
+  "short_name": "AUA 2027",
+  "organizer": "American Urological Association",
+  "organizer_url": "https://www.auanet.org/",
+  "edition_url": "https://www.auanet.org/aua2027",
+  "areas": [
+   "urology"
+  ],
+  "tags": [
+   "urology",
+   "surgery"
+  ],
+  "start_date": "2027-05-21",
+  "end_date": "2027-05-24",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "San Diego Convention Center",
+  "lat": 32.7069,
+  "lon": -117.1611,
+  "format": "in-person",
+  "description": "The AUA Annual Meeting is the annual scientific meeting of the American Urological Association, covering clinical practice and research in urology. The 2027 edition takes place at the San Diego Convention Center in San Diego, California.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-08-03",
+    "url": "https://www.auanet.org/AUA2027/abstracts/abstract-guidelines",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-11-02",
+    "url": "https://www.auanet.org/AUA2027/abstracts/abstract-guidelines",
+    "estimated": false,
+    "note": "Noon Eastern Time."
+   },
+   {
+    "label": "Abstract decision notification",
+    "date": "2027-01-07",
+    "url": "https://www.auanet.org/AUA2027/abstracts/abstract-guidelines",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Presenter response and registration deadline",
+    "date": "2027-02-16",
+    "url": "https://www.auanet.org/AUA2027/abstracts/abstract-guidelines",
+    "estimated": false,
+    "note": "Deadline for accepted presenters to confirm and register."
+   },
+   {
+    "label": "Registration opens",
+    "date": "2026-12-01",
+    "url": "https://www.auanet.org/aua2027",
+    "estimated": true,
+    "note": "Official page states only 'Registration opens in December'; exact day not published, estimated as December 1, 2026."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.auanet.org/aua2027",
+    "accessed": "2026-09-10",
+    "note": "Official homepage confirms meeting dates (May 21-24, 2027), venue (San Diego Convention Center), and that registration opens in December."
+   },
+   {
+    "url": "https://www.auanet.org/AUA2027/abstracts/abstract-guidelines",
+    "accessed": "2026-09-10",
+    "note": "Official abstract guidelines page confirms abstract submission open date, close date and time, decision notification date, and response/registration deadline."
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 AANEM Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aanem-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20261003
+SUMMARY:2026 AANEM Annual Meeting
+DESCRIPTION:The American Association of Neuromuscular and Electrodiagnost
+ ic Medicine holds its annual meeting in Orlando\, Florida\, with session
+ s on electrodiagnostic medicine and neuromuscular disease. The program i
+ ncludes the Myasthenia Gravis Foundation of America scientific session o
+ n September 29.\n\nDeadlines\nAbstract submission opens: 2026-01-01\nAbs
+ tract submission: 2026-03-15\nMGFA Scientific Session abstract submissio
+ n opens: 2026-03-09\nMGFA Scientific Session abstract submission: 2026-0
+ 5-01\nEarly registration: 2026-07-14\nRegular registration: 2026-08-31\n
+ \nhttps://www.aanem.org/meetings/annual-meeting
+LOCATION:Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek
+URL:https://www.aanem.org/meetings/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 AANEM Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2026-20260315-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Deadline: AANEM 2026 abstract submission
+DESCRIPTION:General AANEM abstract submission deadline for the 2026 Annua
+ l Meeting\; notification of acceptance by June 1\, 2026.\nMeeting: 2026 
+ AANEM Annual Meeting\, Sep 29 to Oct 02\, 2026\, Orlando\, Florida\, Sig
+ nia by Hilton Orlando Bonnet Creek\nhttps://www.aanem.org/meetings/annua
+ l-meeting/abstract-information-submission
+LOCATION:Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek
+URL:https://www.aanem.org/meetings/annual-meeting/abstract-information-su
+ bmission
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2026-20260501-mgfa-scientific-session-abstract-submissio
+ n@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Deadline: AANEM 2026 mgfa scientific session abstract submission
+DESCRIPTION:Meeting: 2026 AANEM Annual Meeting\, Sep 29 to Oct 02\, 2026\
+ , Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek\nhttps://www
+ .aanem.org/meetings/annual-meeting/abstract-information-submission
+LOCATION:Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek
+URL:https://www.aanem.org/meetings/annual-meeting/abstract-information-su
+ bmission
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 mgfa scientific session abstract submiss
+ ion
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 mgfa scientific session abstract submiss
+ ion
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 mgfa scientific session abstract submiss
+ ion
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2026-20260714-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Deadline: AANEM 2026 early registration
+DESCRIPTION:Early bird registration window is June 1 to July 14\, 2026\; 
+ date shown is the close of the early bird window.\nMeeting: 2026 AANEM A
+ nnual Meeting\, Sep 29 to Oct 02\, 2026\, Orlando\, Florida\, Signia by 
+ Hilton Orlando Bonnet Creek\nhttps://www.aanem.org/meetings/annual-meeti
+ ng/registration-information
+LOCATION:Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek
+URL:https://www.aanem.org/meetings/annual-meeting/registration-informatio
+ n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aanem-annual-2026-20260831-regular-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Deadline: AANEM 2026 regular registration
+DESCRIPTION:Regular registration window is July 15 to August 31\, 2026\; 
+ late registration fees apply September 1 through October 2\, 2026.\nMeet
+ ing: 2026 AANEM Annual Meeting\, Sep 29 to Oct 02\, 2026\, Orlando\, Flo
+ rida\, Signia by Hilton Orlando Bonnet Creek\nhttps://www.aanem.org/meet
+ ings/annual-meeting/registration-information
+LOCATION:Orlando\, Florida\, Signia by Hilton Orlando Bonnet Creek
+URL:https://www.aanem.org/meetings/annual-meeting/registration-informatio
+ n
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 regular registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 regular registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANEM 2026 regular registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

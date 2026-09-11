@@ -1,0 +1,38 @@
+[
+ {
+  "id": "amda-paltc-2027",
+  "name": "PALTC27 Annual Conference",
+  "short_name": "PALTC27",
+  "organizer": "Society for Post-Acute and Long-Term Care Medicine (AMDA / PALTmed)",
+  "organizer_url": "https://paltmed.org",
+  "edition_url": "https://paltmed.org/events/paltc27-annual-conference",
+  "areas": [
+   "geriatrics"
+  ],
+  "tags": [
+   "geriatric",
+   "primary-care"
+  ],
+  "start_date": "2027-03-18",
+  "end_date": "2027-03-20",
+  "city": "Albuquerque",
+  "region_name": "New Mexico",
+  "country": "US",
+  "venue": "Albuquerque Convention Center",
+  "lat": 35.0844,
+  "lon": -106.6504,
+  "format": "hybrid",
+  "description": "PALTC27 is the annual conference of the Society for Post-Acute and Long-Term Care Medicine, held at the Albuquerque Convention Center in Albuquerque, New Mexico. The conference is described as available both online and in person and covers clinical practice and education for professionals working in post-acute and long-term care.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://paltmed.org/events/paltc27-annual-conference",
+    "accessed": "2026-09-10",
+    "note": "official page confirms dates March 18-20 2027 and venue address 401 2nd St NW, Albuquerque, NM (Albuquerque Convention Center)"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Abstract or poster submission deadlines for PALTC27 had not been published as of access date."
+ }
+]

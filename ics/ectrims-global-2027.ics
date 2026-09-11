@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ECTRIMS Global 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ectrims-global-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271009
+SUMMARY:ECTRIMS Global 2027
+DESCRIPTION:ECTRIMS holds ECTRIMS Global 2027 in Vienna\, Austria\, from 
+ 5 to 8 October 2027\, including a pre day\, the main annual congress\, a
+ nd a patient community day. The event focuses on multiple sclerosis rese
+ arch and treatment.\n\nhttps://ectrims.eu/events/ectrims-global-2027/
+LOCATION:Vienna\, Vienna\, AT
+URL:https://ectrims.eu/events/ectrims-global-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ECTRIMS Global 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

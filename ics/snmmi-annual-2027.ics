@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 SNMMI Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:snmmi-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270609
+SUMMARY:2027 SNMMI Annual Meeting
+DESCRIPTION:The SNMMI Annual Meeting is the main scientific and education
+ al conference of the Society of Nuclear Medicine and Molecular Imaging\,
+  covering nuclear medicine\, molecular imaging\, and radiopharmaceutical
+  therapy research. The 2027 edition is scheduled for Washington\, DC.\n\
+ nhttps://snmmi.org/AM/AM/Home.aspx
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://snmmi.org/AM/AM/Home.aspx
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 SNMMI Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

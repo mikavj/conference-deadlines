@@ -1,0 +1,156 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CPDD 89th Annual Scientific Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:cpdd-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270701
+SUMMARY:CPDD 89th Annual Scientific Meeting 2027
+DESCRIPTION:The 89th CPDD Annual Scientific Meeting is scheduled for June
+  26 to 30\, 2027 in Toronto\, with roughly 1\,300 attendees expected inc
+ luding participants in the NIDA International Forum. CPDD states that su
+ bmissions for the 2027 program are open.\n\nDeadlines\nSymposium\, works
+ hop and forum proposal submission: 2026-10-29 (estimated)\nOral and post
+ er abstract submission: 2026-12-10 (estimated)\nTravel award application
+ : 2026-12-15 (estimated)\nLate-breaking research submission: 2027-03-18 
+ (estimated)\n\nhttps://cpdd.org/meetings/current-meeting/
+LOCATION:Toronto\, Ontario\, CA\, Sheraton Centre Toronto Hotel
+URL:https://cpdd.org/meetings/current-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:CPDD 89th Annual Scientific Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cpdd-2027-20261029-symposium-workshop-and-forum-proposal-submission@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deadline: CPDD 2027 symposium\, workshop and forum proposal submi
+ ssion (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (opened August 25\, closed Oc
+ tober 30\, 2025)\nMeeting: CPDD 89th Annual Scientific Meeting 2027\, Ju
+ n 26 to 30\, 2027\, Toronto\, Ontario\, CA\, Sheraton Centre Toronto Hot
+ el\nhttps://cpdd.org/meetings/current-meeting/
+LOCATION:Toronto\, Ontario\, CA\, Sheraton Centre Toronto Hotel
+URL:https://cpdd.org/meetings/current-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 symposium\, workshop and forum proposal s
+ ubmission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 symposium\, workshop and forum proposal s
+ ubmission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 symposium\, workshop and forum proposal s
+ ubmission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cpdd-2027-20261210-oral-and-poster-abstract-submission@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Deadline: CPDD 2027 oral and poster abstract submission (estimate
+ d)
+DESCRIPTION:Estimated from the 2026 pattern (closed December 11\, 2025)\n
+ Meeting: CPDD 89th Annual Scientific Meeting 2027\, Jun 26 to 30\, 2027\
+ , Toronto\, Ontario\, CA\, Sheraton Centre Toronto Hotel\nhttps://cpdd.o
+ rg/meetings/current-meeting/
+LOCATION:Toronto\, Ontario\, CA\, Sheraton Centre Toronto Hotel
+URL:https://cpdd.org/meetings/current-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 oral and poster abstract submission (esti
+ mated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 oral and poster abstract submission (esti
+ mated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 oral and poster abstract submission (esti
+ mated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cpdd-2027-20261215-travel-award-application@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Deadline: CPDD 2027 travel award application (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (closed December 16\, 2025)\n
+ Meeting: CPDD 89th Annual Scientific Meeting 2027\, Jun 26 to 30\, 2027\
+ , Toronto\, Ontario\, CA\, Sheraton Centre Toronto Hotel\nhttps://cpdd.o
+ rg/meetings/current-meeting/
+LOCATION:Toronto\, Ontario\, CA\, Sheraton Centre Toronto Hotel
+URL:https://cpdd.org/meetings/current-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 travel award application (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 travel award application (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 travel award application (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cpdd-2027-20270318-late-breaking-research-submission@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Deadline: CPDD 2027 late-breaking research submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (February 9 to March 19\, 202
+ 6)\nMeeting: CPDD 89th Annual Scientific Meeting 2027\, Jun 26 to 30\, 2
+ 027\, Toronto\, Ontario\, CA\, Sheraton Centre Toronto Hotel\nhttps://cp
+ dd.org/meetings/current-meeting/
+LOCATION:Toronto\, Ontario\, CA\, Sheraton Centre Toronto Hotel
+URL:https://cpdd.org/meetings/current-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 late-breaking research submission (estima
+ ted)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 late-breaking research submission (estima
+ ted)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPDD 2027 late-breaking research submission (estima
+ ted)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society for Biopsychosocial Science and Medicine 84th Annual
+  Meeting 2027 (formerly American Psychosomatic Society)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sbsm-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270321
+SUMMARY:Society for Biopsychosocial Science and Medicine 84th Annual Meet
+ ing 2027 (formerly American Psychosomatic Society)
+DESCRIPTION:The 84th annual scientific meeting of the society formerly kn
+ own as the American Psychosomatic Society\, covering mind\, brain\, body
+  and social context in medicine. The 2027 theme is Biopsychosocial Mecha
+ nisms of Restorative Practices for Health and Healing Across the Lifespa
+ n.\n\nDeadlines\nAbstract submission deadline (symposium\, standard abst
+ ract\, case based): 2026-09-16\n\nhttps://thesbsm.org/2027-annual-meetin
+ g/
+LOCATION:New Orleans\, Louisiana
+URL:https://thesbsm.org/2027-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society for Biopsychosocial Science and Medicine 84th Annual 
+ Meeting 2027 (formerly American Psychosomatic Society)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sbsm-annual-2027-20260916-abstract-submission-deadline-symposium-stan
+ dard-abstract-case-based-@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Deadline: SBSM 2027 abstract submission deadline (symposium\, sta
+ ndard abstract\, case based)
+DESCRIPTION:11:59 pm EST. Five special interest groups will give abstract
+  awards\; limited travel scholarships available.\nMeeting: Society for B
+ iopsychosocial Science and Medicine 84th Annual Meeting 2027 (formerly A
+ merican Psychosomatic Society)\, Mar 17 to 20\, 2027\, New Orleans\, Lou
+ isiana\nhttps://thesbsm.org/2027-annual-meeting/
+LOCATION:New Orleans\, Louisiana
+URL:https://thesbsm.org/2027-annual-meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SBSM 2027 abstract submission deadline (symposium\,
+  standard abstract\, case based)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SBSM 2027 abstract submission deadline (symposium\,
+  standard abstract\, case based)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SBSM 2027 abstract submission deadline (symposium\,
+  standard abstract\, case based)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

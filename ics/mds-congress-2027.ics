@@ -1,0 +1,69 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MDS International Congress of Parkinson's Disease and Moveme
+ nt Disorders 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:mds-congress-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20271001
+SUMMARY:MDS International Congress of Parkinson's Disease and Movement Di
+ sorders 2027
+DESCRIPTION:The International Congress of Parkinson's Disease and Movemen
+ t Disorders is the annual scientific meeting of the International Parkin
+ son and Movement Disorder Society\, covering research and clinical care 
+ in Parkinson's disease and other movement disorders. The 2027 congress i
+ s scheduled for September 26 to 30\, 2027\, in Amsterdam\, Netherlands.\
+ n\nDeadlines\nAbstract submission opens: 2026-12-08 (estimated)\nAbstrac
+ t submission deadline: 2027-03-07 (estimated)\n\nhttps://www.mdscongress
+ .org/About/Past-future
+LOCATION:Amsterdam\, North Holland\, NL
+URL:https://www.mdscongress.org/About/Past-future
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:MDS International Congress of Parkinson's Disease and Movemen
+ t Disorders 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mds-congress-2027-20270307-abstract-submission-deadline@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Deadline: MDS Congress 2027 abstract submission deadline (estimat
+ ed)
+DESCRIPTION:Estimated by applying the same day-offset before the congress
+  start date used for the 2026 Seoul congress (abstract deadline was Marc
+ h 15\, 2026\, 203 days before the October 4\, 2026 start). Official 2027
+  abstract dates are not yet published.\nMeeting: MDS International Congr
+ ess of Parkinson's Disease and Movement Disorders 2027\, Sep 26 to 30\, 
+ 2027\, Amsterdam\, North Holland\, NL\nhttps://www.mdscongress.org/Abstr
+ acts/Submissions
+LOCATION:Amsterdam\, North Holland\, NL
+URL:https://www.mdscongress.org/Abstracts/Submissions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2027 abstract submission deadline (est
+ imated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2027 abstract submission deadline (est
+ imated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: MDS Congress 2027 abstract submission deadline (est
+ imated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,96 @@
+[
+ {
+  "id": "aas-2027",
+  "name": "AAS27: American Association of Suicidology 60th Annual Conference",
+  "short_name": "AAS 2027",
+  "organizer": "American Association of Suicidology",
+  "organizer_url": "https://suicidology.org/",
+  "edition_url": "https://suicidology.org/conference/",
+  "tags": [
+   "suicide",
+   "community",
+   "psychology"
+  ],
+  "start_date": "2027-04-11",
+  "end_date": "2027-04-15",
+  "city": "Dallas",
+  "country": "US",
+  "venue": "Hyatt Regency Dallas",
+  "lat": 32.7756,
+  "lon": -96.8087,
+  "format": null,
+  "description": "The 60th AAS Annual Conference runs April 11 to 15, 2027 in Dallas with preconference workshops on April 11 and 12, the main conference April 13 to 15 and the Healing After Suicide Loss Summit on April 15. Formats include workshops, paper presentations and posters.",
+  "deadlines": [
+   {
+    "label": "Session proposal submission opens",
+    "date": "2026-08-07",
+    "url": "https://suicidology.org/conference/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Session proposal submission",
+    "date": "2026-10-30",
+    "url": "https://suicidology.org/aas27-session-proposals-now-open/",
+    "estimated": false,
+    "note": "Preconference workshops, papers and workshops; 11:59 PM EST"
+   },
+   {
+    "label": "Presenter registration deadline",
+    "date": "2027-01-25",
+    "url": "https://suicidology.org/conference/",
+    "estimated": false,
+    "note": "Accepted general session presenters must register by this date"
+   },
+   {
+    "label": "Poster submission",
+    "date": "2027-02-01",
+    "url": "https://suicidology.org/aas27-session-proposals-now-open/",
+    "estimated": false,
+    "note": "5:00 PM EST"
+   },
+   {
+    "label": "Poster presenter registration deadline",
+    "date": "2027-02-15",
+    "url": "https://suicidology.org/conference/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-17",
+   "end_date": "2026-05-22",
+   "city": "St. Louis",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://suicidology.org/conference/",
+    "accessed": "2026-09-09",
+    "note": "Dates, venue, submission and registration deadlines"
+   },
+   {
+    "url": "https://suicidology.org/aas27-session-proposals-now-open/",
+    "accessed": "2026-09-09",
+    "note": "Proposal deadlines"
+   },
+   {
+    "url": "https://aas27.vfairs.com/",
+    "accessed": "2026-09-09",
+    "note": "Conference platform for AAS27"
+   },
+   {
+    "url": "https://aas26.eventscribe.net/aaStatic.asp?SFP=QUpGVVhIS1pAMjQ2NTBARkFRcw",
+    "accessed": "2026-09-09",
+    "note": "AAS26 dates and venue for the prior edition"
+   }
+  ],
+  "confidence": "high",
+  "notes": "AAS26 was held May 17 to 22, 2026 at the America's Center Convention Complex in St. Louis; the 2027 meeting moves to April.",
+  "region_name": "Texas",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

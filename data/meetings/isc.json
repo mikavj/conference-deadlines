@@ -1,0 +1,70 @@
+[
+ {
+  "id": "isc-2027",
+  "name": "International Stroke Conference 2027",
+  "short_name": "ISC 2027",
+  "organizer": "American Stroke Association, a division of the American Heart Association",
+  "organizer_url": "https://professional.heart.org/en/meetings/international-stroke-conference",
+  "edition_url": "https://professional.heart.org/en/meetings/international-stroke-conference",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "stroke",
+   "clinical-trials"
+  ],
+  "start_date": "2027-02-10",
+  "end_date": "2027-02-12",
+  "city": "Houston",
+  "region_name": "Texas",
+  "country": "US",
+  "venue": "George R. Brown Convention Center",
+  "lat": 29.7605,
+  "lon": -95.3563,
+  "format": "in-person",
+  "description": "The International Stroke Conference is the annual scientific meeting of the American Stroke Association, a division of the American Heart Association, focused on cerebrovascular disease research and clinical stroke care. The 2027 conference runs February 10 to 12, 2027, in Houston, Texas, with pre-conference symposia held on February 9, 2027.",
+  "deadlines": [
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-08-18",
+    "url": "https://professional.heart.org/en/meetings/international-stroke-conference/submit-science",
+    "estimated": false,
+    "note": "11:59 p.m. CDT, per search snippet of the official submission page."
+   },
+   {
+    "label": "Late-breaking science submission opens",
+    "date": "2026-09-30",
+    "url": "https://professional.heart.org/en/meetings/international-stroke-conference/submit-science",
+    "estimated": false,
+    "note": "Late-breaking science and ongoing clinical trials submission period start, per search snippet of the official submission page."
+   },
+   {
+    "label": "Late-breaking science submission deadline",
+    "date": "2026-10-28",
+    "url": "https://professional.heart.org/en/meetings/international-stroke-conference/submit-science",
+    "estimated": false,
+    "note": "Late-breaking science and ongoing clinical trials submission period close, per search snippet of the official submission page."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://professional.heart.org/en/meetings/international-stroke-conference",
+    "accessed": "2026-09-10",
+    "note": "Search engine snippet of this official page confirmed 2027 dates (February 10-12, 2027), pre-conference day (February 9, 2027), and venue (George R. Brown Convention Center, Houston, Texas). Direct fetch returned HTTP 403."
+   },
+   {
+    "url": "https://professional.heart.org/en/meetings/international-stroke-conference/submit-science",
+    "accessed": "2026-09-10",
+    "note": "Search engine snippet of this official page confirmed the regular abstract deadline (August 18, 2026, 11:59 p.m. CDT) and the late-breaking science and ongoing clinical trials submission window (September 30 to October 28, 2026). Direct fetch returned HTTP 403."
+   },
+   {
+    "url": "https://isc.hub.heart.org/daily-coverage/article/22959375/call-for-science-2027",
+    "accessed": "2026-09-10",
+    "note": "Listed in search results as the official Call for Science 2027 article; direct fetch returned HTTP 403 so only the search listing itself was used to corroborate that a 2027 call for science exists."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "professional.heart.org and isc.hub.heart.org both blocked direct fetching with HTTP 403, so all dates rely on search engine snippets of these official American Heart Association pages rather than direct page content, hence confidence medium. Early registration deadline and travel/scholarship award deadlines for ISC 2027 were not found in the sources consulted and are left out rather than guessed; these should be verified directly on professional.heart.org when accessible."
+ }
+]

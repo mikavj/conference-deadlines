@@ -1,0 +1,127 @@
+[
+ {
+  "id": "sno-annual-2026",
+  "name": "Society for Neuro-Oncology 31st Annual Meeting and Education Day 2026",
+  "short_name": "SNO 2026",
+  "organizer": "Society for Neuro-Oncology",
+  "organizer_url": "https://www.soc-neuro-onc.org",
+  "edition_url": "https://sno2026.oa-event.com/",
+  "areas": [
+   "neurology",
+   "oncology"
+  ],
+  "tags": [
+   "oncology",
+   "cancer-research"
+  ],
+  "start_date": "2026-11-12",
+  "end_date": "2026-11-15",
+  "city": "Philadelphia",
+  "region_name": "Pennsylvania",
+  "country": "US",
+  "venue": "Pennsylvania Convention Center",
+  "lat": 39.9553,
+  "lon": -75.1606,
+  "format": null,
+  "description": "The SNO Annual Meeting is a multidisciplinary conference on neuro-oncology research, diagnosis and treatment, expecting more than 3000 attendees from over 40 countries. Accepted abstracts are published in the journal Neuro-Oncology.",
+  "deadlines": [
+   {
+    "label": "Regular abstract submission deadline",
+    "date": "2026-05-26",
+    "url": "https://sno2026.oa-event.com/submit",
+    "estimated": false,
+    "note": "11:59 pm ET, firm deadline, cannot be extended"
+   },
+   {
+    "label": "Late-breaking abstract placeholder submission deadline",
+    "date": "2026-05-26",
+    "url": "https://sno2026.oa-event.com/submit",
+    "estimated": false,
+    "note": "11:59 pm ET"
+   },
+   {
+    "label": "Late-breaking abstract final submission deadline",
+    "date": "2026-09-04",
+    "url": "https://sno2026.oa-event.com/submit",
+    "estimated": false,
+    "note": "5:00 pm ET"
+   },
+   {
+    "label": "Early bird registration deadline",
+    "date": "2026-09-11",
+    "url": "https://sno2026.oa-event.com/registration",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Presenter registration deadline",
+    "date": "2026-09-18",
+    "url": "https://sno2026.oa-event.com/submit",
+    "estimated": false,
+    "note": "11:59 pm ET, required for all accepted presenters"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.soc-neuro-onc.org/meetings-education/sno-annual-meetings",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2026 and 2027 dates and cities"
+   },
+   {
+    "url": "https://sno2026.oa-event.com/submit",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract submission and presenter registration deadlines"
+   },
+   {
+    "url": "https://sno2026.oa-event.com/registration",
+    "accessed": "2026-09-10",
+    "note": "Confirms early bird registration deadline"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Format (in-person vs hybrid) not stated on the pages reviewed. Early bird registration deadline (2026-09-11) is one day after this data was compiled."
+ },
+ {
+  "id": "sno-annual-2027",
+  "name": "Society for Neuro-Oncology Annual Meeting 2027",
+  "short_name": "SNO 2027",
+  "organizer": "Society for Neuro-Oncology",
+  "organizer_url": "https://www.soc-neuro-onc.org",
+  "edition_url": "https://www.soc-neuro-onc.org/meetings-education/sno-annual-meetings",
+  "areas": [
+   "neurology",
+   "oncology"
+  ],
+  "tags": [
+   "oncology",
+   "cancer-research"
+  ],
+  "start_date": "2027-11-18",
+  "end_date": "2027-11-21",
+  "city": "Phoenix",
+  "region_name": "Arizona",
+  "country": "US",
+  "venue": null,
+  "lat": 33.4484,
+  "lon": -112.074,
+  "format": null,
+  "description": "The SNO Annual Meeting is a multidisciplinary conference on neuro-oncology research, diagnosis and treatment. The 2027 edition is scheduled for Phoenix, Arizona.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.soc-neuro-onc.org/meetings-education/sno-annual-meetings",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 dates and city"
+   },
+   {
+    "url": "https://www.fusfoundation.org/events/society-for-neurooncology-sno-annual-meeting-2027/",
+    "accessed": "2026-09-10",
+    "note": "Corroborates 2027 dates and Phoenix location"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Specific venue and deadlines for the 2027 meeting are not yet published; coordinates given are for Phoenix city center."
+ }
+]

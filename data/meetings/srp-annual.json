@@ -1,0 +1,139 @@
+[
+ {
+  "id": "srp-annual-2026",
+  "name": "Society for Research in Psychopathology 2026 Annual Meeting",
+  "short_name": "SRP 2026",
+  "organizer": "Society for Research in Psychopathology",
+  "organizer_url": "https://psychopathology.org/",
+  "edition_url": "https://psychopathology.org/annual-meeting-2/",
+  "tags": [
+   "psychology",
+   "biological-psychiatry",
+   "schizophrenia",
+   "mood-disorders"
+  ],
+  "start_date": "2026-10-08",
+  "end_date": "2026-10-11",
+  "city": "Columbus",
+  "country": "US",
+  "venue": "Hyatt Regency Columbus",
+  "lat": 39.97,
+  "lon": -83.0022,
+  "format": "in-person",
+  "description": "The SRP 2026 Annual Meeting runs October 8 to 11, 2026, at the Hyatt Regency Columbus in Columbus, Ohio. Abstract submission, which requires SRP membership, closed April 20, 2026; registration is open.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-04-20",
+    "url": "https://psychopathology.org/annual-meeting-2/",
+    "estimated": false,
+    "note": "5:00 pm Eastern; SRP membership required; closed"
+   },
+   {
+    "label": "Early bird registration",
+    "date": "2026-08-23",
+    "url": "https://x.com/srp_science",
+    "estimated": false,
+    "note": "date from the society's X account via search; the society page gives the window as June to August"
+   },
+   {
+    "label": "General registration",
+    "date": null,
+    "url": "https://psychopathology.org/annual-meeting-2/",
+    "estimated": false,
+    "note": "open June through October"
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-09-25",
+   "end_date": "2025-09-28",
+   "city": "Los Angeles",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://psychopathology.org/annual-meeting-2/",
+    "accessed": "2026-09-09",
+    "note": "Dates, venue and address, abstract deadline April 20, registration windows, overflow hotel"
+   },
+   {
+    "url": "https://psychopathology.org/annual-meeting/future-dates-and-locations/",
+    "accessed": "2026-09-09",
+    "note": "2026 Columbus, 2025 Los Angeles, 2027 Detroit"
+   },
+   {
+    "url": "https://psychopathology.org/annual-meeting/general-information/",
+    "accessed": "2026-09-09",
+    "note": "Venue confirmation"
+   }
+  ],
+  "confidence": "high",
+  "notes": "An Ohio State football game is in Columbus the same weekend; the society advises booking early. Overflow hotel is the Sonesta Columbus Downtown.",
+  "region_name": "Ohio",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "srp-annual-2027",
+  "name": "Society for Research in Psychopathology 2027 Annual Meeting",
+  "short_name": "SRP 2027",
+  "organizer": "Society for Research in Psychopathology",
+  "organizer_url": "https://psychopathology.org/",
+  "edition_url": "https://psychopathology.org/annual-meeting/future-dates-and-locations/",
+  "tags": [
+   "psychology",
+   "biological-psychiatry",
+   "schizophrenia",
+   "mood-disorders"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Detroit",
+  "country": "US",
+  "venue": null,
+  "lat": 42.3314,
+  "lon": -83.0458,
+  "format": null,
+  "description": "SRP lists Detroit, Michigan as the site of its 2027 annual meeting. Dates, venue and deadlines have not been published; recent meetings have been held between late September and mid October.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2027-04-19",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 cycle (April 20, 2026); not published"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-10-08",
+   "end_date": "2026-10-11",
+   "city": "Columbus",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-04-20"
+    },
+    {
+     "label": "Early bird registration",
+     "date": "2026-08-23"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://psychopathology.org/annual-meeting/future-dates-and-locations/",
+    "accessed": "2026-09-09",
+    "note": "2027 Detroit; 2028 and 2029 to be announced"
+   }
+  ],
+  "confidence": "low",
+  "notes": null,
+  "region_name": "Michigan",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

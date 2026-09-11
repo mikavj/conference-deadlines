@@ -1,0 +1,72 @@
+[
+ {
+  "id": "isad-conference-next",
+  "name": "International Society for Affective Disorders 14th Conference (next edition, unannounced)",
+  "short_name": "ISAD 14",
+  "organizer": "International Society for Affective Disorders",
+  "organizer_url": "https://www.isad.org.uk/",
+  "edition_url": "https://www.isad.org.uk/conference/isad-events.asp",
+  "tags": [
+   "mood-disorders",
+   "international"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "ISAD holds a biennial international conference on mood disorders. The society website still lists the 12th conference (Milan, December 2023); a 13th conference is recorded by third parties for 2025 and no 14th conference has been announced as of September 2026.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2023,
+   "start_date": "2023-12-14",
+   "end_date": "2023-12-16",
+   "city": "Milan",
+   "deadlines": [
+    {
+     "label": "Symposium abstract submission",
+     "date": "2023-05-05"
+    },
+    {
+     "label": "Abstract submission",
+     "date": "2023-08-11"
+    },
+    {
+     "label": "Early registration",
+     "date": "2023-10-23"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.isad.org.uk/conference/isad-events.asp",
+    "accessed": "2026-09-09",
+    "note": "Society events page; most recent conference listed is ISAD 2023 Milan."
+   },
+   {
+    "url": "https://www.isadconference.org/",
+    "accessed": "2026-09-09",
+    "note": "ISAD 2023 dates and deadlines (last verifiable edition)."
+   },
+   {
+    "url": "https://www.clocate.com/conference-of-the-international-society-for-affective-disorders-isad/16255/",
+    "accessed": "2026-09-09",
+    "note": "Third party listing of a 13th conference (ISAD 2025) marked as over, without dates or city."
+   },
+   {
+    "url": "https://www.kcl.ac.uk/events/isad-london-2025-mapping-future-affective-disorder-treatments",
+    "accessed": "2026-09-09",
+    "note": "ISAD London 2025 regional meeting hosted by the KCL Centre for Affective Disorders."
+   }
+  ],
+  "confidence": "low",
+  "notes": "Could not verify dates or location of the 13th (2025) conference from an official page. Recheck isad.org.uk and the ISAD Facebook page for a 2027 announcement.",
+  "region_name": null,
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

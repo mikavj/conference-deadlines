@@ -1,0 +1,59 @@
+[
+ {
+  "id": "ibia-world-congress-2027",
+  "name": "16th World Congress on Brain Injury",
+  "short_name": "IBIA WCBI 2027",
+  "organizer": "International Brain Injury Association",
+  "organizer_url": "https://www.internationalbrain.org",
+  "edition_url": "https://braininjurycongress.org/",
+  "areas": [
+   "neurology",
+   "rehabilitation",
+   "surgery"
+  ],
+  "tags": [
+   "brain-injury",
+   "rehabilitation",
+   "neurocritical-care"
+  ],
+  "start_date": "2027-05-23",
+  "end_date": "2027-05-26",
+  "city": "Halifax",
+  "region_name": "Nova Scotia",
+  "country": "CA",
+  "venue": "Halifax Convention Centre",
+  "lat": 44.6476,
+  "lon": -63.5728,
+  "format": "in-person",
+  "description": "Biennial world congress of the International Brain Injury Association on research, treatment, rehabilitation and advocacy for traumatic and acquired brain injury.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-10-23",
+    "url": "https://braininjurycongress.org/",
+    "estimated": false,
+    "note": "11:59 pm ET"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.internationalbrain.org/about/announcing-the-16th-world-congress-on-brain-injury-2027-ibia-world-congress",
+    "accessed": "2026-09-10",
+    "note": "announces 2027 congress dates and city"
+   },
+   {
+    "url": "https://braininjurycongress.org/",
+    "accessed": "2026-09-10",
+    "note": "confirms venue and abstract submission deadline"
+   },
+   {
+    "url": "https://braininjurycongress.org/program/",
+    "accessed": "2026-09-10",
+    "note": "notes full program will be available Winter 2026, no further deadlines listed"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Registration deadline is not yet published; full program details expected Winter 2026."
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "id": "prcp-international-congress-2027",
+  "name": "22nd PRCP International Congress 2027 (with the 53rd Philippine Psychiatric Association Annual Convention)",
+  "short_name": "PRCP 2027",
+  "organizer": "Pacific Rim College of Psychiatrists",
+  "organizer_url": "https://www.prcp.org/",
+  "edition_url": "https://philippinepsychiatricassociation.org/conventions/",
+  "tags": [
+   "general-psychiatry",
+   "international",
+   "cultural"
+  ],
+  "start_date": "2027-01-19",
+  "end_date": "2027-01-23",
+  "city": "Manila",
+  "country": "PH",
+  "venue": "Crowne Plaza Manila Galleria (Ortigas Center, Quezon City)",
+  "lat": 14.5907,
+  "lon": 121.0608,
+  "format": null,
+  "description": "The 22nd International Congress of the Pacific Rim College of Psychiatrists is held jointly with the 53rd Annual Convention of the Philippine Psychiatric Association under the theme Psychiatry Without Borders: Building Collaborative Mental Health Systems Across the Pacific Rim.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": null,
+    "url": "https://philippinepsychiatricassociation.org/conventions/",
+    "estimated": false,
+    "note": "Not published on the host page; contact philpsych.org@gmail.com."
+   }
+  ],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-09-25",
+   "end_date": "2025-09-28",
+   "city": "Tokyo",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://philippinepsychiatricassociation.org/conventions/",
+    "accessed": "2026-09-09",
+    "note": "Dates 19 to 23 January 2027, Crowne Plaza Hotel Galleria Manila, theme."
+   },
+   {
+    "url": "https://www.prcp.org/leadership-messages",
+    "accessed": "2026-09-09",
+    "note": "PRCP message confirming the next congress in the Philippines in January 2027 and the 2025 Tokyo joint congress."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The PRCP website (prcp.org/conferences) repeatedly reset connections during research; the co-host PPA page was used instead.",
+  "region_name": "Metro Manila",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

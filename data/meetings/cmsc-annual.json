@@ -1,0 +1,44 @@
+[
+ {
+  "id": "cmsc-annual-2027",
+  "name": "CMSC 2027 Annual Meeting",
+  "short_name": "CMSC 2027",
+  "organizer": "Consortium of Multiple Sclerosis Centers",
+  "organizer_url": "https://www.mscare.org",
+  "edition_url": "https://cmscscholar.org/cmsc-2027-annual-meeting/",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "multiple-sclerosis",
+   "clinical-trials",
+   "education"
+  ],
+  "start_date": "2027-06-02",
+  "end_date": "2027-06-04",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "San Diego Convention Center",
+  "lat": 32.7069,
+  "lon": -117.1611,
+  "format": null,
+  "description": "The Consortium of Multiple Sclerosis Centers holds its 2027 annual meeting at the San Diego Convention Center in San Diego, California, from 2 to 4 June 2027. The meeting brings together clinicians and researchers working in multiple sclerosis care.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://cmscscholar.org/cmsc-2027-annual-meeting/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, venue, and city; direct fetch returned HTTP 403, content retrieved via r.jina.ai proxy."
+   },
+   {
+    "url": "https://cmscscholar.org/future-annual-meetings/",
+    "accessed": "2026-09-10",
+    "note": "Independently confirms 2 to 4 June 2027 in San Diego; content retrieved via r.jina.ai proxy after a direct HTTP 403."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "www.mscare.org/2027 redirects (HTTP 301) to cmscscholar.org/cmsc-2027-annual-meeting/. Direct WebFetch of cmscscholar.org pages returned HTTP 403 Forbidden; content was retrieved via the r.jina.ai proxy instead, from two separate official CMSC Scholar pages that agree on 2 to 4 June 2027. Some aggregator sites (10times, eMedEvents) instead list the end date as 5 June 2027; the official pages were preferred here. No abstract or registration deadlines are published yet."
+ }
+]

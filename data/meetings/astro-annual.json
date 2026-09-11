@@ -1,0 +1,130 @@
+[
+ {
+  "id": "astro-annual-2026",
+  "name": "2026 ASTRO Annual Meeting",
+  "short_name": "ASTRO 2026",
+  "organizer": "American Society for Radiation Oncology",
+  "organizer_url": "https://www.astro.org",
+  "edition_url": "https://www.astro.org/meetings-and-education/micro-sites/2026/annual-meeting",
+  "areas": [
+   "oncology"
+  ],
+  "tags": [
+   "radiation-oncology",
+   "cancer-research",
+   "clinical-trials"
+  ],
+  "start_date": "2026-09-26",
+  "end_date": "2026-09-30",
+  "city": "Boston",
+  "region_name": "Massachusetts",
+  "country": "US",
+  "venue": "Thomas M. Menino Convention and Exhibition Center",
+  "lat": 42.3453,
+  "lon": -71.0392,
+  "format": "hybrid",
+  "description": "The ASTRO Annual Meeting is the annual meeting of the American Society for Radiation Oncology for radiation oncology clinicians and researchers. The 2026 meeting is held in Boston with a virtual attendance option.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-02-24",
+    "url": "https://www.astro.org/meetings-and-education/micro-sites/2026/annual-meeting/learn/scientific-program/abstracts",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Notification of abstract acceptance",
+    "date": "2026-05-14",
+    "url": "https://www.astro.org/meetings-and-education/micro-sites/2026/annual-meeting/learn/scientific-program/abstracts",
+    "estimated": false,
+    "note": "Notifications sent to the presenting author"
+   },
+   {
+    "label": "Registration opens",
+    "date": "2026-05-14",
+    "url": "https://www.astro.org/meetings-and-education/micro-sites/2026/annual-meeting/attend/registration",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-06-25",
+    "url": "https://www.astro.org/meetings-and-education/micro-sites/2026/annual-meeting/attend/registration",
+    "estimated": false,
+    "note": "11:59 p.m. ET, early bird rate deadline"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.astro.org/meetings-and-education/micro-sites/2026/annual-meeting/learn/scientific-program/abstracts",
+    "accessed": "2026-09-10",
+    "note": "search engine snippet of official page, confirms abstract deadline and notification date"
+   },
+   {
+    "url": "https://www.astro.org/news-and-publications/news-and-media-center/news-releases/2026/astro-to-host-annual-meeting-in-boston",
+    "accessed": "2026-09-10",
+    "note": "confirms Sept 26 to 30 2026 dates and Boston venue"
+   },
+   {
+    "url": "https://www.astro.org/meetings-and-education/micro-sites/2026/annual-meeting/attend/registration",
+    "accessed": "2026-09-10",
+    "note": "confirms registration opens May 14 2026 and early bird deadline June 25 2026"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Direct fetches of astro.org returned HTTP 402 for this session; data was drawn from search engine snippets of official ASTRO pages instead of full page fetches."
+ },
+ {
+  "id": "astro-annual-2027",
+  "name": "2027 ASTRO Annual Meeting",
+  "short_name": "ASTRO 2027",
+  "organizer": "American Society for Radiation Oncology",
+  "organizer_url": "https://www.astro.org",
+  "edition_url": "https://www.astro.org/meetings-and-education/micro-sites/2027/am-exhibitors/general-information",
+  "areas": [
+   "oncology"
+  ],
+  "tags": [
+   "radiation-oncology",
+   "cancer-research"
+  ],
+  "start_date": "2027-09-18",
+  "end_date": "2027-09-22",
+  "city": "Chicago",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "McCormick Place West",
+  "lat": 41.8515,
+  "lon": -87.6151,
+  "format": null,
+  "description": "The ASTRO Annual Meeting is the annual meeting of the American Society for Radiation Oncology for radiation oncology clinicians and researchers. The 2027 edition is the society's 69th annual meeting, to be held in Chicago.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-09-26",
+   "end_date": "2026-09-30",
+   "city": "Boston",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-02-24"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://do312.com/events/2027/9/19/astro-annual-meeting-2027-tickets",
+    "accessed": "2026-09-10",
+    "note": "third party event listing giving 2027 dates and McCormick Place location"
+   },
+   {
+    "url": "https://www.astro.org/meetings-and-education/micro-sites/2026/am-exhibitors/general-information/future-annual-meetings",
+    "accessed": "2026-09-10",
+    "note": "search engine snippet of ASTRO's own future annual meetings page, corroborating 2027 Chicago dates; direct fetch was blocked"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Direct fetch of astro.org returned HTTP 402 for this session. Dates are corroborated by two independent sources including a snippet of ASTRO's own future meetings page. No abstract submission deadline has been published yet as of 2026-09-10."
+ }
+]

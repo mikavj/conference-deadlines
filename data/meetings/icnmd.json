@@ -1,0 +1,88 @@
+[
+ {
+  "id": "icnmd-2027",
+  "name": "20th International Congress on Neuromuscular Diseases (ICNMD 2027)",
+  "short_name": "ICNMD 2027",
+  "organizer": "International Congress on Neuromuscular Diseases (ICNMD)",
+  "organizer_url": "https://icnmd.org",
+  "edition_url": "https://icnmd.org/",
+  "areas": [
+   "neurology",
+   "neuroscience"
+  ],
+  "tags": [
+   "neuromuscular"
+  ],
+  "start_date": "2027-07-05",
+  "end_date": "2027-07-09",
+  "city": "Chiba",
+  "region_name": "Chiba Prefecture",
+  "country": "JP",
+  "venue": "Makuhari Messe",
+  "lat": 35.648,
+  "lon": 140.0328,
+  "format": null,
+  "description": "ICNMD is a congress covering the full spectrum of neuromuscular disease research and clinical care. The 20th edition, in Chiba, Japan, is the first under the organizer's newly announced shift from a biennial to an annual schedule.",
+  "deadlines": [
+   {
+    "label": "Registration and abstract submission opens",
+    "date": "2026-10-07",
+    "url": "https://icnmd.org/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2027-01-15",
+    "url": "https://icnmd.org/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early bird registration deadline",
+    "date": "2027-03-26",
+    "url": "https://icnmd.org/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Standard registration deadline",
+    "date": "2027-05-28",
+    "url": "https://icnmd.org/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-07-07",
+   "end_date": "2026-07-11",
+   "city": "Dublin area, Ireland (19th ICNMD)",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://icnmd.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 dates (July 5-9), venue and full deadline schedule"
+   },
+   {
+    "url": "https://www.ccb.or.jp/mice/e/news/icnmd2027/",
+    "accessed": "2026-09-10",
+    "note": "Chiba Convention and Visitors Bureau announcement, states dates as July 6-10, 2027, one day later than icnmd.org"
+   },
+   {
+    "url": "https://x.com/ICNMD_Congress/status/1979206771232366818",
+    "accessed": "2026-09-10",
+    "note": "Confirms ICNMD is moving to an annual schedule starting in 2027"
+   },
+   {
+    "url": "https://iicn.ie/19th-international-congress-on-neuromuscular-diseases-7-11-july-2026/",
+    "accessed": "2026-09-10",
+    "note": "Confirms prior (19th) edition dates of July 7-11, 2026, already concluded before this data was compiled"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Discrepancy found: icnmd.org states July 5-9, 2027 while the Chiba Convention and Visitors Bureau news page states July 6-10, 2027. The organizer's own site was treated as authoritative, but this should be rechecked closer to the event."
+ }
+]

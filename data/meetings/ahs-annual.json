@@ -1,0 +1,99 @@
+[
+ {
+  "id": "ahs-annual-2027",
+  "name": "American Headache Society 69th Annual Scientific Meeting 2027",
+  "short_name": "AHS 2027",
+  "organizer": "American Headache Society",
+  "organizer_url": "https://americanheadachesociety.org",
+  "edition_url": "https://americanheadachesociety.org/events/69th-annual-scientific-meeting-2",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "headache"
+  ],
+  "start_date": "2027-06-10",
+  "end_date": "2027-06-13",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "Gaylord Pacific Resort and Convention Center",
+  "lat": 32.627,
+  "lon": -117.108,
+  "format": "in-person",
+  "description": "The American Headache Society Annual Scientific Meeting is the society's main conference for clinicians and researchers in headache and orofacial pain medicine. The 69th meeting is scheduled for June 10 to 13, 2027, at the Gaylord Pacific Resort and Convention Center.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2027-01-08",
+    "url": "https://americanheadachesociety.org/events/68th-annual-scientific-meeting/abstracts",
+    "estimated": true,
+    "note": "Estimated by projecting the 68th (2026) meeting's opening date, Friday January 2, 2026, forward one year to the same weekday. Official 2027 abstract dates are not yet published."
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2027-02-15",
+    "url": "https://americanheadachesociety.org/events/68th-annual-scientific-meeting/abstracts",
+    "estimated": true,
+    "note": "Estimated by projecting the 68th (2026) meeting's closing date, Monday February 9, 2026, forward one year to the same weekday. Official 2027 abstract dates are not yet published."
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2027-04-05",
+    "url": "https://americanheadachesociety.org/events/68th-annual-scientific-meeting/abstracts",
+    "estimated": true,
+    "note": "Estimated by projecting the 68th (2026) meeting's late-breaking opening date, March 30, 2026, forward one year to the same weekday."
+   },
+   {
+    "label": "Late-breaking abstract submission deadline",
+    "date": "2027-04-26",
+    "url": "https://americanheadachesociety.org/events/68th-annual-scientific-meeting/abstracts",
+    "estimated": true,
+    "note": "Estimated by projecting the 68th (2026) meeting's late-breaking closing date, April 20, 2026, forward one year to the same weekday."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-04",
+   "end_date": "2026-06-07",
+   "city": "Orlando",
+   "deadlines": [
+    {
+     "label": "Abstract submission opens",
+     "date": "2026-01-02"
+    },
+    {
+     "label": "Abstract submission deadline",
+     "date": "2026-02-09"
+    },
+    {
+     "label": "Late-breaking abstract submission opens",
+     "date": "2026-03-30"
+    },
+    {
+     "label": "Late-breaking abstract submission deadline",
+     "date": "2026-04-20"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://americanheadachesociety.org/events/69th-annual-scientific-meeting-2",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 meeting dates (June 10-13, 2027) and venue (Gaylord Pacific Resort, listed as San Diego, CA)."
+   },
+   {
+    "url": "https://americanheadachesociety.org/events/68th-annual-scientific-meeting/abstracts",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2026 (68th meeting) abstract and late-breaking submission windows, used as the pattern basis for 2027 estimates."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Gaylord_Pacific_Resort_%26_Convention_Center",
+    "accessed": "2026-09-10",
+    "note": "Confirms the venue's street address is in Chula Vista, CA, adjacent to San Diego."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Meeting dates and venue for 2027 are confirmed directly on the official AHS event page (high confidence for those facts), but no abstract or late-breaking submission deadlines for 2027 have been published yet; the deadline entries above are estimated from the 2026 (68th meeting) pattern and marked estimated. Overall record confidence is set to medium because most dated deadline items are estimates. The venue's mailing address (1000 H St) is in Chula Vista, CA; AHS's own event page and press materials describe the location as San Diego, CA, so city is recorded as San Diego per the official source; coordinates are for the Chula Vista bayfront venue address, approximated from secondary listings rather than a geocoding tool."
+ }
+]

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:8th World Parkinson Congress 2029
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:world-parkinson-congress-2029@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20290626
+DTEND;VALUE=DATE:20290630
+SUMMARY:8th World Parkinson Congress 2029
+DESCRIPTION:The World Parkinson Congress is a triennial multidisciplinary
+  meeting for researchers\, clinicians\, allied health professionals\, ca
+ regivers and people living with Parkinson's disease. The 8th edition was
+  announced for Quebec City during the closing of the 7th Congress in Pho
+ enix.\n\nhttps://www.worldpdcoalition.org
+LOCATION:Quebec City\, Quebec\, CA
+URL:https://www.worldpdcoalition.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:8th World Parkinson Congress 2029
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

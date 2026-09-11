@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Heart Rhythm 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:heart-rhythm-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270517
+SUMMARY:Heart Rhythm 2027
+DESCRIPTION:Heart Rhythm is the Heart Rhythm Society's annual scientific 
+ meeting on cardiac electrophysiology and arrhythmia management. The 2027
+  meeting is scheduled for the Moscone Center in San Francisco with an on
+ line viewing option in addition to in person attendance.\n\nhttps://www.
+ hrsonline.org/event/heart-rhythm-2027/
+LOCATION:San Francisco\, California\, Moscone Center
+URL:https://www.hrsonline.org/event/heart-rhythm-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heart Rhythm 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

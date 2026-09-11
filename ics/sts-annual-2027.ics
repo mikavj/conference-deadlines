@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:63rd STS Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sts-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270201
+SUMMARY:63rd STS Annual Meeting
+DESCRIPTION:The STS Annual Meeting is the principal scientific meeting of
+  the Society of Thoracic Surgeons\, covering cardiothoracic surgical res
+ earch\, techniques\, and continuing education. The 63rd edition takes pl
+ ace at the San Diego Convention Center.\n\nDeadlines\nAbstract submissio
+ n deadline: 2026-08-31\n\nhttps://www.sts.org/annualmeeting
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://www.sts.org/annualmeeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:63rd STS Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sts-annual-2027-20260831-abstract-submission-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Deadline: STS 2027 abstract submission deadline
+DESCRIPTION:confirmed on the official FAQ page\; the abstract portal had 
+ already closed as of the access date\nMeeting: 63rd STS Annual Meeting\,
+  Jan 28 to 31\, 2027\, San Diego\, California\, San Diego Convention Cen
+ ter\nhttps://www.sts.org/annual-meeting-faq
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://www.sts.org/annual-meeting-faq
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: STS 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: STS 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: STS 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

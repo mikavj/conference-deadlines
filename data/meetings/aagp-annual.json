@@ -1,0 +1,97 @@
+[
+ {
+  "id": "aagp-annual-2027",
+  "name": "AAGP Annual Meeting 2027",
+  "short_name": "AAGP 2027",
+  "organizer": "American Association for Geriatric Psychiatry",
+  "organizer_url": "https://aagponline.org/",
+  "edition_url": "https://aagponline.org/event/2027-annual-meeting/",
+  "tags": [
+   "geriatric",
+   "general-psychiatry"
+  ],
+  "start_date": "2027-04-16",
+  "end_date": "2027-04-19",
+  "city": "San Diego",
+  "country": "US",
+  "venue": "Sheraton San Diego Hotel & Marina",
+  "lat": 32.7245,
+  "lon": -117.2007,
+  "format": "in-person",
+  "description": "The annual meeting of the American Association for Geriatric Psychiatry, with general sessions, clinical case presentations, data blitz talks, power symposia and poster sessions. The 2027 theme is Connecting and Collaborating to Advance Geriatric Mental Health.",
+  "deadlines": [
+   {
+    "label": "Submission opens (General Session, Clinical Case Presentation, Data Blitz, Power Symposia)",
+    "date": "2026-06-15",
+    "url": "https://aagponline.org/meeting-hub/",
+    "estimated": false,
+    "note": "Portal: https://aagp.societyconference.com/v2/"
+   },
+   {
+    "label": "General Session, Clinical Case Presentation, Data Blitz and Power Symposia submission deadline",
+    "date": "2026-09-14",
+    "url": "https://aagponline.org/meeting-hub/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Poster submission opens",
+    "date": "2026-08-17",
+    "url": "https://aagponline.org/meeting-hub/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Poster abstract submission deadline",
+    "date": "2026-09-25",
+    "url": "https://aagponline.org/meeting-hub/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking poster submission opens",
+    "date": "2026-11-30",
+    "url": "https://aagponline.org/meeting-hub/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking poster submission deadline",
+    "date": "2027-01-11",
+    "url": "https://aagponline.org/meeting-hub/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-04-16",
+   "end_date": "2026-04-20",
+   "city": "Arlington",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://aagponline.org/meeting-hub/",
+    "accessed": "2026-09-09",
+    "note": "Confirms all 2027 submission windows and deadlines, dates April 16 to 19, 2027, San Diego, and the 2026 meeting (April 16 to 20, 2026, Arlington, VA)."
+   },
+   {
+    "url": "https://aagponline.org/event/2027-annual-meeting/",
+    "accessed": "2026-09-09",
+    "note": "Confirms April 16 to 19, 2027 at the Sheraton San Diego Hotel & Marina, 1380 Harbor Island Dr, San Diego, CA 92101."
+   },
+   {
+    "url": "https://aagponline.org/annual-meeting-location/",
+    "accessed": "2026-09-09",
+    "note": "Confirms April 16 to 19, 2027, San Diego."
+   }
+  ],
+  "confidence": "high",
+  "notes": "One AAGP page excerpt and aggregator sites list April 15 to 19, 2027; the official event page and meeting hub say April 16 to 19, so April 15 is probably a pre meeting day. Registration opening date and hotel block deadline not yet published.",
+  "region_name": "California",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

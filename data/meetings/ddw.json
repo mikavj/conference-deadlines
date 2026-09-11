@@ -1,0 +1,54 @@
+[
+ {
+  "id": "ddw-2027",
+  "name": "Digestive Disease Week 2027",
+  "short_name": "DDW 2027",
+  "organizer": "Digestive Disease Week (American Gastroenterological Association, American Association for the Study of Liver Diseases, American Society for Gastrointestinal Endoscopy, Society for Surgery of the Alimentary Tract)",
+  "organizer_url": "https://www.ddw.org",
+  "edition_url": "https://www.ddw.org",
+  "areas": [
+   "gastroenterology"
+  ],
+  "tags": [
+   "gastroenterology",
+   "hepatology",
+   "clinical-trials"
+  ],
+  "start_date": "2027-05-15",
+  "end_date": "2027-05-18",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": null,
+  "lat": 38.9072,
+  "lon": -77.0369,
+  "format": "hybrid",
+  "description": "Digestive Disease Week is an annual meeting for physicians and researchers in gastroenterology, hepatology and related fields, jointly sponsored by four gastroenterology societies. The 2027 meeting is held in Washington, D.C. with an online component.",
+  "deadlines": [
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2027-03-18",
+    "url": "https://www.ddw.org",
+    "estimated": false,
+    "note": "5:00 p.m. Eastern time"
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-04-29",
+    "url": "https://www.ddw.org",
+    "estimated": false,
+    "note": "Discounted registration rate deadline"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.ddw.org",
+    "accessed": "2026-09-10",
+    "note": "confirms 2027 dates May 15 to 18, Washington D.C. location and online component, late-breaking abstract deadline March 18 2027, and discounted registration deadline April 29 2027"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The regular, non-late-breaking abstract submission deadline for DDW 2027 has not yet been published as of 2026-09-10; it typically opens in the preceding fall or winter. Venue was not stated on the fetched page."
+ }
+]

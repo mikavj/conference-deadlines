@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 AAN Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aan-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270506
+SUMMARY:2027 AAN Annual Meeting
+DESCRIPTION:The AAN Annual Meeting is the flagship scientific and educati
+ onal meeting of the American Academy of Neurology. The 2027 edition is h
+ eld in Washington\, D.C. and online\, with plenary sessions\, abstract p
+ resentations\, and continuing medical education across neurology subspec
+ ialties.\n\nDeadlines\nAbstract submission deadline: 2026-10-13\nAbstrac
+ t disclosure deadline: 2026-11-19\nLate-breaking abstract submission ope
+ ns: 2026-12-01\nLate-breaking abstract submission deadline: 2027-02-10\n
+ \nhttps://www.aan.com/events/annual-meeting
+LOCATION:Washington\, District of Columbia
+URL:https://www.aan.com/events/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 AAN Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aan-annual-2027-20261013-abstract-submission-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Deadline: AAN 2027 abstract submission deadline
+DESCRIPTION:11:59 p.m. Central Time. A non-refundable submission fee appl
+ ies and accepted abstracts must be presented in person.\nMeeting: 2027 A
+ AN Annual Meeting\, May 01 to 05\, 2027\, Washington\, District of Colum
+ bia\nhttps://www.aan.com/events/annual-meeting/abstracts
+LOCATION:Washington\, District of Columbia
+URL:https://www.aan.com/events/annual-meeting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aan-annual-2027-20261119-abstract-disclosure-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Deadline: AAN 2027 abstract disclosure deadline
+DESCRIPTION:11:59 p.m. Central Time\, required for submitted abstracts.\n
+ Meeting: 2027 AAN Annual Meeting\, May 01 to 05\, 2027\, Washington\, Di
+ strict of Columbia\nhttps://www.aan.com/events/annual-meeting/abstracts
+LOCATION:Washington\, District of Columbia
+URL:https://www.aan.com/events/annual-meeting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract disclosure deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract disclosure deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 abstract disclosure deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aan-annual-2027-20270210-late-breaking-abstract-submission-deadline@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Deadline: AAN 2027 late-breaking abstract submission deadline
+DESCRIPTION:11:59 p.m. Central Time.\nMeeting: 2027 AAN Annual Meeting\, 
+ May 01 to 05\, 2027\, Washington\, District of Columbia\nhttps://www.aan
+ .com/events/annual-meeting/abstracts
+LOCATION:Washington\, District of Columbia
+URL:https://www.aan.com/events/annual-meeting/abstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 late-breaking abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 late-breaking abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAN 2027 late-breaking abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

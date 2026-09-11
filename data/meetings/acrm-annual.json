@@ -1,0 +1,43 @@
+[
+ {
+  "id": "acrm-annual-2026",
+  "name": "ACRM 2026 Annual Conference",
+  "short_name": "ACRM 2026",
+  "organizer": "American Congress of Rehabilitation Medicine",
+  "organizer_url": "https://acrm.org",
+  "edition_url": "https://conference.acrm.org/",
+  "areas": [
+   "rehabilitation"
+  ],
+  "tags": [
+   "rehabilitation",
+   "education"
+  ],
+  "start_date": "2026-10-12",
+  "end_date": "2026-10-16",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": "Washington Hilton",
+  "lat": 38.9128,
+  "lon": -77.045,
+  "format": null,
+  "description": "The ACRM Annual Conference is the main scientific meeting of the American Congress of Rehabilitation Medicine. The 2026 edition takes place in Washington, D.C. from October 12 to 16 at the Washington Hilton.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://conference.acrm.org/",
+    "accessed": "2026-09-10",
+    "note": "Official conference site confirming October 12-16, 2026 dates, Washington, D.C. city, and Washington Hilton venue"
+   },
+   {
+    "url": "https://conference.acrm.org/submission-deadlines/",
+    "accessed": "2026-09-10",
+    "note": "Page displays wave submission deadlines dated January through September 2025 under a heading reading 2025 Call for Proposals; could not confirm these apply to the 2026 cycle, so they were excluded from the deadlines list"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Dates and venue are high confidence from the official conference homepage. Submission wave deadlines and registration deadlines for 2026 could not be verified: the submission-deadlines page still shows what appears to be the prior (2025) cycle's now-closed dates despite a 2026 copyright footer, and the registration page rendered no deadline content for this fetch tool. Maintainer should recheck conference.acrm.org closer to the event."
+ }
+]

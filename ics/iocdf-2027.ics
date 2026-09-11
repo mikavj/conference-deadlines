@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:32nd Annual OCD Conference 2027 (International OCD Foundatio
+ n)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:iocdf-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+SUMMARY:32nd Annual OCD Conference 2027 (International OCD Foundation)
+DESCRIPTION:The 32nd Annual OCD Conference is scheduled for July 8 to 11\
+ , 2027 at the New York Marriott Marquis\, with the IOCDF Research Sympos
+ ium on July 8 as a hybrid event. The conference serves people with OCD a
+ nd related disorders\, families and clinicians.\n\nDeadlines\nResearch S
+ ymposium proposal submission opens: 2027-01-04 (estimated)\nResearch Sym
+ posium proposal submission: 2027-02-08 (estimated)\n\nhttps://iocdf.org/
+ programs/conferences/
+LOCATION:New York\, New York\, New York Marriott Marquis
+URL:https://iocdf.org/programs/conferences/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:32nd Annual OCD Conference 2027 (International OCD Foundation
+ )
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:iocdf-2027-20270208-research-symposium-proposal-submission@conference
+ -calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Deadline: IOCDF 2027 research symposium proposal submission (esti
+ mated)
+DESCRIPTION:Estimated from the 2026 pattern (February 9\, 2026\, decision
+ s by April)\nMeeting: 32nd Annual OCD Conference 2027 (International OCD
+  Foundation)\, Jul 08 to 11\, 2027\, New York\, New York\, New York Marr
+ iott Marquis\nhttps://iocdf.org/programs/conferences/
+LOCATION:New York\, New York\, New York Marriott Marquis
+URL:https://iocdf.org/programs/conferences/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IOCDF 2027 research symposium proposal submission (
+ estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IOCDF 2027 research symposium proposal submission (
+ estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: IOCDF 2027 research symposium proposal submission (
+ estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

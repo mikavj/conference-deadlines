@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 ASTRO Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:astro-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270923
+SUMMARY:2027 ASTRO Annual Meeting
+DESCRIPTION:The ASTRO Annual Meeting is the annual meeting of the America
+ n Society for Radiation Oncology for radiation oncology clinicians and r
+ esearchers. The 2027 edition is the society's 69th annual meeting\, to b
+ e held in Chicago.\n\nhttps://www.astro.org/meetings-and-education/micro
+ -sites/2027/am-exhibitors/general-information
+LOCATION:Chicago\, Illinois\, McCormick Place West
+URL:https://www.astro.org/meetings-and-education/micro-sites/2027/am-exhi
+ bitors/general-information
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 ASTRO Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

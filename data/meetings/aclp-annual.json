@@ -1,0 +1,57 @@
+[
+ {
+  "id": "aclp-annual-2026",
+  "name": "ACLP Annual Meeting 2026 (CLP 2026)",
+  "short_name": "CLP 2026",
+  "organizer": "Academy of Consultation-Liaison Psychiatry",
+  "organizer_url": "https://clpsychiatry.org/",
+  "edition_url": "https://clpsychiatry.org/annual-meetings/",
+  "tags": [
+   "consultation-liaison",
+   "psychosomatic",
+   "general-psychiatry"
+  ],
+  "start_date": "2026-11-18",
+  "end_date": "2026-11-21",
+  "city": "San Diego",
+  "country": "US",
+  "venue": "Town and Country Resort",
+  "lat": 32.768,
+  "lon": -117.166,
+  "format": "in-person",
+  "description": "The annual meeting of the ACLP, the academy for psychiatrists who care for medically ill patients. The 2026 theme is Expanding the Vision of C L Psychiatry: New Roles, New Settings, New Pathways.",
+  "deadlines": [
+   {
+    "label": "Abstract submission deadline (all formats)",
+    "date": "2026-04-01",
+    "url": "https://clpsychiatry.org/annual-meetings/",
+    "estimated": false,
+    "note": "Submissions closed. A February 24, 2026 webinar covered the submission process."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://clpsychiatry.org/annual-meetings/",
+    "accessed": "2026-09-09",
+    "note": "Confirms November 18 to 21, 2026, Town and Country Resort, San Diego, theme, and submission deadline of April 1."
+   },
+   {
+    "url": "https://clpsychiatry.org/",
+    "accessed": "2026-09-09",
+    "note": "Registration open; meeting hub at https://aclp.societyconference.com/ (content loads via script and could not be read)."
+   },
+   {
+    "url": "https://clpsychiatry.org/member-resources/webinars/2026-webinars-february-24/",
+    "accessed": "2026-09-09",
+    "note": "Submission guidance webinar for CLP 2026."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Registration early bird deadline not found. CLP 2027 dates and location are not published; ACLP has named a 2027 Annual Meeting Committee chair (Michael Marcangelo, MD). The 2027 abstract deadline will probably again fall around April 1, 2027 based on the 2026 pattern.",
+  "region_name": "California",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

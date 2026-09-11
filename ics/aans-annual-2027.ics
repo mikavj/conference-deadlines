@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AANS Annual Scientific Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aans-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270413
+SUMMARY:AANS Annual Scientific Meeting 2027
+DESCRIPTION:Annual scientific meeting of the American Association of Neur
+ ological Surgeons\, themed Navigating the Impossible.\n\nDeadlines\nAbst
+ ract submission opens: 2026-07-22\nAbstract submission: 2026-10-01\nAbst
+ ract notification: 2027-01-15 (estimated)\nRegistration deadline (presen
+ ting authors): 2027-03-05\n\nhttps://annualmeeting.aans.org/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://annualmeeting.aans.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AANS Annual Scientific Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aans-annual-2027-20261001-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Deadline: AANS 2027 abstract submission
+DESCRIPTION:11:59 pm ET\nMeeting: AANS Annual Scientific Meeting 2027\, A
+ pr 09 to 12\, 2027\, San Diego\, California\, San Diego Convention Cente
+ r\nhttps://annualmeeting.aans.org/abstract-center/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://annualmeeting.aans.org/abstract-center/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aans-annual-2027-20270305-registration-deadline-presenting-authors-@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:Deadline: AANS 2027 registration deadline (presenting authors)
+DESCRIPTION:accepted abstracts are declined if the presenting author has 
+ not registered by this date\nMeeting: AANS Annual Scientific Meeting 202
+ 7\, Apr 09 to 12\, 2027\, San Diego\, California\, San Diego Convention 
+ Center\nhttps://annualmeeting.aans.org/abstract-center/
+LOCATION:San Diego\, California\, San Diego Convention Center
+URL:https://annualmeeting.aans.org/abstract-center/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 registration deadline (presenting authors
+ )
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 registration deadline (presenting authors
+ )
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AANS 2027 registration deadline (presenting authors
+ )
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

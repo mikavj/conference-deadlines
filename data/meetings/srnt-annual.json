@@ -1,0 +1,56 @@
+[
+ {
+  "id": "srnt-annual-2027",
+  "name": "SRNT Annual Meeting 2027",
+  "short_name": "SRNT 2027",
+  "organizer": "Society for Research on Nicotine and Tobacco",
+  "organizer_url": "https://srnt.org/",
+  "edition_url": "https://srnt.org/future-annual-meetings/",
+  "areas": [
+   "addiction-medicine",
+   "psychiatry",
+   "psychology"
+  ],
+  "tags": [
+   "nicotine",
+   "addiction",
+   "psychopharmacology"
+  ],
+  "start_date": "2027-03-03",
+  "end_date": "2027-03-06",
+  "city": "San Francisco",
+  "region_name": "California",
+  "country": "US",
+  "venue": null,
+  "lat": 37.7749,
+  "lon": -122.4194,
+  "format": "in-person",
+  "description": "The Society for Research on Nicotine and Tobacco holds its annual meeting in San Francisco, California from March 3 to 6, 2027. The meeting covers nicotine and tobacco research spanning addiction medicine, psychiatry, and psychology.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-06-15",
+    "url": "https://srnt.org/future-annual-meetings/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-07-31",
+    "url": "https://srnt.org/future-annual-meetings/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://srnt.org/future-annual-meetings/",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 meeting dates (March 3 to 6, 2027), San Francisco location, and abstract submission open (June 15, 2026) and close (July 31, 2026) dates; also mentions accept/reject notification mid November 2026 and a rapid submissions window opening December 2026, neither given as exact dates."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Venue within San Francisco not yet specified on the official page. Notification (mid November 2026) and rapid submission window opening (December 2026) are stated only at month level, so they are not included as dated deadline entries; a maintainer may want to check back closer to those months for exact dates."
+ }
+]

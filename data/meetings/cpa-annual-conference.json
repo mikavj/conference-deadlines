@@ -1,0 +1,143 @@
+[
+ {
+  "id": "cpa-annual-conference-2026",
+  "name": "Canadian Psychiatric Association 76th Annual Conference 2026",
+  "short_name": "CPA 2026",
+  "organizer": "Canadian Psychiatric Association",
+  "organizer_url": "https://www.cpa-apc.org/",
+  "edition_url": "https://www.cpa-apc.org/annual-conference/",
+  "tags": [
+   "general-psychiatry",
+   "international",
+   "education"
+  ],
+  "start_date": "2026-11-18",
+  "end_date": "2026-11-21",
+  "city": "Montreal",
+  "country": "CA",
+  "venue": "Le Centre Sheraton Montreal Hotel",
+  "lat": 45.4979,
+  "lon": -73.5714,
+  "format": "in-person",
+  "description": "The 76th Annual Conference of the Canadian Psychiatric Association takes place at the Centre Sheraton Montreal. Preconference courses run on Wednesday 18 November and the main scientific programme, with keynote plenaries and concurrent sessions, runs from 19 to 21 November 2026.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-02-02",
+    "url": "https://www.cpa-apc.org/call-for-abstracts/",
+    "estimated": false,
+    "note": "Midnight Pacific Time; courses, general sessions, research papers and posters (research and early investigator categories)."
+   },
+   {
+    "label": "Abstract notification",
+    "date": null,
+    "url": "https://www.cpa-apc.org/call-for-abstracts/",
+    "estimated": false,
+    "note": "Site states spring 2026."
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-10-30",
+    "url": "https://www.cpa-apc.org/registration-fees/",
+    "estimated": false,
+    "note": "Early rates 22 August to 30 October; regular rates 31 October to 21 November."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.cpa-apc.org/annual-conference/",
+    "accessed": "2026-09-09",
+    "note": "Dates 18 to 21 November 2026, Centre Sheraton Montreal."
+   },
+   {
+    "url": "https://www.cpa-apc.org/call-for-abstracts/",
+    "accessed": "2026-09-09",
+    "note": "Abstract deadline 2 February 2026, in person event, decision timeline spring 2026."
+   },
+   {
+    "url": "https://www.cpa-apc.org/registration-fees/",
+    "accessed": "2026-09-09",
+    "note": "Early and regular registration rate windows; preconference courses on 18 November."
+   }
+  ],
+  "confidence": "high",
+  "notes": "The cpa-apc.org TLS chain fails automated certificate verification; content was retrieved with verification disabled. Prior edition details were not retrieved.",
+  "region_name": "Quebec",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "cpa-annual-conference-2027",
+  "name": "Canadian Psychiatric Association 77th Annual Conference 2027",
+  "short_name": "CPA 2027",
+  "organizer": "Canadian Psychiatric Association",
+  "organizer_url": "https://www.cpa-apc.org/",
+  "edition_url": "https://www.cpa-apc.org/future-conferences/",
+  "tags": [
+   "general-psychiatry",
+   "international",
+   "education"
+  ],
+  "start_date": "2027-11-10",
+  "end_date": "2027-11-13",
+  "city": "Toronto",
+  "country": "CA",
+  "venue": "Westin Harbour Castle",
+  "lat": 43.6409,
+  "lon": -79.3757,
+  "format": null,
+  "description": "The 77th Annual Conference of the Canadian Psychiatric Association is scheduled for the Westin Harbour Castle in Toronto from 10 to 13 November 2027. Only the dates and venue have been published.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2027-02-01",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (abstracts closed 2 February 2026 for a November conference). Not published."
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-10-22",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (early rates ended 30 October 2026, about three weeks before the conference). Not published."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-11-18",
+   "end_date": "2026-11-21",
+   "city": "Montreal",
+   "deadlines": [
+    {
+     "label": "Abstract submission",
+     "date": "2026-02-02"
+    },
+    {
+     "label": "Early registration",
+     "date": "2026-10-30"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.cpa-apc.org/future-conferences/",
+    "accessed": "2026-09-09",
+    "note": "77th Annual Conference, 10 to 13 November 2027, Westin Harbour Castle, Toronto, Ontario."
+   },
+   {
+    "url": "https://www.cpa-apc.org/call-for-abstracts/",
+    "accessed": "2026-09-09",
+    "note": "2026 abstract deadline used for the estimate."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Dates and venue published; format and deadlines not yet announced.",
+  "region_name": "Ontario",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

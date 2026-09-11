@@ -1,0 +1,59 @@
+[
+ {
+  "id": "uscap-annual-2027",
+  "name": "2027 USCAP Annual Meeting",
+  "short_name": "USCAP 2027",
+  "organizer": "United States and Canadian Academy of Pathology",
+  "organizer_url": "https://uscap.org/",
+  "edition_url": "https://2027am.uscap.org/",
+  "areas": [
+   "pathology"
+  ],
+  "tags": [
+   "pathology",
+   "translational",
+   "education",
+   "student-resident-research"
+  ],
+  "start_date": "2027-03-13",
+  "end_date": "2027-03-18",
+  "city": "Vancouver",
+  "region_name": "British Columbia",
+  "country": "CA",
+  "venue": null,
+  "lat": 49.2827,
+  "lon": -123.1207,
+  "format": "in-person",
+  "description": "The USCAP Annual Meeting is the main scientific meeting of the United States and Canadian Academy of Pathology, featuring platform and poster presentations across anatomic and clinical pathology subspecialties. The 2027 edition, the 116th annual meeting, will be held in Vancouver, British Columbia, Canada, with all presenters required to attend in person.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-09-24",
+    "url": "https://uscap.org/abstracts/",
+    "estimated": false,
+    "note": "Deadline is 11:00 AM PDT / 2:00 PM EDT; a 50 USD submission fee is required to complete submission."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-03-21",
+   "end_date": "2026-03-26",
+   "city": "San Antonio",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://uscap.org/abstracts/",
+    "accessed": "2026-09-10",
+    "note": "Official abstract submission page confirming the 2027 abstract deadline of September 24, 2026 (11:00 AM PDT / 2:00 PM EDT), the 50 USD fee, in-person-only presenter policy, and that notifications go out in late October 2026."
+   },
+   {
+    "url": "https://uscap.org/uscap-annual-meeting/",
+    "accessed": "2026-09-10",
+    "note": "Official annual meeting page confirming 2027 dates (March 13-18) and Vancouver, BC location, and 2026 dates/venue (San Antonio, Henry B. Gonzalez Convention Center) used for the prior edition."
+   }
+  ],
+  "confidence": "high",
+  "notes": "Direct WebFetch of the dedicated 2027am.uscap.org meeting site returned HTTP 403; uscap.org/abstracts/ and uscap.org/uscap-annual-meeting/ were fetched directly instead and corroborate each other. Notification timing was stated only as 'late October' without an exact day, so no notification deadline entry was recorded. Venue for the 2027 meeting is not yet specified on the pages accessed. Early/regular registration deadlines for 2027 were not found on the pages accessed."
+ }
+]

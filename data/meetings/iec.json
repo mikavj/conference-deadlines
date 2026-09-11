@@ -1,0 +1,45 @@
+[
+ {
+  "id": "iec-2027",
+  "name": "37th International Epilepsy Congress",
+  "short_name": "IEC 2027",
+  "organizer": "International League Against Epilepsy (ILAE) and International Bureau for Epilepsy (IBE)",
+  "organizer_url": "https://www.ilae.org",
+  "edition_url": "https://www.ilae.org/congresses/37th-international-epilepsy-congress",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "epilepsy",
+   "international",
+   "global"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": "Amsterdam",
+  "region_name": "North Holland",
+  "country": "NL",
+  "venue": null,
+  "lat": 52.3676,
+  "lon": 4.9041,
+  "format": null,
+  "description": "The International League Against Epilepsy and the International Bureau for Epilepsy plan to hold the 37th International Epilepsy Congress in Amsterdam, Netherlands. Exact congress dates were not yet published on the official page as of the access date.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2025,
+   "start_date": "2025-08-30",
+   "end_date": "2025-09-03",
+   "city": "Lisbon, Portugal",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.ilae.org/congresses/37th-international-epilepsy-congress",
+    "accessed": "2026-09-10",
+    "note": "Confirms host city (Amsterdam), co-chairs, and that session proposal submissions have closed while a call for abstracts is expected in autumn 2026; content retrieved via r.jina.ai proxy after a direct HTTP 403. Exact congress dates were not stated in the retrieved content."
+   }
+  ],
+  "confidence": "low",
+  "notes": "Direct WebFetch of ilae.org returned HTTP 403 Forbidden; content was retrieved via the r.jina.ai proxy. The official page did not state exact congress dates, only that a call for abstracts is expected in autumn 2026 and special interest session proposals in winter 2026. Prior edition (Lisbon 2025) dates are drawn from aggregator consensus (ILAE affiliate and partner listings), not a directly fetched ILAE page, so treat them as approximate."
+ }
+]

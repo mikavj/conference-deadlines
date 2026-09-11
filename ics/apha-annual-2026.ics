@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:APHA Annual Meeting and Expo 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:apha-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261105
+SUMMARY:APHA Annual Meeting and Expo 2026
+DESCRIPTION:The American Public Health Association holds its 2026 Annual 
+ Meeting and Expo in San Antonio\, Texas. The meeting brings together pub
+ lic health professionals to present research and network across all area
+ s of public health practice.\n\nDeadlines\nEarly registration: 2026-07-1
+ 4\nAdvance registration: 2026-09-15\nLate registration: 2026-10-29\n\nht
+ tps://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annual-me
+ eting-and-expo
+LOCATION:San Antonio\, Texas\, Henry B. Gonzalez Convention Center
+URL:https://www.apha.org/events-and-meetings/apha-calendar/2026-apha-annu
+ al-meeting-and-expo
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:APHA Annual Meeting and Expo 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apha-annual-2026-20260714-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Deadline: APHA 2026 early registration
+DESCRIPTION:Early registration window opens June 2\, 2026 and closes July
+  14\, 2026\nMeeting: APHA Annual Meeting and Expo 2026\, Nov 01 to 04\, 
+ 2026\, San Antonio\, Texas\, Henry B. Gonzalez Convention Center\nhttps:
+ //www.apha.org/events-and-meetings/annual/registration-information
+LOCATION:San Antonio\, Texas\, Henry B. Gonzalez Convention Center
+URL:https://www.apha.org/events-and-meetings/annual/registration-informat
+ ion
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APHA 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APHA 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APHA 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apha-annual-2026-20260915-advance-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Deadline: APHA 2026 advance registration
+DESCRIPTION:Meeting: APHA Annual Meeting and Expo 2026\, Nov 01 to 04\, 2
+ 026\, San Antonio\, Texas\, Henry B. Gonzalez Convention Center\nhttps:/
+ /www.apha.org/events-and-meetings/annual/registration-information
+LOCATION:San Antonio\, Texas\, Henry B. Gonzalez Convention Center
+URL:https://www.apha.org/events-and-meetings/annual/registration-informat
+ ion
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APHA 2026 advance registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APHA 2026 advance registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APHA 2026 advance registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apha-annual-2026-20261029-late-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Deadline: APHA 2026 late registration
+DESCRIPTION:Onsite rates apply October 30 through November 4\nMeeting: AP
+ HA Annual Meeting and Expo 2026\, Nov 01 to 04\, 2026\, San Antonio\, Te
+ xas\, Henry B. Gonzalez Convention Center\nhttps://www.apha.org/events-a
+ nd-meetings/annual/registration-information
+LOCATION:San Antonio\, Texas\, Henry B. Gonzalez Convention Center
+URL:https://www.apha.org/events-and-meetings/annual/registration-informat
+ ion
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APHA 2026 late registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APHA 2026 late registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APHA 2026 late registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

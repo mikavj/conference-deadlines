@@ -1,0 +1,209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ACTRIMS Forum 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:actrims-forum-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270314
+SUMMARY:ACTRIMS Forum 2027
+DESCRIPTION:ACTRIMS Forum is the annual scientific and clinical meeting o
+ f the Americas Committee for Treatment and Research in Multiple Sclerosi
+ s. The 2027 Forum\, themed Charting the Path Forward\, is held in Phoeni
+ x\, Arizona with an online option for virtual attendees.\n\nDeadlines\nA
+ bstract submission opens: 2026-08-03\nRegular abstract submission deadli
+ ne: 2026-11-06\nLate-breaking abstract submission opens: 2026-11-09\nLat
+ e-breaking abstract submission deadline: 2026-12-04\nAbstract notificati
+ on: 2027-01-08\nEarly registration deadline: 2027-02-10\nGroup registrat
+ ion deadline: 2027-02-15\nIn-person registration deadline: 2027-03-01\nV
+ irtual registration deadline: 2027-03-10\n\nhttps://www.forum.actrims.or
+ g/
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ACTRIMS Forum 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20261106-regular-abstract-submission-deadline@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Deadline: ACTRIMS Forum 2027 regular abstract submission deadline
+DESCRIPTION:Stated as no extension.\nMeeting: ACTRIMS Forum 2027\, Mar 11
+  to 13\, 2027\, Phoenix\, Arizona\, Phoenix Convention Center\nhttps://w
+ ww.forum.actrims.org/submit
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 regular abstract submission dead
+ line
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 regular abstract submission dead
+ line
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 regular abstract submission dead
+ line
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20261204-late-breaking-abstract-submission-deadlin
+ e@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Deadline: ACTRIMS Forum 2027 late-breaking abstract submission de
+ adline
+DESCRIPTION:Meeting: ACTRIMS Forum 2027\, Mar 11 to 13\, 2027\, Phoenix\,
+  Arizona\, Phoenix Convention Center\nhttps://www.forum.actrims.org/subm
+ it
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 late-breaking abstract submissio
+ n deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 late-breaking abstract submissio
+ n deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 late-breaking abstract submissio
+ n deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20270210-early-registration-deadline@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Deadline: ACTRIMS Forum 2027 early registration deadline
+DESCRIPTION:Early bird pricing ends\; regular pricing applies February 11
+  through March 1.\nMeeting: ACTRIMS Forum 2027\, Mar 11 to 13\, 2027\, P
+ hoenix\, Arizona\, Phoenix Convention Center\nhttps://www.forum.actrims.
+ org/register
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/register
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20270215-group-registration-deadline@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Deadline: ACTRIMS Forum 2027 group registration deadline
+DESCRIPTION:Meeting: ACTRIMS Forum 2027\, Mar 11 to 13\, 2027\, Phoenix\,
+  Arizona\, Phoenix Convention Center\nhttps://www.forum.actrims.org/regi
+ ster
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/register
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 group registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 group registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 group registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20270301-in-person-registration-deadline@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:Deadline: ACTRIMS Forum 2027 in-person registration deadline
+DESCRIPTION:Also the cancellation/refund deadline.\nMeeting: ACTRIMS Foru
+ m 2027\, Mar 11 to 13\, 2027\, Phoenix\, Arizona\, Phoenix Convention Ce
+ nter\nhttps://www.forum.actrims.org/register
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/register
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 in-person registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 in-person registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 in-person registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:actrims-forum-2027-20270310-virtual-registration-deadline@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:Deadline: ACTRIMS Forum 2027 virtual registration deadline
+DESCRIPTION:12:00 p.m. Mountain Time\, virtual pass only.\nMeeting: ACTRI
+ MS Forum 2027\, Mar 11 to 13\, 2027\, Phoenix\, Arizona\, Phoenix Conven
+ tion Center\nhttps://www.forum.actrims.org/register
+LOCATION:Phoenix\, Arizona\, Phoenix Convention Center
+URL:https://www.forum.actrims.org/register
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 virtual registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 virtual registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACTRIMS Forum 2027 virtual registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

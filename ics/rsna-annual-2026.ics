@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:RSNA 2026 Scientific Assembly and Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:rsna-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261204
+SUMMARY:RSNA 2026 Scientific Assembly and Annual Meeting
+DESCRIPTION:The Radiological Society of North America holds its annual Sc
+ ientific Assembly and Annual Meeting at McCormick Place in Chicago from 
+ November 29 to December 3\, 2026. The program covers diagnostic radiolog
+ y and related imaging specialties and offers both in-person and virtual 
+ registration.\n\nDeadlines\nAbstract submission: 2026-05-06\nEarly regis
+ tration deadline (regist): 2026-10-01\n\nhttps://www.rsna.org/annual-mee
+ ting
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://www.rsna.org/annual-meeting
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSNA 2026 Scientific Assembly and Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rsna-annual-2026-20260506-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:Deadline: RSNA 2026 abstract submission
+DESCRIPTION:Submission site closed at 12:00 p.m. Central Time\; confirmed
+  in RSNA's April 2026 press release. The current abstract submission pag
+ e no longer lists this date since submissions have closed.\nMeeting: RSN
+ A 2026 Scientific Assembly and Annual Meeting\, Nov 29 to Dec 03\, 2026\
+ , Chicago\, Illinois\, McCormick Place\nhttps://www.rsna.org/media/press
+ /2026/2652
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://www.rsna.org/media/press/2026/2652
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RSNA 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RSNA 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RSNA 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:rsna-annual-2026-20261001-early-registration-deadline-regist-@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Deadline: RSNA 2026 early registration deadline (regist)
+DESCRIPTION:Official page states registration rates increase by 100 USD o
+ n October 2\, 2026\, implying October 1 is the last day of the lower rat
+ e.\nMeeting: RSNA 2026 Scientific Assembly and Annual Meeting\, Nov 29 t
+ o Dec 03\, 2026\, Chicago\, Illinois\, McCormick Place\nhttps://www.rsna
+ .org/annual-meeting/attendee-resources/pricing-and-registration
+LOCATION:Chicago\, Illinois\, McCormick Place
+URL:https://www.rsna.org/annual-meeting/attendee-resources/pricing-and-re
+ gistration
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RSNA 2026 early registration deadline (regist)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RSNA 2026 early registration deadline (regist)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: RSNA 2026 early registration deadline (regist)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

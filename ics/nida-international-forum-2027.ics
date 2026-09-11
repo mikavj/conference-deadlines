@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 NIDA International Forum
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:nida-international-forum-2027-20270322-poster-abstract-submission@con
+ ference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Deadline: NIDA International Forum 2027 poster abstract submissio
+ n (estimated)
+DESCRIPTION:Estimated from the 2026 deadline (22 March 2026 for a 3 to 4 
+ June forum). Not published.\nMeeting: 2027 NIDA International Forum\, da
+ tes not yet published\, \nhttps://nida.nih.gov/international/internation
+ al-forum
+URL:https://nida.nih.gov/international/international-forum
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NIDA International Forum 2027 poster abstract submi
+ ssion (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NIDA International Forum 2027 poster abstract submi
+ ssion (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: NIDA International Forum 2027 poster abstract submi
+ ssion (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

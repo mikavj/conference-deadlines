@@ -1,0 +1,87 @@
+[
+ {
+  "id": "aamc-learn-serve-lead-2026",
+  "name": "Learn Serve Lead 2026: The AAMC Annual Meeting",
+  "short_name": "AAMC Learn Serve Lead 2026",
+  "organizer": "Association of American Medical Colleges",
+  "organizer_url": "https://www.aamc.org",
+  "edition_url": "https://www.aamc.org/learn-network/learn-serve-lead",
+  "areas": [
+   "medical-education"
+  ],
+  "tags": [
+   "medical-education",
+   "education"
+  ],
+  "start_date": "2026-11-06",
+  "end_date": "2026-11-10",
+  "city": "Anaheim",
+  "region_name": "California",
+  "country": "US",
+  "venue": null,
+  "lat": 33.8366,
+  "lon": -117.9143,
+  "format": "in-person",
+  "description": "The Association of American Medical Colleges holds Learn Serve Lead, its annual meeting, in Anaheim, California in 2026. The meeting covers medical education, research, and leadership across academic medicine, marking the AAMC's 150th anniversary.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2025-12-01",
+    "url": "https://www.aamc.org/learn-network/learn-serve-lead",
+    "estimated": false,
+    "note": "11:59 pm Pacific Time; decisions sent to contact authors in March 2026"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aamc.org/learn-network/learn-serve-lead",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, city, and registration status for 2026 and 2027"
+   },
+   {
+    "url": "https://www.conferenceabstracts.com/uploads/documents/26695/2026MedEdCallDRAFTacceptedkatechanges.pdf",
+    "accessed": "2026-09-10",
+    "note": "Medical Education Call document referencing the 2026 abstract process"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The medical education abstract submission deadline for 2026 has already passed."
+ },
+ {
+  "id": "aamc-learn-serve-lead-2027",
+  "name": "Learn Serve Lead 2027: The AAMC Annual Meeting",
+  "short_name": "AAMC Learn Serve Lead 2027",
+  "organizer": "Association of American Medical Colleges",
+  "organizer_url": "https://www.aamc.org",
+  "edition_url": "https://www.aamc.org/learn-network/learn-serve-lead",
+  "areas": [
+   "medical-education"
+  ],
+  "tags": [
+   "medical-education",
+   "education"
+  ],
+  "start_date": "2027-11-12",
+  "end_date": "2027-11-16",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": null,
+  "lat": 38.9072,
+  "lon": -77.0369,
+  "format": "in-person",
+  "description": "The Association of American Medical Colleges holds Learn Serve Lead, its annual meeting, in Washington, DC in 2027.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aamc.org/learn-network/learn-serve-lead",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2027 dates and Washington, DC location"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "No abstract or registration deadlines are published yet for 2027."
+ }
+]

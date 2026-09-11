@@ -1,0 +1,54 @@
+[
+ {
+  "id": "ats-international-conference-2027",
+  "name": "ATS 2027 International Conference",
+  "short_name": "ATS 2027",
+  "organizer": "American Thoracic Society",
+  "organizer_url": "https://www.thoracic.org",
+  "edition_url": "https://site.thoracic.org/conference",
+  "areas": [
+   "pulmonary-critical-care"
+  ],
+  "tags": [
+   "pulmonary",
+   "critical-care",
+   "sleep"
+  ],
+  "start_date": "2027-05-14",
+  "end_date": "2027-05-19",
+  "city": "New Orleans",
+  "region_name": "Louisiana",
+  "country": "US",
+  "venue": null,
+  "lat": 29.9511,
+  "lon": -90.0715,
+  "format": null,
+  "description": "The ATS International Conference is the American Thoracic Society's annual meeting on pulmonary, critical care, and sleep medicine research. The 2027 conference is scheduled for New Orleans, Louisiana.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-11-04",
+    "url": "https://site.thoracic.org/conference",
+    "estimated": false,
+    "note": "5 p.m. ET deadline"
+   },
+   {
+    "label": "Learning Studio proposal submission",
+    "date": "2026-10-14",
+    "url": "https://site.thoracic.org/conference",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://site.thoracic.org/conference",
+    "accessed": "2026-09-10",
+    "note": "Official conference landing page confirming ATS 2027 dates, New Orleans location, and both submission deadlines"
+   }
+  ],
+  "confidence": "high",
+  "notes": "site.thoracic.org/conference/program/ats-2027-call-for-input returned HTTP 404; the main site.thoracic.org/conference page provided direct confirmation instead. Venue within New Orleans not stated on the fetched page."
+ }
+]

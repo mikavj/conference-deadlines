@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:International Neuropsychological Society 55th Annual Meeting
+  2027 (INS Boston 2027)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ins-annual-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270214
+SUMMARY:International Neuropsychological Society 55th Annual Meeting 2027
+  (INS Boston 2027)
+DESCRIPTION:The 55th Annual Meeting of the International Neuropsychologic
+ al Society is held in Boston under the theme From Neurocircuits to Peopl
+ e. Submissions include posters\, papers and symposia\, with a late break
+ ing poster session on Saturday 13 February 2027.\n\nDeadlines\nAbstract 
+ and symposium submission: 2026-08-19\nLate-breaking poster submission op
+ ens: 2026-09-04\nLate-breaking poster submission: 2026-10-07\n\nhttps://
+ ins-boston-2027.oa-event.com/
+LOCATION:Boston\, Massachusetts\, Sheraton Boston Hotel
+URL:https://ins-boston-2027.oa-event.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:International Neuropsychological Society 55th Annual Meeting 
+ 2027 (INS Boston 2027)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ins-annual-meeting-2027-20260819-abstract-and-symposium-submission@co
+ nference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Deadline: INS 2027 abstract and symposium submission
+DESCRIPTION:11:59 pm US Eastern Time\; no late submissions.\nMeeting: Int
+ ernational Neuropsychological Society 55th Annual Meeting 2027 (INS Bost
+ on 2027)\, Feb 10 to 13\, 2027\, Boston\, Massachusetts\, Sheraton Bosto
+ n Hotel\nhttps://the-ins.org/wp-content/uploads/2026/05/INS-Boston-2027-
+ Call-for-Abstracts-FINAL1.pdf
+LOCATION:Boston\, Massachusetts\, Sheraton Boston Hotel
+URL:https://the-ins.org/wp-content/uploads/2026/05/INS-Boston-2027-Call-f
+ or-Abstracts-FINAL1.pdf
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INS 2027 abstract and symposium submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INS 2027 abstract and symposium submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INS 2027 abstract and symposium submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ins-annual-meeting-2027-20261007-late-breaking-poster-submission@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Deadline: INS 2027 late-breaking poster submission
+DESCRIPTION:Posters only.\nMeeting: International Neuropsychological Soci
+ ety 55th Annual Meeting 2027 (INS Boston 2027)\, Feb 10 to 13\, 2027\, B
+ oston\, Massachusetts\, Sheraton Boston Hotel\nhttps://ins-boston-2027.o
+ a-event.com/
+LOCATION:Boston\, Massachusetts\, Sheraton Boston Hotel
+URL:https://ins-boston-2027.oa-event.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INS 2027 late-breaking poster submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INS 2027 late-breaking poster submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: INS 2027 late-breaking poster submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

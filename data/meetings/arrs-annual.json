@@ -1,0 +1,53 @@
+[
+ {
+  "id": "arrs-annual-2027",
+  "name": "ARRS 2027 Annual Meeting",
+  "short_name": "ARRS 2027",
+  "organizer": "American Roentgen Ray Society",
+  "organizer_url": "https://www.arrs.org",
+  "edition_url": "https://www2.arrs.org/am27/",
+  "areas": [
+   "radiology"
+  ],
+  "tags": [
+   "radiology",
+   "imaging",
+   "education",
+   "clinical-trials"
+  ],
+  "start_date": "2027-05-02",
+  "end_date": "2027-05-05",
+  "city": "Denver",
+  "region_name": "Colorado",
+  "country": "US",
+  "venue": "Sheraton Denver Downtown Hotel",
+  "lat": 39.7392,
+  "lon": -104.9903,
+  "format": "hybrid",
+  "description": "The American Roentgen Ray Society holds its 2027 Annual Meeting from May 2 to 5, 2027, at the Sheraton Denver Downtown Hotel in Denver, Colorado. The meeting is offered both in person and online and covers general and subspecialty diagnostic radiology topics.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-08-28",
+    "url": "https://www2.arrs.org/am27/call-for-abstracts-arrs-2027/",
+    "estimated": false,
+    "note": "Official ARRS 2027 call for abstracts page states this as the deadline to submit an abstract and author disclosure forms. This date has already passed relative to the 2026-09-10 research date."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www2.arrs.org/am27/",
+    "accessed": "2026-09-10",
+    "note": "Confirms meeting dates May 2 to 5, 2027, venue (Sheraton Denver Downtown Hotel), and hybrid in-person/online format."
+   },
+   {
+    "url": "https://www2.arrs.org/am27/call-for-abstracts-arrs-2027/",
+    "accessed": "2026-09-10",
+    "note": "States the abstract submission and disclosure form deadline of August 28, 2026."
+   }
+  ],
+  "confidence": "high",
+  "notes": "No early or regular registration deadline, or travel award deadline, was published on the official ARRS 2027 pages as of 2026-09-10. Venue coordinates are approximated using Denver city center since precise hotel coordinates could not be verified from an official source."
+ }
+]

@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Clinical Congress 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:acs-clinical-congress-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260930
+SUMMARY:Clinical Congress 2026
+DESCRIPTION:Clinical Congress is the annual educational meeting of the Am
+ erican College of Surgeons\, offering courses\, scientific sessions\, an
+ d abstract presentations across surgical specialties. The 2026 edition t
+ akes place at the Walter E. Washington Convention Center and includes in
+  person attendance with virtual participation options.\n\nDeadlines\nGen
+ eral scientific abstract\, surgical video\, and history poster submissio
+ n: 2026-03-02\nHigh-Impact Clinical Trials and Studies submission opens:
+  2026-06-01\nHigh-Impact Clinical Trials and Studies submission: 2026-07
+ -01\nMedical Student Program abstract submission: 2026-06-26\n\nhttps://
+ www.facs.org/for-medical-professionals/conferences-and-meetings/clinical
+ -congress-2026/
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.facs.org/for-medical-professionals/conferences-and-meetin
+ gs/clinical-congress-2026/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Clinical Congress 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acs-clinical-congress-2026-20260302-general-scientific-abstract-surgi
+ cal-video-and-history-poster-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:Deadline: ACS CC 2026 general scientific abstract\, surgical vide
+ o\, and history poster submission
+DESCRIPTION:1:00 pm CT\nMeeting: Clinical Congress 2026\, Sep 26 to 29\, 
+ 2026\, Washington\, District of Columbia\, Walter E. Washington Conventi
+ on Center\nhttps://www.facs.org/for-medical-professionals/news-publicati
+ ons/news-and-articles/acs-brief/february-24-2026-issue/last-call-for-cli
+ nical-congress-2026-abstracts-submit-by-march-2/
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.facs.org/for-medical-professionals/news-publications/news
+ -and-articles/acs-brief/february-24-2026-issue/last-call-for-clinical-co
+ ngress-2026-abstracts-submit-by-march-2/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACS CC 2026 general scientific abstract\, surgical 
+ video\, and history poster submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACS CC 2026 general scientific abstract\, surgical 
+ video\, and history poster submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACS CC 2026 general scientific abstract\, surgical 
+ video\, and history poster submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acs-clinical-congress-2026-20260701-high-impact-clinical-trials-and-s
+ tudies-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:Deadline: ACS CC 2026 high-impact clinical trials and studies sub
+ mission
+DESCRIPTION:1:00 pm CT\; accepted studies presented Sunday\, September 27
+ \, 2:30 to 4:00 pm ET\nMeeting: Clinical Congress 2026\, Sep 26 to 29\, 
+ 2026\, Washington\, District of Columbia\, Walter E. Washington Conventi
+ on Center\nhttps://www.facs.org/for-medical-professionals/conferences-an
+ d-meetings/clinical-congress-2026/call-for-abstracts/
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.facs.org/for-medical-professionals/conferences-and-meetin
+ gs/clinical-congress-2026/call-for-abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACS CC 2026 high-impact clinical trials and studies
+  submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACS CC 2026 high-impact clinical trials and studies
+  submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACS CC 2026 high-impact clinical trials and studies
+  submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:acs-clinical-congress-2026-20260626-medical-student-program-abstract-
+ submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:Deadline: ACS CC 2026 medical student program abstract submission
+DESCRIPTION:Meeting: Clinical Congress 2026\, Sep 26 to 29\, 2026\, Washi
+ ngton\, District of Columbia\, Walter E. Washington Convention Center\nh
+ ttps://www.facs.org/media/p0sfgbwd/medical-student-program-abstract-subm
+ ission-guidelines-2026.pdf
+LOCATION:Washington\, District of Columbia\, Walter E. Washington Convent
+ ion Center
+URL:https://www.facs.org/media/p0sfgbwd/medical-student-program-abstract-
+ submission-guidelines-2026.pdf
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACS CC 2026 medical student program abstract submis
+ sion
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACS CC 2026 medical student program abstract submis
+ sion
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ACS CC 2026 medical student program abstract submis
+ sion
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

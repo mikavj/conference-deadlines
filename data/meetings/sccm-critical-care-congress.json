@@ -1,0 +1,57 @@
+[
+ {
+  "id": "sccm-critical-care-congress-2027",
+  "name": "Society of Critical Care Medicine 2027 Critical Care Congress",
+  "short_name": "SCCM Critical Care Congress 2027",
+  "organizer": "Society of Critical Care Medicine",
+  "organizer_url": "https://www.sccm.org",
+  "edition_url": "https://sccm.org/annual-congress/critical-care-conference",
+  "areas": [
+   "pulmonary-critical-care"
+  ],
+  "tags": [
+   "critical-care"
+  ],
+  "start_date": "2027-03-14",
+  "end_date": "2027-03-16",
+  "city": "San Diego",
+  "region_name": "California",
+  "country": "US",
+  "venue": "San Diego Convention Center",
+  "lat": 32.7075,
+  "lon": -117.1605,
+  "format": null,
+  "description": "The Critical Care Congress is the Society of Critical Care Medicine's annual meeting on critical care research and practice. The 2027 congress runs March 14 to 16 at the San Diego Convention Center, preceded by precongress educational programming on March 12 and 13.",
+  "deadlines": [
+   {
+    "label": "Abstract and case report submission opens",
+    "date": "2026-06-01",
+    "url": "https://sccm.org/annual-congress/abstracts-and-case-reports",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract and case report submission",
+    "date": "2026-09-03",
+    "url": "https://sccm.org/annual-congress/abstracts-and-case-reports",
+    "estimated": false,
+    "note": "11:59 p.m. Central Time deadline"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://sccm.org/annual-congress/abstracts-and-case-reports",
+    "accessed": "2026-09-10",
+    "note": "Official page confirming submission window (June 1-Sept 3, 2026) for the 2027 Critical Care Congress"
+   },
+   {
+    "url": "https://sccm.org/annual-congress/critical-care-conference",
+    "accessed": "2026-09-10",
+    "note": "Congress dates and San Diego Convention Center venue"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

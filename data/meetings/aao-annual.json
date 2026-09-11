@@ -1,0 +1,156 @@
+[
+ {
+  "id": "aao-annual-2026",
+  "name": "AAO 2026 Annual Meeting",
+  "short_name": "AAO 2026",
+  "organizer": "American Academy of Ophthalmology",
+  "organizer_url": "https://www.aao.org",
+  "edition_url": "https://www.aao.org/annual-meeting",
+  "areas": [
+   "ophthalmology"
+  ],
+  "tags": [
+   "ophthalmology",
+   "education"
+  ],
+  "start_date": "2026-10-09",
+  "end_date": "2026-10-12",
+  "city": "New Orleans",
+  "region_name": "Louisiana",
+  "country": "US",
+  "venue": "Ernest N. Morial Convention Center",
+  "lat": 29.9403,
+  "lon": -90.0693,
+  "format": "in-person",
+  "description": "AAO 2026 is the American Academy of Ophthalmology's annual meeting, held in New Orleans, Louisiana at the Ernest N. Morial Convention Center from October 9 to 12, 2026. This is the annual meeting of the American Academy of Ophthalmology, distinct from other organizations that share the AAO abbreviation.",
+  "deadlines": [
+   {
+    "label": "Advance registration",
+    "date": "2026-09-09",
+    "url": "https://www.aao.org/annual-meeting",
+    "estimated": false,
+    "note": "Advance pricing fee deadline; fees increase starting September 10, 2026. This date has already passed as of the 2026-09-10 research date"
+   },
+   {
+    "label": "Membership application deadline to register as a member",
+    "date": "2026-09-15",
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract acceptance notification (published in Meeting Guide)",
+    "date": "2026-09-01",
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "estimated": false,
+    "note": "Page states accepted abstracts are published in the Meeting Guide on this date"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aao.org/annual-meeting",
+    "accessed": "2026-09-10",
+    "note": "Confirms 2026 meeting dates October 9-12, New Orleans, Ernest N. Morial Convention Center, and advance registration deadline September 9"
+   },
+   {
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "accessed": "2026-09-10",
+    "note": "Confirms membership application deadline September 15 and accepted-abstracts publication date September 1; a direct fetch of this URL returned 404, so content was retrieved via the r.jina.ai reader proxy which mirrors the live aao.org page"
+   }
+  ],
+  "confidence": "high",
+  "notes": "This record is for the American Academy of Ophthalmology (aao.org), confirmed distinct from the American Academy of Otolaryngology or American Academy of Optometry. The original AAO 2026 abstract submission opening/deadline dates (likely set in late 2025 or early 2026) could not be verified because the live presenter dates page now only displays current and upcoming items for the next edition. The presenter dates page separately lists Subspecialty Day as October 9-10 and the main meeting as October 10-12, while the primary annual-meeting page states the main meeting spans October 9-12; the official annual-meeting page range was used."
+ },
+ {
+  "id": "aao-annual-2027",
+  "name": "AAO 2027 Annual Meeting",
+  "short_name": "AAO 2027",
+  "organizer": "American Academy of Ophthalmology",
+  "organizer_url": "https://www.aao.org",
+  "edition_url": "https://www.aao.org/annual-meeting/past-and-future-meetings",
+  "areas": [
+   "ophthalmology"
+  ],
+  "tags": [
+   "ophthalmology",
+   "education"
+  ],
+  "start_date": "2027-11-12",
+  "end_date": "2027-11-15",
+  "city": "Las Vegas",
+  "region_name": "Nevada",
+  "country": "US",
+  "venue": "The Venetian Expo",
+  "lat": 36.1215,
+  "lon": -115.1739,
+  "format": "in-person",
+  "description": "AAO 2027 is the American Academy of Ophthalmology's annual meeting, scheduled for November 12 to 15, 2027 in Las Vegas, Nevada at the Venetian Expo and Hotel.",
+  "deadlines": [
+   {
+    "label": "Instruction course submission opens",
+    "date": "2026-12-10",
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "estimated": false,
+    "note": "Covers Instruction Courses, AAOE Instruction Courses, AAOP Instruction Courses, and new Skills Transfer Labs/Lectures"
+   },
+   {
+    "label": "Instruction course submission deadline",
+    "date": "2027-01-12",
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Paper/poster and video submission opens",
+    "date": "2027-03-11",
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Paper/poster and video submission deadline",
+    "date": "2027-04-13",
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Instruction course acceptance notification",
+    "date": "2027-04-15",
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "estimated": true,
+    "note": "Official page states only 'mid-April 2027'; the 15th is used as an approximation of mid-month"
+   },
+   {
+    "label": "Instruction course schedule notification",
+    "date": "2027-05-15",
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "estimated": true,
+    "note": "Official page states only 'mid-May 2027'; the 15th is used as an approximation of mid-month"
+   },
+   {
+    "label": "Paper/poster and video notification",
+    "date": "2027-07-15",
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "estimated": true,
+    "note": "Official page states only 'mid-July 2027'; the 15th is used as an approximation of mid-month"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.aao.org/annual-meeting/past-and-future-meetings",
+    "accessed": "2026-09-10",
+    "note": "Lists AAO 2027 dates (November 12-15, 2027), Las Vegas, Venetian Expo and Hotel venue; a direct fetch returned 404, content retrieved via the r.jina.ai reader proxy mirroring the live aao.org page"
+   },
+   {
+    "url": "https://www.aao.org/annual-meeting/presenter/dates",
+    "accessed": "2026-09-10",
+    "note": "Lists AAO 2027 abstract submission and notification deadlines for instruction courses and paper/poster/video tracks; also retrieved via the r.jina.ai reader proxy after a direct 404"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "This record is for the American Academy of Ophthalmology (aao.org). Underlying pages could only be retrieved through a third-party reader proxy (r.jina.ai) because direct fetches of the relevant aao.org sub-pages returned 404; the proxy mirrors the same live official content. No dedicated AAO 2027 landing page equivalent to AAO 2026's /annual-meeting page was found yet, so the past-and-future-meetings listing page is used as the edition URL. Three notification dates are only stated as 'mid-month' on the source page and are flagged estimated."
+ }
+]

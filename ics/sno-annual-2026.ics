@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society for Neuro-Oncology 31st Annual Meeting and Education
+  Day 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sno-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Society for Neuro-Oncology 31st Annual Meeting and Education Day 
+ 2026
+DESCRIPTION:The SNO Annual Meeting is a multidisciplinary conference on n
+ euro-oncology research\, diagnosis and treatment\, expecting more than 3
+ 000 attendees from over 40 countries. Accepted abstracts are published i
+ n the journal Neuro-Oncology.\n\nDeadlines\nRegular abstract submission 
+ deadline: 2026-05-26\nLate-breaking abstract placeholder submission dead
+ line: 2026-05-26\nLate-breaking abstract final submission deadline: 2026
+ -09-04\nEarly bird registration deadline: 2026-09-11\nPresenter registra
+ tion deadline: 2026-09-18\n\nhttps://sno2026.oa-event.com/
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society for Neuro-Oncology 31st Annual Meeting and Education 
+ Day 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026-20260526-regular-abstract-submission-deadline@confere
+ nce-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Deadline: SNO 2026 regular abstract submission deadline
+DESCRIPTION:11:59 pm ET\, firm deadline\, cannot be extended\nMeeting: So
+ ciety for Neuro-Oncology 31st Annual Meeting and Education Day 2026\, No
+ v 12 to 15\, 2026\, Philadelphia\, Pennsylvania\, Pennsylvania Conventio
+ n Center\nhttps://sno2026.oa-event.com/submit
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 regular abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 regular abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 regular abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026-20260526-late-breaking-abstract-placeholder-submissio
+ n-deadline@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Deadline: SNO 2026 late-breaking abstract placeholder submission 
+ deadline
+DESCRIPTION:11:59 pm ET\nMeeting: Society for Neuro-Oncology 31st Annual 
+ Meeting and Education Day 2026\, Nov 12 to 15\, 2026\, Philadelphia\, Pe
+ nnsylvania\, Pennsylvania Convention Center\nhttps://sno2026.oa-event.co
+ m/submit
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract placeholder submiss
+ ion deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract placeholder submiss
+ ion deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract placeholder submiss
+ ion deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026-20260904-late-breaking-abstract-final-submission-dead
+ line@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Deadline: SNO 2026 late-breaking abstract final submission deadli
+ ne
+DESCRIPTION:5:00 pm ET\nMeeting: Society for Neuro-Oncology 31st Annual M
+ eeting and Education Day 2026\, Nov 12 to 15\, 2026\, Philadelphia\, Pen
+ nsylvania\, Pennsylvania Convention Center\nhttps://sno2026.oa-event.com
+ /submit
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract final submission de
+ adline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract final submission de
+ adline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 late-breaking abstract final submission de
+ adline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026-20260911-early-bird-registration-deadline@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Deadline: SNO 2026 early bird registration deadline
+DESCRIPTION:Meeting: Society for Neuro-Oncology 31st Annual Meeting and E
+ ducation Day 2026\, Nov 12 to 15\, 2026\, Philadelphia\, Pennsylvania\, 
+ Pennsylvania Convention Center\nhttps://sno2026.oa-event.com/registratio
+ n
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/registration
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 early bird registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 early bird registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 early bird registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sno-annual-2026-20260918-presenter-registration-deadline@conference-c
+ alendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Deadline: SNO 2026 presenter registration deadline
+DESCRIPTION:11:59 pm ET\, required for all accepted presenters\nMeeting: 
+ Society for Neuro-Oncology 31st Annual Meeting and Education Day 2026\, 
+ Nov 12 to 15\, 2026\, Philadelphia\, Pennsylvania\, Pennsylvania Convent
+ ion Center\nhttps://sno2026.oa-event.com/submit
+LOCATION:Philadelphia\, Pennsylvania\, Pennsylvania Convention Center
+URL:https://sno2026.oa-event.com/submit
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 presenter registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 presenter registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SNO 2026 presenter registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

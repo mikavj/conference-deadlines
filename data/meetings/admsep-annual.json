@@ -1,0 +1,78 @@
+[
+ {
+  "id": "admsep-annual-2027",
+  "name": "ADMSEP Annual Meeting 2027",
+  "short_name": "ADMSEP 2027",
+  "organizer": "Association of Directors of Medical Student Education in Psychiatry",
+  "organizer_url": "https://www.admsep.org/",
+  "edition_url": "https://www.admsep.org/wcagmeetings.html",
+  "tags": [
+   "education",
+   "general-psychiatry"
+  ],
+  "start_date": "2027-06-17",
+  "end_date": "2027-06-19",
+  "city": "Salt Lake City",
+  "country": "US",
+  "venue": null,
+  "lat": 40.7608,
+  "lon": -111.891,
+  "format": "in-person",
+  "description": "The annual meeting of directors of medical student psychiatry education, with workshops, posters and curriculum sessions. Additional details for 2027 have not been announced.",
+  "deadlines": [
+   {
+    "label": "Abstract and proposal submission deadline",
+    "date": "2026-10-31",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 meeting pattern (deadline October 31, 2025 for the June 2026 meeting). No 2027 call has been posted."
+   },
+   {
+    "label": "Early bird registration deadline",
+    "date": "2027-05-01",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (early bird pricing ended May 1, 2026)."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-18",
+   "end_date": "2026-06-20",
+   "city": "Louisville",
+   "deadlines": [
+    {
+     "label": "Abstract submission deadline",
+     "date": "2025-10-31"
+    },
+    {
+     "label": "Early bird registration deadline",
+     "date": "2026-05-01"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.admsep.org/wcagmeetings.html",
+    "accessed": "2026-09-09",
+    "note": "Confirms 2027 meeting June 17 to 19, 2027 in Salt Lake City, Utah, and 2026 meeting June 18 to 20, 2026 at the Omni Louisville Hotel with early bird pricing ending May 1, 2026."
+   },
+   {
+    "url": "https://www.admsep.org/htmly/2025/06/upcoming-meetings-details",
+    "accessed": "2026-09-09",
+    "note": "Confirms 2027 dates and Salt Lake City; lists 2026 as June 17 to 20, 2026 with abstract deadline October 31, 2025."
+   },
+   {
+    "url": "https://www.admsep.org/htmly/",
+    "accessed": "2026-09-09",
+    "note": "News feed through August 2026 contains no 2027 call for abstracts."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Dates and city are official; venue and all deadlines are unpublished. One ADMSEP page lists the 2026 meeting as June 17 to 20 (likely including a pre meeting day) while the meetings page says June 18 to 20.",
+  "region_name": "Utah",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

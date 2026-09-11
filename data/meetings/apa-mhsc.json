@@ -1,0 +1,54 @@
+[
+ {
+  "id": "apa-mhsc-2026",
+  "name": "APA Mental Health Services Conference 2026",
+  "short_name": "APA MHSC 2026",
+  "organizer": "American Psychiatric Association",
+  "organizer_url": "https://www.psychiatry.org/",
+  "edition_url": "https://www.psychiatry.org/psychiatrists/meetings",
+  "tags": [
+   "community",
+   "general-psychiatry"
+  ],
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": "US",
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": null,
+  "description": "The Mental Health Services Conference, formerly the Institute on Psychiatric Services, was APA's fall meeting on community and public psychiatry. No 2026 or 2027 edition is listed on the APA meetings calendar.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2024,
+   "start_date": "2024-09-26",
+   "end_date": "2024-09-28",
+   "city": "Baltimore",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.psychiatry.org/psychiatrists/meetings",
+    "accessed": "2026-09-09",
+    "note": "APA meetings listing for 2026 and 2027 contains no Mental Health Services Conference; only a virtual Psychopharmacology Unplugged event (October 2 to 4, 2026) and the Annual Meetings."
+   },
+   {
+    "url": "https://www.psychiatry.org/about-apa/meet-our-organization/councils/medical-education-and-lifelong-learning/committee-mental-health-services-conference",
+    "accessed": "2026-09-09",
+    "note": "Committee page still describes the conference as held each fall but gives no dates."
+   },
+   {
+    "url": "https://www.psychiatry.org/psychiatrists/meetings/the-mental-health-services-conference/schedule-at-a-glance",
+    "accessed": "2026-09-09",
+    "note": "Returns 404; 2024 edition (Hilton Baltimore Inner Harbor, September 26 to 28, 2024) known only from a search engine snippet of this page."
+   }
+  ],
+  "confidence": "low",
+  "notes": "A search engine summary of a Psychiatric News article (Trustees Approve 2025 Budgets, psychiatryonline.org, February 2025) states the 2025 MHSC was transitioned into a community psychiatry track at the 2025 Annual Meeting; the article itself could not be opened (bot protection). The 2026 Annual Meeting registration page lists a Community Psychiatry Hub. Treat this conference as discontinued or merged unless APA announces a new edition. Suggest hiding or flagging this entry.",
+  "region_name": null,
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

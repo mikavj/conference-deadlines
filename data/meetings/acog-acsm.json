@@ -1,0 +1,50 @@
+[
+ {
+  "id": "acog-acsm-2027",
+  "name": "2027 ACOG Annual Clinical and Scientific Meeting",
+  "short_name": "ACOG ACSM 2027",
+  "organizer": "American College of Obstetricians and Gynecologists",
+  "organizer_url": "https://www.acog.org",
+  "edition_url": "https://annualmeeting.acog.org/",
+  "areas": [
+   "obstetrics-gynecology"
+  ],
+  "tags": [
+   "obstetrics",
+   "gynecology",
+   "reproductive",
+   "maternal-fetal"
+  ],
+  "start_date": "2027-05-21",
+  "end_date": "2027-05-23",
+  "city": "Los Angeles",
+  "region_name": "California",
+  "country": "US",
+  "venue": null,
+  "lat": 34.0522,
+  "lon": -118.2437,
+  "format": null,
+  "description": "The American College of Obstetricians and Gynecologists holds its Annual Clinical and Scientific Meeting for obstetrician gynecologists and related clinicians. The 2027 meeting is held in Los Angeles, California.",
+  "deadlines": [],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://annualmeeting.acog.org/future-acsms/",
+    "accessed": "2026-09-10",
+    "note": "Official future meetings page, fetched directly; confirms 2027 dates (May 21 to 23) and city (Los Angeles)"
+   },
+   {
+    "url": "https://annualmeeting.acog.org/call-for-proposals-2027/",
+    "accessed": "2026-09-10",
+    "note": "Official call for proposals page, fetched directly; confirms the call for abstract submissions for ACSM 2027 is open and that the session proposal call has already closed, but does not publish an exact abstract deadline"
+   },
+   {
+    "url": "https://annualmeeting.acog.org/",
+    "accessed": "2026-09-10",
+    "note": "Official homepage, fetched directly; content was focused on the 2026 Washington DC meeting and did not list a 2027 venue name or address"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The official site confirms the 2027 meeting dates and city but had not published an exact abstract submission deadline, a named venue, or a registration deadline as of 2026-09-10 despite the abstract call already being open; the deadlines list is therefore left empty rather than estimated. City center coordinates are used since no specific venue was found. This session's web search quota was exhausted before a further attempt could be made to find the exact abstract deadline via search, so only official-page fetch results are reflected here."
+ }
+]

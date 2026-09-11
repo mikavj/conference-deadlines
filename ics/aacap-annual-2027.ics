@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AACAP 74th Annual Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aacap-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271031
+SUMMARY:AACAP 74th Annual Meeting 2027
+DESCRIPTION:The 2027 annual meeting of the American Academy of Child and 
+ Adolescent Psychiatry in New York City. The call for papers has not yet 
+ been published.\n\nDeadlines\nGeneral submission deadline (Clinical Pers
+ pectives\, Symposia\, Workshops\, Institutes\, Media Theatre\, Posters):
+  2027-02-11 (estimated)\nLate New Research Poster submission deadline: 2
+ 027-06-03 (estimated)\n\nhttps://www.aacap.org/aacap/CME_and_Meetings/Fu
+ ture_Annual_Meetings.aspx
+LOCATION:New York\, New York\, New York Hilton Midtown and Sheraton New Y
+ ork Times Square Hotel
+URL:https://www.aacap.org/aacap/CME_and_Meetings/Future_Annual_Meetings.a
+ spx
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AACAP 74th Annual Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacap-annual-2027-20270211-general-submission-deadline-clinical-persp
+ ectives-symposia-workshops-institutes-media-theatre-posters-@conference-
+ calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Deadline: AACAP 2027 general submission deadline (clinical perspe
+ ctives\, symposia\, workshops\, institutes\, media theatre\, posters) (e
+ stimated)
+DESCRIPTION:Estimated from the 2026 pattern (deadline Thursday\, February
+  12\, 2026\, 11:59 PM ET). The 2027 call for papers page (aacap.confex.c
+ om/aacap/2027/cfp.cgi) returned 404 on the access date.\nMeeting: AACAP 
+ 74th Annual Meeting 2027\, Oct 25 to 30\, 2027\, New York\, New York\, N
+ ew York Hilton Midtown and Sheraton New York Times Square Hotel\nhttps:/
+ /www.aacap.org/aacap/CME_and_Meetings/Future_Annual_Meetings.aspx
+LOCATION:New York\, New York\, New York Hilton Midtown and Sheraton New Y
+ ork Times Square Hotel
+URL:https://www.aacap.org/aacap/CME_and_Meetings/Future_Annual_Meetings.a
+ spx
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2027 general submission deadline (clinical pe
+ rspectives\, symposia\, workshops\, institutes\, media theatre\, posters
+ ) (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2027 general submission deadline (clinical pe
+ rspectives\, symposia\, workshops\, institutes\, media theatre\, posters
+ ) (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2027 general submission deadline (clinical pe
+ rspectives\, symposia\, workshops\, institutes\, media theatre\, posters
+ ) (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aacap-annual-2027-20270603-late-new-research-poster-submission-deadli
+ ne@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Deadline: AACAP 2027 late new research poster submission deadline
+  (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (Thursday\, June 4\, 2026\, 1
+ 1:59 PM EDT).\nMeeting: AACAP 74th Annual Meeting 2027\, Oct 25 to 30\, 
+ 2027\, New York\, New York\, New York Hilton Midtown and Sheraton New Yo
+ rk Times Square Hotel\nhttps://www.aacap.org/aacap/CME_and_Meetings/Futu
+ re_Annual_Meetings.aspx
+LOCATION:New York\, New York\, New York Hilton Midtown and Sheraton New Y
+ ork Times Square Hotel
+URL:https://www.aacap.org/aacap/CME_and_Meetings/Future_Annual_Meetings.a
+ spx
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2027 late new research poster submission dead
+ line (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2027 late new research poster submission dead
+ line (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AACAP 2027 late new research poster submission dead
+ line (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

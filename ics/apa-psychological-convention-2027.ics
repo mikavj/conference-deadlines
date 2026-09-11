@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:APA 2027 Convention (American Psychological Association)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:apa-psychological-convention-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270815
+SUMMARY:APA 2027 Convention (American Psychological Association)
+DESCRIPTION:The APA 2027 Convention is scheduled for August 12 to 14\, 20
+ 27 in San Francisco. The call for proposals has not opened\; the convent
+ ion site invites sign ups to be notified when it does.\n\nDeadlines\nPre
+ convention CE workshop proposal submission: 2026-12-21 (estimated)\nDivi
+ sion session and poster proposal submission: 2027-01-13 (estimated)\n\nh
+ ttps://convention.apa.org/attend/future-conventions
+LOCATION:San Francisco\, California
+URL:https://convention.apa.org/attend/future-conventions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:APA 2027 Convention (American Psychological Association)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apa-psychological-convention-2027-20261221-preconvention-ce-workshop-
+ proposal-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Deadline: APA (Psychological) 2027 preconvention ce workshop prop
+ osal submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (December 22\, 2025 deadline 
+ for the August 2026 convention)\nMeeting: APA 2027 Convention (American 
+ Psychological Association)\, Aug 12 to 14\, 2027\, San Francisco\, Calif
+ ornia\nhttps://convention.apa.org/attend/future-conventions
+LOCATION:San Francisco\, California
+URL:https://convention.apa.org/attend/future-conventions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA (Psychological) 2027 preconvention ce workshop 
+ proposal submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA (Psychological) 2027 preconvention ce workshop 
+ proposal submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA (Psychological) 2027 preconvention ce workshop 
+ proposal submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:apa-psychological-convention-2027-20270113-division-session-and-poste
+ r-proposal-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Deadline: APA (Psychological) 2027 division session and poster pr
+ oposal submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (January 14\, 2026 deadline f
+ or the August 2026 convention)\nMeeting: APA 2027 Convention (American P
+ sychological Association)\, Aug 12 to 14\, 2027\, San Francisco\, Califo
+ rnia\nhttps://convention.apa.org/attend/future-conventions
+LOCATION:San Francisco\, California
+URL:https://convention.apa.org/attend/future-conventions
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA (Psychological) 2027 division session and poste
+ r proposal submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA (Psychological) 2027 division session and poste
+ r proposal submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: APA (Psychological) 2027 division session and poste
+ r proposal submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

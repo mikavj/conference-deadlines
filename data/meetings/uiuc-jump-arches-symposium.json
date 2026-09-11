@@ -1,0 +1,53 @@
+[
+ {
+  "id": "uiuc-jump-arches-symposium-2026",
+  "name": "Jump ARCHES Health Care Engineering Systems Symposium 2026",
+  "short_name": "Jump ARCHES Symposium 2026",
+  "organizer": "Jump ARCHES, OSF HealthCare Jump Simulation and Health Care Engineering Systems Center, University of Illinois Urbana-Champaign",
+  "organizer_url": "https://healtheng.illinois.edu/jumparches",
+  "edition_url": "https://www.osfinnovation.org/invent/innovation-academic-incubator/jump-arches/health-care-engineering-systems-symposium",
+  "areas": [
+   "informatics",
+   "medical-education"
+  ],
+  "tags": [
+   "uiuc",
+   "illinois",
+   "health-services",
+   "informatics",
+   "translational"
+  ],
+  "start_date": "2026-10-27",
+  "end_date": "2026-10-27",
+  "city": "Peoria",
+  "region_name": "Illinois",
+  "country": "US",
+  "venue": "Jump Trading Simulation and Education Center",
+  "lat": 40.6936,
+  "lon": -89.589,
+  "format": "in-person",
+  "description": "The Jump ARCHES symposium celebrates the year's project achievements from the Jump Applied Research through Community Health Engineering and Simulation endowment partnership between OSF HealthCare Jump Simulation and the University of Illinois Grainger College of Engineering Health Care Engineering Systems Center. The 2026 edition, themed From Insight to Impact Powered by AI, is held at the Jump Trading Simulation and Education Center in Peoria.",
+  "deadlines": [],
+  "prior_edition": {
+   "year": 2024,
+   "start_date": "2024-10-30",
+   "end_date": "2024-10-30",
+   "city": "Peoria",
+   "deadlines": []
+  },
+  "sources": [
+   {
+    "url": "https://www.osfinnovation.org/invent/innovation-academic-incubator/jump-arches/health-care-engineering-systems-symposium",
+    "accessed": "2026-09-10",
+    "note": "2026 symposium date Tuesday, October 27, 2026, at the Jump Trading Simulation and Education Center, Peoria, themed From Insight to Impact Powered by AI"
+   },
+   {
+    "url": "https://healtheng.illinois.edu/jumparches",
+    "accessed": "2026-09-10",
+    "note": "Confirms Jump ARCHES is a joint OSF HealthCare and Illinois Grainger College of Engineering program and that grant proposals are accepted annually in spring, with no specific date published"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Grant proposals for Jump ARCHES funding are accepted annually in spring but no specific date is published; interested applicants must join the program mailing list for the next request for proposals. Prior edition year 2024 (October 30) is the most recent instance located in search snippets; a 2025 edition likely also occurred but its date could not be found."
+ }
+]

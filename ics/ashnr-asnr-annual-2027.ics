@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ASHNR/ASNR 2027 Joint Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ashnr-asnr-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270520
+SUMMARY:ASHNR/ASNR 2027 Joint Annual Meeting
+DESCRIPTION:The American Society of Neuroradiology and the American Socie
+ ty of Head and Neck Radiology hold a joint annual meeting from May 14 to
+  19\, 2027\, at the Hilton San Diego Bayfront in San Diego\, California.
+  The ASHNR portion runs May 14 to 16 and the ASNR portion runs May 16 to
+  19\, covering neuroradiology and related head and neck imaging topics.\
+ n\nDeadlines\nAbstract submission: 2026-11-04\nAbstract acceptance notif
+ ication (notif): 2027-01-29\n\nhttps://www.asnr.org/ashnr-asnr-annual-me
+ eting-2027/
+LOCATION:San Diego\, California\, Hilton San Diego Bayfront
+URL:https://www.asnr.org/ashnr-asnr-annual-meeting-2027/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASHNR/ASNR 2027 Joint Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ashnr-asnr-annual-2027-20261104-abstract-submission@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Deadline: ASNR 2027 abstract submission
+DESCRIPTION:11:59 p.m. Eastern Time\; single deadline shared by oral pres
+ entation\, ePoster\, Excerpta\, and educational exhibit submission types
+ \, per the official call for abstracts page.\nMeeting: ASHNR/ASNR 2027 J
+ oint Annual Meeting\, May 14 to 19\, 2027\, San Diego\, California\, Hil
+ ton San Diego Bayfront\nhttps://www.asnr.org/ashnr-asnr-2027-call-for-ab
+ stracts/
+LOCATION:San Diego\, California\, Hilton San Diego Bayfront
+URL:https://www.asnr.org/ashnr-asnr-2027-call-for-abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASNR 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASNR 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: ASNR 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

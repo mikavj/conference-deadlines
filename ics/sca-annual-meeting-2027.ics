@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 SCA Annual Meeting & Workshops
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:sca-annual-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270412
+SUMMARY:2027 SCA Annual Meeting & Workshops
+DESCRIPTION:The SCA Annual Meeting and Workshops is the Society of Cardio
+ vascular Anesthesiologists' annual conference on cardiovascular and thor
+ acic anesthesia. The 2027 meeting is its 49th edition and is scheduled f
+ or the Bellagio in Las Vegas.\n\nhttps://scahq.org/event/2027-sca-annual
+ -meeting-workshops/
+LOCATION:Las Vegas\, Nevada\, Bellagio
+URL:https://scahq.org/event/2027-sca-annual-meeting-workshops/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 SCA Annual Meeting & Workshops
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

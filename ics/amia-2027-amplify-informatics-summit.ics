@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AMIA 2027 Amplify Informatics Conference
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:amia-2027-amplify-informatics-summit@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270416
+SUMMARY:AMIA 2027 Amplify Informatics Conference
+DESCRIPTION:The American Medical Informatics Association holds its 2027 A
+ mplify Informatics Conference at the Hyatt Regency Atlanta in Atlanta\, 
+ Georgia. Starting in 2026\, AMIA combined its former Informatics Summit 
+ and Clinical Informatics Conference into this single spring event.\n\nDe
+ adlines\nProposal submission: 2026-09-03\n\nhttps://amia.org/education-e
+ vents/2027-amplify-informatics-conference
+LOCATION:Atlanta\, Georgia\, Hyatt Regency Atlanta
+URL:https://amia.org/education-events/2027-amplify-informatics-conference
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AMIA 2027 Amplify Informatics Conference
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:amia-2027-amplify-informatics-summit-20260903-proposal-submission@con
+ ference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Deadline: AMIA 2027 Informatics Summit proposal submission
+DESCRIPTION:11:59 pm EDT\; already passed as of the research date\nMeetin
+ g: AMIA 2027 Amplify Informatics Conference\, Apr 12 to 15\, 2027\, Atla
+ nta\, Georgia\, Hyatt Regency Atlanta\nhttps://amia.org/education-events
+ /summit-proposals
+LOCATION:Atlanta\, Georgia\, Hyatt Regency Atlanta
+URL:https://amia.org/education-events/summit-proposals
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2027 Informatics Summit proposal submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2027 Informatics Summit proposal submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMIA 2027 Informatics Summit proposal submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

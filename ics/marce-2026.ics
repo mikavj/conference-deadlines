@@ -1,0 +1,176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:International Marcé Society Biennial Conference 2026
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:marce-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260910
+SUMMARY:International Marcé Society Biennial Conference 2026
+DESCRIPTION:The International Marcé Society biennial conference is held 
+ September 6 to 9\, 2026 at the Century City Conference Centre in Cape To
+ wn\, the society's first meeting in Africa. The theme is Ubuntu and the 
+ event is exclusively in person.\n\nDeadlines\nPreconference workshop abs
+ tract submission: 2025-11-30\nOral and poster abstract submission: 2026-
+ 03-15\nSymposium abstract submission: 2026-03-15\nAcceptance notificatio
+ ns: 2026-05-15\nEarly registration: 2026-06-30\nPresenter registration d
+ eadline: 2026-07-30\n\nhttps://marceconference2026.com/
+LOCATION:Cape Town\, Western Cape\, ZA\, Century City Conference Centre
+URL:https://marceconference2026.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:International Marcé Society Biennial Conference 2026
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:marce-2026-20251130-preconference-workshop-abstract-submission@confer
+ ence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20251130
+DTEND;VALUE=DATE:20251201
+SUMMARY:Deadline: Marcé 2026 preconference workshop abstract submission
+DESCRIPTION:Extended deadline\nMeeting: International Marcé Society Bien
+ nial Conference 2026\, Sep 06 to 09\, 2026\, Cape Town\, Western Cape\, 
+ ZA\, Century City Conference Centre\nhttps://marceconference2026.com/cal
+ l-for-abstracts/
+LOCATION:Cape Town\, Western Cape\, ZA\, Century City Conference Centre
+URL:https://marceconference2026.com/call-for-abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 preconference workshop abstract submiss
+ ion
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 preconference workshop abstract submiss
+ ion
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 preconference workshop abstract submiss
+ ion
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:marce-2026-20260315-oral-and-poster-abstract-submission@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Deadline: Marcé 2026 oral and poster abstract submission
+DESCRIPTION:Extended deadline\nMeeting: International Marcé Society Bien
+ nial Conference 2026\, Sep 06 to 09\, 2026\, Cape Town\, Western Cape\, 
+ ZA\, Century City Conference Centre\nhttps://marceconference2026.com/cal
+ l-for-abstracts/
+LOCATION:Cape Town\, Western Cape\, ZA\, Century City Conference Centre
+URL:https://marceconference2026.com/call-for-abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 oral and poster abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 oral and poster abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 oral and poster abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:marce-2026-20260315-symposium-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:Deadline: Marcé 2026 symposium abstract submission
+DESCRIPTION:Extended deadline\nMeeting: International Marcé Society Bien
+ nial Conference 2026\, Sep 06 to 09\, 2026\, Cape Town\, Western Cape\, 
+ ZA\, Century City Conference Centre\nhttps://marceconference2026.com/cal
+ l-for-abstracts/
+LOCATION:Cape Town\, Western Cape\, ZA\, Century City Conference Centre
+URL:https://marceconference2026.com/call-for-abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 symposium abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 symposium abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 symposium abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:marce-2026-20260630-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:Deadline: Marcé 2026 early registration
+DESCRIPTION:Late registration from July 1\, 2026\nMeeting: International 
+ Marcé Society Biennial Conference 2026\, Sep 06 to 09\, 2026\, Cape Tow
+ n\, Western Cape\, ZA\, Century City Conference Centre\nhttps://marcecon
+ ference2026.com/registration-form/
+LOCATION:Cape Town\, Western Cape\, ZA\, Century City Conference Centre
+URL:https://marceconference2026.com/registration-form/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:marce-2026-20260730-presenter-registration-deadline@conference-calend
+ ar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:Deadline: Marcé 2026 presenter registration deadline
+DESCRIPTION:Presenting authors must be registered delegates\nMeeting: Int
+ ernational Marcé Society Biennial Conference 2026\, Sep 06 to 09\, 2026
+ \, Cape Town\, Western Cape\, ZA\, Century City Conference Centre\nhttps
+ ://marceconference2026.com/call-for-abstracts/
+LOCATION:Cape Town\, Western Cape\, ZA\, Century City Conference Centre
+URL:https://marceconference2026.com/call-for-abstracts/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 presenter registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 presenter registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: Marcé 2026 presenter registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,137 @@
+[
+ {
+  "id": "aps-2027",
+  "name": "2027 APS Annual Convention (Association for Psychological Science)",
+  "short_name": "APS 2027",
+  "organizer": "Association for Psychological Science",
+  "organizer_url": "https://www.psychologicalscience.org/",
+  "edition_url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention",
+  "tags": [
+   "psychology",
+   "international"
+  ],
+  "start_date": "2027-05-27",
+  "end_date": "2027-05-30",
+  "city": "Seattle",
+  "country": "US",
+  "venue": "Hyatt Regency Seattle",
+  "lat": 47.6143,
+  "lon": -122.3325,
+  "format": "in-person",
+  "description": "The 2027 APS Annual Convention is held May 27 to 30, 2027 at the Hyatt Regency Seattle. APS is changing the call for submissions structure for 2027; presenters must present on site.",
+  "deadlines": [
+   {
+    "label": "Call for submissions opens",
+    "date": "2026-10-15",
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/call-for-submissions",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Financial assistance application opens",
+    "date": "2026-10-15",
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/call-for-submissions",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Registration opens",
+    "date": "2026-11-02",
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/call-for-submissions",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Submission deadline",
+    "date": "2026-12-01",
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/call-for-submissions",
+    "estimated": false,
+    "note": "5:00 PM ET; symposia, submitted talks, flash talks and posters"
+   },
+   {
+    "label": "Financial assistance deadline",
+    "date": "2026-12-12",
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/call-for-submissions",
+    "estimated": false,
+    "note": "5:00 PM ET"
+   },
+   {
+    "label": "Review decision notifications",
+    "date": null,
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/call-for-submissions",
+    "estimated": false,
+    "note": "Early February 2027"
+   },
+   {
+    "label": "Early registration",
+    "date": "2027-04-15",
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/call-for-submissions",
+    "estimated": false,
+    "note": "5:00 PM ET"
+   },
+   {
+    "label": "Presenter registration deadline",
+    "date": "2027-05-06",
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/call-for-submissions",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-05-28",
+   "end_date": "2026-05-30",
+   "city": "Barcelona",
+   "deadlines": [
+    {
+     "label": "Call for submissions opens",
+     "date": "2025-10-30"
+    },
+    {
+     "label": "Submission deadline (original)",
+     "date": "2025-12-05"
+    },
+    {
+     "label": "Submission deadline (extended)",
+     "date": "2025-12-10"
+    },
+    {
+     "label": "Early registration",
+     "date": "2026-04-08"
+    },
+    {
+     "label": "Presenter registration deadline",
+     "date": "2026-05-06"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention",
+    "accessed": "2026-09-09",
+    "note": "Dates and city"
+   },
+   {
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/call-for-submissions",
+    "accessed": "2026-09-09",
+    "note": "Important dates table"
+   },
+   {
+    "url": "https://www.psychologicalscience.org/conventions/2027-aps-annual-convention/plan-your-trip",
+    "accessed": "2026-09-09",
+    "note": "Venue Hyatt Regency Seattle"
+   },
+   {
+    "url": "https://www.psychologicalscience.org/conventions/2026-aps-annual-convention/call-for-submissions",
+    "accessed": "2026-09-09",
+    "note": "2026 timeline for the prior edition"
+   }
+  ],
+  "confidence": "high",
+  "notes": "The APS plan your trip page contains a typo giving the year as 2026; all other pages state May 27 to 30, 2027.",
+  "region_name": "Washington",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

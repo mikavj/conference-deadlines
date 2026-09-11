@@ -1,0 +1,202 @@
+[
+ {
+  "id": "sfn-neuroscience-2026",
+  "name": "Society for Neuroscience Neuroscience 2026",
+  "short_name": "SfN 2026",
+  "organizer": "Society for Neuroscience",
+  "organizer_url": "https://www.sfn.org/",
+  "edition_url": "https://www.sfn.org/meetings/neuroscience-2026",
+  "tags": [
+   "neuroscience",
+   "international"
+  ],
+  "start_date": "2026-11-14",
+  "end_date": "2026-11-18",
+  "city": "Washington",
+  "country": "US",
+  "venue": "Walter E. Washington Convention Center",
+  "lat": 38.9037,
+  "lon": -77.0225,
+  "format": "hybrid",
+  "description": "Neuroscience 2026 runs November 14 to 18, 2026, at the Walter E. Washington Convention Center in Washington, DC, with in person and virtual presentation options. Regular abstracts closed June 11, 2026; late breaking abstracts are accepted September 8 to 15, 2026 or until a 2,500 submission cap is reached.",
+  "deadlines": [
+   {
+    "label": "Symposium and session proposals (extended)",
+    "date": "2026-01-26",
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/general-information/dates-and-deadlines",
+    "estimated": false,
+    "note": "5:00 pm EST; closed"
+   },
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-05-27",
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/general-information/dates-and-deadlines",
+    "estimated": false,
+    "note": "$175 fee"
+   },
+   {
+    "label": "Abstract submission (extended)",
+    "date": "2026-06-11",
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/call-for-abstracts",
+    "estimated": false,
+    "note": "2:00 pm EDT; original deadline June 10; edits due June 12; closed"
+   },
+   {
+    "label": "Advance member registration opens",
+    "date": "2026-07-15",
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/general-information/dates-and-deadlines",
+    "estimated": false,
+    "note": "nonmember registration opens July 21"
+   },
+   {
+    "label": "Late breaking abstract submission opens",
+    "date": "2026-09-08",
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/late-breaking-abstracts",
+    "estimated": false,
+    "note": "$260 nonrefundable fee"
+   },
+   {
+    "label": "Deadline to switch from virtual only to in person presentation",
+    "date": "2026-09-10",
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/general-information/dates-and-deadlines",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late breaking abstract submission",
+    "date": "2026-09-15",
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/late-breaking-abstracts",
+    "estimated": false,
+    "note": "5:00 pm EDT or when the 2,500 cap is reached"
+   },
+   {
+    "label": "Registration cancellation for refund",
+    "date": "2026-10-05",
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/general-information/dates-and-deadlines",
+    "estimated": false,
+    "note": "regular (higher) registration rates begin October 6"
+   },
+   {
+    "label": "Housing reservations close",
+    "date": "2026-11-03",
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/general-information/dates-and-deadlines",
+    "estimated": false,
+    "note": "penalty free cancellation until October 16"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/general-information/dates-and-deadlines",
+    "accessed": "2026-09-09",
+    "note": "Full dates and deadlines list"
+   },
+   {
+    "url": "https://www.sfn.org/meetings/neuroscience-2026",
+    "accessed": "2026-09-09",
+    "note": "Dates, venue, virtual component"
+   },
+   {
+    "url": "https://www.sfn.org/meetings/neuroscience-2026/late-breaking-abstracts",
+    "accessed": "2026-09-09",
+    "note": "Late breaking window September 8 to 15, 2026, fee and cap"
+   },
+   {
+    "url": "https://www.sfn.org/meetings",
+    "accessed": "2026-09-09",
+    "note": "Future meeting dates and locations"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Acceptance notifications for regular abstracts were sent in early August 2026. Trainee travel awards were not visible on the pages reviewed.",
+  "region_name": "District of Columbia",
+  "areas": [
+   "psychiatry"
+  ]
+ },
+ {
+  "id": "sfn-neuroscience-2027",
+  "name": "Society for Neuroscience Neuroscience 2027",
+  "short_name": "SfN 2027",
+  "organizer": "Society for Neuroscience",
+  "organizer_url": "https://www.sfn.org/",
+  "edition_url": "https://www.sfn.org/meetings",
+  "tags": [
+   "neuroscience",
+   "international"
+  ],
+  "start_date": "2027-10-23",
+  "end_date": "2027-10-27",
+  "city": "Chicago",
+  "country": "US",
+  "venue": null,
+  "lat": 41.8781,
+  "lon": -87.6298,
+  "format": null,
+  "description": "SfN lists Neuroscience 2027 for October 23 to 27, 2027, in Chicago. No venue, abstract or registration deadlines have been published; the meeting falls three weeks earlier in the year than Neuroscience 2026.",
+  "deadlines": [
+   {
+    "label": "Symposium and session proposals",
+    "date": "2027-01-15",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 cycle (extended deadline January 26, 2026); not published"
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2027-05-20",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 cycle (opened May 27, closed June 11, 2026, about five months before the meeting) adjusted for the earlier October dates; not published"
+   },
+   {
+    "label": "Late breaking abstract submission",
+    "date": "2027-08-24",
+    "url": null,
+    "estimated": true,
+    "note": "estimated from the 2026 cycle (September 15, 2026, two months before the meeting); not published"
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-11-14",
+   "end_date": "2026-11-18",
+   "city": "Washington",
+   "deadlines": [
+    {
+     "label": "Symposium and session proposals (extended)",
+     "date": "2026-01-26"
+    },
+    {
+     "label": "Abstract submission opens",
+     "date": "2026-05-27"
+    },
+    {
+     "label": "Abstract submission (extended)",
+     "date": "2026-06-11"
+    },
+    {
+     "label": "Late breaking abstract submission",
+     "date": "2026-09-15"
+    },
+    {
+     "label": "Registration cancellation for refund",
+     "date": "2026-10-05"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.sfn.org/meetings",
+    "accessed": "2026-09-09",
+    "note": "Neuroscience 2027 October 23 to 27, Chicago; 2028 San Diego; 2029 Washington DC"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "Previous Chicago meetings used McCormick Place, but the venue is not stated on the SfN page reviewed.",
+  "region_name": "Illinois",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

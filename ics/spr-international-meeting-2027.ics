@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Society for Psychotherapy Research 58th International Annual
+  Meeting 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:spr-international-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270704
+SUMMARY:Society for Psychotherapy Research 58th International Annual Meet
+ ing 2027
+DESCRIPTION:The 58th International Annual Meeting of the Society for Psyc
+ hotherapy Research is scheduled for Stockholm from 30 June to 3 July 202
+ 7. Venue and submission dates have not been published.\n\nDeadlines\nSub
+ mission opens: 2026-10-20 (estimated)\nAbstract submission: 2027-01-10 (
+ estimated)\n\nhttps://www.psychotherapyresearch.org/page/community_calen
+ dar
+LOCATION:Stockholm\, Stockholm County\, SE
+URL:https://www.psychotherapyresearch.org/page/community_calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Society for Psychotherapy Research 58th International Annual 
+ Meeting 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:spr-international-meeting-2027-20270110-abstract-submission@conferenc
+ e-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:Deadline: SPR 2027 abstract submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (submissions closed 10 Januar
+ y 2026 for a late June meeting). Not published.\nMeeting: Society for Ps
+ ychotherapy Research 58th International Annual Meeting 2027\, Jun 30 to 
+ Jul 03\, 2027\, Stockholm\, Stockholm County\, SE\nhttps://www.psychothe
+ rapyresearch.org/page/community_calendar
+LOCATION:Stockholm\, Stockholm County\, SE
+URL:https://www.psychotherapyresearch.org/page/community_calendar
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SPR 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SPR 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: SPR 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

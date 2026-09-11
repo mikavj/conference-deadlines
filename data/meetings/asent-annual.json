@@ -1,0 +1,58 @@
+[
+ {
+  "id": "asent-annual-2027",
+  "name": "ASENT 2027 Annual Meeting and Clinical Trials Course",
+  "short_name": "ASENT 2027",
+  "organizer": "American Society for Experimental NeuroTherapeutics",
+  "organizer_url": "https://www.asent.org",
+  "edition_url": "https://www.asent.org/event-6832053",
+  "areas": [
+   "neurology",
+   "neuroscience"
+  ],
+  "tags": [
+   "clinical-trials",
+   "translational",
+   "neuroscience"
+  ],
+  "start_date": "2027-03-17",
+  "end_date": "2027-03-19",
+  "city": "Bethesda",
+  "region_name": "Maryland",
+  "country": "US",
+  "venue": "Hyatt Regency Bethesda",
+  "lat": 38.9847,
+  "lon": -77.0947,
+  "format": "in-person",
+  "description": "Annual meeting of the American Society for Experimental NeuroTherapeutics on drug and device development for nervous system disorders, preceded by a Clinical Trials Course on March 15 to 16, 2027.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-09-07",
+    "url": "https://www.asent.org/Abstract-Guidelines",
+    "estimated": false,
+    "note": "date found only on the ASENT homepage listing; not independently confirmed on the abstract guidelines page itself"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.asent.org/event-6832053",
+    "accessed": "2026-09-10",
+    "note": "confirms full date range (course March 15-16, meeting March 17-19 2027) and venue"
+   },
+   {
+    "url": "https://www.asent.org",
+    "accessed": "2026-09-10",
+    "note": "listed the March 15, 2027 event start and the September 7, 2026 abstract deadline"
+   },
+   {
+    "url": "https://www.asent.org/Abstract-Guidelines",
+    "accessed": "2026-09-10",
+    "note": "abstract submission guidelines page; did not itself restate the deadline date"
+   }
+  ],
+  "confidence": "medium",
+  "notes": "The abstract submission deadline of September 7, 2026 comes from a single source (site homepage listing) and could not be cross-confirmed on the dedicated abstract guidelines page."
+ }
+]

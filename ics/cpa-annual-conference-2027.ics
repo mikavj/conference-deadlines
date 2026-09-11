@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Canadian Psychiatric Association 77th Annual Conference 2027
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:cpa-annual-conference-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271114
+SUMMARY:Canadian Psychiatric Association 77th Annual Conference 2027
+DESCRIPTION:The 77th Annual Conference of the Canadian Psychiatric Associ
+ ation is scheduled for the Westin Harbour Castle in Toronto from 10 to 1
+ 3 November 2027. Only the dates and venue have been published.\n\nDeadli
+ nes\nAbstract submission: 2027-02-01 (estimated)\nEarly registration: 20
+ 27-10-22 (estimated)\n\nhttps://www.cpa-apc.org/future-conferences/
+LOCATION:Toronto\, Ontario\, CA\, Westin Harbour Castle
+URL:https://www.cpa-apc.org/future-conferences/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Canadian Psychiatric Association 77th Annual Conference 2027
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-annual-conference-2027-20270201-abstract-submission@conference-ca
+ lendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270202
+SUMMARY:Deadline: CPA 2027 abstract submission (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (abstracts closed 2 February 
+ 2026 for a November conference). Not published.\nMeeting: Canadian Psych
+ iatric Association 77th Annual Conference 2027\, Nov 10 to 13\, 2027\, T
+ oronto\, Ontario\, CA\, Westin Harbour Castle\nhttps://www.cpa-apc.org/f
+ uture-conferences/
+LOCATION:Toronto\, Ontario\, CA\, Westin Harbour Castle
+URL:https://www.cpa-apc.org/future-conferences/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2027 abstract submission (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2027 abstract submission (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2027 abstract submission (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-annual-conference-2027-20271022-early-registration@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:Deadline: CPA 2027 early registration (estimated)
+DESCRIPTION:Estimated from the 2026 pattern (early rates ended 30 October
+  2026\, about three weeks before the conference). Not published.\nMeetin
+ g: Canadian Psychiatric Association 77th Annual Conference 2027\, Nov 10
+  to 13\, 2027\, Toronto\, Ontario\, CA\, Westin Harbour Castle\nhttps://
+ www.cpa-apc.org/future-conferences/
+LOCATION:Toronto\, Ontario\, CA\, Westin Harbour Castle
+URL:https://www.cpa-apc.org/future-conferences/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2027 early registration (estimated)
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2027 early registration (estimated)
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: CPA 2027 early registration (estimated)
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

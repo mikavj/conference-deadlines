@@ -1,0 +1,72 @@
+[
+ {
+  "id": "ada-scientific-sessions-2027",
+  "name": "American Diabetes Association 87th Scientific Sessions",
+  "short_name": "ADA Scientific Sessions 2027",
+  "organizer": "American Diabetes Association",
+  "organizer_url": "https://www.diabetes.org",
+  "edition_url": "https://professional.diabetes.org/scientific-sessions",
+  "areas": [
+   "endocrinology"
+  ],
+  "tags": [
+   "diabetes",
+   "endocrine"
+  ],
+  "start_date": "2027-06-18",
+  "end_date": "2027-06-21",
+  "city": "Washington",
+  "region_name": "District of Columbia",
+  "country": "US",
+  "venue": "Walter E. Washington Convention Center",
+  "lat": 38.9042,
+  "lon": -77.0231,
+  "format": "in-person",
+  "description": "The American Diabetes Association 87th Scientific Sessions is the annual research conference of the American Diabetes Association, held at the Walter E. Washington Convention Center in Washington, D.C. The program presents new research and clinical guidance on diabetes and related metabolic disease.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-09-28",
+    "url": "https://professional.diabetes.org/scientific-sessions/abstracts",
+    "estimated": false,
+    "note": "regular abstract submission"
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2027-01-05",
+    "url": "https://professional.diabetes.org/scientific-sessions/abstracts",
+    "estimated": false,
+    "note": "5:00 PM ET; regular abstract deadline"
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2027-01-25",
+    "url": "https://professional.diabetes.org/scientific-sessions/abstracts",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2027-03-08",
+    "url": "https://professional.diabetes.org/scientific-sessions/abstracts",
+    "estimated": false,
+    "note": "5:00 PM ET"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://professional.diabetes.org/scientific-sessions",
+    "accessed": "2026-09-10",
+    "note": "official page confirms dates June 18-21 2027 and Walter E. Washington Convention Center venue"
+   },
+   {
+    "url": "https://professional.diabetes.org/sites/dpro/files/2025-09/2026-Abstract-Submission-Guidelines-09-25.pdf",
+    "accessed": "2026-09-10",
+    "note": "abstract submission window dates corroborated via search snippet of official ADA guidelines document"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

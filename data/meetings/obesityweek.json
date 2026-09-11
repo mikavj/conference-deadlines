@@ -1,0 +1,78 @@
+[
+ {
+  "id": "obesityweek-2026",
+  "name": "ObesityWeek 2026",
+  "short_name": "ObesityWeek 2026",
+  "organizer": "The Obesity Society",
+  "organizer_url": "https://www.obesity.org",
+  "edition_url": "https://obesityweek.org/",
+  "areas": [
+   "endocrinology"
+  ],
+  "tags": [
+   "obesity"
+  ],
+  "start_date": "2026-11-14",
+  "end_date": "2026-11-17",
+  "city": "National Harbor",
+  "region_name": "Maryland",
+  "country": "US",
+  "venue": "Gaylord National Resort and Convention Center",
+  "lat": 38.7799,
+  "lon": -77.0148,
+  "format": "in-person",
+  "description": "ObesityWeek 2026 is the annual conference of The Obesity Society, held at the Gaylord National Resort and Convention Center in National Harbor, Maryland, near Washington, D.C. The program presents clinical and basic science research on obesity and its treatment.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-03-16",
+    "url": "https://obesityweek.org/abstract-submissions/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-04-27",
+    "url": "https://obesityweek.org/abstract-submissions/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-06-29",
+    "url": "https://obesityweek.org/abstract-submissions/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-07-22",
+    "url": "https://obesityweek.org/abstract-submissions/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-08-24",
+    "url": "https://obesityweek.org/key-dates/",
+    "estimated": false,
+    "note": "early bird registration deadline, extended from the original date"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://obesityweek.org/key-dates/",
+    "accessed": "2026-09-10",
+    "note": "official key dates page confirms abstract, late-breaking abstract, and registration deadlines"
+   },
+   {
+    "url": "https://obesityweek.org/",
+    "accessed": "2026-09-10",
+    "note": "confirms dates November 14-17 2026 and Gaylord National Resort and Convention Center, National Harbor MD venue"
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

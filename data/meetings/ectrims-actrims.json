@@ -1,0 +1,80 @@
+[
+ {
+  "id": "ectrims-actrims-2026",
+  "name": "10th Joint ACTRIMS-ECTRIMS Meeting (MSToronto 2026)",
+  "short_name": "ECTRIMS/ACTRIMS 2026",
+  "organizer": "European Committee for Treatment and Research in Multiple Sclerosis (ECTRIMS) and Americas Committee for Treatment and Research in Multiple Sclerosis (ACTRIMS)",
+  "organizer_url": "https://ectrims.eu",
+  "edition_url": "https://mstoronto2026.org/",
+  "areas": [
+   "neurology"
+  ],
+  "tags": [
+   "multiple-sclerosis",
+   "international",
+   "clinical-trials"
+  ],
+  "start_date": "2026-10-21",
+  "end_date": "2026-10-23",
+  "city": "Toronto",
+  "region_name": "Ontario",
+  "country": "CA",
+  "venue": "Metro Toronto Convention Centre",
+  "lat": 43.6426,
+  "lon": -79.3871,
+  "format": null,
+  "description": "ECTRIMS and ACTRIMS hold their tenth joint congress in Toronto, Canada, from 21 to 23 October 2026 at the Metro Toronto Convention Centre. The meeting, also known as MSToronto 2026, covers multiple sclerosis research and clinical care.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-03-24",
+    "url": "https://mstoronto2026.org/",
+    "estimated": false,
+    "note": "Regular abstract submission and registration opened this date."
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-05-07",
+    "url": "https://mstoronto2026.org/",
+    "estimated": false,
+    "note": "Regular abstract submission deadline."
+   },
+   {
+    "label": "Late-breaking abstract submission opens",
+    "date": "2026-05-12",
+    "url": "https://mstoronto2026.org/",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Late-breaking abstract submission",
+    "date": "2026-07-16",
+    "url": "https://mstoronto2026.org/",
+    "estimated": false,
+    "note": "Late-breaking abstract submission deadline."
+   },
+   {
+    "label": "Early registration",
+    "date": "2026-08-26",
+    "url": "https://mstoronto2026.org/",
+    "estimated": false,
+    "note": "Early bird registration savings end this date."
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://mstoronto2026.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates, venue, and full set of submission and registration deadlines."
+   },
+   {
+    "url": "https://ectrims.eu/",
+    "accessed": "2026-09-10",
+    "note": "Confirms ECTRIMS as a co-organizing body of the congress series."
+   }
+  ],
+  "confidence": "high",
+  "notes": null
+ }
+]

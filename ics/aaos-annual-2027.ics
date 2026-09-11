@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:AAOS 2027 Annual Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aaos-annual-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270307
+SUMMARY:AAOS 2027 Annual Meeting
+DESCRIPTION:The AAOS Annual Meeting is the flagship educational and netwo
+ rking meeting of the American Academy of Orthopaedic Surgeons for orthop
+ edic surgeons. The 2027 edition takes place at the Venetian Convention a
+ nd Expo Center in Las Vegas\, Nevada.\n\nDeadlines\nAbstract submission:
+  2026-06-01\nEarly registration: 2026-12-06\nAdvance registration and ca
+ ncellation deadline: 2027-01-24\n\nhttps://www.aaos.org/annual/
+LOCATION:Las Vegas\, Nevada\, Venetian Convention and Expo Center
+URL:https://www.aaos.org/annual/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:AAOS 2027 Annual Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaos-annual-2027-20260601-abstract-submission@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:Deadline: AAOS 2027 abstract submission
+DESCRIPTION:5:00 PM Central Time. Already closed as of today. Confirmed v
+ ia search engine snippet\; direct fetch of aaos.org pages failed with a 
+ header overflow error.\nMeeting: AAOS 2027 Annual Meeting\, Mar 03 to 06
+ \, 2027\, Las Vegas\, Nevada\, Venetian Convention and Expo Center\nhttp
+ s://www.aaos.org/callforabstracts
+LOCATION:Las Vegas\, Nevada\, Venetian Convention and Expo Center
+URL:https://www.aaos.org/callforabstracts
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAOS 2027 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAOS 2027 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAOS 2027 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaos-annual-2027-20261206-early-registration@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Deadline: AAOS 2027 early registration
+DESCRIPTION:Early Bird registration pricing ends this date. Maritz is the
+  official registration provider.\nMeeting: AAOS 2027 Annual Meeting\, Ma
+ r 03 to 06\, 2027\, Las Vegas\, Nevada\, Venetian Convention and Expo Ce
+ nter\nhttps://www.aaos.org/annual/attend/registration/
+LOCATION:Las Vegas\, Nevada\, Venetian Convention and Expo Center
+URL:https://www.aaos.org/annual/attend/registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAOS 2027 early registration
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAOS 2027 early registration
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAOS 2027 early registration
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaos-annual-2027-20270124-advance-registration-and-cancellation-deadl
+ ine@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:Deadline: AAOS 2027 advance registration and cancellation deadlin
+ e
+DESCRIPTION:Advance registration pricing ends and this is also the regist
+ ration cancellation deadline.\nMeeting: AAOS 2027 Annual Meeting\, Mar 0
+ 3 to 06\, 2027\, Las Vegas\, Nevada\, Venetian Convention and Expo Cente
+ r\nhttps://www.aaos.org/annual/attend/registration/
+LOCATION:Las Vegas\, Nevada\, Venetian Convention and Expo Center
+URL:https://www.aaos.org/annual/attend/registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAOS 2027 advance registration and cancellation dea
+ dline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAOS 2027 advance registration and cancellation dea
+ dline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAOS 2027 advance registration and cancellation dea
+ dline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

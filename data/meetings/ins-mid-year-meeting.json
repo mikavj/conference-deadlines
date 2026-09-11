@@ -1,0 +1,76 @@
+[
+ {
+  "id": "ins-mid-year-meeting-2027",
+  "name": "International Neuropsychological Society 2027 Mid-Year Meeting (joint with the Japan Society for Higher Brain Function)",
+  "short_name": "INS Mid-Year 2027",
+  "organizer": "International Neuropsychological Society",
+  "organizer_url": "https://the-ins.org/",
+  "edition_url": "https://the-ins.org/meetings/future-ins-meetings/",
+  "tags": [
+   "neuropsychology",
+   "neuroscience",
+   "psychology",
+   "international"
+  ],
+  "start_date": "2027-06-22",
+  "end_date": "2027-06-24",
+  "city": "Chiba",
+  "country": "JP",
+  "venue": "Makuhari Messe and Hotel New Otani Makuhari",
+  "lat": 35.6473,
+  "lon": 140.0347,
+  "format": null,
+  "description": "The 2027 INS midyear meeting is a joint conference with the Japan Society for Higher Brain Function, the first INS meeting held in Japan. About 1,200 participants are expected at Makuhari Messe in Chiba City.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": null,
+    "url": null,
+    "estimated": false,
+    "note": "Not yet published."
+   },
+   {
+    "label": "Early registration",
+    "date": null,
+    "url": null,
+    "estimated": false,
+    "note": "Not yet published."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-07-22",
+   "end_date": "2026-07-24",
+   "city": "Dublin",
+   "deadlines": [
+    {
+     "label": "Early registration",
+     "date": "2026-05-29"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://the-ins.org/meetings/future-ins-meetings/",
+    "accessed": "2026-09-09",
+    "note": "Mid-Year Meeting, Chiba, Japan, 22 to 24 June 2027 (from search index text; page timed out on direct fetch)."
+   },
+   {
+    "url": "https://www.ccb.or.jp/mice/e/news/insjointconferenceinchiba/",
+    "accessed": "2026-09-09",
+    "note": "Chiba Convention Bureau: joint INS and JSHBF conference, 22 to 24 June 2027, Makuhari Messe and Hotel New Otani Makuhari."
+   },
+   {
+    "url": "https://insdublin2026.com/",
+    "accessed": "2026-09-09",
+    "note": "2026 Mid-Year Meeting, Trinity Business School Dublin, 22 to 24 July 2026, early bird 29 May 2026 (prior edition)."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "No dedicated meeting website yet. Venue from the Chiba Convention Bureau announcement.",
+  "region_name": "Chiba Prefecture",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

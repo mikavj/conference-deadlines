@@ -1,0 +1,74 @@
+[
+ {
+  "id": "spr-international-meeting-2027",
+  "name": "Society for Psychotherapy Research 58th International Annual Meeting 2027",
+  "short_name": "SPR 2027",
+  "organizer": "Society for Psychotherapy Research",
+  "organizer_url": "https://www.psychotherapyresearch.org/",
+  "edition_url": "https://www.psychotherapyresearch.org/page/community_calendar",
+  "tags": [
+   "psychotherapy",
+   "psychology",
+   "international"
+  ],
+  "start_date": "2027-06-30",
+  "end_date": "2027-07-03",
+  "city": "Stockholm",
+  "country": "SE",
+  "venue": null,
+  "lat": 59.3251,
+  "lon": 18.0711,
+  "format": null,
+  "description": "The 58th International Annual Meeting of the Society for Psychotherapy Research is scheduled for Stockholm from 30 June to 3 July 2027. Venue and submission dates have not been published.",
+  "deadlines": [
+   {
+    "label": "Submission opens",
+    "date": "2026-10-20",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (submissions opened 20 October 2025). Not published."
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2027-01-10",
+    "url": null,
+    "estimated": true,
+    "note": "Estimated from the 2026 pattern (submissions closed 10 January 2026 for a late June meeting). Not published."
+   }
+  ],
+  "prior_edition": {
+   "year": 2026,
+   "start_date": "2026-06-24",
+   "end_date": "2026-06-27",
+   "city": "Osaka",
+   "deadlines": [
+    {
+     "label": "Submission opens",
+     "date": "2025-10-20"
+    },
+    {
+     "label": "Abstract submission",
+     "date": "2026-01-10"
+    }
+   ]
+  },
+  "sources": [
+   {
+    "url": "https://www.psychotherapyresearch.org/page/community_calendar",
+    "accessed": "2026-09-09",
+    "note": "2027 meeting, Stockholm, 30 June to 3 July 2027 (from search index text; site blocks automated fetching)."
+   },
+   {
+    "url": "https://cdn.ymaws.com/www.psychotherapyresearch.org/resource/resmgr/spr2026/spr2026_call_for_submissions.pdf",
+    "accessed": "2026-09-09",
+    "note": "SPR 2026 Osaka: 24 to 27 June 2026, Ritsumeikan University, submissions 20 October 2025 to 10 January 2026, notification end of January 2026."
+   }
+  ],
+  "confidence": "medium",
+  "notes": "psychotherapyresearch.org sits behind a Cloudflare challenge; dates come from search engine copies of the society calendar and should be rechecked in a browser.",
+  "region_name": "Stockholm County",
+  "areas": [
+   "psychiatry"
+  ]
+ }
+]

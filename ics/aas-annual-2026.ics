@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:37th International Symposium on the Autonomic Nervous System
+  (American Autonomic Society Annual Meeting 2026)
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:aas-annual-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261115
+SUMMARY:37th International Symposium on the Autonomic Nervous System (Ame
+ rican Autonomic Society Annual Meeting 2026)
+DESCRIPTION:The American Autonomic Society Annual Meeting\, held as the I
+ nternational Symposium on the Autonomic Nervous System\, covers structur
+ e\, function and disorders of the autonomic nervous system. The 2026 edi
+ tion is the 37th symposium\, featuring plenary lectures\, symposium sess
+ ions and a poster competition.\n\nDeadlines\nLate breaking abstract subm
+ ission deadline: 2026-09-15\nEarly registration deadline: 2026-09-15\n\n
+ https://americanautonomicsociety.org/meeting/
+LOCATION:San Diego\, California\, Paradise Point Resort & Spa
+URL:https://americanautonomicsociety.org/meeting/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:37th International Symposium on the Autonomic Nervous System 
+ (American Autonomic Society Annual Meeting 2026)
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aas-annual-2026-20260915-late-breaking-abstract-submission-deadline@c
+ onference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Deadline: AAS 2026 late breaking abstract submission deadline
+DESCRIPTION:Reserved for high-impact data that becomes available after th
+ e general deadline\, not a general deadline extension\nMeeting: 37th Int
+ ernational Symposium on the Autonomic Nervous System (American Autonomic
+  Society Annual Meeting 2026)\, Nov 10 to 14\, 2026\, San Diego\, Califo
+ rnia\, Paradise Point Resort & Spa\nhttps://americanautonomicsociety.org
+ /abstract-submission/
+LOCATION:San Diego\, California\, Paradise Point Resort & Spa
+URL:https://americanautonomicsociety.org/abstract-submission/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 late breaking abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 late breaking abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 late breaking abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aas-annual-2026-20260915-early-registration-deadline@conference-calen
+ dar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Deadline: AAS 2026 early registration deadline
+DESCRIPTION:Meeting: 37th International Symposium on the Autonomic Nervou
+ s System (American Autonomic Society Annual Meeting 2026)\, Nov 10 to 14
+ \, 2026\, San Diego\, California\, Paradise Point Resort & Spa\nhttps://
+ americanautonomicsociety.org/conference-registration/
+LOCATION:San Diego\, California\, Paradise Point Resort & Spa
+URL:https://americanautonomicsociety.org/conference-registration/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AAS 2026 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

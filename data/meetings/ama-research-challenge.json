@@ -1,0 +1,58 @@
+[
+ {
+  "id": "ama-research-challenge-2026",
+  "name": "2026 AMA Research Challenge",
+  "short_name": "AMA Research Challenge 2026",
+  "organizer": "American Medical Association",
+  "organizer_url": "https://www.ama-assn.org",
+  "edition_url": "https://www.ama-assn.org/membership/events",
+  "areas": [
+   "medical-education"
+  ],
+  "tags": [
+   "student-resident-research",
+   "education"
+  ],
+  "start_date": "2026-10-13",
+  "end_date": "2026-10-15",
+  "city": null,
+  "region_name": null,
+  "country": null,
+  "venue": null,
+  "lat": null,
+  "lon": null,
+  "format": "virtual",
+  "description": "The American Medical Association runs its national Research Challenge, a poster competition for medical students and residents. The virtual poster symposium and semifinal round are held October 13 to 15, 2026, with the date of the final round not yet announced.",
+  "deadlines": [
+   {
+    "label": "Abstract submission",
+    "date": "2026-07-16",
+    "url": "https://www.ama-assn.org/about/awards",
+    "estimated": false,
+    "note": "Original submission deadline"
+   },
+   {
+    "label": "Abstract submission extended",
+    "date": "2026-07-23",
+    "url": "https://www.ama-assn.org/about/awards",
+    "estimated": false,
+    "note": "11:59 pm Central time; deadline was extended from the original July 16 date, per the official rules document"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://www.ama-assn.org/membership/events",
+    "accessed": "2026-09-10",
+    "note": "Confirms the virtual poster symposium and semifinals are held October 13 to 15, 2026, with finals TBA"
+   },
+   {
+    "url": "https://www.ama-assn.org/about/awards",
+    "accessed": "2026-09-10",
+    "note": "Confirms original and extended abstract submission deadlines"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Both the abstract submission deadlines and the semifinal dates have already passed as of the research date; the final round date and format have not yet been announced."
+ }
+]

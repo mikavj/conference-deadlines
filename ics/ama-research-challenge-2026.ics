@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 AMA Research Challenge
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:ama-research-challenge-2026@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+SUMMARY:2026 AMA Research Challenge
+DESCRIPTION:The American Medical Association runs its national Research C
+ hallenge\, a poster competition for medical students and residents. The 
+ virtual poster symposium and semifinal round are held October 13 to 15\,
+  2026\, with the date of the final round not yet announced.\n\nDeadlines
+ \nAbstract submission: 2026-07-16\nAbstract submission extended: 2026-07
+ -23\n\nhttps://www.ama-assn.org/membership/events
+URL:https://www.ama-assn.org/membership/events
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2026 AMA Research Challenge
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ama-research-challenge-2026-20260716-abstract-submission@conference-c
+ alendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Deadline: AMA Research Challenge 2026 abstract submission
+DESCRIPTION:Original submission deadline\nMeeting: 2026 AMA Research Chal
+ lenge\, Oct 13 to 15\, 2026\, \nhttps://www.ama-assn.org/about/awards
+URL:https://www.ama-assn.org/about/awards
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMA Research Challenge 2026 abstract submission
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMA Research Challenge 2026 abstract submission
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMA Research Challenge 2026 abstract submission
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ama-research-challenge-2026-20260723-abstract-submission-extended@con
+ ference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:Deadline: AMA Research Challenge 2026 abstract submission extende
+ d
+DESCRIPTION:11:59 pm Central time\; deadline was extended from the origin
+ al July 16 date\, per the official rules document\nMeeting: 2026 AMA Res
+ earch Challenge\, Oct 13 to 15\, 2026\, \nhttps://www.ama-assn.org/about
+ /awards
+URL:https://www.ama-assn.org/about/awards
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMA Research Challenge 2026 abstract submission ext
+ ended
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMA Research Challenge 2026 abstract submission ext
+ ended
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: AMA Research Challenge 2026 abstract submission ext
+ ended
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

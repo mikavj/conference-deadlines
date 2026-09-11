@@ -1,0 +1,73 @@
+[
+ {
+  "id": "adpd-2027",
+  "name": "AD/PD 2027, 21st International Conference on Alzheimer's and Parkinson's Diseases",
+  "short_name": "AD/PD 2027",
+  "organizer": "AD/PD Conference (organized by Kenes Group)",
+  "organizer_url": "https://adpd.kenes.com",
+  "edition_url": "https://adpd.kenes.com/",
+  "areas": [
+   "neurology",
+   "neuroscience",
+   "geriatrics"
+  ],
+  "tags": [
+   "dementia",
+   "movement-disorders",
+   "clinical-trials"
+  ],
+  "start_date": "2027-03-16",
+  "end_date": "2027-03-20",
+  "city": "Barcelona",
+  "region_name": "Catalonia",
+  "country": "ES",
+  "venue": "Centre Convencions Internacional Barcelona (CCIB)",
+  "lat": 41.4098,
+  "lon": 2.2186,
+  "format": "hybrid",
+  "description": "AD/PD is a biennial hybrid conference covering advances in science and therapy for Alzheimer's disease, Parkinson's disease and related neurodegenerative disorders. The 2027 edition is the 21st in the series and is expected to draw about 5000 delegates.",
+  "deadlines": [
+   {
+    "label": "Abstract submission deadline",
+    "date": "2026-09-01",
+    "url": "https://adpd.kenes.com/abstract-submission/",
+    "estimated": false,
+    "note": "Initial deadline"
+   },
+   {
+    "label": "Abstract submission deadline (extended)",
+    "date": "2026-09-08",
+    "url": "https://adpd.kenes.com/abstract-submission/",
+    "estimated": false,
+    "note": "Extended deadline, midnight CET"
+   },
+   {
+    "label": "Early registration deadline",
+    "date": "2026-12-09",
+    "url": "https://adpd.kenes.com/",
+    "estimated": false,
+    "note": null
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://adpd.kenes.com/",
+    "accessed": "2026-09-10",
+    "note": "Confirms conference dates, city and early registration deadline"
+   },
+   {
+    "url": "https://adpd.kenes.com/abstract-submission/",
+    "accessed": "2026-09-10",
+    "note": "Confirms abstract submission deadlines and author notification timing"
+   },
+   {
+    "url": "https://www.prnewswire.com/il/news-releases/adpd-2027-organized-by-kenes-group-issues-global-call-for-abstracts-on-alzheimers-parkinsons-and-related-disorders-302843745.html",
+    "accessed": "2026-09-10",
+    "note": "Corroborates September 1, 2026 abstract deadline and conference dates"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Both the initial (2026-09-01) and extended (2026-09-08) abstract deadlines fall before this data was compiled (2026-09-10); only the early registration deadline remains upcoming. Author notifications expected mid-October 2026 (exact date not published)."
+ }
+]

@@ -1,0 +1,76 @@
+[
+ {
+  "id": "acc-annual-2027",
+  "name": "ACC.27 Together with WCC (ACC Annual Scientific Session 2027)",
+  "short_name": "ACC.27",
+  "organizer": "American College of Cardiology",
+  "organizer_url": "https://www.acc.org",
+  "edition_url": "https://accscientificsession.acc.org/",
+  "areas": [
+   "cardiology"
+  ],
+  "tags": [
+   "cardiovascular",
+   "clinical-trials",
+   "international"
+  ],
+  "start_date": "2027-04-10",
+  "end_date": "2027-04-12",
+  "city": "Houston",
+  "region_name": "Texas",
+  "country": "US",
+  "venue": null,
+  "lat": 29.7604,
+  "lon": -95.3698,
+  "format": "in-person",
+  "description": "ACC.27 Together with WCC is the American College of Cardiology's annual scientific session, held jointly with the World Heart Federation's World Congress of Cardiology. The meeting presents cardiovascular research across more than 60 topic areas including cardio oncology, digital health, and sports cardiology.",
+  "deadlines": [
+   {
+    "label": "Abstract submission opens",
+    "date": "2026-08-25",
+    "url": "https://abstractsdue.ie/conferences/acc-27-together-with-wcc-2027",
+    "estimated": false,
+    "note": null
+   },
+   {
+    "label": "Abstract submission",
+    "date": "2026-10-06",
+    "url": "https://accscientificsession.acc.org/Submit-Your-Science/Abstracts",
+    "estimated": false,
+    "note": "1 p.m. ET deadline; covers abstracts, complex clinical cases, CV Team abstracts and cases"
+   },
+   {
+    "label": "Young Investigator Award submission",
+    "date": "2026-08-14",
+    "url": "https://cdn.prod.website-files.com/675390e883317e3259aa3c62/683704dfc887cc3743af12ed_97278362663.pdf",
+    "estimated": false,
+    "note": "1 p.m. ET deadline"
+   }
+  ],
+  "prior_edition": null,
+  "sources": [
+   {
+    "url": "https://accscientificsession.acc.org/Submit-Your-Science/Abstracts",
+    "accessed": "2026-09-10",
+    "note": "Abstract deadline (Oct 6, 1pm ET) and submission categories"
+   },
+   {
+    "url": "https://accscientificsession.acc.org/",
+    "accessed": "2026-09-10",
+    "note": "Confirms dates April 10-12, 2027, Houston, and registration opening dates"
+   },
+   {
+    "url": "https://accmn.org/event/acc-27-annual-scientific-session/",
+    "accessed": "2026-09-10",
+    "note": "Corroborates dates and Houston location"
+   },
+   {
+    "url": "https://abstractsdue.ie/conferences/acc-27-together-with-wcc-2027",
+    "accessed": "2026-09-10",
+    "note": "Abstract submission opening date of Aug 25, 2026"
+   }
+  ],
+  "confidence": "high",
+  "notes": "Venue name within Houston not specified on public pages. accscientificsession.acc.org/Information-Pages/future-meetings only lists ACC.28 and ACC.29, not ACC.27 directly; ACC.27 dates confirmed via the session's own homepage and a local chapter listing instead."
+ }
+]

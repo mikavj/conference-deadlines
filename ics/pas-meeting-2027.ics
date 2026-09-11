@@ -1,0 +1,178 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Conference Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2027 Pediatric Academic Societies Meeting
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:pas-meeting-2027@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270504
+SUMMARY:2027 Pediatric Academic Societies Meeting
+DESCRIPTION:The Pediatric Academic Societies Meeting is the joint annual 
+ research meeting of the American Pediatric Society\, the Society for Ped
+ iatric Research\, the Academic Pediatric Association and the American Ac
+ ademy of Pediatrics. The 2027 meeting is held in Minneapolis and feature
+ s scholarly sessions\, workshops and abstract presentations in pediatric
+  research.\n\nDeadlines\nScholarly session proposal submission opens: 20
+ 26-08-03\nAbstract submission opens: 2026-08-12\nScholarly session propo
+ sal submission deadline: 2026-09-16\nWorkshop proposal submission deadli
+ ne: 2026-09-16\nLate ancillary event proposal window opens: 2026-09-17\n
+ Scholarly session selection notification: 2026-11-11\nAbstract submissio
+ n deadline: 2026-11-02\nLate ancillary event proposal deadline: 2027-03-
+ 03\nEarly registration deadline: 2027-03-16\nAbstract submission notific
+ ation: 2027-01-19\n\nhttps://www.pas-meeting.org/2027-key-dates/
+LOCATION:Minneapolis\, Minnesota
+URL:https://www.pas-meeting.org/2027-key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2027 Pediatric Academic Societies Meeting
+TRIGGER:-P6DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pas-meeting-2027-20260916-scholarly-session-proposal-submission-deadl
+ ine@conference-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Deadline: PAS 2027 scholarly session proposal submission deadline
+DESCRIPTION:Meeting: 2027 Pediatric Academic Societies Meeting\, Apr 30 t
+ o May 03\, 2027\, Minneapolis\, Minnesota\nhttps://www.pas-meeting.org/2
+ 027-key-dates/
+LOCATION:Minneapolis\, Minnesota
+URL:https://www.pas-meeting.org/2027-key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 scholarly session proposal submission dead
+ line
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 scholarly session proposal submission dead
+ line
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 scholarly session proposal submission dead
+ line
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pas-meeting-2027-20260916-workshop-proposal-submission-deadline@confe
+ rence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Deadline: PAS 2027 workshop proposal submission deadline
+DESCRIPTION:Workshop call also opened 2026-08-03\nMeeting: 2027 Pediatric
+  Academic Societies Meeting\, Apr 30 to May 03\, 2027\, Minneapolis\, Mi
+ nnesota\nhttps://www.pas-meeting.org/2027-key-dates/
+LOCATION:Minneapolis\, Minnesota
+URL:https://www.pas-meeting.org/2027-key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 workshop proposal submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 workshop proposal submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 workshop proposal submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pas-meeting-2027-20261102-abstract-submission-deadline@conference-cal
+ endar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Deadline: PAS 2027 abstract submission deadline
+DESCRIPTION:Meeting: 2027 Pediatric Academic Societies Meeting\, Apr 30 t
+ o May 03\, 2027\, Minneapolis\, Minnesota\nhttps://www.pas-meeting.org/2
+ 027-key-dates/
+LOCATION:Minneapolis\, Minnesota
+URL:https://www.pas-meeting.org/2027-key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 abstract submission deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 abstract submission deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 abstract submission deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pas-meeting-2027-20270303-late-ancillary-event-proposal-deadline@conf
+ erence-calendar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Deadline: PAS 2027 late ancillary event proposal deadline
+DESCRIPTION:Submission window opened 2026-09-17\nMeeting: 2027 Pediatric 
+ Academic Societies Meeting\, Apr 30 to May 03\, 2027\, Minneapolis\, Min
+ nesota\nhttps://www.pas-meeting.org/2027-key-dates/
+LOCATION:Minneapolis\, Minnesota
+URL:https://www.pas-meeting.org/2027-key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 late ancillary event proposal deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 late ancillary event proposal deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 late ancillary event proposal deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pas-meeting-2027-20270316-early-registration-deadline@conference-cale
+ ndar
+DTSTAMP:20260911T180343Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:Deadline: PAS 2027 early registration deadline
+DESCRIPTION:Meeting: 2027 Pediatric Academic Societies Meeting\, Apr 30 t
+ o May 03\, 2027\, Minneapolis\, Minnesota\nhttps://www.pas-meeting.org/2
+ 027-key-dates/
+LOCATION:Minneapolis\, Minnesota
+URL:https://www.pas-meeting.org/2027-key-dates/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 early registration deadline
+TRIGGER:-P29DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 early registration deadline
+TRIGGER:-P6DT15H
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Deadline: PAS 2027 early registration deadline
+TRIGGER:-P0DT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
